@@ -43,6 +43,7 @@ body {
   color: var(--text);
   font-family: Arial, sans-serif;
 }
+.app {padding: 1rem;}
 .app-shell { max-width: 960px; padding: 1.25rem; margin-left: auto; margin-right: auto; }
 .page-head { display: flex; align-items: center; gap: 1rem; margin-bottom: 1.25rem; }
 .page-head h1 { font-size: 1.5rem; font-weight: 700; margin: 0; }
