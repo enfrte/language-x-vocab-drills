@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>learn-language-x — Architecture & Reference</title>
+<style>
+  :root { --surface:#fff; --bg:#eef0ec; --text:#182213; --muted:#54614f; --border:#d3d8cd; --accent:#3f7d3a; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:"Segoe UI", Arial, sans-serif; line-height:1.65; }
+  main { max-width: 960px; margin: 0 auto; padding: 3rem 1.25rem 5rem; background:var(--surface); box-shadow:0 0 24px rgba(0,0,0,.07); }
+  h1 { font-size: 2rem; border-bottom: 3px solid var(--accent); padding-bottom:.4rem; }
+  h2 { font-size: 1.45rem; margin-top: 2.6rem; border-left: 5px solid var(--accent); padding-left:.6rem; }
+  h3 { margin-top: 1.8rem; }
+  code { background:#eef1ea; border-radius:4px; padding:.1rem .35rem; font-size:.92em; }
+  pre { background:#10160f; color:#e3e9dc; padding:1rem 1.2rem; border-radius:8px; overflow-x:auto; font-size:.88rem; line-height:1.5; }
+  pre code { background:none; padding:0; color:inherit; }
+  .muted { color: var(--muted); }
+  .warn { background:#fdf3ec; border:1px solid #f0d5b8; border-radius:8px; padding:.7rem 1rem; }
+  table { border-collapse: collapse; width: 100%; font-size: .93rem; }
+  th, td { border: 1px solid var(--border); padding: .45rem .7rem; text-align: left; vertical-align: top; }
+  th { background: #f2f5ee; }
+  .mermaid { background:#f4f7f1; border-radius:8px; padding: 1rem; margin: 1rem 0; }
+</style>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+</script>
+</head>
+<body>
+<main>
+
+<h1>learn-language-x — Architecture &amp; Reference</h1>
+<p>This document describes the complete application: what it does, how each module works, every class
+with its methods, the application flow and the offline/deployment story. It is the frontend-agnostic,
+language-generic rewrite of the learn-maori app; newcomer tutorial in
+<code>docs/tutorial.html</code>.</p>
+
+<h2>1. What the application is</h2>
+<p>A client-side PWA for memorising vocabulary. Frequency-ordered word lists are presented as
+"topics"; Learn mode teaches a batch of 5 words at a time, then tests recall in both directions
+(word → English, English → word) with multiple-choice questions; Recall mode drills the learned list
+with adaptive re-queueing. All progress persists locally on the device — no backend, no accounts.</p>
+
+<h3>Stack</h3>
+<table>
+  <tr><th>Concern</th><th>Choice</th></tr>
+  <tr><td>Domain language</td><td>TypeScript 5 (strict)</td></tr>
+  <tr><td>Bundler / dev server</td><td>Vite 6</td></tr>
+  <tr><td>PWA</td><td>vite-plugin-pwa (Workbox precache, auto-update service worker)</td></tr>
+  <tr><td>Runtime storage</td><td>Dexie 4 (IndexedDB) for progress, <code>localStorage</code> for theme</td></tr>
+  <tr><td>Routing</td><td>Hash deep links (<code>#learn/nouns</code>, <code>#recall/verbs</code>) in the demo UI</td></tr>
+  <tr><td>Deployment</td><td>Vercel (static, <code>vercel.json</code> SPA rewrites)</td></tr>
+  <tr><td>Tests</td><td>vitest — domain smoke tests over an in-memory ProgressStore</td></tr>
+</table>
+
+<h3>Matches the original app</h3>
+<table>
+  <tr><th>Original (learn-maori, Imba)</th><th>Here (TypeScript)</th></tr>
+  <tr><td><code>data/topics.imba</code></td><td><code>data/registry.ts</code> + <code>data/topic.ts</code> (<code>Topic</code>, <code>TopicRegistry</code>)</td></tr>
+  <tr><td><code>data/dictionary.imba</code></td><td><code>domain/Dictionary.ts</code></td></tr>
+  <tr><td><code>data/store.imba</code></td><td><code>storage/StoreKeys.ts</code>, <code>storage/ProgressStore.ts</code>, <code>storage/DexieProgressStore.ts</code>, <code>storage/Settings.ts</code></td></tr>
+  <tr><td><code>mcq.imba</code></td><td><code>domain/MultipleChoiceQuestion.ts</code> (+ <code>QuestionView</code>)</td></tr>
+  <tr><td><code>stage-learn.imba</code></td><td><code>domain/LearnSession.ts</code></td></tr>
+  <tr><td><code>stage-recall.imba</code></td><td><code>domain/RecallSession.ts</code></td></tr>
+  <tr><td><code>main.imba</code> tags</td><td><code>demo-ui/</code> pages + <code>app.ts</code> facade</td></tr>
+  <tr><td><code>main-css.imba</code></td><td><code>demo-ui/styles.ts</code> (theme tokens as CSS variables)</td></tr>
+</table>
+
+<h2>2. Module map</h2>
+<div class="mermaid">
+flowchart TB
+  subgraph Presentation["demo-ui/ ⚠ replaceable frontend"]
+    UI1["main.ts — bootstrap, SW register, console install"]
+    UI2["ui.ts — render loop, hash router, delegated clicks"]
+    UI3["pages.ts — landing/learn/recall HTML renderers"]
+    UI4["styles.ts — theme tokens + component CSS"]
+  end
+  F["app.ts — LearnXApp facade"]
+  subgraph Domain["domain/ — pure logic"]
+    DIC["Dictionary"]
+    Q["MultipleChoiceQuestion"]
+    LS["LearnSession"]
+    RS["RecallSession"]
+    TY["types.ts"]
+  end
+  subgraph Data["data/"]
+    REG["TopicRegistry"]
+    TOP["Topic"]
+    DSB[".jsonl datasets (bundled ?raw)"]
+  end
+  subgraph Storage["storage/"]
+    PS["ProgressStore (interface)"]
+    DX["DexieProgressStore"]
+    SK["StoreKeys"]
+    SE["Settings"]
+  end
+  UI3 --> F
+  UI2 --> F
+  F --> REG
+  F --> LS & RS
+  F --> PS
+  F --> SE
+  LS & RS --> DIC
+  LS & RS --> PS
+  LS & RS --> SK
+  DIC --> DSB
+  REG --> TOP --> DSB
+  PS -.implemented by.-> DX
+</div>
+
+<h2>3. Data model</h2>
+
+<h3>3.1 Entry (dataset record)</h3>
+<pre><code>{"xx": "whare", "gr": "noun", "en": ["house", "any building", "suit (cards)"]}
+</code></pre>
+<pre><code>{ id: number     // positional index in the topic's .jsonl file — THE stable progress key
+  xx: string     // word in the learned language (key LANGUAGE.code)
+  grammar: string  // part of speech; may be ""
+  meanings: string[]  // English meanings; may be []
+}
+</code></pre>
+<p>Consequences: ids are dense <code>0..wordCount-1</code> per topic and stable while the file is not
+reordered. Reordering silently mis-correlates saved progress. Dangling ids (dataset shrank) are
+dropped gracefully by both sessions.</p>
+
+<h3>3.2 Dataset files (<code>src/data/datasets/</code>)</h3>
+<p><code>xx-en-dic-nouns-by-frequency.jsonl</code> (1568 lines),
+<code>…verbs…</code> (630), <code>…adjectives…</code> (261), <code>…adverbs…</code> (31).
+Each is bundled into the JS bundle via Vite <code>?raw</code> imports at build time — part of why the
+PWA works offline.</p>
+
+<h3>3.3 Progress records (Dexie table <code>progress</code>, database <code>learn-language-x</code>)</h3>
+<pre><code>{ key: "in-progress:&lt;topic&gt;",  ids: [0,1,2,3,4] }   // current Learn batch
+{ key: "learned:&lt;topic&gt;",      ids: […] }           // all completed words
+{ key: "recall-index:&lt;topic&gt;", value: 12 }          // Recall resume position (canonical order)
+</code></pre>
+<p>Settings live in localStorage: <code>{ theme: "light" | "dark" }</code>.</p>
+
+<h3>3.4 Topic &amp; QuestionView</h3>
+<pre><code>Topic        { id, label, file, rawText }
+QuestionView { prompt, options[], correct, picked, wasRight }
+</code></pre>
+
+<h2>4. Class reference</h2>
+
+<h3>4.1 <code>data/registry.ts</code> — <code>TopicRegistry</code></h3>
+<table>
+  <tr><th>Member</th><th>Summary</th></tr>
+  <tr><td><code>add(topic)</code></td><td>Registers a Topic.</td></tr>
+  <tr><td><code>all()</code></td><td>Topics in registry order (copy).</td></tr>
+  <tr><td><code>normalize(topicOrId)</code></td><td>Topic instance or id string → id.</td></tr>
+  <tr><td><code>byIdOf(id)</code></td><td>Topic or null (unknown ids fall back safely).</td></tr>
+  <tr><td><code>first()</code></td><td>Default topic (first registration).</td></tr>
+</table>
+
+<h3>4.2 <code>domain/Dictionary.ts</code> — <code>Dictionary</code></h3>
+<table>
+  <tr><th>Member</th><th>Summary</th></tr>
+  <tr><td><code>constructor(rawText)</code></td><td>Parses one .jsonl file: entries (frequency order) + grammar groups.</td></tr>
+  <tr><td><code>words</code> / <code>wordCount</code></td><td>All entries (copy) / total count.</td></tr>
+  <tr><td><code>word(id)</code></td><td>Entry lookup by positional id, undefined if dangling.</td></tr>
+  <tr><td><code>entriesFor(ids)</code></td><td>ids → entries, skipping dangling ids.</td></tr>
+  <tr><td><code>group(grammar)</code></td><td>Entries of one word class (for decoy selection).</td></tr>
+  <tr><td><code>static toIds(entries)</code></td><td>Entries → positional ids (what gets persisted).</td></tr>
+  <tr><td><code>learnedStats(learnedIds)</code></td><td><code>{count, total, percent}</code> (percent rounded; 0 when empty).</td></tr>
+  <tr><td><code>pickUnseen(n, excluded)</code></td><td>First n entries not excluded, in dictionary (frequency) order — deterministic</td></tr>
+  <tr><td><code>distractors(entry, want=3)</code></td><td>Decoys: never the entry, never a duplicate word/meaning; prefers same grammar class, falls back to any word; shuffled.</td></tr>
+</table>
+<p>Free functions in the same module: <code>shuffle&lt;T&gt;(items)</code> (Fisher–Yates copy) and
+<code>meaningText(entry)</code> ("" / meaning / <code>"1. x, 2. y"</code> for multiple meanings —
+replaces the <code>english()</code> helper duplicated across the original stage files).</p>
+
+<h3>4.3 <code>domain/MultipleChoiceQuestion.ts</code></h3>
+<table>
+  <tr><th>Member</th><th>Summary</th></tr>
+  <tr><td><code>constructor(direction, prompt, options, correct)</code></td><td>Builds one question.</td></tr>
+  <tr><td><code>answer(option)</code></td><td>Records the pick (first wins, must be among options). Returns true/false, null when already answered.</td></tr>
+  <tr><td><code>picked</code> / <code>wasRight</code> / <code>answered</code></td><td>Read state for feedback rendering.</td></tr>
+  <tr><td><code>toView()</code></td><td>Immutable QuestionView snapshot for any renderer.</td></tr>
+</table>
+
+<h3>4.4 <code>domain/LearnSession.ts</code> — <code>LearnSession</code></h3>
+<p>State: <code>phase</code> (<code>loading | review | quiz</code>), <code>round</code>
+(<code>'xx-en' | 'en-xx'</code>), batch, queue, question, <code>misses</code>.</p>
+<div class="mermaid">
+flowchart TB
+  R{"resume stored batch?<br/>in-progress:&lt;topic&gt;"} -- yes --> A["batch = stored ids"]
+  R -- no --> B["pick LEARN_BATCH_SIZE unseen<br/>(excluding learned), save to in-progress"]
+  B --> A
+  A --> C["review: show words + 'Test me'"]
+  C -- startQuiz('xx-en') --> D
+  D["quiz xx-en: word → English<br/>wrong = re-queued at tail, misses++"]
+  D -- queue drained --> E["quiz en-xx: English → word<br/>same rules"]
+  E -- queue drained --> G["completeBatch:<br/>merge batch ids into learned<br/>clear in-progress<br/>pick + save next batch"]
+  G -- next batch exists --> C
+  G -- dictionary exhausted --> H["review with empty batch<br/>→ 'learned every word' message"]
+</div>
+<table>
+  <tr><th>Method</th><th>Summary</th></tr>
+  <tr><td><code>async setup()</code></td><td>Resumes the stored batch or picks + saves a new one; phase → review.</td></tr>
+  <tr><td><code>startQuiz(round)</code></td><td>queue = batch copy; round; misses = 0; first question.</td></tr>
+  <tr><td><code>answer(option)</code></td><td>Delegates to the question; wrong → re-queue at tail + misses++. Returns null when nothing to answer.</td></tr>
+  <tr><td><code>async advance()</code></td><td>Consumes the head word (wrong ones already re-queued), next question; when the xx-en round drains, restarts as en-xx; when en-xx drains, completes the batch (awaited).</td></tr>
+  <tr><td><code>batch</code> / <code>queueRemaining</code> / <code>misses</code> / <code>isTopicComplete</code></td><td>State for the tracker strings.</td></tr>
+</table>
+
+<h3>4.5 <code>domain/RecallSession.ts</code> — <code>RecallSession</code></h3>
+<p>State: <code>phase</code> (<code>loading | empty | quiz | done</code>), <code>origin</code>
+(learned ids sorted ascending = canonical frequency order), live <code>queue</code>,
+<code>pos</code>, question, <code>answeredCount</code>/<code>correctCount</code>.</p>
+<ul>
+<li>Resume: <code>recall-index:</code> value is clamped into the current queue.</li>
+<li>Every question updates the saved index to the word's <em>canonical</em> position, so a reload
+mid-session resumes at the same dictionary word, not the reshuffled queue position.</li>
+<li>Re-queue rules: right → word to the tail of the queue; wrong → +5 positions after the current
+one (<code>REQUEUE_DISTANCE</code>).</li>
+<li>Dangling id: spliced out of the queue recursively; empty queue → done + index reset.</li>
+</ul>
+<table>
+  <tr><th>Method</th><th>Summary</th></tr>
+  <tr><td><code>async setup()</code></td><td>Empty learned → <code>empty</code>; else prime queue and first question → <code>quiz</code>.</td></tr>
+  <tr><td><code>answer(option)</code></td><td>Records pick, counts answered/correct. Null when nothing to answer.</td></tr>
+  <tr><td><code>async advance()</code></td><td>Applies re-queue rules, then next question or <code>done</code> (index saved/kept current throughout).</td></tr>
+</table>
+
+<div class="mermaid">
+flowchart TB
+  S["setup: learned ids → origin (sorted)"] --> Q1["queue = origin copy<br/>pos = clamped saved index"]
+  Q1 --> UQ["updateQuestion:<br/>options = correct xx + 3 shuffled decoys<br/>save canonical index of this word"]
+  UQ --> ANS["answer + advance"]
+  ANS -- right --> TL["word → tail of queue"]
+  ANS -- wrong --> F5["word → pos + 5"]
+  TL --> EMPT{"queue empty?"}
+  F5 --> EMPT
+  EMPT -- "yes, via dangling ids" --> DONE["done; index reset 0"]
+  EMPT -- no --> UQ
+</div>
+
+<h3>4.6 <code>storage/</code></h3>
+<table>
+  <tr><th>Module</th><th>Summary</th></tr>
+  <tr><td><code>StoreKeys</code></td><td>Scoped keys per topic: <code>in-progress:</code>, <code>learned:</code>, <code>recall-index:</code>.</td></tr>
+  <tr><td><code>ProgressStore</code> (interface)</td><td><code>loadIds / saveIds / loadNumber / saveNumber / resetAll</code> — the only persistence contract the domain sees.</td></tr>
+  <tr><td><code>DexieProgressStore</code></td><td>Dexie 4 implementation, database <code>learn-language-x</code>, table <code>progress</code> keyed by <code>key</code>. <code>resetAll()</code> clears every topic at once.</td></tr>
+  <tr><td><code>Settings</code></td><td>localStorage theme (synchronous, try/catch-guarded) so the dark class applies before first render.</td></tr>
+</table>
+
+<h3>4.7 <code>app.ts</code> — <code>LearnXApp</code> (facade)</h3>
+<table>
+  <tr><th>Member</th><th>Summary</th></tr>
+  <tr><td><code>subscribe(fn)</code> / <code>notify()</code></td><td>Change listeners (unsubscribe fn returned); every command notifies after state changes.</td></tr>
+  <tr><td><code>view</code> / <code>topicId</code> / <code>topic</code> / <code>theme</code> / <code>config</code></td><td>Read state.</td></tr>
+  <tr><td><code>session</code> / <code>sessionLearn</code> / <code>sessionRecall</code></td><td>Active sessions for the current view (memoized per view+topic; interface-compatible command methods).</td></tr>
+  <tr><td><code>async openLearn(id)</code> / <code>openRecall(id)</code></td><td>Unknown ids resolve to the first topic; re-opening the same view+topic is a no-op.</td></tr>
+  <tr><td><code>close()</code></td><td>Back to landing.</td></tr>
+  <tr><td><code>answer(option)</code> / <code>async advance()</code> / <code>startQuiz(round)</code></td><td>Delegate to the active session and notify.</td></tr>
+  <tr><td><code>snapshot(id)</code> / <code>snapshotAll()</code></td><td>Async per-topic {learnedIds, inProgressIds, stats} for any landing renderer.</td></tr>
+  <tr><td><code>dictionary(topicOrId)</code></td><td>Memoized Dictionary per topic id.</td></tr>
+  <tr><td><code>toggleTheme()</code> / <code>async resetAll()</code></td><td>Theme persists via Settings; reset clears the store and every in-memory session.</td></tr>
+  <tr><td><code>createApp()</code> / exported <code>app</code></td><td>Factory + shared singleton (console API and demo UI use the singleton).</td></tr>
+</table>
+
+<h2>5. Frontend contract</h2>
+<div class="mermaid">
+sequenceDiagram
+  participant UI as Any frontend
+  participant App as LearnXApp
+  participant S as Session
+  UI->>App: subscribe(render)
+  UI->>App: openLearn('nouns')
+  App->>S: setup() (resume / pick batch)
+  App-->>UI: notify() → render reads state
+  UI->>App: answer('house')
+  App->>S: answer(option)
+  App-->>UI: notify()
+  UI->>App: advance()
+  App->>S: advance() → next question / completeBatch
+  App-->>UI: notify()
+</div>
+<p>Renderers only ever read: view/topic/theme, session phase/getters, <code>QuestionView</code>
+snapshots, <code>TopicSnapshot</code>s. They never import Dexie, never touch
+<code>Entry</code> internals beyond display, never re-implement queue logic.</p>
+
+<h2>6. Application flow</h2>
+<ol>
+<li><strong>Load.</strong> Demo <code>main.ts</code> boots theme class from persisted settings before
+first paint, installs the SW (auto-update), installs <code>window.lex</code>, subscribes to the app and
+resolves any deep link.</li>
+<li><strong>Landing</strong> — <code>snapshotAll()</code> per topic: learned x/y (z%) · n in progress;
+"Recall" disabled until ≥1 learned word. Reset-progress (confirm) and theme toggle in the footer.</li>
+<li><strong>Learn</strong> — <code>#learn/&lt;topic&gt;</code>; resume-or-pick 5 → review → Test me →
+xx-en → en-xx → promote → next batch → "learned everything" when exhausted.</li>
+<li><strong>Recall</strong> — <code>#recall/&lt;topic&gt;</code>; endless practice of learned words with
+adaptive re-queue; resumes from the saved index; empty/done states handled.</li>
+<li><strong>Theme</strong> — toggles instantly, persists, no FOUC.</li>
+<li><strong>Deep links</strong> — every <code>hashchange</code> re-syncs; unknown topic → first topic,
+unknown hash → landing.</li>
+</ol>
+
+<h2>7. PWA / offline / Vercel</h2>
+<ul>
+<li><code>vite-plugin-pwa</code> generates <code>sw.js</code> (Workbox) which precaches the hashed JS
+bundle (with the datasets inlined), CSS, HTML, manifest and icons — 13 entries at build time.</li>
+<li><code>registerType: 'autoUpdate'</code>: new deploys activate in background and take over on the
+next navigation.</li>
+<li>Manifest is generic (<code>Learn Language X</code>, maskable + regular icons copied from the
+original static assets).</li>
+<li>Vercel: any account can import the repo; framework preset Vite (build <code>npm run build</code>,
+output <code>dist</code>); <code>vercel.json</code> rewrites unknown paths to
+<code>index.html</code>. Offline works because everything is precached on first visit.</li>
+</ul>
+
+<h2>8. Behaviour quirks preserved on purpose</h2>
+<ul>
+<li><strong>Learn batch selection is deterministic:</strong> the next N words in frequency order (in
+the original the shuffle was commented out — an experiment left in place). If you want random picks,
+wrap <code>pickUnseen</code>'s result in <code>shuffle()</code> — one line.</li>
+<li><strong>Recall is an endless practice loop:</strong> a right answer always re-inserts the word at
+the tail, so the queue never drains through normal answering; the <code>done</code> phase is reached
+only when dangling-id removal empties the queue. The session stays resumable via the saved canonical
+index.</li>
+<li><strong>Learning strings are presentation-adjacent:</strong> prompts ("How do you say X in Māori?")
+are built inside the sessions from <code>LANGUAGE.name</code>; keep it that way or move them to the
+frontends, but never hardcode a language.</li>
+</ul>
+
+</main>
+</body>
+</html>

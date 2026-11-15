@@ -1,0 +1,292 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>learn-language-x — TypeScript Tutorial (for newcomers)</title>
+<style>
+  :root { --surface:#fff; --bg:#eceff7; --text:#1a2233; --muted:#5a6577; --border:#d5dbe7; --accent:#2563eb; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:"Segoe UI", Arial, sans-serif; line-height:1.65; }
+  main { max-width: 920px; margin: 0 auto; padding: 3rem 1.25rem 5rem; background:var(--surface); box-shadow:0 0 24px rgba(0,0,0,.07); }
+  h1, h2, h3 { line-height:1.3; }
+  h1 { font-size: 2rem; border-bottom: 3px solid var(--accent); padding-bottom: .4rem; }
+  h2 { font-size: 1.45rem; margin-top: 2.6rem; border-left: 5px solid var(--accent); padding-left: .6rem; }
+  h3 { margin-top: 1.8rem; }
+  code { background:#eef1f7; border-radius:4px; padding:.1rem .35rem; font-size:.92em; }
+  pre { background:#0f172a; color:#e2e8f0; padding:1rem 1.2rem; border-radius:8px; overflow-x:auto; font-size:.9rem; line-height:1.5; }
+  pre code { background:none; padding:0; color:inherit; }
+  .muted { color: var(--muted); }
+  .tip { background:#eefaf1; border:1px solid #bfe7cb; border-radius:8px; padding:.7rem 1rem; }
+  .warn { background:#fdf6ec; border:1px solid #f0dcb8; border-radius:8px; padding:.7rem 1rem; }
+  table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+  th, td { border: 1px solid var(--border); padding: .45rem .7rem; text-align: left; }
+  th { background: #f2f5fa; }
+  .mermaid { background:#f6f8fc; border-radius:8px; padding: 1rem; margin: 1rem 0; }
+</style>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+</script>
+</head>
+<body>
+<main>
+
+<h1>learn-language-x — a TypeScript tutorial</h1>
+<p class="muted">How this app's classes and folders came to be — written for someone new to
+TypeScript. Follow it top to bottom; every concept is shown with the real code from this project.
+For the full per-method reference see <a href="./architecture.html"><code>docs/architecture.html</code></a>.</p>
+
+<h2>1. The idea, in one picture</h2>
+<p>The app memorises vocabulary: it shows a batch of 5 new words, quizzes you in both directions
+(word → English, English → word), and promotes the batch to “learned”. All of <em>that</em> is
+business logic. The buttons and colours are the frontend.</p>
+<p>We keep business logic in pure TypeScript (no framework, no DOM) so the UI can be swapped —
+React today, Solid or Alpine tomorrow — without touching a single core line:</p>
+
+<div class="mermaid">
+flowchart TB
+  subgraph UI["Frontend (replaceable) — src/demo-ui/"]
+    V["vanilla TS demo<br/>React / Solid / Alpine"]
+  end
+  subgraph CORE["Core (pure TypeScript) — never re-written"]
+    A["app.ts<br/>LearnXApp facade"]
+    D1["domain/<br/>Dictionary · LearnSession<br/>RecallSession · MultipleChoiceQuestion"]
+    D2["data/<br/>Topic · TopicRegistry<br/>+ .jsonl datasets"]
+    D3["storage/<br/>ProgressStore interface<br/>DexieProgressStore"]
+    A --> D1
+    A --> D2
+    A --> D3
+    D1 --> D3
+  end
+  C["Browser console — window.lex"] --> A
+  V --> A
+</div>
+
+<h2>2. The folder structure</h2>
+<div class="mermaid">
+flowchart LR
+  ROOT["project root"] --> IH["index.html<br/>(demo UI shell)"]
+  ROOT --> CFG["package.json · tsconfig.json<br/>vite.config.ts · vercel.json"]
+  ROOT --> SRC["src/"]
+  ROOT --> PUB["public/<br/>manifest + icons"]
+  ROOT --> TST["tests/<br/>vitest"]
+
+  SRC --> CNF["config.ts<br/> LANGUAGE = { code:'xx', name:'Māori', source:'en' }"]
+  SRC --> DATA["data/"]
+  SRC --> DOM["domain/"]
+  SRC --> STO["storage/"]
+  SRC --> APPC["app.ts<br/> LearnXApp"]
+  SRC --> CON["console.ts"]
+  SRC --> DEMO["demo-ui/ ⚠ replaceable"]
+
+  DATA --> DS["datasets/*.jsonl"]
+  DATA --> RC["registry.ts + topic.ts"]
+  DOM --> TY["types.ts · Dictionary.ts<br/>MultipleChoiceQuestion.ts<br/>LearnSession.ts · RecallSession.ts"]
+  STO --> PS["ProgressStore.ts (interface)<br/>DexieProgressStore.ts · StoreKeys.ts · Settings.ts"]
+  DEMO --> DUI["main.ts · ui.ts · pages.ts · styles.ts"]
+</div>
+<p>Rules of thumb behind this split:</p>
+<table>
+  <tr><th>Folder</th><th>Allowed to know about…</th><th>Never knows about…</th></tr>
+  <tr><td><code>src/config.ts</code></td><td>nothing — pure constants</td><td>everything</td></tr>
+  <tr><td><code>src/data/</code></td><td>config, domain types</td><td>DOM, frameworks, sessions</td></tr>
+  <tr><td><code>src/domain/</code></td><td>config, domain types, storage <em>interface</em></td><td>IndexedDB details, DOM, frameworks</td></tr>
+  <tr><td><code>src/storage/</code></td><td>Dexie, localStorage</td><td>domain logic</td></tr>
+  <tr><td><code>src/app.ts</code></td><td>everything in the core</td><td>any specific frontend</td></tr>
+  <tr><td><code>src/demo-ui/</code></td><td>the app facade</td><td>sessions' internals (read via facade)</td></tr>
+</table>
+
+<h2>3. TypeScript in 10 minutes (the features this project actually uses)</h2>
+
+<h3>3.1 Type annotations — telling the compiler what a value is</h3>
+<p>A variable can just say its type. The compiler then rejects assignments that don't match:</p>
+<pre><code>let count: number = 0
+let name: string = 'nouns'
+</code></pre>
+
+<h3>3.2 Interfaces — describing shapes of data</h3>
+<p>An interface is a checklist an object must satisfy. Our central data record is
+<code>src/domain/types.ts</code></p>
+<pre><code>export interface Entry {
+  id: number          // positional index in the .jsonl dataset (stable key!)
+  xx: string          // the word in the language being learned ("" in code = LANGUAGE.code)
+  grammar: string     // part of speech, e.g. "noun"
+  meanings: string[]  // English meanings
+}
+</code></pre>
+<p>Anywhere a function promises <code>Entry</code>, it only promises to return those four fields.
+Interfaces <em>do not exist at runtime</em> — they're compile-time documentation the compiler checks.</p>
+
+<h3>3.3 Type unions — small, closed lists of possibilities</h3>
+<p>A value that is one of a fixed set is a union type. This replacement for string-typos means the
+compiler catches <code>'xx→en'</code> or <code>'EN-XX'</code> mistakes instead of your users finding them:</p>
+<pre><code>export type QuestionDirection = 'xx-en' | 'en-xx'
+</code></pre>
+
+<h3>3.4 Classes — state plus the functions that protect it</h3>
+<p>A class bundles data (<em>fields</em>) with behaviour (<em>methods</em>). Members can be:</p>
+<ul>
+  <li><code>private</code> — visible only inside the class (the outside can't break invariants),</li>
+  <li><code>readonly</code> — can't be reassigned after construction,</li>
+  <li><code>get …()</code> — a getter: reads like a field, runs like a method.</li>
+</ul>
+<pre><code>export class MultipleChoiceQuestion {
+  readonly correct: string          // set once in the constructor
+  private chosen: string | null = null
+
+  get answered(): boolean {         // callers read question.answered
+    return this.chosen !== null
+  }
+
+  answer(option: string): boolean | null {
+    if (this.chosen !== null) return null   // first pick wins
+    this.chosen = option
+    this.right = option === this.correct
+    return this.right
+  }
+}
+</code></pre>
+
+<h3>3.5 Static members — functions that belong to the class, not an instance</h3>
+<p><code>Dictionary.toIds(entries)</code> needs no particular dictionary instance, so it is
+<code>static</code> — you call it on the class, like <code>Math.max</code>.</p>
+
+<h3>3.6 Generics — algorithms that work for any type</h3>
+<p><code>shuffle</code> shuffles <em>any</em> array without caring about its element type:
+<code>&lt;T&gt;</code> declares "some type, decided by the caller"</p>
+<pre><code>export function shuffle&lt;T&gt;(items: readonly T[]): T[] { … }
+
+shuffle(['a','b','c'])       // T = string
+shuffle([{id:1},{id:2}])     // T = { id: number }
+</code></pre>
+
+<h3>3.7 async / Promise — steps that take time</h3>
+<p>Reading IndexedDB is asynchronous. <code>async</code> functions return a <code>Promise</code>;
+<code>await</code> pauses (only inside <code>async</code>) until the value arrives. Sessions persist
+after every meaningful event, so a page reload mid-batch resumes cleanly.</p>
+
+<h3>3.8 Dependency inversion — depend on an interface</h3>
+<p>Domain classes need to save progress but <em>must not</em> know about Dexie/IndexedDB. They take a
+<code>ProgressStore</code> <em>interface</em> in their constructor; the real implementation is injected
+from outside (tests inject an in-memory one):</p>
+<pre><code>export class LearnSession {
+  private readonly store: ProgressStore
+  constructor(topicId: string, dictionary: Dictionary, store: ProgressStore) { … }
+}
+</code></pre>
+
+<h2>4. The layers in build order</h2>
+<div class="mermaid">
+flowchart LR
+  CFG["1 config.ts"] --> TY["2 domain/types.ts"] --> DICT["3 Dictionary"] --> QP["4 MultipleChoiceQuestion"]
+  QP --> LS["5 LearnSession"] --> RS["6 RecallSession"] --> ST["7 storage (StoreKeys → interface → Dexie)"]
+  ST --> FAC["8 LearnXApp facade"] --> UI["9 demo-ui + console"]
+</div>
+<ol>
+<li><strong><code>config.ts</code></strong> — one constant object naming the language (<code>'xx'</code>),
+its display name, and the teaching language <code>'en'</code>. Every other "Māori" reference in either
+docs, data or code flows from here — this file is what makes the app <em>learn-language-x</em>: swap the
+values and the datasets, and nothing else changes.</li>
+<li><strong><code>domain/types.ts</code></strong> — new-file-friendly shared vocabulary (Entry, phases,
+QuestionView…).</li>
+<li><strong><code>Dictionary</code></strong> — parses one topic's <code>.jsonl</code> text into
+<code>Entry[]</code> (<code>words</code>, frequency order) plus by-grammar groups, because multiple-choice
+decoys feel more plausible when the distractor is the same word class. Also holds lookups
+(<code>word(id)</code>), progress maths (<code>learnedStats</code>), selection
+(<code>pickUnseen</code>) and decoys (<code>distractors</code>).</li>
+<li><strong><code>MultipleChoiceQuestion</code></strong> — one question, immutable prompt/options plus
+the pick state machine (first pick wins). Renderers never touch this class; they receive a plain
+<code>QuestionView</code> snapshot. Giving a frontend plain data instead of live objects is what makes
+frameworks interchangeable.</li>
+<li><strong><code>LearnSession</code></strong> — the learn loop for ONE topic: resume-or-pick batch →
+review phase → quiz round <code>'xx-en'</code> → round <code>'en-xx'</code> → <code>completeBatch</code>
+merges ids into <code>learned</code>, clears <code>in-progress</code>, picks the next batch. Wrong answers
+re-queue at the end of the round's queue.</li>
+<li><strong><code>RecallSession</code></strong> — the recall loop: learned ids sorted ascending
+(frequency order) as the canonical origin, a live queue that reshuffles (right → tail of queue; wrong →
++5 positions), a resumable save index pointing into the origin, and dangling-id tolerance.</li>
+<li><strong>storage</strong> — <code>StoreKeys</code> (naming: <code>learned:&lt;topic&gt;</code> …),
+<code>ProgressStore</code> (a 6-method contract) and <code>DexieProgressStore</code> (Dexie 4 =
+ IndexedDB).</li>
+<li><strong><code>LearnXApp</code></strong> — the facade: owns sessions per topic, exposes ~10 boring
+commands (<code>openLearn</code>, <code>answer</code>, <code>advance</code>, <code>toggleTheme</code>,
+<code>snapshotAll</code>…), and fans out <code>notify()</code> to subscribers. This one class is the
+entire surface a frontend needs.</li>
+<li><strong>demo-ui</strong> — 100 lines of vanilla TS: render <code>app</code> state to
+<code>innerHTML</code>, hash-based routing, one delegated click handler. It is deliberately thin: the
+tutorial's goal is that you can delete it and write <code>&lt;App/&gt;</code> in a framework you like.</li>
+</ol>
+
+<h2>5. Plugging in your own frontend</h2>
+<p>The facade is the contract: <strong>call commands, receive <code>notify()</code>, read state, never
+reach deeper</strong>. Two ways to drive it:</p>
+
+<h3>5.1 The browser console (no build step!)</h3>
+<p>The demo entry point calls <code>installConsoleApi()</code>, which freezes a <code>window.lex</code>
+object. Play:</p>
+<pre><code>lex.config                     // { code:'xx', name:'Māori', source:'en' }
+await lex.app.snapshotAll()    // [{ topic, stats:{count,total,percent} }, …]
+lex.app.dictionary('verbs')    // the Dictionary instance (memoized)
+await lex.app.openLearn('nouns')
+lex.app.sessionLearn.questionView   // the on-screen question, plain data
+lex.app.answer('house')
+await lex.app.advance()
+await lex.app.resetAll()
+</code></pre>
+
+<h3>5.2 React (sketch)</h3>
+<pre><code>import { app } from './src/app'
+
+function App() {
+  const [, force] = useReducer((n) => n + 1, 0)
+  useEffect(() => app.subscribe(force), [])           // facade notify → re-render
+  if (app.view === 'landing') return &lt;Landing /&gt;
+  if (app.view === 'learn')   return &lt;LearnView session={app.sessionLearn} /&gt; // QuestionView as props
+  return &lt;RecallView session={app.sessionRecall} /&gt;
+}
+</code></pre>
+<p>Solid/Alpine versions follow the same shape — they read state in their reactive computations and
+call the same commands. Nothing in the core mentions a framework, which is the definition of
+frontend-agnostic here.</p>
+
+<div class="tip"><strong>Testability bonus:</strong> because sessions take a <code>ProgressStore</code>
+interface and a Dictionary takes raw text, you can construct the whole app in vitest with an in-memory
+store — see <code>tests/domain.test.ts</code>. FOUC-free theming is another perk: the facade reads
+localStorage synchronously, so the demo applies the <code>dark</code> class before the first render.</div>
+
+<h2>6. Swapping datasets / making it learn-language-y</h2>
+<ol>
+<li>Drop new <code>fr-en-dic-*</code> files into <code>src/data/datasets/</code>. Each line must look like:
+<code>{"fr":"bonjour","gr":"noun","en":["hello"]}</code> — the word key MUST match
+<code>LANGUAGE.code</code>.</li>
+<li>Update <code>REGISTRATIONS</code> in <code>src/data/registry.ts</code> (id, label, file,
+bundled <code>?raw</code> import).</li>
+<li>Change <code>LANGUAGE</code> in <code>src/config.ts</code> (<code>code: 'fr'</code>,
+<code>name: 'French'</code>).</li>
+</ol>
+<p>Prompts, store keys, deep links, and the whole demo UI derive from those values — nothing in
+<code>domain/</code> or <code>storage/</code> mentions a specific language.</p>
+
+<div class="warn"><strong>Two quirks intentionally preserved from the original
+learn-maori:</strong><br/>
+1. <code>pickUnseen</code> returns the next N entries in <em>frequency order</em>, not shuffled (the
+original commented out its shuffle).<br/>
+2. A RecallSession queue never becomes empty through normal answering (a right answer always
+re-inserts the word at the tail) — Recall is an endless practice loop, resumable via the saved index.
+Both are documented in <code>docs/architecture.html</code>.</div>
+
+<h2>7. Short exercises to make it stick</h2>
+<ol>
+<li>Add a <code>strength</code> field to <code>MultipleChoiceQuestion</code> as a union
+<code>'weak' | 'strong'</code> derived from <code>wasRight</code>.</li>
+<li>Create a <code>MissingLetterQuestion</code> class implementing the same shape as
+<code>MultipleChoiceQuestion</code>, and swap one Learn round to use it.</li>
+<li>Implement a <code>LocalStorageProgressStore</code> and unit-test it against the same suite as the
+Dexie one (inject it into <code>new LearnXApp(store)</code>).</li>
+<li>Put a 3-button counter on the landing page in Alpine — five lines of HTML — driven only by
+<code>lex.app</code>.</li>
+</ol>
+
+</main>
+</body>
+</html>

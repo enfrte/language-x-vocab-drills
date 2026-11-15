@@ -1,0 +1,31 @@
+{
+  "name": "learn-language-x",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Frontend-agnostic vocabulary learning app. Business logic in pure TypeScript; plug in any UI. Deployed as an offline-capable PWA.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "dexie": "^4.4.7"
+  },
+  "devDependencies": {
+    "fake-indexeddb": "^6.2.8",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0",
+    "vite-plugin-pwa": "^0.21.1",
+    "vitest": "^5.1.0"
+  },
+  "allowScripts": {
+    "esbuild@0.25.12": true
+  },
+  "overrides": {
+    "glob": "^14.0.2",
+    "minimatch": "^11.0.1"
+  }
+}
