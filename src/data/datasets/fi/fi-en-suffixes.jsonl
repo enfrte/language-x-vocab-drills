@@ -1,421 +1,255 @@
-{"fi": "-y", "gr": "suffix", "en": ["Front vowel variant of -u."]}
-{"fi": "-io", "gr": "suffix", "en": ["Forms nouns from verbs or verbal stems.", "Forms nouns from other nouns, adjectives, numbers or their stems."]}
-{"fi": "-a", "gr": "suffix", "en": ["Forms the partitive case of nouns, adjectives, numbers and some pronouns."]}
 {"fi": "-n", "gr": "suffix", "en": ["Used to form the genitive case.", "Used to form the accusative case in the singular.", "Used to form the instructive case, usually only in the plural.", "the first-person singular suffix for verbs"]}
-{"fi": "-ni", "gr": "suffix", "en": ["First-person singular possessive suffix used with or without minun (the genitive of the personal pronoun minä), corresponding to the English possessive pronoun my", "First-person singular possessive suffix used with or without minun (the genitive of the personal pronoun minä), corresponding to the English possessive pronoun my", "Appended to a genitive-requiring postposition that is after or without minun (the genitive of the personal pronoun minä), me", "First-person singular possessive suffix used with or without minun (the genitive of the personal pronoun minä), corresponding to the English possessive pronoun my", "Used in a participle structure replacing an että clause, preceded by a verb expressing, e.g., telling, claiming, asserting, confirming, thinking, wish, desire, seeming, when the clauses have the same subject \"I\"; appended to the active present participle in genitive singular when the action is concurrent with the main clause", "First-person singular possessive suffix used with or without minun (the genitive of the personal pronoun minä), corresponding to the English possessive pronoun my", "Used in a participle structure replacing an että clause, preceded by a verb expressing, e.g., telling, claiming, asserting, confirming, thinking, wish, desire, seeming, when the clauses have the same subject \"I\"; appended to the active past participle in genitive singular when the said/alleged (etc.) action antedates the main clause.", "First-person singular possessive suffix used with or without minun (the genitive of the personal pronoun minä), corresponding to the English possessive pronoun my", "Used in a shortened sentence expressing concurrent actions when the clauses have the same subject \"I\", appended to the inessive of the active second infinitive.", "First-person singular possessive suffix used with or without minun (the genitive of the personal pronoun minä), corresponding to the English possessive pronoun my", "Used in a shortened sentence expressing subsequent actions when the clauses have the same subject \"I\", appended to the partitive of the passive past participle singular.", "First-person singular possessive suffix used with or without minun (the genitive of the personal pronoun minä), corresponding to the English possessive pronoun my", "Used in a final shortened sentence expressing \"in order to do\" when the clauses have the same subject \"I\", appended to the long first infinitive.", "First-person singular possessive suffix used with or without minun (the genitive of the personal pronoun minä), corresponding to the English possessive pronoun my", "Used in some adverbs, when the clause has the subject \"I\"", "First-person singular possessive suffix used with or without minun (the genitive of the personal pronoun minä), corresponding to the English possessive pronoun my", "Always appended to a noun in the comitative case when the clause has the subject \"I\"."]}
-{"fi": "-an", "gr": "suffix", "en": ["Forms the impersonal indicative present forms of verbs, appended to the first infinitive.", "A suffix variant for the illative singular, see -Vn.", "A variant for the third-person suffix -nsa."]}
-{"fi": "-s", "gr": "suffix", "en": ["Forms some nouns.", "Forms fractional numbers from ordinal numbers.", "Forms ordinal numbers from cardinal numbers, or ordinal pronouns.", "Forms lative adverbs."]}
-{"fi": "-in", "gr": "suffix", "en": ["Forms superlative adjectives.", "Instructive plural suffix.", "A variant for the first-person singular possessive suffix -ni.", "Forms some adjectives.", "Forms the genitive plural.", "Suffix variant for the illative singular, see -Vn."]}
-{"fi": "-na", "gr": "suffix", "en": ["Forms the essive case.", "Forms action nouns from certain verbs, mainly related to sound, whose first infinitive ends in -sta.", "Forms some diminutive nouns."]}
-{"fi": "-nä", "gr": "suffix", "en": ["Front vowel variant of -na"]}
-{"fi": "-iö", "gr": "suffix", "en": ["Front vowel variant of -io"]}
-{"fi": "-u", "gr": "suffix", "en": ["Forms nouns from verbs. Most common with e- and i-stem verbs.", "Derives a number of nouns from other nouns."]}
-{"fi": "-ä", "gr": "suffix", "en": ["Front vowel variant of -a"]}
-{"fi": "-ta", "gr": "suffix", "en": ["Forms verbs from nouns, generally with a causative, factitive or instrumental meaning.", "Forms verbs from nouns with a translative or reflexive meaning.", "A suffix for the partitive singular case."]}
-{"fi": "-tä", "gr": "suffix", "en": ["Front vowel variant of -ta"]}
-{"fi": "-da", "gr": "suffix", "en": ["A suffix present in certain first infinitives, short form, the citation form of Finnish verbs."]}
-{"fi": "-dä", "gr": "suffix", "en": ["Front vowel variant of -da"]}
-{"fi": "-ja", "gr": "suffix", "en": ["Forms agent nouns, especially human ones; -er"]}
-{"fi": "-jä", "gr": "suffix", "en": ["Front vowel variant of -ja"]}
-{"fi": "-ksi", "gr": "suffix", "en": ["used to form the translative case", "used to form the long first infinitive, with the meaning \"in order to\"; always used with a possessive suffix", "Forms nouns, chiefly from clippings."]}
-{"fi": "-lainen", "gr": "suffix", "en": ["Combined with a place name, forms the noun for the inhabitant of a place; or an adjective meaning \"of or relating to (the place)\".", "Combined with a name, forms an adjective for a member of an organization or other defined group, a follower of philosophy etc.", "Combined with a common noun, forms nouns for people characterized by this noun.", "Forms various diminutives; also used in surnames."]}
-{"fi": "-seen", "gr": "suffix", "en": ["Forms the illative singular case."]}
+{"fi": "-a, -ä", "gr": "suffix", "en": ["Forms the partitive case of nouns, adjectives, numbers and some pronouns."]}
+{"fi": "-t", "gr": "suffix", "en": ["Forms the nominative and accusative plural.", "Forms the accusative forms of the personal pronouns and the interrogative pronoun ken.", "Forms the second person singular of verbs."]}
+{"fi": "-ssa", "gr": "suffix", "en": ["The marker of inessive case; in, inside"]}
+{"fi": "-sta", "gr": "suffix", "en": ["indicates the elative case of a noun, adjective, numeral or pronoun"]}
+{"fi": "-lla, -llä", "gr": "suffix", "en": ["Case suffix of the adessive case."]}
+{"fi": "-i", "gr": "suffix", "en": ["A non-productive nominal suffix deriving nouns from nominal stems.", "Forms nouns from some verbs.", "Used to mark the first part of a compound word.", "Forms lative adverbs."]}
+{"fi": "-ta, -tä", "gr": "suffix", "en": ["Forms verbs from nouns, generally with a causative, factitive or instrumental meaning.", "Forms verbs from nouns with a translative or reflexive meaning.", "A suffix for the partitive singular case."]}
+{"fi": "-da, -dä", "gr": "suffix", "en": ["A suffix present in certain first infinitives, short form, the citation form of Finnish verbs."]}
 {"fi": "-Vn", "gr": "suffix", "en": ["Forms the illative singular case.", "The shorter third-person possessive suffix."]}
-{"fi": "-en", "gr": "suffix", "en": ["Suffix variant for the illative singular, see -Vn.", "Suffix for the genitive plural. Usually preceded by the plural marker -i- or -j-, but may also have a consonant separator -d- after the plural marker if the words would otherwise have 3 consecutive vowels.", "A variant for the third-person suffix -nsa.", "Forms the impersonal potential present forms of verbs. Appended to the impersonal potential stem, which consists of the first infinitive followed by the potential mood marker -ne-.", "Forms the instructive case of the second infinitive of verbs."]}
+{"fi": "-an, -än", "gr": "suffix", "en": ["Forms the impersonal indicative present forms of verbs, appended to the first infinitive.", "A suffix variant for the illative singular, see -Vn.", "A variant for the third-person suffix -nsa."]}
+{"fi": "-en", "gr": "suffix", "en": ["Variant of the illative singular: into, to", "Genitive plural ending: of the", "Variant of the third-person possessive suffix: his, her, its, their", "Used in potential verb forms: may, might", "Used in the instructive form of the second infinitive"]}
 {"fi": "-on", "gr": "suffix", "en": ["Suffix variant for the illative singular, see -Vn."]}
 {"fi": "-un", "gr": "suffix", "en": ["Suffix variant for the illative singular: see -Vn."]}
-{"fi": "-än", "gr": "suffix", "en": ["Front vowel variant of -an"]}
-{"fi": "-ön", "gr": "suffix", "en": ["Suffix variant for the illative singular: see -Vn."]}
-{"fi": "-o", "gr": "suffix", "en": ["Forms result or action nouns from verbs.", "Forms variants or diminutives from a few nominal roots."]}
-{"fi": "-ö", "gr": "suffix", "en": ["Front vowel variant of -o"]}
-{"fi": "-sti", "gr": "suffix", "en": ["Forms adverbs from adjectives describing the manner in which something is done; corresponds to the English suffix -ly.", "Forms multiplicative adverbs describing how many times something is done; corresponds to the number + times structure in English.", "Forms intensifying adverbs from certain nouns, which can be used with verbs or of large quantities."]}
-{"fi": "-t", "gr": "suffix", "en": ["Forms the nominative and accusative plural.", "Forms the accusative forms of the personal pronouns and the interrogative pronoun ken.", "Forms the second person singular of verbs."]}
-{"fi": "-tar", "gr": "suffix", "en": ["Forms the female counterpart of nouns indicating a person."]}
-{"fi": "-tär", "gr": "suffix", "en": ["Front vowel variant of -tar"]}
-{"fi": "-as", "gr": "suffix", "en": ["Forms some adjectives.", "Forms some nouns."]}
-{"fi": "-e", "gr": "suffix", "en": ["Used for forming nouns from verbs or adjectives."]}
-{"fi": "-i", "gr": "suffix", "en": ["A non-productive nominal suffix deriving nouns from nominal stems.", "Forms nouns from some verbs.", "Used to mark the first part of a compound word.", "Forms lative adverbs."]}
-{"fi": "-is", "gr": "suffix", "en": ["-er, -ie; a suffix used to form nouns and proper nouns from place names, common nouns and adjectives; gives a familiar nuance to the original word; the original word is often truncated in the process.", "sharp, ♯"]}
-{"fi": "-os", "gr": "suffix", "en": ["Forms nouns denoting the result of the action of a verb."]}
-{"fi": "-us", "gr": "suffix", "en": ["Forms nouns from verbs, describing an action, event or a result of that action.", "Forms nouns, indicating resemblance or association."]}
-{"fi": "-re", "gr": "suffix", "en": ["Forms nouns, mostly from nominal stems."]}
-{"fi": "-ton", "gr": "suffix", "en": ["Indicates lack of something; -less, un-, in-, non-, -free."]}
-{"fi": "-tön", "gr": "suffix", "en": ["Front vowel variant of -ton"]}
-{"fi": "-mme", "gr": "suffix", "en": ["Forms the first-person plural of verbs.", "First-person plural possessive suffix used with or without meidän (genitive of the personal pronoun me): our", "Appended to a genitive-requiring postposition that is after or without meidän: us", "Used in a participle structure replacing an että clause, preceded by a verb expressing e.g. telling, claiming, asserting, confirming, thinking, wish, desire, seeming, when the clauses have the same subject \"we\"; appended to the active present participle in genitive singular when the action is concurrent with the main clause.", "Used in a participle structure replacing an että clause, preceded by a verb expressing e.g. telling, claiming, asserting, confirming, thinking, wish, desire, seeming, when the clauses have the same subject \"we\"; appended to the active past participle in genitive singular when the said/alleged (etc.) action antedates the main clause.", "Used in a shortened sentence expressing concurrent actions when the clauses have the same subject \"we\", appended to the inessive of the active second infinitive.", "Used in a shortened sentence expressing subsequent actions when the clauses have the same subject \"we\", appended to the partitive of the passive past participle singular.", "Used in a final shortened sentence expressing \"in order to do\" when the clauses have the same subject \"we\", appended to the long first infinitive.", "Used in some adverbs, when the clause has the subject \"we\".", "Always appended to a noun in the comitative case when the clause has the subject \"we\"."]}
-{"fi": "-läinen", "gr": "suffix", "en": ["Front vowel variant of -lainen"]}
-{"fi": "-tta", "gr": "suffix", "en": ["Suffix for the abessive case: without", "A suffix for the partitive singular.", "Forms certain adverbs, typically of manner.", "Forms some nouns, generally for places."]}
-{"fi": "-ttä", "gr": "suffix", "en": ["Front vowel variant of -tta"]}
-{"fi": "-ista", "gr": "suffix", "en": ["Forms frequentative verbs, often from onomatopoeic stems."]}
-{"fi": "-sto", "gr": "suffix", "en": ["Forms collective nouns from nouns indicating individual things."]}
-{"fi": "-stö", "gr": "suffix", "en": ["Front vowel variant of -sto"]}
-{"fi": "-ota", "gr": "suffix", "en": ["Forms translative verbs."]}
-{"fi": ".fi", "gr": "suffix", "en": ["The ccTLD for Finland."]}
-{"fi": "-ine", "gr": "suffix", "en": ["Forms diminutive forms of nouns, particularly for objects or tools."]}
-{"fi": "-kka", "gr": "suffix", "en": ["Forms diminutive nouns.", "Forms some adjectives, primarily with a diminutive meaning."]}
-{"fi": "-kko", "gr": "suffix", "en": ["Forms collective nouns.", "Forms nouns for groups of a particular number, including tuples.", "Forms nouns denoting essential characteristics of a location, for a (land) surface covered in something, or for land characterised by something in general.", "Forms nouns for groups of something, often plants.", "Forms nouns from verbs denoting activities or tools for an activity.", "Forms names for various beings.", "Forms descriptive nouns."]}
 {"fi": "-yn", "gr": "suffix", "en": ["Suffix variant for the illative singular, see -Vn."]}
-{"fi": "-inen", "gr": "suffix", "en": ["Creates adjectives:", "Creates adjectives signifying a certain quality: -like, -ous, -y", "Creates adjectives:", "Creates adjectives indicating a material of which something is made: -en", "Creates adjectives:", "Creates adjectives from present active participles, indicating a tendency to be/do something.", "Creates adjectives:", "Creates adjectives from foreign roots: -ic"]}
-{"fi": "-nne", "gr": "suffix", "en": ["The second-person plural possessive suffix. Used when addressing many persons or one person in a polite or formal manner. The word teidän (“your”) is normally required only in questions where the main focus is in the term defined by teidän, and it must not be used in front of participles or infinitives in participial phrases. In the examples below, teidän is in brackets where its use is optional.", "Used to indicate possession. The comitative case of a noun requires a possessive suffix, and the genitive of personal pronoun is normally not used with it.", "The second-person plural possessive suffix. Used when addressing many persons or one person in a polite or formal manner. The word teidän (“your”) is normally required only in questions where the main focus is in the term defined by teidän, and it must not be used in front of participles or infinitives in participial phrases. In the examples below, teidän is in brackets where its use is optional.", "Appended to a genitive-requiring postposition, when its main word is te.", "The second-person plural possessive suffix. Used when addressing many persons or one person in a polite or formal manner. The word teidän (“your”) is normally required only in questions where the main focus is in the term defined by teidän, and it must not be used in front of participles or infinitives in participial phrases. In the examples below, teidän is in brackets where its use is optional.", "Appended in the participle in participial phrases when the main clause and the participial phrase have the same subject \"you\".", "The second-person plural possessive suffix. Used when addressing many persons or one person in a polite or formal manner. The word teidän (“your”) is normally required only in questions where the main focus is in the term defined by teidän, and it must not be used in front of participles or infinitives in participial phrases. In the examples below, teidän is in brackets where its use is optional.", "Used with adverbs that require a possessive suffix.", "Forms nouns indicating that some essential element of the meaning of the root word is present in the meaning of the derived term.", "Forms sublative adverbs."]}
-{"fi": "-nsa", "gr": "suffix", "en": ["Third-person possessive suffix, used with the genitive forms of the third-person pronouns hän sg (hänen) and he pl (heidän): his, her; their (only of people); its (in some cases; see the usage notes below)", "Third-person possessive suffix, used with the genitive forms of the third-person pronouns hän sg (hänen) and he pl (heidän): his, her; their (only of people); its (in some cases; see the usage notes below)", "Third-person reflexive possessive suffix.", "Third-person possessive suffix, used with the genitive forms of the third-person pronouns hän sg (hänen) and he pl (heidän): his, her; their (only of people); its (in some cases; see the usage notes below)", "Appended to a postposition, when it modifies a word in the genitive case and a third-person personal pronoun is used: him, her; them (only of people)", "Third-person possessive suffix, used with the genitive forms of the third-person pronouns hän sg (hänen) and he pl (heidän): his, her; their (only of people); its (in some cases; see the usage notes below)", "Used in a participle structure replacing an \"että\" clause, preceded by a verb expressing e.g. telling, claiming, asserting, confirming, thinking, wish, desire, seeming, when the clauses have the same subject \"he\", \"she\" or \"they\" (only of people); appended to the active present participle in genitive singular when the action is concurrent with the main clause.", "Third-person possessive suffix, used with the genitive forms of the third-person pronouns hän sg (hänen) and he pl (heidän): his, her; their (only of people); its (in some cases; see the usage notes below)", "Used in a participle structure replacing an \"että\" clause, preceded by a verb expressing e.g. telling, claiming, asserting, confirming, thinking, wish, desire, seeming, when the clauses have the same subject \"he\", \"she\" or \"they\" (only of people); appended to the active past participle in genitive singular when the said/alleged (etc.) action antedates the main clause.", "Third-person possessive suffix, used with the genitive forms of the third-person pronouns hän sg (hänen) and he pl (heidän): his, her; their (only of people); its (in some cases; see the usage notes below)", "Used in a shortened sentence expressing concurrent actions when the clauses have the same subject in the third person, appended to the inessive of the active second infinitive.", "Third-person possessive suffix, used with the genitive forms of the third-person pronouns hän sg (hänen) and he pl (heidän): his, her; their (only of people); its (in some cases; see the usage notes below)", "Used in a shortened sentence expressing subsequent actions when the clauses have the same subject in the third person, appended to the partitive of the passive past participle singular.", "Third-person possessive suffix, used with the genitive forms of the third-person pronouns hän sg (hänen) and he pl (heidän): his, her; their (only of people); its (in some cases; see the usage notes below)", "Used in a final shortened sentence expressing \"in order to do\" when the clauses have the same subject in the third person, appended to the long first infinitive.", "Third-person possessive suffix, used with the genitive forms of the third-person pronouns hän sg (hänen) and he pl (heidän): his, her; their (only of people); its (in some cases; see the usage notes below)", "Used in some adverbs that include back vowels, when the clause has the subject in the third person.", "Third-person possessive suffix, used with the genitive forms of the third-person pronouns hän sg (hänen) and he pl (heidän): his, her; their (only of people); its (in some cases; see the usage notes below)", "Always appended to a noun in the comitative case when the clause has the subject in the third person."]}
-{"fi": "-nsä", "gr": "suffix", "en": ["Front vowel harmonic form of -nsa."]}
-{"fi": "-ita", "gr": "suffix", "en": ["Forms instrumental verbs from nouns.", "Forms some verbs indicating acting in a capacity or a profession.", "Forms various other verbs from nouns or adjectives."]}
-{"fi": "-pa", "gr": "suffix", "en": ["Forms adjectives or nouns of a very limited amount of verbs."]}
-{"fi": "-pä", "gr": "suffix", "en": ["Front vowel variant of -pa"]}
-{"fi": "-kkö", "gr": "suffix", "en": ["Front vowel variant of -kko"]}
-{"fi": "-tte", "gr": "suffix", "en": ["Forms the second-person plural of verbs."]}
-{"fi": "-mainen", "gr": "suffix", "en": ["Forms adjectives from nouns, signifying resemblance; -like, -shaped, -ish, -ly, -y, -ous"]}
-{"fi": "-itse", "gr": "suffix", "en": ["by, through; the suffix of the prolative, determines the channel by which something takes place."]}
-{"fi": "-tella", "gr": "suffix", "en": ["Forms verbs for calling someone by a name or a label.", "Forms verbs that describe act of pretending to be something."]}
-{"fi": "-lla", "gr": "suffix", "en": ["Case suffix of the adessive case."]}
-{"fi": "-va", "gr": "suffix", "en": ["Forms the present active participle of a verb, which is normally used like an adjective. The English equivalent is normally -ing, but sometimes also -ish.", "Forms an adjective from a noun."]}
-{"fi": "-mäinen", "gr": "suffix", "en": ["Front vowel variant of -mainen"]}
-{"fi": "-kas", "gr": "suffix", "en": ["-y, -ful; a suffix that can be used to turn many, but not all, nouns into adjectives that indicate abundant presence of the thing expressed by the noun.", "Forms nouns chacterized by an abundance of the base word.", "-ish; a suffix that forms moderative adjectives; rare in standard Finnish.", "Forms nouns indicating a concept associated with the base word from nouns or verbs."]}
-{"fi": "-uus", "gr": "suffix", "en": ["Forms nouns from adjectives or other nouns, expressing a quality of being that which is described: -ness, -hood, -ity, -th, -ship"]}
-{"fi": "-yys", "gr": "suffix", "en": ["Front vowel variant of -uus"]}
-{"fi": "-ski", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping)."]}
-{"fi": "-ismi", "gr": "suffix", "en": ["-ism"]}
-{"fi": "-llinen", "gr": "suffix", "en": ["Forms adjectives that indicate time.", "Forms adjectives that indicate likeness.", "Forms adjectives that indicate possession or relationship.", "Forms nouns that define a person through his/her characteristics or possessions.", "Forms nouns that indicate an amount."]}
-{"fi": "-hko", "gr": "suffix", "en": ["-ish; quite, relatively, somewhat"]}
-{"fi": "-minen", "gr": "suffix", "en": ["Forms action nouns (verbal nouns) from verbs, mostly corresponds to the English gerund suffix -ing."]}
-{"fi": "-kkain", "gr": "suffix", "en": ["Forms situative adverbs."]}
-{"fi": "-kkäin", "gr": "suffix", "en": ["Front vowel variant of -kkain"]}
-{"fi": "-mania", "gr": "suffix", "en": ["-mania"]}
-{"fi": "-ne", "gr": "suffix", "en": ["The suffix used to form the comitative case. It denotes companionship and ownership, and is written where English would use \"together with (one's possession)\".", "Forms diminutives."]}
-{"fi": "-ia", "gr": "suffix", "en": ["Forms primarily transitive verbs describing repeating (frequentative) or continuous (continuative) action.", "Forms place names.", "-y (forms abstract nouns from Latin or Greek roots)", "Forms some adverbs, mainly with a directional meaning."]}
-{"fi": "-ura", "gr": "suffix", "en": ["Forms diminutive nouns."]}
-{"fi": "-lo", "gr": "suffix", "en": ["Forms various nouns."]}
-{"fi": "-ra", "gr": "suffix", "en": ["Forms nouns or adjectives, mostly from nominal stems."]}
-{"fi": "-illa", "gr": "suffix", "en": ["Forms frequentative verbs. The resulting verb often describes a more or less leisurely or long-lasting activity, or an activity that is not overly goal-oriented.", "Forms action verbs which denote an activity closely related with a noun."]}
-{"fi": "-ero", "gr": "suffix", "en": ["Forms certain sound-symbolic or diminutive nouns.", "Forms certain pejorative nouns."]}
-{"fi": "-ata", "gr": "suffix", "en": ["Derives verbs."]}
-{"fi": "-isti", "gr": "suffix", "en": ["-ist (forms names of occupations from some nouns)", "-ist (supporter of an idea)"]}
-{"fi": "-ssa", "gr": "suffix", "en": ["The marker of inessive case; in, inside"]}
-{"fi": "-la", "gr": "suffix", "en": ["Forms nouns that signify a place, such as an abode, a house, a land of, a farm, etc.", "Forms nouns that signify a place, such as an abode, a house, a land of, a farm, etc.", "Used in farm names, which have often in turn developed into surnames.", "Forms some nouns or adjectives, originally with a diminutive meaning."]}
-{"fi": "-ma", "gr": "suffix", "en": ["The suffix of the agent participle.", "The third infinitive suffix; not used on its own, and always receives one of a number of case endings."]}
-{"fi": "-mä", "gr": "suffix", "en": ["Front vowel variant of -ma"]}
-{"fi": "-ula", "gr": "suffix", "en": ["Forms diminutive nouns."]}
-{"fi": "-ys", "gr": "suffix", "en": ["Front vowel variant of -us"]}
-{"fi": "-mo", "gr": "suffix", "en": ["Forms nouns from verbs, indicating a place where the action is performed; -ery.", "Forms flower names."]}
-{"fi": "-ös", "gr": "suffix", "en": ["Front vowel variant of -os"]}
-{"fi": "-ke", "gr": "suffix", "en": ["Forms diminutive forms of nouns.", "Forms nouns from verbs, often to describe the result of an action.", "Forms nouns from adjectives."]}
-{"fi": "-vä", "gr": "suffix", "en": ["Front vowel variant of -va"]}
-{"fi": "-käs", "gr": "suffix", "en": ["Front vowel variant of -kas"]}
-{"fi": "-sin", "gr": "suffix", "en": ["Forms certain nouns, particularly those describing tools or implements."]}
-{"fi": "-ty", "gr": "suffix", "en": ["Front vowel variant of -tu"]}
-{"fi": "-pi", "gr": "suffix", "en": ["Forms the third-person singular indicative present of verbs."]}
-{"fi": "-mpi", "gr": "suffix", "en": ["Forms comparative adjectives.", "Forms adjectives that indicate relative location from some nouns that indicate location. In most of these cases the noun has disappeared from the language as independent word but continues to exist as prefix, and some cases are used as postpositions indicating location."]}
-{"fi": "-logia", "gr": "suffix", "en": ["-logy"]}
-{"fi": "-eta", "gr": "suffix", "en": ["Forms translative verbs from adjectives, meaning \"to become (adjective)\" or \"to become more (adjective)\"."]}
-{"fi": "-patia", "gr": "suffix", "en": ["-pathy"]}
-{"fi": "-ias", "gr": "suffix", "en": ["forms adjectives and sometimes nouns, often from verbs describing doing such an action often"]}
-{"fi": "-sa", "gr": "suffix", "en": ["Forms some adjectives.", "Forms slang nouns and adjectives, usually with clipping."]}
-{"fi": "-sta", "gr": "suffix", "en": ["indicates the elative case of a noun, adjective, numeral or pronoun"]}
-{"fi": "-lta", "gr": "suffix", "en": ["forms the ablative case"]}
-{"fi": "-filia", "gr": "suffix", "en": ["-philia"]}
-{"fi": "-fobia", "gr": "suffix", "en": ["-phobia"]}
-{"fi": "-nomia", "gr": "suffix", "en": ["-nomy"]}
-{"fi": "-seeni", "gr": "suffix", "en": ["-cene"]}
-{"fi": "-kratia", "gr": "suffix", "en": ["-cracy"]}
-{"fi": "-uma", "gr": "suffix", "en": ["Variant of -ma; forms passive action/result nouns from verbs and sometimes nouns."]}
-{"fi": "-ella", "gr": "suffix", "en": ["Forms frequentative verbs. The resulting verb often describes a more or less leisurely or long-lasting activity, or an activity that is not overly goal-oriented."]}
-{"fi": "-lus", "gr": "suffix", "en": ["Forms some nouns."]}
-{"fi": "-li", "gr": "suffix", "en": ["Forms diminutive nouns.", "Forms some terminative adverbs."]}
-{"fi": "-las", "gr": "suffix", "en": ["Forms nouns used to describe people.", "Forms adjectives, describing the abundance of something."]}
-{"fi": "-lis", "gr": "suffix", "en": ["Forms some nouns from verbs or adjectives from nominal stems."]}
-{"fi": "-uli", "gr": "suffix", "en": ["Forms diminutive nouns."]}
-{"fi": "-gamia", "gr": "suffix", "en": ["-gamy"]}
-{"fi": "-metria", "gr": "suffix", "en": ["-metry"]}
-{"fi": "-llä", "gr": "suffix", "en": ["Front vowel variant of -lla."]}
+{"fi": "-ön", "gr": "suffix", "en": ["Suffix variant for the illative singular: see -Vn."]}
 {"fi": "-hVn", "gr": "suffix", "en": ["Forms the illative singular case."]}
-{"fi": "-fagia", "gr": "suffix", "en": ["-phagy"]}
-{"fi": "-ska", "gr": "suffix", "en": ["Forms diminutive nouns.", "Used to transform husband's family name or title to a term for addressing or speaking of a married woman. Used especially with family names ending with -nen and titles ending -ri."]}
-{"fi": "-grafia", "gr": "suffix", "en": ["-graphy"]}
-{"fi": "-ttain", "gr": "suffix", "en": ["Forms distributive adverbs.", "Forms adverbs expressing manner.", "Forms adverbs that express position."]}
-{"fi": "-ttäin", "gr": "suffix", "en": ["Front vowel variant of -ttain"]}
-{"fi": "-essa", "gr": "suffix", "en": ["Forms the inessive case of the second infinitive of verbs."]}
-{"fi": "-ua", "gr": "suffix", "en": ["Forms passive (including stative) or translative (including inchoative) intransitive verbs from transitive verbs."]}
-{"fi": "-nti", "gr": "suffix", "en": ["Form action nouns from verbs whose first infinitive ends with a diphthong + -da / -dä."]}
-{"fi": "-lti", "gr": "suffix", "en": ["Forms adverbs from some adjectives, that mean \"in the manner of being something\"."]}
-{"fi": "-metri", "gr": "suffix", "en": ["-meter"]}
-{"fi": "-ologi", "gr": "suffix", "en": ["-ologist"]}
-{"fi": "-loginen", "gr": "suffix", "en": ["-logical"]}
-{"fi": "-geeni", "gr": "suffix", "en": ["-gen"]}
-{"fi": "-nni", "gr": "suffix", "en": ["Forms terminative adverbs."]}
-{"fi": "-syytti", "gr": "suffix", "en": ["-cyte"]}
-{"fi": "-logi", "gr": "suffix", "en": ["-logist", "-logy"]}
-{"fi": "-nomi", "gr": "suffix", "en": ["-nomist, -nomer", "Used to create academic titles, especially for graduates from an ammattikorkeakoulu (“polytechnic”), many of which are peculiar to Finland and do not have a direct English equivalent"]}
-{"fi": "-typia", "gr": "suffix", "en": ["-type", "-typy"]}
-{"fi": "-lä", "gr": "suffix", "en": ["Front vowel variant of -la"]}
-{"fi": "-ltä", "gr": "suffix", "en": ["Front vowel variant of -lta"]}
-{"fi": "-skooppi", "gr": "suffix", "en": ["-scope"]}
+{"fi": "-seen", "gr": "suffix", "en": ["Forms the illative singular case."]}
+{"fi": "-V", "gr": "suffix", "en": ["The third-person singular non-past verb marker.", "Partitive marker.", "Illative marker."]}
 {"fi": "-lle", "gr": "suffix", "en": ["forms the allative case of a noun, adjective, numeral or pronoun"]}
-{"fi": "-ea", "gr": "suffix", "en": ["A suffix for making adjectives from some nouns and verbs."]}
+{"fi": "-ksi", "gr": "suffix", "en": ["used to form the translative case", "used to form the long first infinitive, with the meaning \"in order to\"; always used with a possessive suffix", "Forms nouns, chiefly from clippings."]}
+{"fi": "-nsa", "gr": "suffix", "en": ["Third-person possessive suffix: his, her, its, their", "Can mean his/her/their own when used reflexively", "Marks the subject as he, she or they in certain participle and infinitive constructions", "Used with some adverbs and the comitative case for third-person subjects"]}
+{"fi": "-ni", "gr": "suffix", "en": ["First-person singular possessive suffix: my", "Marks the subject as I/me in certain participle and infinitive constructions", "Used with some adverbs and the comitative case when the subject is I/me"]}
+{"fi": "-na, -nä", "gr": "suffix", "en": ["Forms the essive case.", "Forms action nouns from certain verbs, mainly related to sound, whose first infinitive ends in -sta.", "Forms some diminutive nouns."]}
+{"fi": "-va, -vä", "gr": "suffix", "en": ["Forms the present active participle of a verb, which is normally used like an adjective. The English equivalent is normally -ing, but sometimes also -ish.", "Forms an adjective from a noun."]}
+{"fi": "-ttu, -tty", "gr": "suffix", "en": ["Forms the past passive participle of a verb, which is normally used like an adjective. The English equivalent is normally -ed."]}
+{"fi": "-nut, -nyt", "gr": "suffix", "en": ["Used to form past active participle forms of verbs.", "Used to form past active participle forms of verbs.", "Used to form past indicative connegative forms of verbs."]}
+{"fi": "-lta, -ltä", "gr": "suffix", "en": ["forms the ablative case"]}
+{"fi": "-mme", "gr": "suffix", "en": ["First-person plural verb ending: we", "First-person plural possessive suffix: our", "Marks the subject as we in certain participle and infinitive constructions", "Used with some adverbs and the comitative case when the subject is we"]}
+{"fi": "-tte", "gr": "suffix", "en": ["Forms the second-person plural of verbs."]}
+{"fi": "-nne", "gr": "suffix", "en": ["Second-person plural possessive suffix: your", "Also used for polite/formal singular you", "Marks the subject as you in certain participle and infinitive constructions", "Used with some postpositions, adverbs and the comitative case", "Used to form some derived nouns and sublative adverbs"]}
+{"fi": "-vat, -vät", "gr": "suffix", "en": ["Forms the third-person plural of verbs."]}
+{"fi": "-ttaa, -ttää", "gr": "suffix", "en": ["Forms causative verbs: to make or cause", "Can express causing a feeling, urge or need", "Can express making or having someone do something", "Used in some sound-symbolic verbs"]}
+{"fi": "-taa, -tää", "gr": "suffix", "en": ["Forms causative verbs from verbs.", "Forms factitive verbs from nouns and adjectives."]}
+{"fi": "-ma, -mä", "gr": "suffix", "en": ["The suffix of the agent participle.", "The third infinitive suffix; not used on its own, and always receives one of a number of case endings."]}
+{"fi": "-inen", "gr": "suffix", "en": ["Creates adjectives:", "Creates adjectives signifying a certain quality: -like, -ous, -y", "Creates adjectives:", "Creates adjectives indicating a material of which something is made: -en", "Creates adjectives:", "Creates adjectives from present active participles, indicating a tendency to be/do something.", "Creates adjectives:", "Creates adjectives from foreign roots: -ic"]}
+{"fi": "-sti", "gr": "suffix", "en": ["Forms adverbs from adjectives describing the manner in which something is done; corresponds to the English suffix -ly.", "Forms multiplicative adverbs describing how many times something is done; corresponds to the number + times structure in English.", "Forms intensifying adverbs from certain nouns, which can be used with verbs or of large quantities."]}
+{"fi": "-minen", "gr": "suffix", "en": ["Forms action nouns (verbal nouns) from verbs, mostly corresponds to the English gerund suffix -ing."]}
+{"fi": "-us, -ys", "gr": "suffix", "en": ["Forms nouns from verbs, describing an action, event or a result of that action.", "Forms nouns, indicating resemblance or association."]}
+{"fi": "-ja, -jä", "gr": "suffix", "en": ["Forms agent nouns, especially human ones; -er"]}
+{"fi": "-ari, -äri", "gr": "suffix", "en": ["Used to create names of occupations from nouns or verbs.", "General denominal noun suffix.", "Denominal suffix used to clip nouns.", "Used to create terms meaning \"supporter of something\""]}
+{"fi": "-lainen, -läinen", "gr": "suffix", "en": ["Combined with a place name, forms the noun for the inhabitant of a place; or an adjective meaning \"of or relating to (the place)\".", "Combined with a name, forms an adjective for a member of an organization or other defined group, a follower of philosophy etc.", "Combined with a common noun, forms nouns for people characterized by this noun.", "Forms various diminutives; also used in surnames."]}
+{"fi": "-llinen", "gr": "suffix", "en": ["Forms adjectives that indicate time.", "Forms adjectives that indicate likeness.", "Forms adjectives that indicate possession or relationship.", "Forms nouns that define a person through his/her characteristics or possessions.", "Forms nouns that indicate an amount."]}
+{"fi": "-uus, -yys", "gr": "suffix", "en": ["Forms nouns from adjectives or other nouns, expressing a quality of being that which is described: -ness, -hood, -ity, -th, -ship"]}
+{"fi": "-ton, -tön", "gr": "suffix", "en": ["Indicates lack of something; -less, un-, in-, non-, -free."]}
+{"fi": "-mpi", "gr": "suffix", "en": ["Forms comparative adjectives.", "Forms adjectives that indicate relative location from some nouns that indicate location. In most of these cases the noun has disappeared from the language as independent word but continues to exist as prefix, and some cases are used as postpositions indicating location."]}
+{"fi": "-s", "gr": "suffix", "en": ["Forms some nouns.", "Forms fractional numbers from ordinal numbers.", "Forms ordinal numbers from cardinal numbers, or ordinal pronouns.", "Forms lative adverbs."]}
+{"fi": "-nta, -ntä", "gr": "suffix", "en": ["Forms nouns that describe an action.", "Forms the exessive case.", "Forms certain nouns, mainly for people."]}
+{"fi": "-ua, -yä", "gr": "suffix", "en": ["Forms passive (including stative) or translative (including inchoative) intransitive verbs from transitive verbs."]}
+{"fi": "-tua, -tyä", "gr": "suffix", "en": ["Forms passive or translative intransitive verbs from transitive verbs."]}
+{"fi": "-ksia, -ksiä", "gr": "suffix", "en": ["Forms frequentative and continuative verbs.", "Forms sensive verbs."]}
+{"fi": "-ttua, -ttyä", "gr": "suffix", "en": ["Forms inchoative or passive intransitive verbs from nominal stems."]}
+{"fi": "-lma, -lmä", "gr": "suffix", "en": ["Forms nouns, mostly from verbs."]}
+{"fi": "-essa", "gr": "suffix", "en": ["Forms the inessive case of the second infinitive of verbs."]}
+{"fi": "-o, -ö", "gr": "suffix", "en": ["Forms result or action nouns from verbs.", "Forms variants or diminutives from a few nominal roots."]}
+{"fi": "-u, -y", "gr": "suffix", "en": ["Forms nouns from verbs. Most common with e- and i-stem verbs.", "Derives a number of nouns from other nouns."]}
+{"fi": "-e", "gr": "suffix", "en": ["Used for forming nouns from verbs or adjectives."]}
+{"fi": "-kko, -kkö", "gr": "suffix", "en": ["Forms collective nouns.", "Forms nouns for groups of a particular number, including tuples.", "Forms nouns denoting essential characteristics of a location, for a (land) surface covered in something, or for land characterised by something in general.", "Forms nouns for groups of something, often plants.", "Forms nouns from verbs denoting activities or tools for an activity.", "Forms names for various beings.", "Forms descriptive nouns."]}
+{"fi": "-ismi", "gr": "suffix", "en": ["-ism"]}
+{"fi": "-isti", "gr": "suffix", "en": ["-ist (forms names of occupations from some nouns)", "-ist (supporter of an idea)"]}
+{"fi": "-ia, -itä, -iä", "gr": "suffix", "en": ["Forms primarily transitive verbs describing repeating (frequentative) or continuous (continuative) action.", "Forms place names.", "-y (forms abstract nouns from Latin or Greek roots)", "Forms some adverbs, mainly with a directional meaning."]}
+{"fi": "-illa, -illä", "gr": "suffix", "en": ["Forms frequentative verbs. The resulting verb often describes a more or less leisurely or long-lasting activity, or an activity that is not overly goal-oriented.", "Forms action verbs which denote an activity closely related with a noun."]}
+{"fi": "-ella, -ellä", "gr": "suffix", "en": ["Forms frequentative verbs. The resulting verb often describes a more or less leisurely or long-lasting activity, or an activity that is not overly goal-oriented."]}
+{"fi": "-ata, -ätä", "gr": "suffix", "en": ["Derives verbs."]}
+{"fi": "-ahtaa, -ähtää", "gr": "suffix", "en": ["Forms momentane or semelfactive verbs."]}
+{"fi": "-ita", "gr": "suffix", "en": ["Forms instrumental verbs from nouns.", "Forms some verbs indicating acting in a capacity or a profession.", "Forms various other verbs from nouns or adjectives."]}
+{"fi": "-oida, -öidä", "gr": "suffix", "en": ["Forms verbs from nouns or adjectives.", "Forms verbs from foreign verbs."]}
+{"fi": "-istaa, -istää", "gr": "suffix", "en": ["Forms verbs meaning \"to make (into)\", predominantly from adjectives; -ize/-ise", "Forms verbs referring to applying a tool onto or to equipping something."]}
+{"fi": "-in", "gr": "suffix", "en": ["Forms superlative adjectives.", "Instructive plural suffix.", "A variant for the first-person singular possessive suffix -ni.", "Forms some adjectives.", "Forms the genitive plural.", "Suffix variant for the illative singular, see -Vn."]}
+{"fi": "-as, -äs", "gr": "suffix", "en": ["Forms some adjectives.", "Forms some nouns."]}
+{"fi": "-kas, -käs", "gr": "suffix", "en": ["-y, -ful; a suffix that can be used to turn many, but not all, nouns into adjectives that indicate abundant presence of the thing expressed by the noun.", "Forms nouns chacterized by an abundance of the base word.", "-ish; a suffix that forms moderative adjectives; rare in standard Finnish.", "Forms nouns indicating a concept associated with the base word from nouns or verbs."]}
+{"fi": "-mainen, -mäinen", "gr": "suffix", "en": ["Forms adjectives from nouns, signifying resemblance; -like, -shaped, -ish, -ly, -y, -ous"]}
+{"fi": "-tar, -tär", "gr": "suffix", "en": ["Forms the female counterpart of nouns indicating a person."]}
+{"fi": "-la, -lä", "gr": "suffix", "en": ["Forms nouns that signify a place, such as an abode, a house, a land of, a farm, etc.", "Forms nouns that signify a place, such as an abode, a house, a land of, a farm, etc.", "Used in farm names, which have often in turn developed into surnames.", "Forms some nouns or adjectives, originally with a diminutive meaning."]}
+{"fi": "-lo, -lö", "gr": "suffix", "en": ["Forms various nouns."]}
+{"fi": "-ra, -rä", "gr": "suffix", "en": ["Forms nouns or adjectives, mostly from nominal stems."]}
 {"fi": "-ri", "gr": "suffix", "en": ["Forms nouns, usually diminutive ones."]}
-{"fi": "-neen", "gr": "suffix", "en": ["Comitative case suffix in third person."]}
-{"fi": "-staa", "gr": "suffix", "en": ["Forms captative verbs, i.e. verbs for hunting or catching animals or picking plants.", "Allomorph of -istaa, particularly used after labial vowels."]}
-{"fi": "-ttaa", "gr": "suffix", "en": ["Forms causative verbs from verbs and nominals.", "Forms emotive causative verbs which express having feelings, urges, needs, etc. These generally appear with the subject of the feeling in the partitive case. Often the same verb can also be used as an ordinary causative verb to express a feeling being caused by something. The connection between the original verb and the feeling expressed is not always literal.", "Forms curative verbs (subset of causative verbs) out of transitive verbs. Curative verbs describe an action in which an agent makes a patient do something. If the patient is expressed, it's in the adessive case. They can be often translated into English using \"to make someone do\" or \"to have done by someone\".", "Used in some onomatopoeic and sound-symbolic verbs."]}
-{"fi": "-ahtaa", "gr": "suffix", "en": ["Forms momentane or semelfactive verbs."]}
-{"fi": "-nta", "gr": "suffix", "en": ["Forms nouns that describe an action.", "Forms the exessive case.", "Forms certain nouns, mainly for people."]}
-{"fi": "-ntä", "gr": "suffix", "en": ["Front vowel variant of -nta."]}
-{"fi": "-grafi", "gr": "suffix", "en": ["-graph", "-grapher"]}
-{"fi": "-ari", "gr": "suffix", "en": ["Used to create names of occupations from nouns or verbs.", "General denominal noun suffix.", "Denominal suffix used to clip nouns.", "Used to create terms meaning \"supporter of something\""]}
-{"fi": "-iikka", "gr": "suffix", "en": ["-ics (suffix used to form names of fields of knowledge or practice)"]}
-{"fi": "-ähtää", "gr": "suffix", "en": ["Front vowel variant of -ahtaa"]}
-{"fi": "-ttää", "gr": "suffix", "en": ["Front vowel variant of -ttaa"]}
-{"fi": "-hkö", "gr": "suffix", "en": ["Front vowel variant of -hko"]}
-{"fi": "-ten", "gr": "suffix", "en": ["Forms causative adverbs."]}
-{"fi": "-geeninen", "gr": "suffix", "en": ["-genic"]}
-{"fi": "-iitti", "gr": "suffix", "en": ["-ite"]}
-{"fi": "-sfääri", "gr": "suffix", "en": ["-sphere"]}
-{"fi": "-kkä", "gr": "suffix", "en": ["Front vowel variant of -kka"]}
-{"fi": "-päin", "gr": "suffix", "en": ["-wards, -ward, -about (forms adverbs that indicate movement towards a direction or imprecise location)"]}
-{"fi": "-isä", "gr": "suffix", "en": ["Front vowel variant of -isa"]}
-{"fi": "-isa", "gr": "suffix", "en": ["A suffix for making adjectives from some nouns and verbs."]}
-{"fi": "-maton", "gr": "suffix", "en": ["Forms negative adjectives indicating lack of an action from intransitive verbs; un- -ed", "Forms negative adjectives indicating lack of action upon the object from transitive verbs; un- -ed", "Forms negative adjectives indicating incapability from transitive verbs; in- -able, un- -able"]}
-{"fi": "-mätön", "gr": "suffix", "en": ["Front vowel variant of -maton"]}
-{"fi": "-oida", "gr": "suffix", "en": ["Forms verbs from nouns or adjectives.", "Forms verbs from foreign verbs."]}
-{"fi": "-öidä", "gr": "suffix", "en": ["Front vowel variant of -oida"]}
-{"fi": "-skopia", "gr": "suffix", "en": ["-scopy"]}
-{"fi": "-geneesi", "gr": "suffix", "en": ["-genesis"]}
-{"fi": "-le", "gr": "suffix", "en": ["Forms diminutive nouns."]}
-{"fi": "-uu", "gr": "suffix", "en": ["Forms nouns from verbs."]}
-{"fi": "-kki", "gr": "suffix", "en": ["Creates action nouns from verbs.", "Creates diminutive nouns from verb that indicate the object of an action.", "Creates nouns that indicate similarity, allegory or diminutiveness. The relationship is sometimes obscure.", "Creates female given names, especially for cows."]}
-{"fi": "-fiili", "gr": "suffix", "en": ["-phile"]}
-{"fi": "-grammi", "gr": "suffix", "en": ["-gram"]}
-{"fi": "-mö", "gr": "suffix", "en": ["Front vowel variant of -mo"]}
-{"fi": "-stää", "gr": "suffix", "en": ["Front vowel variant of -staa"]}
-{"fi": "-iainen", "gr": "suffix", "en": ["Forms certain nouns.", "Forms names of ceremonies from verbs or nouns.", "Forms certain nouns, particularly vulgar nouns or names of insects."]}
-{"fi": "-ntaa", "gr": "suffix", "en": ["Forms factitive verbs from adjectives and names of languages, meaning \"causing to become\" or \"making\"; -en, -fy"]}
-{"fi": "-ntää", "gr": "suffix", "en": ["Front vowel variant of -ntaa"]}
-{"fi": "-nyymi", "gr": "suffix", "en": ["-nym"]}
-{"fi": "-ida", "gr": "suffix", "en": ["Reflexive verb ending."]}
-{"fi": "-mantia", "gr": "suffix", "en": ["-mancy"]}
-{"fi": "-iäinen", "gr": "suffix", "en": ["Front vowel variant of -iainen."]}
-{"fi": "-uttaa", "gr": "suffix", "en": ["Forms causative, curative, or factitive verbs from verbs.", "Forms factitive verbs from nominals.", "Variant of -ttaa with a frequentative nuance, especially used for onomatopoeic or sound-symbolic verbs."]}
-{"fi": "-ektomia", "gr": "suffix", "en": ["-ectomy"]}
-{"fi": "-tin", "gr": "suffix", "en": ["Forms certain nouns, particularly those describing tools or implements."]}
-{"fi": "-vinaan", "gr": "suffix", "en": ["Indicates pretended or suggested action; multiple English equivalents."]}
-{"fi": "-vinään", "gr": "suffix", "en": ["Front vowel variant of -vinaan."]}
-{"fi": "-ti", "gr": "suffix", "en": ["Forms caritive adverbs.", "The ending for the abessive case.", "Forms adverbs of manner."]}
-{"fi": "-yä", "gr": "suffix", "en": ["Front vowel variant of -ua"]}
-{"fi": "-su", "gr": "suffix", "en": ["Forms some adjectives."]}
-{"fi": "-toista", "gr": "suffix", "en": ["-teen (suffix which in Finnish forms the numbers 11 to 19)"]}
-{"fi": "-ue", "gr": "suffix", "en": ["Forms collective nouns."]}
-{"fi": "-vi", "gr": "suffix", "en": ["An archaic/poetic variant of the standard third-person present."]}
-{"fi": "-yttää", "gr": "suffix", "en": ["Front vowel variant of -uttaa"]}
-{"fi": "-yy", "gr": "suffix", "en": ["Front vowel variant of -uu"]}
-{"fi": "-ellä", "gr": "suffix", "en": ["Front vowel variant of -ella"]}
-{"fi": "-taa", "gr": "suffix", "en": ["Forms causative verbs from verbs.", "Forms factitive verbs from nouns and adjectives."]}
-{"fi": "-istaa", "gr": "suffix", "en": ["Forms verbs meaning \"to make (into)\", predominantly from adjectives; -ize/-ise", "Forms verbs referring to applying a tool onto or to equipping something."]}
-{"fi": "-kraatti", "gr": "suffix", "en": ["-crat (participant in a specified form of government)"]}
-{"fi": "-nki", "gr": "suffix", "en": ["Forms nouns"]}
+{"fi": "-ke", "gr": "suffix", "en": ["Forms diminutive forms of nouns.", "Forms nouns from verbs, often to describe the result of an action.", "Forms nouns from adjectives."]}
+{"fi": "-kka, -kkä", "gr": "suffix", "en": ["Forms diminutive nouns.", "Forms some adjectives, primarily with a diminutive meaning."]}
+{"fi": "-nainen, -näinen", "gr": "suffix", "en": ["forms adjectives, mostly describing a quality or property of the structure of something"]}
+{"fi": "-tava, -tävä", "gr": "suffix", "en": ["Forms the present passive participle."]}
+{"fi": "-maton, -mätön", "gr": "suffix", "en": ["Forms negative adjectives indicating lack of an action from intransitive verbs; un- -ed", "Forms negative adjectives indicating lack of action upon the object from transitive verbs; un- -ed", "Forms negative adjectives indicating incapability from transitive verbs; in- -able, un- -able"]}
+{"fi": "-tella, -tellä", "gr": "suffix", "en": ["Forms verbs for calling someone by a name or a label.", "Forms verbs that describe act of pretending to be something."]}
+{"fi": "-utua, -ytyä", "gr": "suffix", "en": ["Forms reflexive or translative intransitive verbs.", "Forms translative verbs from nouns and adjectives."]}
+{"fi": "-stua, -styä", "gr": "suffix", "en": ["Forms translative verbs."]}
+{"fi": "-ntua, -ntyä", "gr": "suffix", "en": ["Forms reflexive or inchoative intransitive verbs."]}
+{"fi": "-Vntua, -Vntyä", "gr": "suffix", "en": ["Forms passive, reflexive or translative intransitive verbs."]}
+{"fi": "-htua, -htyä", "gr": "suffix", "en": ["Forms translative verbs, often emphasizing the quick nature of the change."]}
+{"fi": "-mus, -mys", "gr": "suffix", "en": ["Forms nouns from verbs. Variant of -us used with verbs of conjugation type 61 (sallia), and those verbs in types 52 (sanoa) and 53 (muistaa) whose stem consists of at most two syllables", "Forms names for people and things from stems."]}
+{"fi": "-os, -ös", "gr": "suffix", "en": ["Forms nouns denoting the result of the action of a verb."]}
+{"fi": "-ne", "gr": "suffix", "en": ["The suffix used to form the comitative case. It denotes companionship and ownership, and is written where English would use \"together with (one's possession)\".", "Forms diminutives."]}
 {"fi": "-maan", "gr": "suffix", "en": ["The illative singular of the third infinitive (-ma)."]}
-{"fi": "-utua", "gr": "suffix", "en": ["Forms reflexive or translative intransitive verbs.", "Forms translative verbs from nouns and adjectives."]}
-{"fi": "-latria", "gr": "suffix", "en": ["-latry"]}
-{"fi": "-mus", "gr": "suffix", "en": ["Forms nouns from verbs. Variant of -us used with verbs of conjugation type 61 (sallia), and those verbs in types 52 (sanoa) and 53 (muistaa) whose stem consists of at most two syllables", "Forms names for people and things from stems."]}
-{"fi": "-nut", "gr": "suffix", "en": ["Used to form past active participle forms of verbs.", "Used to form past active participle forms of verbs.", "Used to form past indicative connegative forms of verbs."]}
-{"fi": "-ttu", "gr": "suffix", "en": ["Forms the past passive participle of a verb, which is normally used like an adjective. The English equivalent is normally -ed."]}
-{"fi": "-ikko", "gr": "suffix", "en": ["Forms names for people, particularly from Latinate or Greek roots.", "Forms nouns from Latinate or Greek words ending in -icus or -ῐκός (-ĭkós)."]}
-{"fi": "-nyt", "gr": "suffix", "en": ["Front vowel variant of -nut"]}
-{"fi": "-ut", "gr": "suffix", "en": ["Forms diminutive nouns.", "Forms some adjectives."]}
-{"fi": "-nnyt", "gr": "suffix", "en": ["Front vowel variant of -nnut"]}
-{"fi": "-yt", "gr": "suffix", "en": ["Front vowel variant of -ut"]}
-{"fi": "-iten", "gr": "suffix", "en": ["Forms superlative adverbs from some stems, mostly of bisyllabic stems or -ea adjectives."]}
-{"fi": "-tsu", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping).", "Found in some surnames."]}
-{"fi": "-oidi", "gr": "suffix", "en": ["-oid (similar to, but not the same)"]}
-{"fi": "-fagi", "gr": "suffix", "en": ["-phage"]}
-{"fi": "-moinen", "gr": "suffix", "en": ["-like"]}
-{"fi": "-itä", "gr": "suffix", "en": ["Front vowel variant of -ia"]}
-{"fi": "-eä", "gr": "suffix", "en": ["Front vowel variant of -ea"]}
-{"fi": "-oa", "gr": "suffix", "en": ["Forms frequentative and continuative verbs, primarily from nouns or verbs ending in -ta or -ata, but also from adverbs."]}
-{"fi": "-yyli", "gr": "suffix", "en": ["-yl"]}
-{"fi": "-yyni", "gr": "suffix", "en": ["-yne"]}
-{"fi": "-pua", "gr": "suffix", "en": ["Forms automative verbs."]}
-{"fi": "-tua", "gr": "suffix", "en": ["Forms passive or translative intransitive verbs from transitive verbs."]}
-{"fi": "-Vntua", "gr": "suffix", "en": ["Forms passive, reflexive or translative intransitive verbs."]}
-{"fi": "-stua", "gr": "suffix", "en": ["Forms translative verbs."]}
-{"fi": "-htua", "gr": "suffix", "en": ["Forms translative verbs, often emphasizing the quick nature of the change."]}
-{"fi": "-htia", "gr": "suffix", "en": ["Forms mostly frequentative verbs."]}
-{"fi": "-tyä", "gr": "suffix", "en": ["Front vowel variant of -tua"]}
-{"fi": "-tty", "gr": "suffix", "en": ["Front vowel variant of -ttu"]}
-{"fi": "-aani", "gr": "suffix", "en": ["-ane"]}
-{"fi": "-aasi", "gr": "suffix", "en": ["-ase (suffix used in terms for enzymes)"]}
-{"fi": "-aatio", "gr": "suffix", "en": ["-ation"]}
-{"fi": "-aista", "gr": "suffix", "en": ["Forms momentane verbs."]}
-{"fi": "-äistä", "gr": "suffix", "en": ["Front vowel variant of -aista"]}
-{"fi": "-dieeni", "gr": "suffix", "en": ["-diene"]}
-{"fi": "-eeni", "gr": "suffix", "en": ["-ene"]}
-{"fi": "-fyytti", "gr": "suffix", "en": ["-phyte"]}
-{"fi": "-idi", "gr": "suffix", "en": ["-ide"]}
-{"fi": "-isen", "gr": "suffix", "en": ["forms adverbs from numerals to represent an approximate amount; about, around, approximately"]}
-{"fi": "-näinen", "gr": "suffix", "en": ["Front vowel variant of -nainen"]}
-{"fi": "-nainen", "gr": "suffix", "en": ["forms adjectives, mostly describing a quality or property of the structure of something"]}
-{"fi": "-ye", "gr": "suffix", "en": ["Front vowel variant of -ue"]}
-{"fi": "-ystä", "gr": "suffix", "en": ["Front vowel variant of -usta"]}
-{"fi": "-ksyä", "gr": "suffix", "en": ["Front vowel variant of -ksua"]}
-{"fi": "-ksua", "gr": "suffix", "en": ["Forms sensive verbs, i.e. verbs describing the action of considering an object as something."]}
-{"fi": "-tää", "gr": "suffix", "en": ["Front vowel variant of -taa"]}
-{"fi": "-∅", "gr": "suffix", "en": ["A zero suffix.", "The nominative singular ending for nominals.", "A zero suffix.", "The third-person singular ending for past tense verbs.", "A zero suffix.", "The positive degree ending for adjectives.", "The k-lative suffix.", "The second-person singular imperative ending.", "The connegative ending."]}
-{"fi": "-lias", "gr": "suffix", "en": ["Variant of -ias."]}
-{"fi": "-elias", "gr": "suffix", "en": ["Variant of -ias."]}
-{"fi": "-ertaa", "gr": "suffix", "en": ["Derives intransitive verbs, mostly of sound-symbolic nature."]}
-{"fi": "-rtaa", "gr": "suffix", "en": ["Variant of -ertaa."]}
-{"fi": "-ltaa", "gr": "suffix", "en": ["Forms frequentative verbs, particularly those of sound-symbolic nature."]}
-{"fi": "-eltaa", "gr": "suffix", "en": ["Variant of -ltaa."]}
-{"fi": "-tuinen", "gr": "suffix", "en": ["Derives some adjectives describing the nature of something, mainly from monosyllabic or disyllabic stems."]}
-{"fi": "-sko", "gr": "suffix", "en": ["Forms diminutive nouns."]}
-{"fi": "-nka", "gr": "suffix", "en": ["Forms nouns, mainly bird names (in dialects) and some toponyms."]}
-{"fi": "-oittaa", "gr": "suffix", "en": ["Variant of -ttaa used for many stems that end in -a or are trisyllabic."]}
-{"fi": "-uri", "gr": "suffix", "en": ["Variant of -ari; forms agent nouns."]}
-{"fi": "-ntua", "gr": "suffix", "en": ["Forms reflexive or inchoative intransitive verbs."]}
-{"fi": "-äri", "gr": "suffix", "en": ["Front vowel variant of -ari"]}
-{"fi": "-ätä", "gr": "suffix", "en": ["Front vowel variant of -ata"]}
-{"fi": "-eliäs", "gr": "suffix", "en": ["Front vowel variant of -elias"]}
-{"fi": "-eltää", "gr": "suffix", "en": ["Front vowel variant of -eltaa"]}
-{"fi": "-ertää", "gr": "suffix", "en": ["Front vowel variant of -ertaa"]}
-{"fi": "-etä", "gr": "suffix", "en": ["Front vowel variant of -eta"]}
-{"fi": "-htiä", "gr": "suffix", "en": ["Front vowel variant of -htia"]}
-{"fi": "-htyä", "gr": "suffix", "en": ["Front vowel variant of -htua"]}
-{"fi": "-iäs", "gr": "suffix", "en": ["Front vowel variant of -ias"]}
-{"fi": "-ikkö", "gr": "suffix", "en": ["Front vowel variant of -ikko"]}
-{"fi": "-illä", "gr": "suffix", "en": ["Front vowel variant of -illa"]}
-{"fi": "-istää", "gr": "suffix", "en": ["Front vowel variant of -istaa"]}
-{"fi": "-läs", "gr": "suffix", "en": ["Front vowel variant of -las"]}
-{"fi": "-liäs", "gr": "suffix", "en": ["Front vowel variant of -lias"]}
-{"fi": "-lö", "gr": "suffix", "en": ["Front vowel variant of -lo"]}
-{"fi": "-ltää", "gr": "suffix", "en": ["Front vowel variant of -ltaa"]}
-{"fi": "-mys", "gr": "suffix", "en": ["Front vowel variant of -mus"]}
-{"fi": "-ntyä", "gr": "suffix", "en": ["Front vowel variant of -ntua"]}
-{"fi": "-öä", "gr": "suffix", "en": ["Front vowel variant of -oa"]}
-{"fi": "-öittää", "gr": "suffix", "en": ["Front vowel variant of -oittaa"]}
-{"fi": "-pyä", "gr": "suffix", "en": ["Front vowel variant of -pua"]}
-{"fi": "-rtää", "gr": "suffix", "en": ["Front vowel variant of -rtaa"]}
-{"fi": "-styä", "gr": "suffix", "en": ["Front vowel variant of -stua"]}
-{"fi": "-tellä", "gr": "suffix", "en": ["Front vowel variant of -tella"]}
-{"fi": "-tyinen", "gr": "suffix", "en": ["Front vowel variant of -tuinen"]}
-{"fi": "-ymä", "gr": "suffix", "en": ["Front vowel variant of -uma"]}
-{"fi": "-yri", "gr": "suffix", "en": ["Front vowel variant of -uri"]}
-{"fi": "-ytyä", "gr": "suffix", "en": ["Front vowel variant of -utua"]}
-{"fi": "-Vntyä", "gr": "suffix", "en": ["Front vowel variant of -Vntua"]}
-{"fi": "-tusten", "gr": "suffix", "en": ["Forms oppositive adverbs."]}
-{"fi": "-tysten", "gr": "suffix", "en": ["Front vowel variant of -tusten"]}
-{"fi": "-töin", "gr": "suffix", "en": ["Front vowel variant of -toin"]}
-{"fi": "-lloin", "gr": "suffix", "en": ["Forms temporal adverbs."]}
-{"fi": "-llöin", "gr": "suffix", "en": ["Front vowel variant of -lloin"]}
-{"fi": "-nto", "gr": "suffix", "en": ["Forms nouns."]}
-{"fi": "-nnos", "gr": "suffix", "en": ["Forms nouns."]}
-{"fi": "-tuksin", "gr": "suffix", "en": ["Forms oppositive adverbs."]}
-{"fi": "-oin", "gr": "suffix", "en": ["Forms temporal adverbs."]}
-{"fi": "-öin", "gr": "suffix", "en": ["Front vowel variant of -oin"]}
-{"fi": "-nko", "gr": "suffix", "en": ["Forms nouns, mostly describing locations."]}
-{"fi": "-nkö", "gr": "suffix", "en": ["Front vowel variant of -nko"]}
-{"fi": "-usta", "gr": "suffix", "en": ["Forms nouns, mostly used for things located in a certain place."]}
-{"fi": "-vät", "gr": "suffix", "en": ["Front vowel variant of -vat"]}
-{"fi": "-vat", "gr": "suffix", "en": ["Forms the third-person plural of verbs."]}
+{"fi": "-ti", "gr": "suffix", "en": ["Forms caritive adverbs.", "The ending for the abessive case.", "Forms adverbs of manner."]}
+{"fi": "-tta, -ttä", "gr": "suffix", "en": ["Suffix for the abessive case: without", "A suffix for the partitive singular.", "Forms certain adverbs, typically of manner.", "Forms some nouns, generally for places."]}
+{"fi": "-ttain, -ttäin", "gr": "suffix", "en": ["Forms distributive adverbs.", "Forms adverbs expressing manner.", "Forms adverbs that express position."]}
+{"fi": "-isuus, -isyys", "gr": "suffix", "en": ["Forms nouns from past active participles, adjectives ending in -ias/-iäs and occasionally other adjectives."]}
+{"fi": "-ias, -iäs", "gr": "suffix", "en": ["forms adjectives and sometimes nouns, often from verbs describing doing such an action often"]}
+{"fi": "-ine", "gr": "suffix", "en": ["Forms diminutive forms of nouns, particularly for objects or tools."]}
+{"fi": "-ska", "gr": "suffix", "en": ["Forms diminutive nouns.", "Used to transform husband's family name or title to a term for addressing or speaking of a married woman. Used especially with family names ending with -nen and titles ending -ri."]}
+{"fi": "-sto, -stö", "gr": "suffix", "en": ["Forms collective nouns from nouns indicating individual things."]}
+{"fi": "-mo, -mö", "gr": "suffix", "en": ["Forms nouns from verbs, indicating a place where the action is performed; -ery.", "Forms flower names."]}
+{"fi": "-nti", "gr": "suffix", "en": ["Form action nouns from verbs whose first infinitive ends with a diphthong + -da / -dä."]}
+{"fi": "-lus, -lys", "gr": "suffix", "en": ["Forms some nouns."]}
+{"fi": "-uli", "gr": "suffix", "en": ["Forms diminutive nouns."]}
+{"fi": "-ula", "gr": "suffix", "en": ["Forms diminutive nouns."]}
+{"fi": "-ero, -erö", "gr": "suffix", "en": ["Forms certain sound-symbolic or diminutive nouns.", "Forms certain pejorative nouns."]}
+{"fi": "-ura", "gr": "suffix", "en": ["Forms diminutive nouns."]}
+{"fi": "-ntaa, -ntää", "gr": "suffix", "en": ["Forms factitive verbs from adjectives and names of languages, meaning \"causing to become\" or \"making\"; -en, -fy"]}
+{"fi": "-uttaa, -yttää", "gr": "suffix", "en": ["Forms causative, curative, or factitive verbs from verbs.", "Forms factitive verbs from nominals.", "Variant of -ttaa with a frequentative nuance, especially used for onomatopoeic or sound-symbolic verbs."]}
+{"fi": "-eta, -etä", "gr": "suffix", "en": ["Forms translative verbs from adjectives, meaning \"to become (adjective)\" or \"to become more (adjective)\"."]}
+{"fi": "-ota", "gr": "suffix", "en": ["Forms translative verbs."]}
+{"fi": "-ea, -eä", "gr": "suffix", "en": ["A suffix for making adjectives from some nouns and verbs."]}
+{"fi": "-isa, -isä", "gr": "suffix", "en": ["A suffix for making adjectives from some nouns and verbs."]}
+{"fi": "-uinen", "gr": "suffix", "en": ["Forms adjectives for indicating the degree of a property."]}
+{"fi": "-einen", "gr": "suffix", "en": ["Forms adjectives from verbs."]}
+{"fi": "-kainen, -käinen", "gr": "suffix", "en": ["Creates nouns referring to things or beings that have a quality defined by the headword.", "Used to create terms of endearment, or sometimes belittling terms."]}
+{"fi": "-tuinen, -tyinen", "gr": "suffix", "en": ["Derives some adjectives describing the nature of something, mainly from monosyllabic or disyllabic stems."]}
+{"fi": "-ahtava", "gr": "suffix", "en": ["Forms adjectives with meanings of likeness and similarity: -ish, -y, -esque"]}
+{"fi": "-aus", "gr": "suffix", "en": ["Forms nouns, primarily of places, but occasionally other association.", "A variant of the suffix -us used with some verbs."]}
+{"fi": "-päin", "gr": "suffix", "en": ["-wards, -ward, -about (forms adverbs that indicate movement towards a direction or imprecise location)"]}
+{"fi": "-sin", "gr": "suffix", "en": ["Forms certain nouns, particularly those describing tools or implements."]}
+{"fi": "-tin", "gr": "suffix", "en": ["Forms certain nouns, particularly those describing tools or implements."]}
+{"fi": "-io, -iö", "gr": "suffix", "en": ["Forms nouns from verbs or verbal stems.", "Forms nouns from other nouns, adjectives, numbers or their stems."]}
+{"fi": "-pa, -pä", "gr": "suffix", "en": ["Forms adjectives or nouns of a very limited amount of verbs."]}
 {"fi": "-mmin", "gr": "suffix", "en": ["Makes comparative forms of adverbs, primarily -sti adverbs."]}
 {"fi": "-immin", "gr": "suffix", "en": ["Makes superlative forms of adverbs, primarily -sti adverbs."]}
-{"fi": "-maisilla", "gr": "suffix", "en": ["Forms the fifth infinitive of a verb, meaning \"about to do, almost do\"; always used with a possessive suffix."]}
-{"fi": "-ttävä", "gr": "suffix", "en": ["Front vowel variant of -ttava"]}
-{"fi": "-tävä", "gr": "suffix", "en": ["Front vowel variant of -tava"]}
-{"fi": "-tava", "gr": "suffix", "en": ["Forms the present passive participle."]}
-{"fi": "-skella", "gr": "suffix", "en": ["Forms frequentative verbs, chiefly from bisyllabic stems."]}
-{"fi": "-skellä", "gr": "suffix", "en": ["Front vowel variant of -skella"]}
-{"fi": "-skennellä", "gr": "suffix", "en": ["Front vowel variant of -skennella"]}
-{"fi": "-skennella", "gr": "suffix", "en": ["Forms frequentative verbs from monosyllabic stems."]}
-{"fi": "-uuttaa", "gr": "suffix", "en": ["Variant of -uttaa used with some bisyllabic stems."]}
-{"fi": "-yyttää", "gr": "suffix", "en": ["Front vowel variant of -uuttaa"]}
-{"fi": "-lmä", "gr": "suffix", "en": ["Front vowel variant of -lma"]}
-{"fi": "-lma", "gr": "suffix", "en": ["Forms nouns, mostly from verbs."]}
-{"fi": "-äs", "gr": "suffix", "en": ["Front vowel variant of -as"]}
-{"fi": "-oitua", "gr": "suffix", "en": ["Forms passive verbs from verbs ending with -oida and -oittaa, indicating shift from one state to another."]}
-{"fi": "-ksiä", "gr": "suffix", "en": ["Front vowel variant of -ksia"]}
-{"fi": "-ksia", "gr": "suffix", "en": ["Forms frequentative and continuative verbs.", "Forms sensive verbs."]}
-{"fi": "-rä", "gr": "suffix", "en": ["Front vowel variant of -ra"]}
-{"fi": "-ttyä", "gr": "suffix", "en": ["Front vowel variant of -ttua"]}
-{"fi": "-ttua", "gr": "suffix", "en": ["Forms inchoative or passive intransitive verbs from nominal stems."]}
-{"fi": "-ittää", "gr": "suffix", "en": ["Front vowel variant of -ittaa"]}
-{"fi": "-ittaa", "gr": "suffix", "en": ["Variant of -ttaa used with some monosyllabic and bisyllabic stems."]}
-{"fi": "-oittua", "gr": "suffix", "en": ["Variant of -ttua used for many stems that end in -a or are trisyllabic."]}
-{"fi": "-öittyä", "gr": "suffix", "en": ["Front vowel variant of -oittua"]}
-{"fi": "-uainen", "gr": "suffix", "en": ["Forms certain nouns, particularly for parts of living things."]}
+{"fi": "-iten", "gr": "suffix", "en": ["Forms superlative adverbs from some stems, mostly of bisyllabic stems or -ea adjectives."]}
 {"fi": "-isin", "gr": "suffix", "en": ["Forms temporal distributive adverbs.", "Used to form some adverbs."]}
-{"fi": "-kainen", "gr": "suffix", "en": ["Creates nouns referring to things or beings that have a quality defined by the headword.", "Used to create terms of endearment, or sometimes belittling terms."]}
-{"fi": "-käinen", "gr": "suffix", "en": ["Front vowel variant of -kainen"]}
+{"fi": "-oin, -öin", "gr": "suffix", "en": ["Forms temporal adverbs."]}
+{"fi": "-lloin, -llöin", "gr": "suffix", "en": ["Forms temporal adverbs."]}
+{"fi": "-ten", "gr": "suffix", "en": ["Forms causative adverbs."]}
+{"fi": "-itse", "gr": "suffix", "en": ["by, through; the suffix of the prolative, determines the channel by which something takes place."]}
+{"fi": "-neen", "gr": "suffix", "en": ["Comitative case suffix in third person."]}
+{"fi": "-ista, -istä", "gr": "suffix", "en": ["Forms frequentative verbs, often from onomatopoeic stems."]}
+{"fi": "-ski", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping)."]}
+{"fi": "-hko, -hkö", "gr": "suffix", "en": ["-ish; quite, relatively, somewhat"]}
+{"fi": "-mania", "gr": "suffix", "en": ["-mania"]}
+{"fi": "-lti", "gr": "suffix", "en": ["Forms adverbs from some adjectives, that mean \"in the manner of being something\"."]}
+{"fi": "-li", "gr": "suffix", "en": ["Forms diminutive nouns.", "Forms some terminative adverbs."]}
+{"fi": "-las, -läs", "gr": "suffix", "en": ["Forms nouns used to describe people.", "Forms adjectives, describing the abundance of something."]}
+{"fi": "-lis", "gr": "suffix", "en": ["Forms some nouns from verbs or adjectives from nominal stems."]}
+{"fi": "-le", "gr": "suffix", "en": ["Forms diminutive nouns."]}
+{"fi": "-uu, -yy", "gr": "suffix", "en": ["Forms nouns from verbs."]}
+{"fi": "-kki", "gr": "suffix", "en": ["Creates action nouns from verbs.", "Creates diminutive nouns from verb that indicate the object of an action.", "Creates nouns that indicate similarity, allegory or diminutiveness. The relationship is sometimes obscure.", "Creates female given names, especially for cows."]}
 {"fi": "-tti", "gr": "suffix", "en": ["Forms some nouns from verbs, particularly describing people or animals that do that action."]}
-{"fi": "-liini", "gr": "suffix", "en": ["Forms diminutive and endearing nouns"]}
-{"fi": "-iso", "gr": "suffix", "en": ["Forms collective nouns describing groups of people"]}
-{"fi": "-V", "gr": "suffix", "en": ["The third-person singular non-past verb marker.", "Partitive marker.", "Illative marker."]}
-{"fi": "-stella", "gr": "suffix", "en": ["Forms frequentative verbs."]}
-{"fi": "-stellä", "gr": "suffix", "en": ["Front vowel variant of -stella"]}
-{"fi": "-onen", "gr": "suffix", "en": ["Forms diminutive nouns."]}
-{"fi": "-hkia", "gr": "suffix", "en": ["Forms certain descriptive verbs."]}
-{"fi": "-alle", "gr": "suffix", "en": ["The sublative case suffix, used to form some adverbs."]}
-{"fi": "-tellen", "gr": "suffix", "en": ["forms certain adverbs denoting the extent of action"]}
-{"fi": "-istä", "gr": "suffix", "en": ["Front vowel variant of -ista."]}
-{"fi": "-erö", "gr": "suffix", "en": ["Front vowel variant of -ero"]}
-{"fi": "-llerö", "gr": "suffix", "en": ["Front vowel variant of -llero"]}
-{"fi": "-liitti", "gr": "suffix", "en": ["-lite (suffix for forming mineral names)"]}
+{"fi": "-ue, -ye", "gr": "suffix", "en": ["Forms collective nouns."]}
+{"fi": "-su", "gr": "suffix", "en": ["Forms some adjectives."]}
+{"fi": "-sa", "gr": "suffix", "en": ["Forms some adjectives.", "Forms slang nouns and adjectives, usually with clipping."]}
+{"fi": "-ut, -yt", "gr": "suffix", "en": ["Forms diminutive nouns.", "Forms some adjectives."]}
+{"fi": "-ppa", "gr": "suffix", "en": ["Forms some nouns, mainly clippings and in slang."]}
 {"fi": "-tto", "gr": "suffix", "en": ["Forms some nouns, chiefly for places."]}
-{"fi": "-iini", "gr": "suffix", "en": ["-in", "-ine"]}
-{"fi": "-nnellä", "gr": "suffix", "en": ["Front vowel variant of -nnella"]}
-{"fi": "-nnella", "gr": "suffix", "en": ["Forms frequentative verbs."]}
-{"fi": "-iteetti", "gr": "suffix", "en": ["-ity"]}
+{"fi": "-nto", "gr": "suffix", "en": ["Forms nouns."]}
+{"fi": "-nko, -nkö", "gr": "suffix", "en": ["Forms nouns, mostly describing locations."]}
+{"fi": "-nnos", "gr": "suffix", "en": ["Forms nouns."]}
+{"fi": "-rma, -rmä", "gr": "suffix", "en": ["Forms some nouns."]}
+{"fi": "-kea, -keä", "gr": "suffix", "en": ["Forms some adjectives; mostly non-productive."]}
+{"fi": "-nki", "gr": "suffix", "en": ["Forms nouns"]}
+{"fi": "-nka", "gr": "suffix", "en": ["Forms nouns, mainly bird names (in dialects) and some toponyms."]}
+{"fi": "-sko", "gr": "suffix", "en": ["Forms diminutive nouns."]}
+{"fi": "-onen", "gr": "suffix", "en": ["Forms diminutive nouns."]}
+{"fi": "-oinen", "gr": "suffix", "en": ["Forms adjectives, often with a somewhat diminutive meaning."]}
+{"fi": "-hinen", "gr": "suffix", "en": ["Forms nouns or adjectives of belonging to or possessing a particular quality."]}
+{"fi": "-uainen", "gr": "suffix", "en": ["Forms certain nouns, particularly for parts of living things."]}
+{"fi": "-iainen, -iäinen", "gr": "suffix", "en": ["Forms certain nouns.", "Forms names of ceremonies from verbs or nouns.", "Forms certain nouns, particularly vulgar nouns or names of insects."]}
+{"fi": "-kalainen", "gr": "suffix", "en": ["Forms some adjectives, primarily with a demonymic meaning, from monosyllabic stems."]}
+{"fi": "-jain", "gr": "suffix", "en": ["Forms agent nouns from verbs."]}
+{"fi": "-koinen", "gr": "suffix", "en": ["Derives some adjectives."]}
+{"fi": "-pi", "gr": "suffix", "en": ["Forms the third-person singular indicative present of verbs."]}
+{"fi": "-re", "gr": "suffix", "en": ["Forms nouns, mostly from nominal stems."]}
+{"fi": "-uma, -ymä", "gr": "suffix", "en": ["Variant of -ma; forms passive action/result nouns from verbs and sometimes nouns."]}
+{"fi": "-moinen", "gr": "suffix", "en": ["-like"]}
+{"fi": "-isen", "gr": "suffix", "en": ["forms adverbs from numerals to represent an approximate amount; about, around, approximately"]}
+{"fi": "-lias, -liäs", "gr": "suffix", "en": ["Variant of -ias."]}
+{"fi": "-elias, -eliäs", "gr": "suffix", "en": ["Variant of -ias."]}
+{"fi": "-uri, -yri", "gr": "suffix", "en": ["Variant of -ari; forms agent nouns."]}
+{"fi": "-usta, -ystä", "gr": "suffix", "en": ["Forms nouns, mostly used for things located in a certain place."]}
 {"fi": "-nnainen", "gr": "suffix", "en": ["Forms nouns or adjectives from verbs."]}
+{"fi": "-listo", "gr": "suffix", "en": ["Forms some nouns, mainly with a collective meaning."]}
+{"fi": "-lloinen", "gr": "suffix", "en": ["Forms some adjectives."]}
+{"fi": "-ustin", "gr": "suffix", "en": ["Forms certain nouns, particularly those describing (wearable) equipment."]}
+{"fi": "-staa, -stää", "gr": "suffix", "en": ["Forms captative verbs, i.e. verbs for hunting or catching animals or picking plants.", "Allomorph of -istaa, particularly used after labial vowels."]}
+{"fi": "-ertaa, -ertää", "gr": "suffix", "en": ["Derives intransitive verbs, mostly of sound-symbolic nature."]}
+{"fi": "-rtaa, -rtää", "gr": "suffix", "en": ["Variant of -ertaa."]}
+{"fi": "-ltaa, -ltää", "gr": "suffix", "en": ["Forms frequentative verbs, particularly those of sound-symbolic nature."]}
+{"fi": "-eltaa, -eltää", "gr": "suffix", "en": ["Variant of -ltaa."]}
+{"fi": "-altaa", "gr": "suffix", "en": ["Forms primarily momentane verbs."]}
+{"fi": "-ajaa", "gr": "suffix", "en": ["Forms frequentative verbs, often from onomatopoeic stems."]}
+{"fi": "-ustaa, -ystää", "gr": "suffix", "en": ["Forms verbs for actions, with a somewhat frequentative meaning."]}
+{"fi": "-ottaa", "gr": "suffix", "en": ["Variant of -ttaa with a frequentative nuance."]}
+{"fi": "-oittaa, -öittää", "gr": "suffix", "en": ["Variant of -ttaa used for many stems that end in -a or are trisyllabic."]}
+{"fi": "-ittaa, -ittää", "gr": "suffix", "en": ["Variant of -ttaa used with some monosyllabic and bisyllabic stems."]}
+{"fi": "-oittua, -öittyä", "gr": "suffix", "en": ["Variant of -ttua used for many stems that end in -a or are trisyllabic."]}
+{"fi": "-oitua", "gr": "suffix", "en": ["Forms passive verbs from verbs ending with -oida and -oittaa, indicating shift from one state to another."]}
+{"fi": "-uuttaa, -yyttää", "gr": "suffix", "en": ["Variant of -uttaa used with some bisyllabic stems."]}
+{"fi": "-htia, -htiä", "gr": "suffix", "en": ["Forms mostly frequentative verbs."]}
+{"fi": "-hkia", "gr": "suffix", "en": ["Forms certain descriptive verbs."]}
+{"fi": "-ksua, -ksyä", "gr": "suffix", "en": ["Forms sensive verbs, i.e. verbs describing the action of considering an object as something."]}
+{"fi": "-pua, -pyä", "gr": "suffix", "en": ["Forms automative verbs."]}
+{"fi": "-aista, -äistä", "gr": "suffix", "en": ["Forms momentane verbs."]}
+{"fi": "-skella, -skellä", "gr": "suffix", "en": ["Forms frequentative verbs, chiefly from bisyllabic stems."]}
+{"fi": "-skennella, -skennellä", "gr": "suffix", "en": ["Forms frequentative verbs from monosyllabic stems."]}
+{"fi": "-stella, -stellä", "gr": "suffix", "en": ["Forms frequentative verbs."]}
+{"fi": "-nnella, -nnellä", "gr": "suffix", "en": ["Forms frequentative verbs."]}
+{"fi": "-ida", "gr": "suffix", "en": ["Reflexive verb ending."]}
+{"fi": "-roida", "gr": "suffix", "en": ["Forms some sound-symbolic verbs."]}
+{"fi": "-loida", "gr": "suffix", "en": ["Forms some verbs, mainly sound-symbolic ones."]}
+{"fi": "-koida, -köidä", "gr": "suffix", "en": ["Forms some verbs, mainly from other verbs."]}
+{"fi": "-eerata", "gr": "suffix", "en": ["Forms verbs from foreign verbs."]}
+{"fi": "-oa, -öä", "gr": "suffix", "en": ["Forms frequentative and continuative verbs, primarily from nouns or verbs ending in -ta or -ata, but also from adverbs."]}
+{"fi": "-tusten, -tysten", "gr": "suffix", "en": ["Forms oppositive adverbs."]}
+{"fi": "-tuksin", "gr": "suffix", "en": ["Forms oppositive adverbs."]}
+{"fi": "-nnoin", "gr": "suffix", "en": ["Forms temporal adverbs."]}
+{"fi": "-kkoin", "gr": "suffix", "en": ["Forms temporal adverbs."]}
+{"fi": "-nnes", "gr": "suffix", "en": ["Forms terminative adverbs."]}
+{"fi": "-nni", "gr": "suffix", "en": ["Forms terminative adverbs."]}
+{"fi": "-kkain, -kkäin", "gr": "suffix", "en": ["Forms situative adverbs."]}
+{"fi": "-maisilla", "gr": "suffix", "en": ["Forms the fifth infinitive of a verb, meaning \"about to do, almost do\"; always used with a possessive suffix."]}
+{"fi": "-vinaan, -vinään", "gr": "suffix", "en": ["Indicates pretended or suggested action; multiple English equivalents."]}
+{"fi": "-tellen", "gr": "suffix", "en": ["forms certain adverbs denoting the extent of action"]}
+{"fi": "-staan", "gr": "suffix", "en": ["Forms some adverbs, particularly with a locative meaning.", "Forms adverbs from numerals meaning \"with N people\", \"in a group of N people\"."]}
+{"fi": "-alle", "gr": "suffix", "en": ["The sublative case suffix, used to form some adverbs."]}
+{"fi": "-alta", "gr": "suffix", "en": ["The delative case suffix, used to form some adverbs."]}
+{"fi": "-alla, -ällä", "gr": "suffix", "en": ["The superessive case suffix, used to form some adverbs."]}
+{"fi": "-toista", "gr": "suffix", "en": ["-teen (suffix which in Finnish forms the numbers 11 to 19)"]}
+{"fi": "-vi", "gr": "suffix", "en": ["An archaic/poetic variant of the standard third-person present."]}
+{"fi": "-is", "gr": "suffix", "en": ["-er, -ie; a suffix used to form nouns and proper nouns from place names, common nouns and adjectives; gives a familiar nuance to the original word; the original word is often truncated in the process.", "sharp, ♯"]}
 {"fi": "-kku", "gr": "suffix", "en": ["A diminutive suffix that most often forms clippings."]}
 {"fi": "-tsikka", "gr": "suffix", "en": ["Forms clippings."]}
 {"fi": "-tsa", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping)."]}
+{"fi": "-tsu", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping).", "Found in some surnames."]}
 {"fi": "-sku", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping)."]}
 {"fi": "-tsi", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping)."]}
 {"fi": "-sakka", "gr": "suffix", "en": ["Forms adjectives by clipping, with a moderative or diminutive meaning."]}
 {"fi": "-kkari", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping)."]}
-{"fi": "-alta", "gr": "suffix", "en": ["The delative case suffix, used to form some adverbs."]}
-{"fi": "-alla", "gr": "suffix", "en": ["The superessive case suffix, used to form some adverbs."]}
-{"fi": "-hinen", "gr": "suffix", "en": ["Forms nouns or adjectives of belonging to or possessing a particular quality."]}
-{"fi": "-oinen", "gr": "suffix", "en": ["Forms adjectives, often with a somewhat diminutive meaning."]}
-{"fi": "-ällä", "gr": "suffix", "en": ["Front vowel variant of -alla"]}
-{"fi": "-ppari", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping). Affixed to stems ending in /m/, but not without exception."]}
-{"fi": "-staan", "gr": "suffix", "en": ["Forms some adverbs, particularly with a locative meaning.", "Forms adverbs from numerals meaning \"with N people\", \"in a group of N people\"."]}
-{"fi": "-nnoin", "gr": "suffix", "en": ["Forms temporal adverbs."]}
-{"fi": "-kkoin", "gr": "suffix", "en": ["Forms temporal adverbs."]}
-{"fi": "-listo", "gr": "suffix", "en": ["Forms some nouns, mainly with a collective meaning."]}
-{"fi": "-lloinen", "gr": "suffix", "en": ["Forms some adjectives."]}
-{"fi": "-ppa", "gr": "suffix", "en": ["Forms some nouns, mainly clippings and in slang."]}
-{"fi": "-altaa", "gr": "suffix", "en": ["Forms primarily momentane verbs."]}
-{"fi": "-ustin", "gr": "suffix", "en": ["Forms certain nouns, particularly those describing (wearable) equipment."]}
-{"fi": "-kalainen", "gr": "suffix", "en": ["Forms some adjectives, primarily with a demonymic meaning, from monosyllabic stems."]}
-{"fi": "-jain", "gr": "suffix", "en": ["Forms agent nouns from verbs."]}
-{"fi": "-ottaa", "gr": "suffix", "en": ["Variant of -ttaa with a frequentative nuance."]}
-{"fi": "-itsa", "gr": "suffix", "en": ["A diminutive suffix. No longer productive."]}
-{"fi": "-roida", "gr": "suffix", "en": ["Forms some sound-symbolic verbs."]}
-{"fi": "-iä", "gr": "suffix", "en": ["Front vowel variant of -ia"]}
-{"fi": "-inä", "gr": "suffix", "en": ["Front vowel variant of -ina"]}
-{"fi": "-äkkä", "gr": "suffix", "en": ["Front vowel variant of -akka"]}
-{"fi": "-koida", "gr": "suffix", "en": ["Forms some verbs, mainly from other verbs."]}
-{"fi": "-ahtava", "gr": "suffix", "en": ["Forms adjectives with meanings of likeness and similarity: -ish, -y, -esque"]}
-{"fi": "-köidä", "gr": "suffix", "en": ["Front vowel variant of -koida"]}
-{"fi": "-jäinen", "gr": "suffix", "en": ["Front vowel variant of -jainen"]}
-{"fi": "-tys", "gr": "suffix", "en": ["Front vowel variant of -tus"]}
-{"fi": "-ystää", "gr": "suffix", "en": ["Front vowel variant of -ustaa"]}
-{"fi": "-ustaa", "gr": "suffix", "en": ["Forms verbs for actions, with a somewhat frequentative meaning."]}
-{"fi": "-rmä", "gr": "suffix", "en": ["Front vowel variant of -rma"]}
-{"fi": "-rma", "gr": "suffix", "en": ["Forms some nouns."]}
-{"fi": "-keä", "gr": "suffix", "en": ["Front vowel variant of -kea"]}
-{"fi": "-kea", "gr": "suffix", "en": ["Forms some adjectives; mostly non-productive."]}
-{"fi": "-lteen", "gr": "suffix", "en": ["Can stand for either -llaan or -lleen in adverbs."]}
-{"fi": "-isö", "gr": "suffix", "en": ["Front vowel variant of -iso"]}
-{"fi": "-nkainen", "gr": "suffix", "en": ["Forms nouns, often with a diminutive meaning."]}
 {"fi": "-skari", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping)."]}
-{"fi": "-nnes", "gr": "suffix", "en": ["Forms terminative adverbs."]}
-{"fi": "-ajaa", "gr": "suffix", "en": ["Forms frequentative verbs, often from onomatopoeic stems."]}
-{"fi": "-oosi", "gr": "suffix", "en": ["-osis", "-ose"]}
-{"fi": "-loida", "gr": "suffix", "en": ["Forms some verbs, mainly sound-symbolic ones."]}
-{"fi": "-lys", "gr": "suffix", "en": ["Front vowel variant of -lus"]}
-{"fi": "-koinen", "gr": "suffix", "en": ["Derives some adjectives."]}
+{"fi": "-ppari", "gr": "suffix", "en": ["Slang suffix, generally for nouns (with clipping). Affixed to stems ending in /m/, but not without exception."]}
+{"fi": "-liini", "gr": "suffix", "en": ["Forms diminutive and endearing nouns"]}
+{"fi": "-iso, -isö", "gr": "suffix", "en": ["Forms collective nouns describing groups of people"]}
+{"fi": "-nkainen", "gr": "suffix", "en": ["Forms nouns, often with a diminutive meaning."]}
+{"fi": "-itsa", "gr": "suffix", "en": ["A diminutive suffix. No longer productive."]}
 {"fi": "-homo", "gr": "suffix", "en": ["-fag; suffix that forms nouns, generally referring to specific types of people, sometimes used ironically, derogatorily, or even affectionately."]}
-{"fi": "-aus", "gr": "suffix", "en": ["Forms nouns, primarily of places, but occasionally other association.", "A variant of the suffix -us used with some verbs."]}
-{"fi": "-uinen", "gr": "suffix", "en": ["Forms adjectives for indicating the degree of a property."]}
-{"fi": "-isuus", "gr": "suffix", "en": ["Forms nouns from past active participles, adjectives ending in -ias/-iäs and occasionally other adjectives."]}
-{"fi": "-isyys", "gr": "suffix", "en": ["Front vowel variant of -isuus"]}
 {"fi": "-pää", "gr": "suffix", "en": ["-head used to form nouns denoting an afficionado"]}
-{"fi": "-einen", "gr": "suffix", "en": ["Forms adjectives from verbs."]}
-{"fi": "-eerata", "gr": "suffix", "en": ["Forms verbs from foreign verbs."]}
+{"fi": "-logia", "gr": "suffix", "en": ["-logy"]}
+{"fi": "-logi", "gr": "suffix", "en": ["-logist", "-logy"]}
+{"fi": "-loginen", "gr": "suffix", "en": ["-logical"]}
+{"fi": "-nomi", "gr": "suffix", "en": ["-nomist, -nomer", "Used to create academic titles, especially for graduates from an ammattikorkeakoulu (“polytechnic”), many of which are peculiar to Finland and do not have a direct English equivalent"]}
+{"fi": "-kratia", "gr": "suffix", "en": ["-cracy"]}
+{"fi": "-kraatti", "gr": "suffix", "en": ["-crat (participant in a specified form of government)"]}
+{"fi": "-fobia", "gr": "suffix", "en": ["-phobia"]}
+{"fi": "-filia", "gr": "suffix", "en": ["-philia"]}
+{"fi": "-fiili", "gr": "suffix", "en": ["-phile"]}
+{"fi": "-patia", "gr": "suffix", "en": ["-pathy"]}
+{"fi": "-aatio", "gr": "suffix", "en": ["-ation"]}
+{"fi": "-iteetti", "gr": "suffix", "en": ["-ity"]}
+{"fi": "-iikka", "gr": "suffix", "en": ["-ics (suffix used to form names of fields of knowledge or practice)"]}
