@@ -85,11 +85,10 @@ describe('demo-ui routing (real modules, stubbed DOM)', () => {
     await syncRoute();
     await render();
     expect(body.innerHTML).toContain('Learn Finnish');
+    expect(body.innerHTML).toContain('Nouns');
     expect(body.innerHTML).toContain('Verbs');
     expect(body.innerHTML).toContain('Adjectives');
     expect(body.innerHTML).toContain('Pronouns');
-    // The unlisted (too large) nouns topic is not reachable.
-    expect(body.innerHTML).not.toMatch(/>Nouns</);
   });
 
   it('/fi/learn/verbs opens the Learn stage with a fresh batch', async () => {

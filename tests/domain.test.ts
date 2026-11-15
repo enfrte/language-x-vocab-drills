@@ -2,9 +2,8 @@
  * Smoke tests that mirror the domain behaviour documented for the original
  * learn-maori app — the port must behave the same way.
  *
- * The tests use the legacy `xx` datasets directly (they are still on disk)
- * with an explicit language config, which also proves the domain is generic
- * over languages.
+ * The tests use the packaged Māori nouns dataset directly, which also proves
+ * the domain is generic over languages.
  */
 
 import { describe, expect, it } from 'vitest';
@@ -15,12 +14,11 @@ import { LearnSession } from '../src/domain/LearnSession';
 import { RecallSession } from '../src/domain/RecallSession';
 import { StoreKeys } from '../src/storage/StoreKeys';
 import { InMemoryProgressStore } from './InMemoryProgressStore';
-import nounsDataset from '../src/data/datasets/xx-en-dic-nouns-by-frequency.jsonl?raw';
+import nounsDataset from '../src/data/datasets/mi/mi-en-dic-nouns.jsonl?raw';
 
-/** A LanguageConfig for the legacy "xx" datasets used in these tests. */
-const XX_LANGUAGE: LanguageConfig = { code: 'xx', name: 'Māori', source: 'en', topics: {} };
+const MI_LANGUAGE: LanguageConfig = LANGUAGES['mi'];
 
-const dictionary = new Dictionary(nounsDataset, XX_LANGUAGE.code);
+const dictionary = new Dictionary(nounsDataset, MI_LANGUAGE.code);
 
 describe('Dictionary', () => {
   it('parses entries with positional ids and grammar groups', () => {
@@ -65,9 +63,6 @@ describe('Topic registry', () => {
     const registry = await createTopicRegistry(finnish);
     const ids = registry.all().map((topic) => topic.id);
     expect(ids).toEqual(Object.keys(finnish.topics).map(topicIdOf));
-    // Only configured topics are registered; files on disk not listed in the
-    // config (fi-en-nouns.jsonl) are ignored.
-    expect(ids).not.toContain('nouns');
   });
 
   it('throws a clear error when a configured dataset file is missing', async () => {
@@ -84,13 +79,13 @@ describe('Topic registry', () => {
 describe('LearnSession', () => {
   it('runs the full loop: review -> quiz both rounds -> batch promoted to learned', async () => {
     const store = new InMemoryProgressStore();
-    const session = new LearnSession('nouns', XX_LANGUAGE, dictionary, store);
+    const session = new LearnSession('nouns', MI_LANGUAGE, dictionary, store);
     await session.setup();
     expect(session.phase).toBe('review');
     expect(session.batch).toHaveLength(5);
 
     const entry0 = dictionary.word(0)!;
-    // Round 1: xx -> en
+    // Round 1: xx -> en (xx is the generic quiz-direction placeholder).
     session.startQuiz('xx-en');
     expect(session.phase).toBe('quiz');
     expect(session.round).toBe('xx-en');
@@ -107,7 +102,7 @@ describe('LearnSession', () => {
     // After queue drained on round 1 it restarted as 'en-xx'; both rounds
     // completed -> completeBatch ran -> back to review with a fresh batch.
     expect(session.phase).toBe('review');
-    const keys = new StoreKeys('xx', 'nouns');
+    const keys = new StoreKeys('mi', 'nouns');
     const learned = await store.loadIds(keys.learneds);
     expect(learned).toEqual([0, 1, 2, 3, 4]);
     expect(await store.loadIds(keys.learnInProgress)).toEqual([5, 6, 7, 8, 9]);
@@ -115,7 +110,7 @@ describe('LearnSession', () => {
 
   it('uses the language name in en -> word prompts', async () => {
     const store = new InMemoryProgressStore();
-    const session = new LearnSession('nouns', XX_LANGUAGE, dictionary, store);
+    const session = new LearnSession('nouns', MI_LANGUAGE, dictionary, store);
     await session.setup();
     session.startQuiz('en-xx');
     expect(session.questionView!.prompt).toContain('in Māori');
@@ -123,7 +118,7 @@ describe('LearnSession', () => {
 
   it('re-queues a wrongly answered word within the round', async () => {
     const store = new InMemoryProgressStore();
-    const session = new LearnSession('nouns', XX_LANGUAGE, dictionary, store);
+    const session = new LearnSession('nouns', MI_LANGUAGE, dictionary, store);
     await session.setup();
     session.startQuiz('en-xx');
     const question = session.questionView!;
@@ -143,17 +138,17 @@ describe('LearnSession', () => {
 describe('RecallSession', () => {
   it('is empty before anything is learned', async () => {
     const store = new InMemoryProgressStore();
-    const session = new RecallSession('nouns', XX_LANGUAGE, dictionary, store);
+    const session = new RecallSession('nouns', MI_LANGUAGE, dictionary, store);
     await session.setup();
     expect(session.phase).toBe('empty');
   });
 
   it('quizzes every learned word and never drops the queue empty', async () => {
     const store = new InMemoryProgressStore();
-    const session = new RecallSession('nouns', XX_LANGUAGE, dictionary, store);
+    const session = new RecallSession('nouns', MI_LANGUAGE, dictionary, store);
     await session.setup();
     expect(session.phase).toBe('empty');
-    const keys = new StoreKeys('xx', 'nouns');
+    const keys = new StoreKeys('mi', 'nouns');
     await store.saveIds(keys.learneds, [0, 1, 2]);
     await session.setup();
     expect(session.phase).toBe('quiz');
@@ -171,9 +166,9 @@ describe('RecallSession', () => {
 
   it('re-queues a wrong answer 5 places after the current position', async () => {
     const store = new InMemoryProgressStore();
-    const keys = new StoreKeys('xx', 'nouns');
+    const keys = new StoreKeys('mi', 'nouns');
     await store.saveIds(keys.learneds, [0, 1, 2, 3, 4, 5, 6]);
-    const session = new RecallSession('nouns', XX_LANGUAGE, dictionary, store);
+    const session = new RecallSession('nouns', MI_LANGUAGE, dictionary, store);
     await session.setup();
     const q = session.questionView!;
     const wrong = q.options.find((o) => o !== q.correct)!;

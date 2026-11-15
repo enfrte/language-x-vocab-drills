@@ -16,11 +16,9 @@ describe('LearnXApp', () => {
     expect(app.config.code).toBe('fi');
     expect(app.config.name).toBe('Finnish');
     const ids = app.topics.all().map((topic) => topic.id);
-    expect(ids).toEqual(['verbs', 'adjectives', 'adverbs', 'pronouns', 'suffixes']);
-    // Unlisted files on disk are ignored — the 11 MB nouns dataset is not
-    // registered.
-    expect(ids).not.toContain('nouns');
+    expect(ids).toEqual(['nouns', 'verbs', 'pronouns', 'adjectives', 'adverbs', 'suffixes']);
     // The dataset text was really loaded (lazy chunk) and parsed.
+    expect(app.dictionary('nouns').wordCount).toBeGreaterThan(1000);
     expect(app.dictionary('verbs').wordCount).toBeGreaterThan(1000);
     expect(app.dictionary('verbs').word(0)!.xx.length).toBeGreaterThan(0);
   });
@@ -53,7 +51,7 @@ describe('LearnXApp', () => {
   it('falls back to the first topic for unknown topic ids', async () => {
     const app = await createApp('fi', new InMemoryProgressStore());
     await app.openLearn('no-such-topic');
-    expect(app.topicId).toBe('verbs');
+    expect(app.topicId).toBe('nouns');
     expect(app.view).toBe('learn');
   });
 

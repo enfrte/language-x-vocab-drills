@@ -17,15 +17,8 @@
 import { type LanguageConfig } from '../config';
 import { Topic } from './topic';
 
-/**
- * Every packaged .jsonl file, as a lazy loader (one chunk per dataset file).
- *
- * fi-en-nouns.jsonl (11 MB) is deliberately excluded: it is not listed in
- * LANGUAGES.fi.topics because it is too large to bundle. If it is ever
- * re-added to the config, remove its exclusion here too.
- */
 const DATASET_LOADERS = import.meta.glob<string>(
-  ['/src/data/datasets/**/*.jsonl', '!/src/data/datasets/fi/fi-en-nouns.jsonl'],
+  '/src/data/datasets/**/*.jsonl',
   { query: '?raw', import: 'default' },
 );
 
