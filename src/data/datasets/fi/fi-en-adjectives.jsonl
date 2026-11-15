@@ -2,10 +2,7 @@
 {"fi":"magenta","gr":"adj","en":["magenta (being of the magenta colour)"]}
 {"fi":"indigo","gr":"adj","en":["indigo (being of that color)"]}
 {"fi":"khaki","gr":"adj","en":["khaki (beige colour)"]}
-{"fi":"PA","gr":"adj","en":["alternative spelling of peeaa"]}
-{"fi":"OK","gr":"adj","en":["alternative form of okei"]}
 {"fi":"ad hoc","gr":"adj","en":["ad hoc (for a particular purpose)"]}
-{"fi":"gourmet","gr":"adj","en":["alternative form of gurmee"]}
 {"fi":"vapaa","gr":"adj","en":["free","free (not imprisoned, enslaved or subjugated)","free","free (unconstrained)","free (with freedom, liberty)","free, loose (released, not restrained)","free, off (without obligations)","spare, free (not filled with activity or work)","vacant, free, unoccupied","free (unattached, uncombined)","freelance (working as a freelancer)","unmarried, single, available","free-range (of, pertaining to, or produced by animals that are allowed to roam freely, rather than being confined indoors)","free (without physical support)","unreleased, not pressed (e.g. of a string)","free, free of charge","free, unconstrained","linearly independent (of a set of vectors)"]}
 {"fi":"halal","gr":"adj","en":["halal","permissible, accepted"]}
 {"fi":"pop","gr":"adj","en":["pop (popular)"]}
@@ -81,7 +78,6 @@
 {"fi":"tyhmä","gr":"adj","en":["stupid, dumb, dull (not intelligent)"]}
 {"fi":"viisas","gr":"adj","en":["wise"]}
 {"fi":"pro","gr":"adj","en":["skilled"]}
-{"fi":"av","gr":"adj","en":["abbreviation of audiovisuaalinen (“audiovisual”)"]}
 {"fi":"ufo","gr":"adj","en":["weird"]}
 {"fi":"tehokas","gr":"adj","en":["powerful, potent","efficient","effective (see usage notes)"]}
 {"fi":"mono","gr":"adj","en":["mono (having only a single audio channel)"]}
@@ -96,7 +92,6 @@
 {"fi":"iki-","gr":"adj","en":["primitive","eternal"]}
 {"fi":"ikuinen","gr":"adj","en":["everlasting, eternal","never-ending, perpetual"]}
 {"fi":"ujo","gr":"adj","en":["shy, coy, timid, bashful"]}
-{"fi":"v.","gr":"adj","en":["abbreviation of -vuotias (“year-old”)"]}
 {"fi":"kolea","gr":"adj","en":["chilly"]}
 {"fi":"radikaali","gr":"adj","en":["radical"]}
 {"fi":"rage","gr":"adj","en":["irritable, prone to anger"]}
@@ -264,8 +259,6 @@
 {"fi":"kirpeä","gr":"adj","en":["tart, tangy (sharp to the taste)","crisp (of air, weather, etc.: cool and dry)","garish, gaudy (so bright it is hard to look at)","pungent, acerbic, stinging, biting (e.g. of criticism)"]}
 {"fi":"orpo","gr":"adj","en":["orphan, orphaned","lonely"]}
 {"fi":"täysi","gr":"adj","en":["full (containing the maximum possible amount)","full, complete, whole, entire","full (completely empowered, authorized or qualified)","full, satiated, replete","full of, replete","whole, pure, sheer (free of foreign material or pollutants)","full (having its entire face illuminated)","round, full (of an angle: completing or covering a full circle)"]}
-{"fi":"uus","gr":"adj","en":["alternative form of uusi"]}
-{"fi":"vaka","gr":"adj","en":["archaic form of vakaa"]}
 {"fi":"sekunda","gr":"adj","en":["second-rate"]}
 {"fi":"kut","gr":"adj","en":["good"]}
 {"fi":"ensi","gr":"adj","en":["next (the first time after now)","first"]}
@@ -315,7 +308,6 @@
 {"fi":"ilmainen","gr":"adj","en":["free of charge, free, gratis, gratuitous"]}
 {"fi":"limainen","gr":"adj","en":["slimy","mucous (having the qualities of mucus)","sleazy (untrustworthy; raunchy or perverted in nature)"]}
 {"fi":"ylivertainen","gr":"adj","en":["supreme, supernal"]}
-{"fi":"lila","gr":"adj","en":["alternative form of liila"]}
 {"fi":"kauhea","gr":"adj","en":["awful, dreadful, terrible, horrible, horrid","bad, unpleasant, disagreeable, repulsive","tremendous, immense, terrible, horrible"]}
 {"fi":"armas","gr":"adj","en":["dear, beloved, cherished","blessed, pleasing, pretty"]}
 {"fi":"liitännäinen","gr":"adj","en":["associative"]}
@@ -516,7 +508,6 @@
 {"fi":"kielteinen","gr":"adj","en":["negative (opposite of affirmative; inspiring negative reactions)"]}
 {"fi":"hyväntahtoinen","gr":"adj","en":["good-natured, kind, benevolent","well-meaning"]}
 {"fi":"kädellinen","gr":"adj","en":["having a hand or hands"]}
-{"fi":"vasempi","gr":"adj","en":["alternative form of vasen"]}
 {"fi":"rannempi","gr":"adj","en":["closer to beach or shore"]}
 {"fi":"jyrkkä","gr":"adj","en":["steep, abrupt","strict (governed by exact rules)","radical, extreme"]}
 {"fi":"lerppu","gr":"adj","en":["soft, bendy, flaccid, floppy"]}
@@ -643,7 +634,6 @@
 {"fi":"sosialistinen","gr":"adj","en":["socialistic, socialist"]}
 {"fi":"ennenaikainen","gr":"adj","en":["premature, untimely, early"]}
 {"fi":"elliptinen","gr":"adj","en":["elliptic","elliptical (showing ellipsis; having a word or words omitted)"]}
-{"fi":"aktiivi","gr":"adj","en":["alternative form of aktiivinen"]}
 {"fi":"kosmeettinen","gr":"adj","en":["cosmetic"]}
 {"fi":"kodikas","gr":"adj","en":["cosy, homely"]}
 {"fi":"nihkeä","gr":"adj","en":["damp, moist (skin, air)","begrudging, reluctant, distasteful, unenthusiastic (of a person's attitude towards something)"]}
@@ -1034,7 +1024,6 @@
 {"fi":"vehmas","gr":"adj","en":["lush, verdant"]}
 {"fi":"rehevä","gr":"adj","en":["lush, exuberant, luxuriant","eutrophic","buxom, voluptuous"]}
 {"fi":"veljellinen","gr":"adj","en":["brotherly, fraternal"]}
-{"fi":"eriskummainen","gr":"adj","en":["alternative form of eriskummallinen"]}
 {"fi":"eriskummallinen","gr":"adj","en":["bizarre, eccentric"]}
 {"fi":"eoseenikautinen","gr":"adj","en":["Eocene"]}
 {"fi":"epideeminen","gr":"adj","en":["epidemic"]}
@@ -1295,7 +1284,6 @@
 {"fi":"gynekologinen","gr":"adj","en":["gynecological"]}
 {"fi":"gurmee","gr":"adj","en":["gourmet (of food: fine)","delicious"]}
 {"fi":"gnostilainen","gr":"adj","en":["Gnostic"]}
-{"fi":"gnostisistinen","gr":"adj","en":["alternative form of gnostinen (“Gnostic”)"]}
 {"fi":"gluteeniton","gr":"adj","en":["gluten-free"]}
 {"fi":"glasiaalinen","gr":"adj","en":["glacial"]}
 {"fi":"graniittinen","gr":"adj","en":["granitic"]}
@@ -1337,7 +1325,6 @@
 {"fi":"teokraattinen","gr":"adj","en":["theocratic"]}
 {"fi":"teollinen","gr":"adj","en":["industrial"]}
 {"fi":"teratogeeninen","gr":"adj","en":["teratogenic"]}
-{"fi":"terhakas","gr":"adj","en":["alternative form of terhakka (“brisk”)"]}
 {"fi":"terhakka","gr":"adj","en":["brisk: energetic and upbeat; perky"]}
 {"fi":"terminologinen","gr":"adj","en":["terminological"]}
 {"fi":"termodynaaminen","gr":"adj","en":["thermodynamic"]}
@@ -1432,7 +1419,6 @@
 {"fi":"tulenkestävä","gr":"adj","en":["fireproof, refractory"]}
 {"fi":"tiilenpunainen","gr":"adj","en":["fire brick (of colour)"]}
 {"fi":"osuva","gr":"adj","en":["apt, pertinent, fitting, poignant, relevant"]}
-{"fi":"kuulu","gr":"adj","en":["alternative form of kuuluisa"]}
 {"fi":"pysty","gr":"adj","en":["upright, vertical (now uncommon as an independent adjective)"]}
 {"fi":"uloin","gr":"adj","en":["outermost"]}
 {"fi":"luunkova","gr":"adj","en":["bone hard"]}
@@ -1863,15 +1849,12 @@
 {"fi":"kreatiivinen","gr":"adj","en":["creative"]}
 {"fi":"kreisi","gr":"adj","en":["crazy"]}
 {"fi":"kriittinen","gr":"adj","en":["critical","critical (of temperature, higher than the temperature of the critical point)"]}
-{"fi":"kriitillinen","gr":"adj","en":["alternative form of kriittinen"]}
 {"fi":"kretliini","gr":"adj","en":["purple"]}
 {"fi":"kriminaali","gr":"adj","en":["criminal"]}
 {"fi":"kristallinen","gr":"adj","en":["crystalline (made of crystal glass)"]}
 {"fi":"krouvi","gr":"adj","en":["crude, crudely done"]}
 {"fi":"krooninen","gr":"adj","en":["chronic"]}
 {"fi":"kroatialainen","gr":"adj","en":["Croatian"]}
-{"fi":"kroonillinen","gr":"adj","en":["alternative form of krooninen"]}
-{"fi":"mystillinen","gr":"adj","en":["dated form of mystinen"]}
 {"fi":"kryptinen","gr":"adj","en":["cryptic"]}
 {"fi":"kristinuskoinen","gr":"adj","en":["Christian"]}
 {"fi":"kriminaalinen","gr":"adj","en":["criminal"]}
@@ -1959,7 +1942,6 @@
 {"fi":"turpea","gr":"adj","en":["bloated, swollen"]}
 {"fi":"riidanalainen","gr":"adj","en":["disputed"]}
 {"fi":"pisamainen","gr":"adj","en":["freckled"]}
-{"fi":"kyynillinen","gr":"adj","en":["dated form of kyyninen"]}
 {"fi":"riippuva","gr":"adj","en":["hanging","dependent"]}
 {"fi":"puolueellinen","gr":"adj","en":["biased, partisan, partial","prejudiced"]}
 {"fi":"virkavaltainen","gr":"adj","en":["bureaucratic"]}
@@ -2290,12 +2272,10 @@
 {"fi":"bakteriologinen","gr":"adj","en":["bacteriological"]}
 {"fi":"balttilainen","gr":"adj","en":["Baltic"]}
 {"fi":"barbaarimainen","gr":"adj","en":["barbarous, barbaric, barbarian"]}
-{"fi":"binaarinen","gr":"adj","en":["alternative form of binäärinen"]}
 {"fi":"binäärinen","gr":"adj","en":["binary (being in a state of one of two mutually exclusive conditions)","binary (consisting of two elements or parts)","binary (based on two digits, usually defined as 0 and 1)"]}
 {"fi":"bilateraalinen","gr":"adj","en":["bilateral"]}
 {"fi":"betoninen","gr":"adj","en":["Made of concrete."]}
 {"fi":"biodynaaminen","gr":"adj","en":["biodynamic"]}
-{"fi":"bolsevistinen","gr":"adj","en":["alternative spelling of bolševistinen"]}
 {"fi":"bolševistinen","gr":"adj","en":["Bolshevist, pertaining to Bolshevism"]}
 {"fi":"hapokas","gr":"adj","en":["acidic (sour, sharp, or biting to the taste)"]}
 {"fi":"kivikautinen","gr":"adj","en":["stone-age"]}
@@ -2350,7 +2330,6 @@
 {"fi":"eksperimentaalinen","gr":"adj","en":["experimental"]}
 {"fi":"darvinistinen","gr":"adj","en":["Darwinistic"]}
 {"fi":"defensiivinen","gr":"adj","en":["defensive"]}
-{"fi":"definiitti","gr":"adj","en":["definite","alternative form of definiittinen"]}
 {"fi":"dementoitunut","gr":"adj","en":["demented"]}
 {"fi":"depressiivinen","gr":"adj","en":["depressive"]}
 {"fi":"deterministinen","gr":"adj","en":["deterministic"]}
@@ -2592,7 +2571,6 @@
 {"fi":"povekas","gr":"adj","en":["full-bosomed, big-breasted"]}
 {"fi":"rintava","gr":"adj","en":["full-bosomed, big-breasted, buxom"]}
 {"fi":"ennenkuulumaton","gr":"adj","en":["unprecedented","unheard-of","incredible"]}
-{"fi":"olemassaoleva","gr":"adj","en":["alternative form of olemassa oleva"]}
 {"fi":"tiine","gr":"adj","en":["pregnant"]}
 {"fi":"kuukausittainen","gr":"adj","en":["monthly"]}
 {"fi":"kuusinkertainen","gr":"adj","en":["sextuple, sixfold","six-time"]}
@@ -2649,7 +2627,6 @@
 {"fi":"sukupuolineutraali","gr":"adj","en":["gender-neutral"]}
 {"fi":"suvuton","gr":"adj","en":["gender-neutral, epicene, agender","neuter (having no generative organs)","asexual"]}
 {"fi":"futurologinen","gr":"adj","en":["futurological (pertaining to futurology)"]}
-{"fi":"fyysillinen","gr":"adj","en":["dated form of fyysinen"]}
 {"fi":"tunnollinen","gr":"adj","en":["conscientious, diligent (desiring to do a task well)"]}
 {"fi":"tunnontarkka","gr":"adj","en":["conscientious (desiring to do a task well)"]}
 {"fi":"myrkytön","gr":"adj","en":["nonpoisonous"]}
@@ -2868,7 +2845,6 @@
 {"fi":"mikroskooppinen","gr":"adj","en":["microscopic"]}
 {"fi":"magneetiton","gr":"adj","en":["nonmagnetic"]}
 {"fi":"mantereinen","gr":"adj","en":["continental"]}
-{"fi":"marksistinen","gr":"adj","en":["alternative form of marxistinen (“Marxist”)"]}
 {"fi":"lauha","gr":"adj","en":["mild, temperate (of weather, climate, etc.)"]}
 {"fi":"lättäjalkainen","gr":"adj","en":["flatfooted"]}
 {"fi":"luvaton","gr":"adj","en":["unauthorized, illicit"]}
@@ -2891,7 +2867,6 @@
 {"fi":"infantiili","gr":"adj","en":["infantile"]}
 {"fi":"kankea","gr":"adj","en":["stiff (rigid, hard to bend, inflexible; e.g. of body parts that are more rigid than usual)","stiff (not flexible, e.g. of policies and rules and their application and enforcement; overtly formal, stilted)","awkward, clumsy, stilted (of speech, etc.)"]}
 {"fi":"humaaninen","gr":"adj","en":["humane"]}
-{"fi":"humanitäärinen","gr":"adj","en":["alternative form of humanitaarinen"]}
 {"fi":"huomaavainen","gr":"adj","en":["considerate, thoughtful"]}
 {"fi":"huomionkipeä","gr":"adj","en":["histrionic, attention-seeking"]}
 {"fi":"huonolaatuinen","gr":"adj","en":["of low, poor quality; low-quality, low-grade"]}
@@ -2922,7 +2897,6 @@
 {"fi":"flegmaattinen","gr":"adj","en":["phlegmatic"]}
 {"fi":"foneettinen","gr":"adj","en":["phonetic"]}
 {"fi":"formaali","gr":"adj","en":["formal"]}
-{"fi":"formaalinen","gr":"adj","en":["alternative form of formaali"]}
 {"fi":"gallialainen","gr":"adj","en":["Gallic"]}
 {"fi":"virkeä","gr":"adj","en":["alert, attentive, perky, fresh"]}
 {"fi":"voittoisa","gr":"adj","en":["victorious"]}
@@ -3004,7 +2978,6 @@
 {"fi":"säkkärä","gr":"adj","en":["very curly, kinky"]}
 {"fi":"äimä","gr":"adj","en":["astonished (used chiefly idiomatically in the expression olla äimänä (“to be astonished”), and as root of derived terms)"]}
 {"fi":"mäsä","gr":"adj","en":["broken"]}
-{"fi":"juostenkustu","gr":"adj","en":["alternative form of juosten kustu"]}
 {"fi":"merikelpoinen","gr":"adj","en":["seaworthy"]}
 {"fi":"merisairas","gr":"adj","en":["seasick"]}
 {"fi":"merisotilaallinen","gr":"adj","en":["naval"]}
@@ -3159,7 +3132,6 @@
 {"fi":"lupsakka","gr":"adj","en":["jovial","folksy"]}
 {"fi":"lyhentämätön","gr":"adj","en":["unabridged","unabbreviated","unshortened","untruncated"]}
 {"fi":"lohduton","gr":"adj","en":["hopeless, inconsolable, desperate"]}
-{"fi":"loogillinen","gr":"adj","en":["dated form of looginen"]}
 {"fi":"lihallinen","gr":"adj","en":["fleshly, carnal"]}
 {"fi":"lihaksekas","gr":"adj","en":["muscular, brawny"]}
 {"fi":"lintutieteellinen","gr":"adj","en":["ornithological"]}
@@ -3262,7 +3234,6 @@
 {"fi":"alipaineinen","gr":"adj","en":["Having too low gas pressure."]}
 {"fi":"asianomainen","gr":"adj","en":["relevant, concerned, proper"]}
 {"fi":"astraalinen","gr":"adj","en":["astral"]}
-{"fi":"asvalttinen","gr":"adj","en":["alternative form of asfalttinen"]}
 {"fi":"asuurinsininen","gr":"adj","en":["azure"]}
 {"fi":"anaalinen","gr":"adj","en":["anal"]}
 {"fi":"valmistettu","gr":"adj","en":["made, -made, manufactured"]}
@@ -3423,7 +3394,6 @@
 {"fi":"nahkea","gr":"adj","en":["tacky, sticky, especially because it is (slightly) wet (like wet leather)"]}
 {"fi":"naavainen","gr":"adj","en":["Covered with beard moss."]}
 {"fi":"mielikuvituksekas","gr":"adj","en":["imaginative"]}
-{"fi":"muhea","gr":"adj","en":["alternative form of muheva","alternative form of muhkea"]}
 {"fi":"muhkea","gr":"adj","en":["stately, imposing, grand, impressive"]}
 {"fi":"narrimainen","gr":"adj","en":["foolish"]}
 {"fi":"neuralginen","gr":"adj","en":["neuralgic"]}
@@ -3483,7 +3453,6 @@
 {"fi":"idioottivarma","gr":"adj","en":["foolproof"]}
 {"fi":"aiheellinen","gr":"adj","en":["justifiable, justified (having a justification)","well-grounded, well-founded (based on reasoning, evidence and good judgement)"]}
 {"fi":"aineellinen","gr":"adj","en":["corporeal, tangible, material"]}
-{"fi":"alakkainen","gr":"adj","en":["alternative form of allekkainen"]}
 {"fi":"allekkainen","gr":"adj","en":["One below another."]}
 {"fi":"huorahtava","gr":"adj","en":["slutty"]}
 {"fi":"jatsahtava","gr":"adj","en":["jazzy"]}
@@ -3559,7 +3528,6 @@
 {"fi":"visu","gr":"adj","en":["careful, precise","cheap, parsimonious"]}
 {"fi":"lisä-","gr":"adj","en":["extra, supplemental, additional, accessory"]}
 {"fi":"vireä","gr":"adj","en":["active, animate, alert, lively, vibrant, vigorous"]}
-{"fi":"taain","gr":"adj","en":["alternative form of tain (located farthest back, behind other objects)"]}
 {"fi":"tiuha","gr":"adj","en":["dense, thick, crowded, packed","frequent, frequently recurring"]}
 {"fi":"öky","gr":"adj","en":["rich, powerful, mighty (used chiefly as a modifier in compound terms)"]}
 {"fi":"vale-","gr":"adj","en":["false, fake","virtual","dis-","pseudo-"]}
@@ -3986,8 +3954,6 @@
 {"fi":"deverbaalinen","gr":"adj","en":["deverbal"]}
 {"fi":"devonikautinen","gr":"adj","en":["Devonian"]}
 {"fi":"nainut","gr":"adj","en":["married"]}
-{"fi":"auktoritaarinen","gr":"adj","en":["alternative form of autoritaarinen"]}
-{"fi":"autoritäärinen","gr":"adj","en":["alternative form of autoritaarinen (“authoritarian”)"]}
 {"fi":"elämyksellinen","gr":"adj","en":["memorable, experiential"]}
 {"fi":"elämyksekäs","gr":"adj","en":["memorable"]}
 {"fi":"euroatlanttinen","gr":"adj","en":["Euro-Atlantic"]}
@@ -3996,7 +3962,6 @@
 {"fi":"puurakenteinen","gr":"adj","en":["Made of wood; having wooden structure."]}
 {"fi":"pykälikäs","gr":"adj","en":["jagged"]}
 {"fi":"hohdokas","gr":"adj","en":["glamorous"]}
-{"fi":"hyvinvoipa","gr":"adj","en":["alternative form of hyvinvoiva"]}
 {"fi":"hyvänsuopa","gr":"adj","en":["benevolent"]}
 {"fi":"himmeä","gr":"adj","en":["dim (not bright, not colourful)","dull, matte (not shiny; not reflective of light)","indistinct, murky","strange, bizarre, mind-bending"]}
 {"fi":"ugrilainen","gr":"adj","en":["Ugric"]}
@@ -4029,7 +3994,6 @@
 {"fi":"hontelo","gr":"adj","en":["lanky, gangly"]}
 {"fi":"antidoping","gr":"adj","en":["antidoping, anti-doping (proscribing or combating doping)"]}
 {"fi":"öljykankainen","gr":"adj","en":["Made of oilcloth."]}
-{"fi":"klassillinen","gr":"adj","en":["alternative form of klassinen"]}
 {"fi":"kuitti","gr":"adj","en":["even, quits (without either owing the other)","worn out, beat, exhausted"]}
 {"fi":"kukallinen","gr":"adj","en":["Having flowers; flowery."]}
 {"fi":"koaksiaalinen","gr":"adj","en":["coaxial"]}
@@ -4075,7 +4039,6 @@
 {"fi":"oppimaton","gr":"adj","en":["uneducated, unlearned"]}
 {"fi":"opaakki","gr":"adj","en":["opaque"]}
 {"fi":"onomatopoeettinen","gr":"adj","en":["onomatopoeic, onomatopoetic"]}
-{"fi":"onomatopoieettinen","gr":"adj","en":["alternative form of onomatopoeettinen"]}
 {"fi":"oikukas","gr":"adj","en":["moody","whimsical, capricious"]}
 {"fi":"selittämätön","gr":"adj","en":["unexplained","unexplainable, inexplicable"]}
 {"fi":"sensitiivinen","gr":"adj","en":["sensitive"]}
@@ -4180,7 +4143,6 @@
 {"fi":"eteläslaavilainen","gr":"adj","en":["South Slavic"]}
 {"fi":"eteläsuomalainen","gr":"adj","en":["of or pertaining to southern Finland"]}
 {"fi":"etelävaltalainen","gr":"adj","en":["Confederate"]}
-{"fi":"evankelisluterilainen","gr":"adj","en":["alternative form of evankelis-luterilainen"]}
 {"fi":"filistealainen","gr":"adj","en":["Philistine (of or pertaining to the ancient Philistines)","philistine, materialistic, anti-intellectual, non-spiritual"]}
 {"fi":"gaullelainen","gr":"adj","en":["Gaullist"]}
 {"fi":"gaullistinen","gr":"adj","en":["Gaullist"]}
@@ -4197,7 +4159,6 @@
 {"fi":"itäsaksalainen","gr":"adj","en":["East German"]}
 {"fi":"itäsuomalainen","gr":"adj","en":["Of or pertaining to eastern Finland."]}
 {"fi":"jugoslavialainen","gr":"adj","en":["Yugoslavian"]}
-{"fi":"kainulainen","gr":"adj","en":["alternative form of kainuulainen"]}
 {"fi":"kainuulainen","gr":"adj","en":["Of or pertaining to Kainuu."]}
 {"fi":"kalvinilainen","gr":"adj","en":["Calvinist"]}
 {"fi":"kannakselainen","gr":"adj","en":["Related to the Karelian Isthmus."]}
@@ -4482,11 +4443,9 @@
 {"fi":"abhasialainen","gr":"adj","en":["Abkhazian"]}
 {"fi":"täytetty","gr":"adj","en":["filled, stuffed"]}
 {"fi":"virittynyt","gr":"adj","en":["tuned in","excited"]}
-{"fi":"ko.","gr":"adj","en":["abbreviation of kyseessä oleva or kyseessä ollut (“[the one] in question, the aforementioned”)"]}
 {"fi":"multava","gr":"adj","en":["having (much) mould or humus"]}
 {"fi":"veltostuttava","gr":"adj","en":["indolent (inducing laziness)"]}
 {"fi":"kelmeä","gr":"adj","en":["bleak, pale, pallid, ashen, wan (without color)"]}
-{"fi":"kok.","gr":"adj","en":["abbreviation of kokoomuslainen, indicates a person's affiliation with the National Coalition Party (in Finland)."]}
 {"fi":"liukeneva","gr":"adj","en":["soluble (able to be dissolved)","dissolving"]}
 {"fi":"voitonriemuinen","gr":"adj","en":["triumphant, victorious (rejoicing in victory or success; exultant)"]}
 {"fi":"riemukas","gr":"adj","en":["jubilant, joyful"]}
@@ -4496,7 +4455,6 @@
 {"fi":"valittava","gr":"adj","en":["that is (going) to be elected / chosen","selectable"]}
 {"fi":"harustettu","gr":"adj","en":["equipped with stays; guyed"]}
 {"fi":"kiinto-","gr":"adj","en":["solid, firm, fixed"]}
-{"fi":"karmia","gr":"adj","en":["alternative form of karmea"]}
 {"fi":"oligarkkinen","gr":"adj","en":["oligarchic"]}
 {"fi":"omaelämäkerrallinen","gr":"adj","en":["autobiographical"]}
 {"fi":"omaleimainen","gr":"adj","en":["original, unique"]}
@@ -4534,7 +4492,6 @@
 {"fi":"arvoituksellinen","gr":"adj","en":["enigmatic, cryptic, mysterious, puzzling"]}
 {"fi":"asteittainen","gr":"adj","en":["gradual"]}
 {"fi":"esityksellinen","gr":"adj","en":["presentational","performative, performatory"]}
-{"fi":"etumainen","gr":"adj","en":["alternative form of etummainen"]}
 {"fi":"agraarinen","gr":"adj","en":["agrarian"]}
 {"fi":"alituinen","gr":"adj","en":["continuous, incessant"]}
 {"fi":"haaksirikkoinen","gr":"adj","en":["shipwrecky (characteristic of a shipwreck)","shipwrecked (being shipwrecked)"]}
@@ -4601,7 +4558,6 @@
 {"fi":"sukkela","gr":"adj","en":["quick, swift"]}
 {"fi":"suomenruotsalainen","gr":"adj","en":["Finland Swedish, Fenno-Swedish; pertaining to the Swedish-speaking minority in Finland","Fenno-Swedish (pertaining to the Swedish minority in Finland)"]}
 {"fi":"suvaitsematon","gr":"adj","en":["intolerant"]}
-{"fi":"alju","gr":"adj","en":["alternative form of aljo"]}
 {"fi":"omalaatuinen","gr":"adj","en":["special, of its own kind, out of the ordinary","peculiar, idiosyncratic; odd, strange; eccentric","original, creative"]}
 {"fi":"luonteenomainen","gr":"adj","en":["characteristic, typical, distinctive"]}
 {"fi":"tunnusomainen","gr":"adj","en":["distinguishing, distinctive, characteristic, trademark, emblematic"]}
@@ -4677,7 +4633,6 @@
 {"fi":"ruokoton","gr":"adj","en":["untidy, disorganized, slovenly","coarse, scurrilous, obscene, foul"]}
 {"fi":"anakoluuttinen","gr":"adj","en":["anacoluthic"]}
 {"fi":"henkevä","gr":"adj","en":["intelligent, intellectual, civilized, refined","soulful, spirited"]}
-{"fi":"kellervä","gr":"adj","en":["alternative form of kellertävä"]}
 {"fi":"kekseliäs","gr":"adj","en":["inventive, imaginative, resourceful"]}
 {"fi":"kaupunkimainen","gr":"adj","en":["urban"]}
 {"fi":"formatiivinen","gr":"adj","en":["formative"]}
@@ -4723,7 +4678,6 @@
 {"fi":"kukikas","gr":"adj","en":["flowery (decorated with flowers)"]}
 {"fi":"kunniakas","gr":"adj","en":["glorious, honorable"]}
 {"fi":"laineikas","gr":"adj","en":["wavy (full of waves)"]}
-{"fi":"mainehikas","gr":"adj","en":["alternative form of maineikas"]}
 {"fi":"pilkukas","gr":"adj","en":["spotty (having spots)"]}
 {"fi":"raidakas","gr":"adj","en":["striped"]}
 {"fi":"ruudukas","gr":"adj","en":["checkered"]}
@@ -4733,7 +4687,6 @@
 {"fi":"lystikäs","gr":"adj","en":["droll, funny"]}
 {"fi":"merkityksekäs","gr":"adj","en":["meaningful, significant"]}
 {"fi":"nivelikäs","gr":"adj","en":["jointed"]}
-{"fi":"viiksikäs","gr":"adj","en":["alternative form of viiksekäs"]}
 {"fi":"yllätyksekäs","gr":"adj","en":["surprising"]}
 {"fi":"kuohkea","gr":"adj","en":["fluffy (light; soft; airy)","spongy (squishy, porous, e.g. of food)"]}
 {"fi":"srilankalainen","gr":"adj","en":["Sri Lankan"]}
@@ -4969,14 +4922,11 @@
 {"fi":"tektoninen","gr":"adj","en":["tectonic"]}
 {"fi":"savunmakuinen","gr":"adj","en":["smoky (having flavour like smoke)"]}
 {"fi":"polvenkorkuinen","gr":"adj","en":["knee-high"]}
-{"fi":"polyteknillinen","gr":"adj","en":["alternative form of polytekninen"]}
 {"fi":"polytekninen","gr":"adj","en":["polytechnic"]}
 {"fi":"populaari","gr":"adj","en":["popular"]}
-{"fi":"populääri","gr":"adj","en":["alternative form of populaari"]}
 {"fi":"posliininen","gr":"adj","en":["Made of porcelain."]}
 {"fi":"potentiaalinen","gr":"adj","en":["potential"]}
 {"fi":"preussilainen","gr":"adj","en":["Prussian"]}
-{"fi":"primääri","gr":"adj","en":["alternative form of primaari"]}
 {"fi":"primaari","gr":"adj","en":["primary"]}
 {"fi":"proksimaalinen","gr":"adj","en":["proximal"]}
 {"fi":"punakasvoinen","gr":"adj","en":["red-faced"]}
@@ -5000,7 +4950,6 @@
 {"fi":"äärikonservatiivinen","gr":"adj","en":["ultraconservative"]}
 {"fi":"söde","gr":"adj","en":["cute"]}
 {"fi":"sivumyötäinen","gr":"adj","en":["longitudinal (of wind)"]}
-{"fi":"hötö","gr":"adj","en":["alternative form of höttö (“fluffy”)"]}
 {"fi":"höttö","gr":"adj","en":["fluffy"]}
 {"fi":"haarainen","gr":"adj","en":["branched (having branches)","having a certain number or kind of branches"]}
 {"fi":"läiskikäs","gr":"adj","en":["spotty, spotted","speckled"]}
@@ -5108,7 +5057,6 @@
 {"fi":"diabeettinen","gr":"adj","en":["diabetic"]}
 {"fi":"biraminen","gr":"adj","en":["biramous"]}
 {"fi":"käntty","gr":"adj","en":["crooked"]}
-{"fi":"kärtyisä","gr":"adj","en":["alternative form of kärttyisä"]}
 {"fi":"kärkäs","gr":"adj","en":["eager"]}
 {"fi":"kompleksikas","gr":"adj","en":["complex"]}
 {"fi":"kotoinen","gr":"adj","en":["domestic, homely"]}
@@ -5116,10 +5064,7 @@
 {"fi":"vaskinen","gr":"adj","en":["copper, coppery"]}
 {"fi":"termoplastinen","gr":"adj","en":["thermoplastic"]}
 {"fi":"polykloorattu","gr":"adj","en":["polychlorinated"]}
-{"fi":"tertiäärinen","gr":"adj","en":["alternative form of tertiaarinen"]}
-{"fi":"sekundäärinen","gr":"adj","en":["alternative form of sekundaarinen"]}
 {"fi":"sekundaarinen","gr":"adj","en":["secondary"]}
-{"fi":"primäärinen","gr":"adj","en":["alternative form of primaarinen"]}
 {"fi":"primaarinen","gr":"adj","en":["primary"]}
 {"fi":"nimeämätön","gr":"adj","en":["unnamed"]}
 {"fi":"nousukasmainen","gr":"adj","en":["upstart, parvenu"]}
@@ -5127,10 +5072,8 @@
 {"fi":"penseä","gr":"adj","en":["indifferent, lukewarm"]}
 {"fi":"rahakas","gr":"adj","en":["wealthy, rich","lucrative, bringing much wealth"]}
 {"fi":"piukka","gr":"adj","en":["tight, taut"]}
-{"fi":"ulommainen","gr":"adj","en":["alternative form of uloimmainen","outer (further from center)"]}
 {"fi":"väekäs","gr":"adj","en":["populous"]}
 {"fi":"yksiköllinen","gr":"adj","en":["singular"]}
-{"fi":"alistuvainen","gr":"adj","en":["alternative form of alistuva"]}
 {"fi":"auktoritatiivinen","gr":"adj","en":["authoritative"]}
 {"fi":"auttamaton","gr":"adj","en":["incorrigible","unhelpful (not providing help or assistance; not helpful)"]}
 {"fi":"etummainen","gr":"adj","en":["foremost","forward, first in front","anterior"]}
@@ -5162,7 +5105,6 @@
 {"fi":"seikkailukas","gr":"adj","en":["adventurous"]}
 {"fi":"afaattinen","gr":"adj","en":["aphasic"]}
 {"fi":"aikaansaava","gr":"adj","en":["efficient, productive, competent"]}
-{"fi":"aikaansaapa","gr":"adj","en":["alternative form of aikaansaava"]}
 {"fi":"ainainen","gr":"adj","en":["constant, perpetual, eternal"]}
 {"fi":"ajatuksellinen","gr":"adj","en":["conceptual, ideal (pertaining to ideas)"]}
 {"fi":"ajatukseton","gr":"adj","en":["unthinking (without proper thought)","thoughtless (lacking thought or consideration)"]}
@@ -5357,7 +5299,6 @@
 {"fi":"käynyt","gr":"adj","en":["fermented (produced by fermentation or turned sour due to unwanted fermentation)"]}
 {"fi":"dramaturginen","gr":"adj","en":["dramaturgic"]}
 {"fi":"kaksipyöräinen","gr":"adj","en":["two-wheeled"]}
-{"fi":"shiialainen","gr":"adj","en":["alternative form of šiialainen"]}
 {"fi":"sunnilainen","gr":"adj","en":["Sunni (of or pertaining to Sunni religion or people)"]}
 {"fi":"indikatiivinen","gr":"adj","en":["indicative (serving as a sign)"]}
 {"fi":"-pyöräinen","gr":"adj","en":["wheeled (having a specified number or type of wheels)"]}
@@ -5367,7 +5308,6 @@
 {"fi":"ranskankielinen","gr":"adj","en":["Francophone, French-speaking"]}
 {"fi":"huolestunut","gr":"adj","en":["worried, concerned, anxious"]}
 {"fi":"metamorfinen","gr":"adj","en":["metamorphic"]}
-{"fi":"työssä käyvä","gr":"adj","en":["alternative spelling of työssäkäyvä"]}
 {"fi":"lukumääräinen","gr":"adj","en":["numerical, quantitative (of, or relating to countable amounts)"]}
 {"fi":"kaukasialainen","gr":"adj","en":["Caucasian (pertaining to the Caucasus region or its people)"]}
 {"fi":"työssäkäyvä","gr":"adj","en":["working (in paid employment)"]}
@@ -5389,7 +5329,6 @@
 {"fi":"ruskeakielinen","gr":"adj","en":["brownnosing"]}
 {"fi":"kiiltonahkainen","gr":"adj","en":["Made of patent leather."]}
 {"fi":"uusi hieno","gr":"adj","en":["newfangled"]}
-{"fi":"ns.","gr":"adj","en":["abbreviation of niin sanottu (“so-called”)"]}
 {"fi":"ulkoneva","gr":"adj","en":["projecting, protruding"]}
 {"fi":"poikkeukseton","gr":"adj","en":["exceptionless, without exception"]}
 {"fi":"mökkihöperö","gr":"adj","en":["cabin-fevered (showing symptoms of cabin fever)"]}
@@ -5400,7 +5339,6 @@
 {"fi":"-päinen","gr":"adj","en":["Of or pertaining to a head; sometimes translated into English as -headed, but often the compound has a translation of its own.","Describes the size of a group of people or animals."]}
 {"fi":"liukoinen","gr":"adj","en":["soluble"]}
 {"fi":"oraakkelimainen","gr":"adj","en":["oracular"]}
-{"fi":"sanoinkuvaamaton","gr":"adj","en":["alternative form of sanoin kuvaamaton"]}
 {"fi":"sisäänpäinlämpiävä","gr":"adj","en":["that prefers to deal within itself that it is difficult for an outsider to become a member of it (of a group or culture)"]}
 {"fi":"velaton","gr":"adj","en":["debt-free, debtless"]}
 {"fi":"yksinäisvokaalinen","gr":"adj","en":["monophthongal"]}
@@ -5425,7 +5363,6 @@
 {"fi":"langennut","gr":"adj","en":["fallen"]}
 {"fi":"lapsenmielinen","gr":"adj","en":["childlike, thinking like a child, naive"]}
 {"fi":"lukukelpoinen","gr":"adj","en":["readable"]}
-{"fi":"lutuinen","gr":"adj","en":["alternative form of lutunen (“cute”)"]}
 {"fi":"lyhytsanainen","gr":"adj","en":["concise, laconic (using or containing few words)"]}
 {"fi":"läpikuultamaton","gr":"adj","en":["opaque"]}
 {"fi":"lääketieteellinen","gr":"adj","en":["medical"]}
@@ -5445,7 +5382,6 @@
 {"fi":"poimuinen","gr":"adj","en":["corrugated","pleated","wrinkled","plicate"]}
 {"fi":"kuviollinen","gr":"adj","en":["patterned","figured (of natural materials such as wood)"]}
 {"fi":"hajonnut","gr":"adj","en":["broken"]}
-{"fi":"lakton","gr":"adj","en":["abbreviation of laktoositon (“lactose-free”)"]}
 {"fi":"pakoton","gr":"adj","en":["unforced"]}
 {"fi":"neuvostomielinen","gr":"adj","en":["soviet-minded, Sovietist (supporting the kind of ideology and/or government applied in the Soviet Union)","Soviet-minded (supporting the interests of the Soviet Union)"]}
 {"fi":"terrorisminvastainen","gr":"adj","en":["antiterrorist"]}
@@ -5468,7 +5404,6 @@
 {"fi":"alokasmainen","gr":"adj","en":["rookie-like","trivial; especially of an error"]}
 {"fi":"alueittainen","gr":"adj","en":["regional"]}
 {"fi":"ammateittainen","gr":"adj","en":["profession-wise"]}
-{"fi":"armahainen","gr":"adj","en":["alternative form of armas"]}
 {"fi":"armainen","gr":"adj","en":["dear (loved; lovable)"]}
 {"fi":"arvomerkintäinen","gr":"adj","en":["denominated (of postage stamp, displaying an inscribed value)"]}
 {"fi":"askelittainen","gr":"adj","en":["stepwise (proceeding one step at a time)"]}
@@ -5516,7 +5451,6 @@
 {"fi":"pilaantumaton","gr":"adj","en":["imperishable"]}
 {"fi":"ideografinen","gr":"adj","en":["ideographic"]}
 {"fi":"seitinohut","gr":"adj","en":["gossamer (extremely thin)"]}
-{"fi":"nurea","gr":"adj","en":["alternative form of nyreä"]}
 {"fi":"nyreä","gr":"adj","en":["sullen, sulky"]}
 {"fi":"melto","gr":"adj","en":["ductile"]}
 {"fi":"ajattelevainen","gr":"adj","en":["thoughtful (demonstrating kindness or consideration for others)"]}
@@ -5548,7 +5482,6 @@
 {"fi":"vuonomainen","gr":"adj","en":["fjordlike"]}
 {"fi":"vuonoinen","gr":"adj","en":["Characterized by fjords."]}
 {"fi":"palsamoitu","gr":"adj","en":["embalmed (having been embalmed)"]}
-{"fi":"aallottainen","gr":"adj","en":["misspelling of aalloittainen"]}
 {"fi":"ruusunpunainen","gr":"adj","en":["rose-colored"]}
 {"fi":"yhteisöllinen","gr":"adj","en":["communal"]}
 {"fi":"suoraselkäinen","gr":"adj","en":["stand-up (honest; honorable)","having a straight back"]}
@@ -5602,7 +5535,6 @@
 {"fi":"vuorenvarma","gr":"adj","en":["stone cold, absolutely certain"]}
 {"fi":"-vyötäröinen","gr":"adj","en":["waisted"]}
 {"fi":"vyötön","gr":"adj","en":["beltless"]}
-{"fi":"piukea","gr":"adj","en":["alternative form of piukka","alternative form of pinkeä"]}
 {"fi":"taattu","gr":"adj","en":["guaranteed"]}
 {"fi":"sorea","gr":"adj","en":["graceful, pretty, beautiful","well-proportioned, slim, slender"]}
 {"fi":"auvoisa","gr":"adj","en":["happy, euphoric"]}
@@ -5645,7 +5577,6 @@
 {"fi":"neotrooppinen","gr":"adj","en":["neotropical (occurring in tropical America)"]}
 {"fi":"semiautomaattinen","gr":"adj","en":["semiautomatic"]}
 {"fi":"vähänläntä","gr":"adj","en":["short"]}
-{"fi":"kempi","gr":"adj","en":["alternative form of kemppi (“brave, noble, excellent”)"]}
 {"fi":"gnostinen","gr":"adj","en":["Gnostic"]}
 {"fi":"puristumaton","gr":"adj","en":["incompressible"]}
 {"fi":"homotooppinen","gr":"adj","en":["homotopic"]}
@@ -5731,7 +5662,6 @@
 {"fi":"vaivainen","gr":"adj","en":["measly, paltry, miserable, wretched, pitiful, scrubby","crippled"]}
 {"fi":"parametrinen","gr":"adj","en":["parametric"]}
 {"fi":"minä-muotoinen","gr":"adj","en":["first-person (using verbs in the first person)"]}
-{"fi":"minämuotoinen","gr":"adj","en":["alternative spelling of minä-muotoinen"]}
 {"fi":"sinä-muotoinen","gr":"adj","en":["second-person (using verbs in the second person)"]}
 {"fi":"hän-muotoinen","gr":"adj","en":["third-person (using verbs in the third person)"]}
 {"fi":"kuoppainen","gr":"adj","en":["full of (pot)holes or pits, bumpy"]}
@@ -5775,7 +5705,6 @@
 {"fi":"maidonvalkea","gr":"adj","en":["milky white (pure white)"]}
 {"fi":"rapattu","gr":"adj","en":["plastered"]}
 {"fi":"viikoittainen","gr":"adj","en":["weekly (of or relating to a week)","weekly (happening once a week, or every week)"]}
-{"fi":"viikottainen","gr":"adj","en":["alternative form of viikoittainen"]}
 {"fi":"pahanmakuinen","gr":"adj","en":["unpalatable"]}
 {"fi":"helpohko","gr":"adj","en":["relatively easy"]}
 {"fi":"yhteiskunnallis-taloudellinen","gr":"adj","en":["socio-economic"]}
@@ -5824,7 +5753,6 @@
 {"fi":"sivuava","gr":"adj","en":["tangential (merely touching, positioned as a tangent)","tangential (indirectly related to a topic)"]}
 {"fi":"ortorektinen","gr":"adj","en":["orthorexic (having the obsession of eating healthy food)"]}
 {"fi":"jääräpäinen","gr":"adj","en":["dogged, obstinate, persistent, pertinacious, resolute, stubborn, unyielding, hell-bent"]}
-{"fi":"käsinkosketeltava","gr":"adj","en":["alternative form of käsin kosketeltava"]}
 {"fi":"lutunen","gr":"adj","en":["cute, lovely, adorable"]}
 {"fi":"metka","gr":"adj","en":["nice, pleasant"]}
 {"fi":"herkkähermoinen","gr":"adj","en":["squeamish"]}
@@ -5853,7 +5781,6 @@
 {"fi":"vähäosainen","gr":"adj","en":["underprivileged (deprived of opportunities and advantages)","poor, of little means"]}
 {"fi":"varsovalainen","gr":"adj","en":["Varsovian (of, from or relating to Warsaw)"]}
 {"fi":"itävaltaunkarilainen","gr":"adj","en":["Austro-Hungarian"]}
-{"fi":"tappeluhaluinen","gr":"adj","en":["alternative form of tappelunhaluinen"]}
 {"fi":"yksikamarinen","gr":"adj","en":["unicameral (of a parliament, having one chamber)"]}
 {"fi":"kuivunut","gr":"adj","en":["parched, desiccated, sere"]}
 {"fi":"rapiat","gr":"adj","en":["a bit more (than)"]}
@@ -5915,7 +5842,6 @@
 {"fi":"uppo-","gr":"adj","en":["sinking or submerging, submersible","completely, utterly"]}
 {"fi":"suomuinen","gr":"adj","en":["scaly, squamous","platy"]}
 {"fi":"macaolainen","gr":"adj","en":["Macanese, Macao"]}
-{"fi":"machiavelliläinen","gr":"adj","en":["alternative spelling of machiavellilainen"]}
 {"fi":"taianomainen","gr":"adj","en":["magical (wonderful, amazing or incredible)"]}
 {"fi":"suurenmoinen","gr":"adj","en":["magnificent (grand, elegant or splendid in appearance)"]}
 {"fi":"sirppimäinen","gr":"adj","en":["sickle-shaped, falciform, falcate"]}
@@ -5957,7 +5883,6 @@
 {"fi":"arabiankielinen","gr":"adj","en":["Arabic, Arabic language (written or expressed in Arabic)"]}
 {"fi":"arameankielinen","gr":"adj","en":["Aramaic, Aramaic language (written or expressed in Aramaic)"]}
 {"fi":"arkaluonteinen","gr":"adj","en":["sensitive, touchy, delicate (of an issue, capable of offending, upsetting or hurting)"]}
-{"fi":"arkaluontoinen","gr":"adj","en":["alternative form of arkaluonteinen"]}
 {"fi":"arkatunteinen","gr":"adj","en":["touchy, oversensitive, thin-skinned (easily offended)"]}
 {"fi":"azerinkielinen","gr":"adj","en":["Azeri, Azeri language (written or expressed in Azeri)","Azeri speaking (using Azeri as a means of daily communication)"]}
 {"fi":"kvadriljoonas","gr":"adj","en":["septillionth (short scale), quadrillionth (long scale); 10²⁴th"]}
@@ -6047,8 +5972,6 @@
 {"fi":"qatarilainen","gr":"adj","en":["Qatari"]}
 {"fi":"ennakkoluuloton","gr":"adj","en":["open-minded, unprejudiced"]}
 {"fi":"polvipussinen","gr":"adj","en":["of trousers, having bags in the knees"]}
-{"fi":"traagillinen","gr":"adj","en":["dated form of traaginen"]}
-{"fi":"troopillinen","gr":"adj","en":["dated form of trooppinen"]}
 {"fi":"trotskilainen","gr":"adj","en":["Trotskyist"]}
 {"fi":"todistamaton","gr":"adj","en":["unproved"]}
 {"fi":"taivaansininen","gr":"adj","en":["azure, sky-blue","starlight blue"]}
@@ -6059,7 +5982,6 @@
 {"fi":"oheinen","gr":"adj","en":["enclosed, attached","supplementary","auxiliary, peripheral"]}
 {"fi":"skientologinen","gr":"adj","en":["Scientological"]}
 {"fi":"kouluikäinen","gr":"adj","en":["school-age"]}
-{"fi":"tshetshenialainen","gr":"adj","en":["alternative spelling of tšetšenialainen"]}
 {"fi":"tšetšenialainen","gr":"adj","en":["Chechen (of or pertaining to Chechnya)"]}
 {"fi":"ympärivuotinen","gr":"adj","en":["year-round (operating or continuing throughout the year)"]}
 {"fi":"käsittelemätön","gr":"adj","en":["untreated, raw, unprocessed"]}
@@ -6068,7 +5990,6 @@
 {"fi":"suonikas","gr":"adj","en":["venous, veined, veiny"]}
 {"fi":"toimekas","gr":"adj","en":["energetic, active, industrious"]}
 {"fi":"hyvinkääläinen","gr":"adj","en":["of Hyvinkää (of or pertaining to the city of Hyvinkää)"]}
-{"fi":"presbyteeriläinen","gr":"adj","en":["alternative form of presbyteerinen"]}
 {"fi":"jytky","gr":"adj","en":["huge, solid, mighty"]}
 {"fi":"julkaisukelpoinen","gr":"adj","en":["publishable (satisfying the quality criteria for being published)"]}
 {"fi":"julkaisuvapaa","gr":"adj","en":["publishable (free to be published; in the sense of not being confidential or under an embargo)"]}
@@ -6096,16 +6017,13 @@
 {"fi":"tapauksekas","gr":"adj","en":["eventful"]}
 {"fi":"jyväskyläläinen","gr":"adj","en":["Of or pertaining to the city of Jyväskylä or its citizens."]}
 {"fi":"sirpakka","gr":"adj","en":["pert, brisk"]}
-{"fi":"taaempi","gr":"adj","en":["alternative form of taempi"]}
 {"fi":"kulttuurinen","gr":"adj","en":["cultural"]}
 {"fi":"hereä","gr":"adj","en":["abundant, ample (especially of something flowing, figuratively also of certain emotions such as laughter)"]}
 {"fi":"helakka","gr":"adj","en":["bright, brilliant, light"]}
-{"fi":"riehakka","gr":"adj","en":["alternative form of riehakas"]}
 {"fi":"yskäinen","gr":"adj","en":["Having cough."]}
 {"fi":"soinnikas","gr":"adj","en":["sonorous"]}
 {"fi":"oksamainen","gr":"adj","en":["branchlike"]}
 {"fi":"optillinen","gr":"adj","en":["optic, optical"]}
-{"fi":"myytillinen","gr":"adj","en":["alternative form of myyttinen"]}
 {"fi":"optoelektroninen","gr":"adj","en":["optoelectric"]}
 {"fi":"-onninen","gr":"adj","en":["Having luck."]}
 {"fi":"organisatorinen","gr":"adj","en":["organizational"]}
@@ -6118,7 +6036,6 @@
 {"fi":"nykyhetkinen","gr":"adj","en":["present"]}
 {"fi":"nelikulmainen","gr":"adj","en":["quadrangular"]}
 {"fi":"paakkuinen","gr":"adj","en":["clumpy"]}
-{"fi":"nautinnokas","gr":"adj","en":["alternative form of nautinnollinen"]}
 {"fi":"sodanjälkeinen","gr":"adj","en":["post-war, afterwar"]}
 {"fi":"varjeltu","gr":"adj","en":["protected, safeguarded"]}
 {"fi":"murheellinen","gr":"adj","en":["sorrowful, tragic"]}
@@ -6160,7 +6077,6 @@
 {"fi":"turskansukuinen","gr":"adj","en":["gadiform (belonging to the order Gadiformes)"]}
 {"fi":"hevosvetoinen","gr":"adj","en":["horse-drawn"]}
 {"fi":"toisenlainen","gr":"adj","en":["of another kind; different"]}
-{"fi":"voimassaoleva","gr":"adj","en":["misspelling of voimassa oleva"]}
 {"fi":"voimassa oleva","gr":"adj","en":["valid (in the state of being effective, not expired)","current, effective"]}
 {"fi":"kausittainen","gr":"adj","en":["seasonal"]}
 {"fi":"leivätön","gr":"adj","en":["breadless"]}
@@ -6181,7 +6097,6 @@
 {"fi":"korkeakorkoinen","gr":"adj","en":["high-heeled (having tall heels)","high interest rate"]}
 {"fi":"yksinomainen","gr":"adj","en":["exclusive, sole"]}
 {"fi":"käärmemäinen","gr":"adj","en":["snakelike, serpentine, ophidian"]}
-{"fi":"ennen kuulumaton","gr":"adj","en":["alternative spelling of ennenkuulumaton"]}
 {"fi":"kaksikamarinen","gr":"adj","en":["bicameral (of a parliament, having two chambers)"]}
 {"fi":"suhteeton","gr":"adj","en":["disproportionate"]}
 {"fi":"suhdaton","gr":"adj","en":["disproportionate"]}
@@ -6217,7 +6132,6 @@
 {"fi":"hiilihapoton","gr":"adj","en":["noncarbonated, still (of a drink, not containing carbon dioxide)"]}
 {"fi":"hiilihapotettu","gr":"adj","en":["carbonated (containing added carbon dioxide)"]}
 {"fi":"katkaistu","gr":"adj","en":["stubby, stunted, stubbed"]}
-{"fi":"kaunihimpi","gr":"adj","en":["alternative form of kauniimpi (more beautiful, nicer)"]}
 {"fi":"suuruinen","gr":"adj","en":["of the amount, order or magnitude"]}
 {"fi":"härmäläinen","gr":"adj","en":["from Härmä","stereotypically Finnish"]}
 {"fi":"ekstrusiivinen","gr":"adj","en":["extrusive","effusive"]}
@@ -6228,10 +6142,7 @@
 {"fi":"vivahteikas","gr":"adj","en":["nuanced (having nuances; possessed of multiple layers of detail, pattern, or meaning)","with a complex flavor"]}
 {"fi":"johdatteleva","gr":"adj","en":["leading (providing guidance or direction)"]}
 {"fi":"välimerellinen","gr":"adj","en":["Mediterranean"]}
-{"fi":"tommonen","gr":"adj","en":["alternative form of tuommoinen"]}
-{"fi":"tollanen","gr":"adj","en":["alternative form of tuollainen"]}
 {"fi":"tuommoinen","gr":"adj","en":["that kind of, like that"]}
-{"fi":"tommoinen","gr":"adj","en":["alternative form of tuommoinen"]}
 {"fi":"luonteva","gr":"adj","en":["natural, relaxed, easygoing, smooth (behaving in a natural and uncomplicated manner, being oneself)","natural, likely (belonging as a natural element)"]}
 {"fi":"senttinen","gr":"adj","en":["being X centimeters long"]}
 {"fi":"kiloinen","gr":"adj","en":["weighing ... kilograms, ...-kilogram"]}
@@ -6241,9 +6152,6 @@
 {"fi":"katabaattinen","gr":"adj","en":["katabatic"]}
 {"fi":"pohjoiskarjalainen","gr":"adj","en":["North Karelian (of or pertaining to North Karelia)"]}
 {"fi":"pohjoiskarjalainen","gr":"adj","en":["North Karelian (person from North Karelia)"]}
-{"fi":"hygieninen","gr":"adj","en":["misspelling of hygieeninen"]}
-{"fi":"epähygieninen","gr":"adj","en":["misspelling of epähygieeninen"]}
-{"fi":"ylipääsemätön","gr":"adj","en":["alternative form of ylitsepääsemätön"]}
 {"fi":"ylitsepääsemätön","gr":"adj","en":["insurmountable"]}
 {"fi":"pederastinen","gr":"adj","en":["pederastic"]}
 {"fi":"arkkityyppinen","gr":"adj","en":["archetypal"]}
@@ -6261,7 +6169,6 @@
 {"fi":"prepositionaalinen","gr":"adj","en":["prepositional (of or pertaining to prepositions)"]}
 {"fi":"postpositionaalinen","gr":"adj","en":["postpositional (of or pertaining to postpositions)"]}
 {"fi":"adpositionaalinen","gr":"adj","en":["adpositional (of or pertaining to adpositions)"]}
-{"fi":"beessi","gr":"adj","en":["alternative form of beesi"]}
 {"fi":"kutikulaarinen","gr":"adj","en":["cuticular (of or pertaining to the cuticle)"]}
 {"fi":"kiistämätön","gr":"adj","en":["undeniable, unquestionable"]}
 {"fi":"hyväksymiskelvoton","gr":"adj","en":["unacceptable"]}
@@ -6326,9 +6233,6 @@
 {"fi":"stressitön","gr":"adj","en":["unstressed (not subject to stress)"]}
 {"fi":"pysäyttämätön","gr":"adj","en":["unstoppable"]}
 {"fi":"sielukas","gr":"adj","en":["soulful"]}
-{"fi":"juohea","gr":"adj","en":["alternative form of juoheva"]}
-{"fi":"juoheva","gr":"adj","en":["alternative form of jouheva"]}
-{"fi":"jouhea","gr":"adj","en":["alternative form of jouheva"]}
 {"fi":"jouheva","gr":"adj","en":["smooth, brisk, without difficulty","easygoing, relaxed, jovial, laid-back"]}
 {"fi":"tyyppinen","gr":"adj","en":["of a type, of a kind, of a style (always used with a headword or as part of a compound term)"]}
 {"fi":"-alueinen","gr":"adj","en":["-area, -zone"]}
@@ -6352,7 +6256,6 @@
 {"fi":"räyhäkäs","gr":"adj","en":["aggressive, quarrelsome"]}
 {"fi":"biomimeettinen","gr":"adj","en":["biomimetic (of or pertaining to biomimetics)"]}
 {"fi":"maksukyvytön","gr":"adj","en":["insolvent"]}
-{"fi":"kuulakka","gr":"adj","en":["alternative form of kuulas"]}
 {"fi":"pakonomainen","gr":"adj","en":["compulsive (uncontrolled or reactive and unconscious, as if compelled by external force)"]}
 {"fi":"armoitettu","gr":"adj","en":["very gifted, talented (with a particular skill, especially as a performer, artist, or similar)","to whom grace has been given"]}
 {"fi":"ehompi","gr":"adj","en":["only used in entistä ehompi: better, fixed"]}
@@ -6394,7 +6297,6 @@
 {"fi":"jääpeitteinen","gr":"adj","en":["ice-covered, icy (covered with ice)"]}
 {"fi":"ihku","gr":"adj","en":["cute, nice, sweet"]}
 {"fi":"kertaluonteinen","gr":"adj","en":["nonrecurring (occurring only once)"]}
-{"fi":"kertaluontoinen","gr":"adj","en":["alternative form of kertaluonteinen"]}
 {"fi":"ohjattu","gr":"adj","en":["controlled","supervised"]}
 {"fi":"suklaaton","gr":"adj","en":["chocolate-free, free of chocolate"]}
 {"fi":"nesteetön","gr":"adj","en":["liquid-free, lacking or free of liquid"]}
@@ -6419,7 +6321,6 @@
 {"fi":"urhokas","gr":"adj","en":["brave, valiant"]}
 {"fi":"joustamaton","gr":"adj","en":["inflexible, inelastic"]}
 {"fi":"höyli","gr":"adj","en":["friendly, helpful, polite"]}
-{"fi":"höveli","gr":"adj","en":["alternative form of höyli"]}
 {"fi":"itsesiliävä","gr":"adj","en":["non-iron"]}
 {"fi":"kansandemokraattinen","gr":"adj","en":["people's democratic"]}
 {"fi":"ohkainen","gr":"adj","en":["synonym of ohut (“thin”)"]}
@@ -6448,13 +6349,11 @@
 {"fi":"villainen","gr":"adj","en":["woollen, woolen (made of wool)"]}
 {"fi":"haljakka","gr":"adj","en":["tepid, lukewarm","faded, pale (of color)"]}
 {"fi":"jauhoisa","gr":"adj","en":["floury"]}
-{"fi":"viirukas","gr":"adj","en":["alternative form of viirullinen"]}
 {"fi":"viirullinen","gr":"adj","en":["striped"]}
 {"fi":"nuoskainen","gr":"adj","en":["Having wet snow."]}
 {"fi":"-yksikköinen","gr":"adj","en":["-unit, having a certain number of units (preceded by a numeral or similar count term)"]}
 {"fi":"itsekiillottuva","gr":"adj","en":["self-polishing"]}
 {"fi":"itseneuvova","gr":"adj","en":["self-guiding"]}
-{"fi":"ärtyinen","gr":"adj","en":["alternative form of ärtyisä"]}
 {"fi":"äänellinen","gr":"adj","en":["having sound","aural"]}
 {"fi":"nukkaantumaton","gr":"adj","en":["non-pilling (of a textile, not forming pilling)"]}
 {"fi":"ymmärtämätön","gr":"adj","en":["silly, foolish","that does not understand something, not understanding"]}
@@ -6472,34 +6371,26 @@
 {"fi":"linjakas","gr":"adj","en":["streamlined, graceful"]}
 {"fi":"luonnikas","gr":"adj","en":["natural, relaxed, easygoing, smooth"]}
 {"fi":"luonteikas","gr":"adj","en":["lifelike"]}
-{"fi":"lupsakas","gr":"adj","en":["alternative form of lupsakka"]}
-{"fi":"paatoksekas","gr":"adj","en":["alternative form of paatoksellinen"]}
 {"fi":"painokas","gr":"adj","en":["emphatic"]}
-{"fi":"ponnekas","gr":"adj","en":["alternative form of ponteva"]}
 {"fi":"raamikas","gr":"adj","en":["robust (body shape)"]}
 {"fi":"railakas","gr":"adj","en":["lively, sociable"]}
-{"fi":"railakka","gr":"adj","en":["alternative form of railakas"]}
 {"fi":"taiteikas","gr":"adj","en":["skillful"]}
 {"fi":"ulotteikas","gr":"adj","en":["multifaceted"]}
-{"fi":"vivahduksekas","gr":"adj","en":["alternative form of vivahteikas"]}
 {"fi":"hyväkäs","gr":"adj","en":["A mild word of abuse."]}
 {"fi":"kärjekäs","gr":"adj","en":["pointed, sharp","stinging"]}
 {"fi":"lemmekäs","gr":"adj","en":["amorous (indicating love or sexual desire)"]}
-{"fi":"sisällyksekäs","gr":"adj","en":["alternative form of sisällökäs"]}
 {"fi":"sisällökäs","gr":"adj","en":["rich in content"]}
 {"fi":"tyvekäs","gr":"adj","en":["buttressed"]}
 {"fi":"yrmeä","gr":"adj","en":["morose, sullen"]}
 {"fi":"naivistinen","gr":"adj","en":["naive, naivistic"]}
 {"fi":"ylikukkinut","gr":"adj","en":["overblown"]}
 {"fi":"yliedustettu","gr":"adj","en":["overrepresented"]}
-{"fi":"latinainen","gr":"adj","en":["alternative form of latinalainen"]}
 {"fi":"ylihuolehtiva","gr":"adj","en":["overcaring"]}
 {"fi":"yksikotinen","gr":"adj","en":["monoecious"]}
 {"fi":"kirpakka","gr":"adj","en":["crisp"]}
 {"fi":"tuulesta temmattu","gr":"adj","en":["made from whole cloth, fabricated out of whole cloth (having no basis in the truth)"]}
 {"fi":"nurmikkoinen","gr":"adj","en":["grassy"]}
 {"fi":"useanlainen","gr":"adj","en":["various, diverse"]}
-{"fi":"suojaisa","gr":"adj","en":["alternative form of suojainen"]}
 {"fi":"suojainen","gr":"adj","en":["sheltered"]}
 {"fi":"numeroinen","gr":"adj","en":["number, digit"]}
 {"fi":"-eleinen","gr":"adj","en":["gesturing or behaving in a certain manner, no meaningful English translation"]}
@@ -6518,7 +6409,6 @@
 {"fi":"senegalilainen","gr":"adj","en":["Senegalese (of or pertaining to Senegal)"]}
 {"fi":"kissaton","gr":"adj","en":["catless"]}
 {"fi":"uusklassinen","gr":"adj","en":["neoclassical"]}
-{"fi":"vuorottainen","gr":"adj","en":["misspelling of vuoroittainen"]}
 {"fi":"muuttuva","gr":"adj","en":["changing, variable, mutable"]}
 {"fi":"vatsaevällinen","gr":"adj","en":["abdominal (having abdominal fins)"]}
 {"fi":"kaksikerroksinen","gr":"adj","en":["two-storey (having two floors)","two-layered (consisting of two layers)","double-decker (of a bus)"]}
@@ -6591,10 +6481,8 @@
 {"fi":"vadelmanpunainen","gr":"adj","en":["raspberry (of raspberry colour)"]}
 {"fi":"kiemurteleva","gr":"adj","en":["winding, serpentine"]}
 {"fi":"hämyinen","gr":"adj","en":["twilighty, gloomy","unclear, vague, fuzzy"]}
-{"fi":"hämyisä","gr":"adj","en":["alternative form of hämyinen (“twilighty”)"]}
 {"fi":"eriuskoinen","gr":"adj","en":["heterodox"]}
 {"fi":"hyinen","gr":"adj","en":["frigid, glacial (very cold)"]}
-{"fi":"vars.","gr":"adj","en":["abbreviation of varsinainen (“ordinary”)"]}
 {"fi":"epäkoherentti","gr":"adj","en":["incoherent"]}
 {"fi":"sähkönsininen","gr":"adj","en":["electric blue (colour)"]}
 {"fi":"sähködynaaminen","gr":"adj","en":["electrodynamic"]}
@@ -6627,7 +6515,6 @@
 {"fi":"kohottamaton","gr":"adj","en":["unleavened (of baked goods, without any yeast or other raising agent)"]}
 {"fi":"happamaton","gr":"adj","en":["unfermented","unleavened"]}
 {"fi":"huoneenlämpöinen","gr":"adj","en":["room-temperature"]}
-{"fi":"köyhä kuin kirkon rotta","gr":"adj","en":["alternative form of köyhä kuin kirkonrotta"]}
 {"fi":"oloinen","gr":"adj","en":["appearing to be something, -like"]}
 {"fi":"kirveellä veistetty","gr":"adj","en":["craggy, coarse, rugged (roughly finished as if cut with an axe)"]}
 {"fi":"itsetehty","gr":"adj","en":["synonym of omatekoinen"]}
@@ -6644,12 +6531,8 @@
 {"fi":"viskoosinen","gr":"adj","en":["viscous"]}
 {"fi":"vyötäröpituinen","gr":"adj","en":["waist-length"]}
 {"fi":"vähähappinen","gr":"adj","en":["oxygen-poor, oxygen-deprived"]}
-{"fi":"vulgääri","gr":"adj","en":["alternative form of vulgaari"]}
-{"fi":"pyroteknillinen","gr":"adj","en":["alternative form of pyrotekninen (“pyrotechnic, pyrotechnical”)"]}
 {"fi":"veren tahrima","gr":"adj","en":["bloodstained"]}
-{"fi":"verentahrima","gr":"adj","en":["alternative form of veren tahrima"]}
 {"fi":"abyssaalinen","gr":"adj","en":["abyssal"]}
-{"fi":"jänskä","gr":"adj","en":["alternative form of jännä"]}
 {"fi":"voittoa tavoittelematon","gr":"adj","en":["nonprofit, not-for-profit (not seeking to produce a profit)"]}
 {"fi":"yleishyödyllinen","gr":"adj","en":["common-good; (in many cases) nonprofit (working for the general interest of the population as a whole)"]}
 {"fi":"levollinen","gr":"adj","en":["calm (free of noise and disturbance)","peaceful, calm (free from anger and anxiety)"]}
@@ -6712,14 +6595,12 @@
 {"fi":"nokkava","gr":"adj","en":["cheeky, sassy, saucy","haughty, cocky"]}
 {"fi":"mordvalainen","gr":"adj","en":["Mordovian, Mordvin (of or pertaining to Mordovia)"]}
 {"fi":"mordvankielinen","gr":"adj","en":["Mordvin-language, Mordvin"]}
-{"fi":"läsnäoleva","gr":"adj","en":["misspelling of läsnä oleva"]}
 {"fi":"läsnä oleva","gr":"adj","en":["present"]}
 {"fi":"ubiikki","gr":"adj","en":["ubiquitous"]}
 {"fi":"omnipresentti","gr":"adj","en":["omnipresent"]}
 {"fi":"isentrooppinen","gr":"adj","en":["isentropic (having a constant entropy)"]}
 {"fi":"huoltoystävällinen","gr":"adj","en":["service-friendly, serviceable (easy to service)"]}
 {"fi":"helppohuoltoinen","gr":"adj","en":["service-friendly, serviceable (easy to service)"]}
-{"fi":"abyssinen","gr":"adj","en":["alternative form of abyssaalinen"]}
 {"fi":"valaehtoinen","gr":"adj","en":["given under oath"]}
 {"fi":"kynnenalainen","gr":"adj","en":["subungual"]}
 {"fi":"ulotteinen","gr":"adj","en":["dimensional (having dimension or dimensions)"]}
@@ -6738,7 +6619,6 @@
 {"fi":"tasa-aineinen","gr":"adj","en":["homogeneous, uniform"]}
 {"fi":"välillinen","gr":"adj","en":["indirect, mediate, nonimmediate"]}
 {"fi":"yhtäsuuri","gr":"adj","en":["equal"]}
-{"fi":"alijo","gr":"adj","en":["alternative form of aljo"]}
 {"fi":"tökerö","gr":"adj","en":["uncouth (unrefined, crude)"]}
 {"fi":"kulloinenkin","gr":"adj","en":["Used to indicate temporal coincidence, often unnecessary to translate into English; at a given time, in a given situation, at any given time, of any given time; current; respective; valid or prevailing at the time of a past or future event."]}
 {"fi":"kaudaalinen","gr":"adj","en":["caudal"]}
@@ -6752,7 +6632,6 @@
 {"fi":"tuppeen sahattu","gr":"adj","en":["waned (having wanes at the full length of the board, especially when sawn this way on purpose)"]}
 {"fi":"ortostaattinen","gr":"adj","en":["orthostatic (of or related to upright posture)"]}
 {"fi":"tarkkaavainen","gr":"adj","en":["attentive, observant"]}
-{"fi":"anarkinen","gr":"adj","en":["alternative form of anarkistinen"]}
 {"fi":"lestadiolainen","gr":"adj","en":["Laestadian (of or pertaining to Laestadianism)"]}
 {"fi":"huonokuuloinen","gr":"adj","en":["having bad hearing"]}
 {"fi":"umpihumalainen","gr":"adj","en":["sodden"]}
@@ -6812,7 +6691,6 @@
 {"fi":"korjauskelvoton","gr":"adj","en":["unrepairable, irreparable, unsalvageable, beyond repair (impossible to repair)"]}
 {"fi":"tietynlainen","gr":"adj","en":["of certain type, of certain kind"]}
 {"fi":"ennen kokematon","gr":"adj","en":["not experienced before, unprecedented"]}
-{"fi":"ennenkokematon","gr":"adj","en":["alternative spelling of ennen kokematon"]}
 {"fi":"tämänkaltainen","gr":"adj","en":["this kind of"]}
 {"fi":"yliravittu","gr":"adj","en":["overnourished"]}
 {"fi":"virheravittu","gr":"adj","en":["malnourished"]}
@@ -6859,10 +6737,7 @@
 {"fi":"postnataalinen","gr":"adj","en":["postnatal"]}
 {"fi":"transvaginaalinen","gr":"adj","en":["transvaginal"]}
 {"fi":"pohjalainen","gr":"adj","en":["Ostrobothnian (of or pertaining to the region of Ostrobothnia)","Ostrobothnian (pertaining to Ostrobothnians, the ethnic group)"]}
-{"fi":"edellämainittu","gr":"adj","en":["misspelling of edellä mainittu"]}
-{"fi":"em.","gr":"adj","en":["abbreviation of edellä mainittu"]}
 {"fi":"yllä mainittu","gr":"adj","en":["above-mentioned, aforesaid, above-named"]}
-{"fi":"yllämainittu","gr":"adj","en":["misspelling of yllä mainittu"]}
 {"fi":"monitoiminen","gr":"adj","en":["multifunctional (having multiple functions)","multipurpose"]}
 {"fi":"alapuolinen","gr":"adj","en":["lower, bottom, underneath, sub- (often best translated into English with a prepositional structure) (being on the underside of something)","downstream (often used postpositionally in adessive, ablative and allative)"]}
 {"fi":"lempeä nostattava","gr":"adj","en":["aphrodisiac (arousing or intensifying sexual desire)"]}
@@ -6872,7 +6747,6 @@
 {"fi":"apumoottorillinen","gr":"adj","en":["auxiliary (equipped with auxiliary motor)"]}
 {"fi":"vangitseva","gr":"adj","en":["captivating"]}
 {"fi":"surinamelainen","gr":"adj","en":["Surinamese (of or pertaining to Suriname)"]}
-{"fi":"surinamilainen","gr":"adj","en":["alternative spelling of surinamelainen"]}
 {"fi":"ylävä","gr":"adj","en":["high-lying, high-elevation (of a land mass, having higher elevation than its surroundings)"]}
 {"fi":"äänivallaton","gr":"adj","en":["nonvoting (lacking the right to vote)"]}
 {"fi":"tulosperusteinen","gr":"adj","en":["result based","no win, no fee"]}
@@ -6917,7 +6791,6 @@
 {"fi":"brysseliläinen","gr":"adj","en":["Brusselian"]}
 {"fi":"dysfunktionaalinen","gr":"adj","en":["dysfunctional"]}
 {"fi":"bahamasaarelainen","gr":"adj","en":["Bahamian"]}
-{"fi":"bangladeshiläinen","gr":"adj","en":["alternative form of bangladeshilainen"]}
 {"fi":"etsitty","gr":"adj","en":["wanted, sought"]}
 {"fi":"baskimaalainen","gr":"adj","en":["of or relating to the Basque Country"]}
 {"fi":"balkanilainen","gr":"adj","en":["Balkan, Balkanic, Balkanian"]}
@@ -6947,7 +6820,6 @@
 {"fi":"abaattinen","gr":"adj","en":["abasic (lacking the ability to walk)"]}
 {"fi":"abaksiaalinen","gr":"adj","en":["abaxial (facing to a direction away from the central axis of an organism)"]}
 {"fi":"abakteriaalinen","gr":"adj","en":["abacterial (not caused by bacteria, characterized by lack of bacteria)"]}
-{"fi":"abakterielli","gr":"adj","en":["alternative form of abakteriaalinen"]}
 {"fi":"abessinialainen","gr":"adj","en":["Abyssinian"]}
 {"fi":"abuulinen","gr":"adj","en":["abulic"]}
 {"fi":"abortiivinen","gr":"adj","en":["abortive"]}
@@ -6969,15 +6841,11 @@
 {"fi":"biljoonas","gr":"adj","en":["trillionth (short scale), billionth (long scale) (1,000,000,000,000th)"]}
 {"fi":"bergmanilainen","gr":"adj","en":["Bergmanian (of or pertaining to Ingmar Bergman, an influential Swedish director, writer and producer)"]}
 {"fi":"bensiinikäyttöinen","gr":"adj","en":["gasoline driven"]}
-{"fi":"brutaalinen","gr":"adj","en":["alternative form of brutaali"]}
 {"fi":"burjaatinkielinen","gr":"adj","en":["Expressed in Buryat language.","Speaking Buryat."]}
 {"fi":"bunkkerimainen","gr":"adj","en":["bunkerlike (resembling a military bunker)"]}
 {"fi":"bulgariankielinen","gr":"adj","en":["Bulgarian (expressed in Bulgarian language)","Bulgarian-speaking"]}
-{"fi":"bilateraali","gr":"adj","en":["alternative form of bilateraalinen"]}
 {"fi":"bretagnelainen","gr":"adj","en":["Breton (of or pertaining to Brittany)"]}
 {"fi":"briljanttinen","gr":"adj","en":["brilliant (made of brilliant)"]}
-{"fi":"binaari","gr":"adj","en":["alternative form of binääri"]}
-{"fi":"binääri","gr":"adj","en":["alternative form of binäärinen (“binary”)"]}
 {"fi":"bosniankielinen","gr":"adj","en":["Expressed in Bosnian language.","Speaking Bosnian."]}
 {"fi":"britannialainen","gr":"adj","en":["synonym of brittiläinen"]}
 {"fi":"hepaton","gr":"adj","en":["horseless"]}
@@ -6997,10 +6865,7 @@
 {"fi":"galilealainen","gr":"adj","en":["Galilean"]}
 {"fi":"Rh-negatiivinen","gr":"adj","en":["Rh negative (not having Rhesus factor in one's blood)"]}
 {"fi":"Rh-positiivinen","gr":"adj","en":["Rh positive (having Rhesus factor in one's blood)"]}
-{"fi":"švaabilainen","gr":"adj","en":["alternative spelling of schwabilainen"]}
 {"fi":"schwabilainen","gr":"adj","en":["Swabian (of or pertaining to Swabia)"]}
-{"fi":"svaabilainen","gr":"adj","en":["alternative spelling of schwabilainen"]}
-{"fi":"schwabenilainen","gr":"adj","en":["alternative form of schwabilainen"]}
 {"fi":"ufomainen","gr":"adj","en":["UFO-like"]}
 {"fi":"afferentti","gr":"adj","en":["afferent (carrying towards)"]}
 {"fi":"efferentti","gr":"adj","en":["efferent (carrying away from)"]}
@@ -7009,11 +6874,8 @@
 {"fi":"bittinen","gr":"adj","en":["consisting of or represented by a certain number of bits"]}
 {"fi":"adstringoiva","gr":"adj","en":["astringent (having the effect of drawing tissue together)"]}
 {"fi":"adoraalinen","gr":"adj","en":["adoral (located near the mouth)"]}
-{"fi":"adekvaattinen","gr":"adj","en":["alternative form of adekvaatti"]}
 {"fi":"adenomatoidi","gr":"adj","en":["adenomatoid (of or pertaining to adenoma)"]}
-{"fi":"adenomatoidinen","gr":"adj","en":["alternative form of adenomatoidi"]}
 {"fi":"adipoosi","gr":"adj","en":["adipose, fatty (containing, composed of, or consisting of fat)"]}
-{"fi":"adipoosinen","gr":"adj","en":["alternative form of adipoosi"]}
 {"fi":"adipolyyttinen","gr":"adj","en":["adipolytic (converting fat into free fatty acids, esp. by the action of enzymes)"]}
 {"fi":"abduktiivinen","gr":"adj","en":["abductive"]}
 {"fi":"adduktiivinen","gr":"adj","en":["adductive"]}
@@ -7060,7 +6922,6 @@
 {"fi":"vähennyskelvoton","gr":"adj","en":["nondeductible"]}
 {"fi":"vähennyskelpoinen","gr":"adj","en":["deductible"]}
 {"fi":"defaitistinen","gr":"adj","en":["defeatist (willing to accept defeat without struggle)"]}
-{"fi":"defaistinen","gr":"adj","en":["alternative form of defaitistinen"]}
 {"fi":"kolmiomainen","gr":"adj","en":["triangular (in the shape of a triangle)","deltoid"]}
 {"fi":"delikaatti","gr":"adj","en":["delicate"]}
 {"fi":"dentaali","gr":"adj","en":["dental (of or concerning the teeth)","dental (made with the tongue touching the teeth)"]}
@@ -7082,7 +6943,6 @@
 {"fi":"arabiemiirikuntalainen","gr":"adj","en":["synonym of arabiemiraattilainen"]}
 {"fi":"arabiemiraattilainen","gr":"adj","en":["Emirati (of, from, or pertaining to the United Arab Emirates)"]}
 {"fi":"monoklonaalinen","gr":"adj","en":["monoclonal"]}
-{"fi":"indefiniitti","gr":"adj","en":["alternative form of indefiniittinen"]}
 {"fi":"diakriittinen","gr":"adj","en":["diacritical"]}
 {"fi":"diakroninen","gr":"adj","en":["diachronic"]}
 {"fi":"tulkinnanvarainen","gr":"adj","en":["ambiguous, having multiple interpretations"]}
@@ -7125,7 +6985,6 @@
 {"fi":"hidastahtinen","gr":"adj","en":["slow paced"]}
 {"fi":"frekventatiivinen","gr":"adj","en":["frequentative (serving to express repetition of an action)"]}
 {"fi":"feimi","gr":"adj","en":["famous"]}
-{"fi":"femiini","gr":"adj","en":["alternative form of feminiininen"]}
 {"fi":"feminiinisukuinen","gr":"adj","en":["feminine (of feminine gender)"]}
 {"fi":"anglonormannilainen","gr":"adj","en":["Anglo-Norman (of or pertaining to Anglo-Normans or their language)"]}
 {"fi":"fidžinkielinen","gr":"adj","en":["Fijian, Fijian language, Fijian speaking (written or expressed in Fijian)"]}
@@ -7143,7 +7002,6 @@
 {"fi":"fluoripitoinen","gr":"adj","en":["containing fluorine"]}
 {"fi":"fotokemiallinen","gr":"adj","en":["photochemical"]}
 {"fi":"fotorealistinen","gr":"adj","en":["photorealistic"]}
-{"fi":"hierarkinen","gr":"adj","en":["misspelling of hierarkkinen"]}
 {"fi":"fraasimainen","gr":"adj","en":["cliché-like"]}
 {"fi":"fulaninkielinen","gr":"adj","en":["Fula, Fula-language (expressed in Fula language)","Fula-speaking"]}
 {"fi":"fulbenkielinen","gr":"adj","en":["synonym of fulaninkielinen"]}
@@ -7159,7 +7017,6 @@
 {"fi":"galatialainen","gr":"adj","en":["Galatian (of or pertaining to Galatia, a region in central Turkey)"]}
 {"fi":"galatialainen","gr":"adj","en":["Galatian (person from Galatia)"]}
 {"fi":"endoskooppinen","gr":"adj","en":["endoscopic"]}
-{"fi":"kahju","gr":"adj","en":["alternative form of kahjo"]}
 {"fi":"kiirus","gr":"adj","en":["synonym of kiireinen (“busy, in a hurry”)"]}
 {"fi":"grafiitinharmaa","gr":"adj","en":["graphite (shade of grey)"]}
 {"fi":"guineabissaulainen","gr":"adj","en":["Guinea-Bissauan, Bissau-Guinean (of or pertaining to Guinea-Bissau)"]}
@@ -7224,7 +7081,6 @@
 {"fi":"khakinvärinen","gr":"adj","en":["khaki (dust-coloured)"]}
 {"fi":"khakipukuinen","gr":"adj","en":["dressed in khaki suit, wearing a khaki suit"]}
 {"fi":"kranio-sakraalinen","gr":"adj","en":["craniosacral (referring to the cranium and sacrum)"]}
-{"fi":"kreikkalaiskatolilainen","gr":"adj","en":["alternative form of kreikkalaiskatolinen"]}
 {"fi":"kreikkalaiskatolinen","gr":"adj","en":["synonym of ortodoksinen (“of or pertaining to Eastern Orthodox church”)"]}
 {"fi":"viinaan menevä","gr":"adj","en":["boozy (inclined to consume considerable amounts of alcohol)"]}
 {"fi":"kranttu","gr":"adj","en":["choosy, picky"]}
@@ -7233,7 +7089,6 @@
 {"fi":"kristillismielinen","gr":"adj","en":["Christian minded"]}
 {"fi":"krokotiilikuvioinen","gr":"adj","en":["crocodile-patterned"]}
 {"fi":"krokotiilinnahkainen","gr":"adj","en":["crocodile skin (made of crocodile skin)"]}
-{"fi":"kronkeli","gr":"adj","en":["alternative form of ronkeli"]}
 {"fi":"ronkeli","gr":"adj","en":["picky, choosy, demanding"]}
 {"fi":"kryotekninen","gr":"adj","en":["cryotechnical (of or pertaining to cryotechnology)"]}
 {"fi":"kristillissiveellinen","gr":"adj","en":["Christian ethical (based on Christian ethics)"]}
@@ -7255,7 +7110,6 @@
 {"fi":"velaarinen","gr":"adj","en":["velar"]}
 {"fi":"klanipäinen","gr":"adj","en":["synonym of kaljupäinen"]}
 {"fi":"vaikutusaltis","gr":"adj","en":["impressionable (being easily influenced)"]}
-{"fi":"klassisistinen","gr":"adj","en":["alternative form of klassistinen"]}
 {"fi":"klassistinen","gr":"adj","en":["classicistic (of or pertaining to classicism or classicists; characterised by classicism)"]}
 {"fi":"klimakteerinen","gr":"adj","en":["climacteric, menopausal (relating to the menopause)"]}
 {"fi":"menopausaalinen","gr":"adj","en":["menopausal (of, or pertaining to the menopause)"]}
@@ -7303,18 +7157,14 @@
 {"fi":"öljypitoinen","gr":"adj","en":["oil-containing, oil-bearing, oil-rich"]}
 {"fi":"aloitekykyinen","gr":"adj","en":["that who or which has initiative; venturous, enterprising"]}
 {"fi":"shamanistinen","gr":"adj","en":["shamanistic"]}
-{"fi":"šamanistinen","gr":"adj","en":["alternative spelling of shamanistinen"]}
-{"fi":"skandinavialainen","gr":"adj","en":["alternative form of skandinaavinen"]}
 {"fi":"skandaalinkäryinen","gr":"adj","en":["scandalous (wrong, immoral, causing a scandal)"]}
 {"fi":"skrubu","gr":"adj","en":["poor, bad, inferior"]}
 {"fi":"skyyttalainen","gr":"adj","en":["Scythian (relating to Scythia or Scythians)"]}
 {"fi":"skoonelainen","gr":"adj","en":["Scanian (of Scania or its people)"]}
-{"fi":"skottiruudullinen","gr":"adj","en":["alternative form of skottiruutuinen"]}
 {"fi":"skottiruutuinen","gr":"adj","en":["tartan"]}
 {"fi":"skitso","gr":"adj","en":["clipping of skitsofreeninen","crazy, mad","angry"]}
 {"fi":"skottilainen","gr":"adj","en":["synonym of skotlantilainen"]}
 {"fi":"likin","gr":"adj","en":["closest, nearest"]}
-{"fi":"viherä","gr":"adj","en":["alternative form of vihreä (“green”)"]}
 {"fi":"derivoituva","gr":"adj","en":["differentiable, well-behaved (having a finite derivative of all orders at all points, and having no discontinuities)"]}
 {"fi":"saarinen","gr":"adj","en":["synonym of saarekas"]}
 {"fi":"seborrooinen","gr":"adj","en":["seborrheic"]}
@@ -7327,7 +7177,6 @@
 {"fi":"fiskaalinen","gr":"adj","en":["fiscal (related to the treasury, particularly to government spending and revenue)"]}
 {"fi":"fysioterapeuttinen","gr":"adj","en":["physiotherapeutic"]}
 {"fi":"fuksianpunainen","gr":"adj","en":["fuchsia (color)"]}
-{"fi":"fressi","gr":"adj","en":["alternative form of freesi"]}
 {"fi":"freesi","gr":"adj","en":["fresh (of plant material, still green and not dried)","fresh (refreshing or cool)","fresh (rested; not tired or fatigued)"]}
 {"fi":"frenologinen","gr":"adj","en":["phrenological"]}
 {"fi":"fotodynaaminen","gr":"adj","en":["photodynamic"]}
@@ -7357,7 +7206,6 @@
 {"fi":"slovakinkielinen","gr":"adj","en":["Slovak, Slovak language, Slovak speaking (written or expressed in Slovak)"]}
 {"fi":"sloveeninkielinen","gr":"adj","en":["Slovenian, Slovenian-language, Slovenian-speaking (written or expressed in Slovenian)"]}
 {"fi":"sliipattu","gr":"adj","en":["slick (superficially convincing but actually untrustworthy)","dandyish (in the style of a dandy; of a man, paying excessive attention to one's looks)"]}
-{"fi":"liipattu","gr":"adj","en":["alternative form of sliipattu"]}
 {"fi":"romantisoitu","gr":"adj","en":["romanticized, romanticised (interpreted in idealized fashion)"]}
 {"fi":"polysyklinen","gr":"adj","en":["polycyclic"]}
 {"fi":"värillinen","gr":"adj","en":["colored (US), coloured (UK) (having a color, other than white, grey or black)","colored, coloured (of skin color, non-white)"]}
@@ -7376,7 +7224,6 @@
 {"fi":"läpäisevä","gr":"adj","en":["permeable"]}
 {"fi":"turhautunut","gr":"adj","en":["frustrated"]}
 {"fi":"vuokrattava","gr":"adj","en":["for rent, available for rent (being offered for renting)"]}
-{"fi":"suahilinkielinen","gr":"adj","en":["alternative spelling of swahilinkielinen"]}
 {"fi":"siaminkielinen","gr":"adj","en":["synonym of thainkielinen"]}
 {"fi":"thainkielinen","gr":"adj","en":["Thai, Thai language, Thai speaking (written or expressed in Thai)"]}
 {"fi":"epämoderni","gr":"adj","en":["non-modern, nonmodern, unmodern"]}
@@ -7385,7 +7232,6 @@
 {"fi":"inferentiaalinen","gr":"adj","en":["inferential"]}
 {"fi":"sudeettisaksalainen","gr":"adj","en":["Sudeten German (of or pertaining to Sudeten Germans)"]}
 {"fi":"suufilainen","gr":"adj","en":["Sufite (of or pertaining to Sufism)"]}
-{"fi":"sufilainen","gr":"adj","en":["alternative spelling of suufilainen"]}
 {"fi":"subjektiton","gr":"adj","en":["subjectless"]}
 {"fi":"subjektivistinen","gr":"adj","en":["subjectivist"]}
 {"fi":"sanallinen","gr":"adj","en":["verbal"]}
@@ -7459,7 +7305,6 @@
 {"fi":"pitkämielinen","gr":"adj","en":["long-suffering, patient, forbearing (characterized by patience and indulgence)"]}
 {"fi":"hašemiittinen","gr":"adj","en":["Hashemite"]}
 {"fi":"ohjattava","gr":"adj","en":["controllable, controlled; often used as headword in compound terms"]}
-{"fi":"-ohjauksinen","gr":"adj","en":["alternative form of -ohjattu (equipped with certain type of steering or control)"]}
 {"fi":"runko-ohjattu","gr":"adj","en":["articulated (of a vehicle, constructed with articulated sections and steered by pivoting the front in relation to the back by hydraulic rams)"]}
 {"fi":"ohjauskyvytön","gr":"adj","en":["unsteerable"]}
 {"fi":"ohjauskykyinen","gr":"adj","en":["steerable"]}
@@ -7521,9 +7366,7 @@
 {"fi":"syyttelevä","gr":"adj","en":["accusatory, accusative"]}
 {"fi":"kolmikymmenvuotias","gr":"adj","en":["thirty-year-old"]}
 {"fi":"osaaottava","gr":"adj","en":["compassionate (having, feeling or showing compassion)"]}
-{"fi":"osaaottavainen","gr":"adj","en":["alternative form of osaaottava"]}
 {"fi":"kolmikymmenvuotinen","gr":"adj","en":["thirty years' (lasting thirty years)"]}
-{"fi":"kolmikymppinen","gr":"adj","en":["alternative form of kolmekymppinen"]}
 {"fi":"kolmikuinen","gr":"adj","en":["three months old"]}
 {"fi":"kolmikuukautinen","gr":"adj","en":["three months old","three-month (lasting three months)"]}
 {"fi":"kolminainen","gr":"adj","en":["Trinitarian (of or pertaining to Trinity)","synonym of kolmijakoinen","synonym of kolmenlainen"]}
@@ -7685,8 +7528,6 @@
 {"fi":"lateraalinen","gr":"adj","en":["lateral (of or pertaining to the side; of movement directed towards the side of)","lateral (pertaining to the left or right of the body, located towards the side)","lateral (pertaining to sounds generated by partially blocking the egress of the airstream with the tip of the tongue touching the alveolar ridge, leaving space on one or both sides of the occlusion for air passage)"]}
 {"fi":"portaaton","gr":"adj","en":["stepless","continuously variable"]}
 {"fi":"makeavetinen","gr":"adj","en":["freshwater (consisting of fresh water)"]}
-{"fi":"neutraalinen","gr":"adj","en":["alternative form of neutraali"]}
-{"fi":"normaalinen","gr":"adj","en":["alternative form of normaali"]}
 {"fi":"tarkkaamaton","gr":"adj","en":["inattentive (not paying attention)"]}
 {"fi":"korkeaoktaaninen","gr":"adj","en":["high-octane (of fuel, having a high octane number, good anti-knock characteristics)"]}
 {"fi":"matalaoktaaninen","gr":"adj","en":["low-octane (of fuel, having a low octane number)"]}
@@ -7704,7 +7545,6 @@
 {"fi":"haaveenomainen","gr":"adj","en":["dreamlike (having characteristics of a dream or a vision)"]}
 {"fi":"vaginaalinen","gr":"adj","en":["vaginal"]}
 {"fi":"kazakstanilainen","gr":"adj","en":["Kazakhstani (of or pertaining to Kazakhstan)"]}
-{"fi":"kazahstanilainen","gr":"adj","en":["alternative form of kazakstanilainen"]}
 {"fi":"kazakinkielinen","gr":"adj","en":["Kazakh, Kazakh language, Kazakh speaking (written or expressed in Kazakh)"]}
 {"fi":"haihtumaton","gr":"adj","en":["unevaporated","nonvolatile (not readily evaporated)","nonvolatile (of memory; keeping its contents even when powered down)"]}
 {"fi":"haihtuvainen","gr":"adj","en":["synonym of haihtuva (volatile, readily evaporated)."]}
@@ -7720,7 +7560,6 @@
 {"fi":"pahansuopainen","gr":"adj","en":["synonym of pahansuopa"]}
 {"fi":"pahansisuinen","gr":"adj","en":["ill-tempered, ill-natured"]}
 {"fi":"anaforinen","gr":"adj","en":["anaphoric"]}
-{"fi":"antropomorfistinen","gr":"adj","en":["alternative form of antropomorfinen"]}
 {"fi":"antroposentrinen","gr":"adj","en":["anthropocentric"]}
 {"fi":"antimilitaristinen","gr":"adj","en":["antimilitarist"]}
 {"fi":"militarisminvastainen","gr":"adj","en":["antimilitarist"]}
@@ -7739,7 +7578,6 @@
 {"fi":"yksivuotias","gr":"adj","en":["one-year-old"]}
 {"fi":"ankarasanainen","gr":"adj","en":["strictly worded"]}
 {"fi":"-annoksinen","gr":"adj","en":["(existing, dispensed, administered etc.) in certain type of portions or doses"]}
-{"fi":"anonyyminen","gr":"adj","en":["alternative form of anonyymi"]}
 {"fi":"anteriorinen","gr":"adj","en":["anterior (all senses)"]}
 {"fi":"apeamielinen","gr":"adj","en":["melancholy-minded"]}
 {"fi":"apuinen","gr":"adj","en":["acting to provide help, support or assistance of some kind"]}
@@ -7815,7 +7653,6 @@
 {"fi":"kotipolttoinen","gr":"adj","en":["home-distilled","home burnt (of a CD, DVD etc.)"]}
 {"fi":"päiväsaikainen","gr":"adj","en":["diurnal (happening during daylight)"]}
 {"fi":"aistinvarainen","gr":"adj","en":["organoleptic"]}
-{"fi":"aistienvarainen","gr":"adj","en":["alternative form of aistinvarainen"]}
 {"fi":"-varainen","gr":"adj","en":["based, relying on; no consistent translation into English, see derived terms below"]}
 {"fi":"kaukaa haettu","gr":"adj","en":["far-fetched; reach, stretch (noun)"]}
 {"fi":"aikakautinen","gr":"adj","en":["periodic (referring to a period or periods)"]}
@@ -7910,7 +7747,6 @@
 {"fi":"rei'ikäs","gr":"adj","en":["synonym of reikäinen (“holey, full of holes”)"]}
 {"fi":"duratiivinen","gr":"adj","en":["durative"]}
 {"fi":"lihavoitu","gr":"adj","en":["bold, bolded"]}
-{"fi":"yht'äkkinen","gr":"adj","en":["dated form of yhtäkkinen"]}
 {"fi":"muotoonleikattu","gr":"adj","en":["topiary, shaped"]}
 {"fi":"soukka","gr":"adj","en":["slim, narrow, slender"]}
 {"fi":"viinimäinen","gr":"adj","en":["vinous (having the characteristics of wine)"]}
@@ -7927,7 +7763,6 @@
 {"fi":"kaksijakoinen","gr":"adj","en":["dualistic (divisible into two subclasses or opposed parts)","dichotomous"]}
 {"fi":"kahdenarvoinen","gr":"adj","en":["dyadic (having a valence of two)"]}
 {"fi":"kompleksinen","gr":"adj","en":["complex"]}
-{"fi":"heliä","gr":"adj","en":["alternative form of heleä"]}
 {"fi":"utahilainen","gr":"adj","en":["Utahn, Utahan (of or pertaining to Utah)"]}
 {"fi":"abelinen","gr":"adj","en":["abelian"]}
 {"fi":"jonkinasteinen","gr":"adj","en":["synonym of jonkinlainen"]}
@@ -8014,7 +7849,6 @@
 {"fi":"-tukkainen","gr":"adj","en":["-haired (having some specific type of hair)"]}
 {"fi":"totuudenjälkeinen","gr":"adj","en":["post-truth"]}
 {"fi":"kalustettu","gr":"adj","en":["furnished (provided with furniture)"]}
-{"fi":"naivi","gr":"adj","en":["misspelling of naiivi"]}
 {"fi":"kööpenhaminalainen","gr":"adj","en":["Of or pertaining to Copenhagen."]}
 {"fi":"sydneyläinen","gr":"adj","en":["Sydneyan (of or pertaining to Sydney, Australia)"]}
 {"fi":"bakteriaalinen","gr":"adj","en":["bacterial (caused by bacteria)"]}
@@ -8048,7 +7882,6 @@
 {"fi":"alaskalainen","gr":"adj","en":["Alaskan"]}
 {"fi":"periamerikkalainen","gr":"adj","en":["all-American (known by, encompassing all of, or best in America)"]}
 {"fi":"annamilainen","gr":"adj","en":["Annamese"]}
-{"fi":"aristotelinen","gr":"adj","en":["alternative form of aristoteelinen"]}
 {"fi":"assamilainen","gr":"adj","en":["Assamese (of or pertaining to Assam)"]}
 {"fi":"verollinen","gr":"adj","en":["taxable, taxed (subject to taxation)","taxes included, including taxes, with tax"]}
 {"fi":"verovelvollinen","gr":"adj","en":["taxpaying, liable to pay taxes"]}
@@ -8191,7 +8024,6 @@
 {"fi":"tsygomorfinen","gr":"adj","en":["zygomorphic, zygomorphous"]}
 {"fi":"vastakohtainen","gr":"adj","en":["contrasting, contrastive","zygomorphic, zygomorphous"]}
 {"fi":"zolalainen","gr":"adj","en":["Zolian (of or relating to Émile Zola)"]}
-{"fi":"pahoinvoipa","gr":"adj","en":["alternative form of pahoinvoiva"]}
 {"fi":"kvadraattinen","gr":"adj","en":["quadratic"]}
 {"fi":"neliöllinen","gr":"adj","en":["quadratic"]}
 {"fi":"pohjimmainen","gr":"adj","en":["underlying, fundamental, quintessential"]}
@@ -8537,17 +8369,13 @@
 {"fi":"saippuapitoinen","gr":"adj","en":["containing soap, saponaceous"]}
 {"fi":"saippuapohjainen","gr":"adj","en":["soap-based"]}
 {"fi":"täysaikainen","gr":"adj","en":["full-term (of pregnancy)","full-time (involving a full amount of time spent on some activity)"]}
-{"fi":"täysarvoinen","gr":"adj","en":["alternative form of täysiarvoinen"]}
 {"fi":"täysiarvoinen","gr":"adj","en":["full-fledged, full-value"]}
 {"fi":"täysautomaattinen","gr":"adj","en":["fully automatic"]}
-{"fi":"täysjärkinen","gr":"adj","en":["alternative form of täysijärkinen"]}
 {"fi":"täysijärkinen","gr":"adj","en":["sane, in one's right mind"]}
 {"fi":"täyspitkä","gr":"adj","en":["full-length"]}
 {"fi":"täyspäinen","gr":"adj","en":["rational, sane"]}
-{"fi":"täyspäiväinen","gr":"adj","en":["alternative form of täysipäiväinen"]}
 {"fi":"täysipäiväinen","gr":"adj","en":["full-time (of a job)"]}
 {"fi":"täystakiloitu","gr":"adj","en":["full-rigged (of a ship)"]}
-{"fi":"täysvaltainen","gr":"adj","en":["alternative form of täysivaltainen"]}
 {"fi":"täyshullu","gr":"adj","en":["fully crazy, insane"]}
 {"fi":"laidallinen","gr":"adj","en":["having an edge or edges, border or borders"]}
 {"fi":"laidaton","gr":"adj","en":["not having an edge or border"]}
@@ -8577,7 +8405,6 @@
 {"fi":"laajasydäminen","gr":"adj","en":["bighearted"]}
 {"fi":"laajapiirteinen","gr":"adj","en":["rough, undetailed, ambiguous","wide-scale, large-scale"]}
 {"fi":"mieluinen","gr":"adj","en":["congenial, agreeable","favorite"]}
-{"fi":"sinervä","gr":"adj","en":["alternative form of sinertävä"]}
 {"fi":"sinimusta","gr":"adj","en":["blue and black","very dark blue"]}
 {"fi":"tummanvihreä","gr":"adj","en":["dark green"]}
 {"fi":"energiataloudellinen","gr":"adj","en":["energy efficient","energy economical (pertaining to energy economics)"]}
@@ -8593,7 +8420,6 @@
 {"fi":"tulenpunainen","gr":"adj","en":["scarlet, fire-red (being of that colour)"]}
 {"fi":"tulisilmäinen","gr":"adj","en":["fire-eyed; having fiery, fierce eyes"]}
 {"fi":"painokelvoton","gr":"adj","en":["unprintable, unpublishable (chiefly in the sense of being obscene)"]}
-{"fi":"sit.","gr":"adj","en":["abbreviation of sitoutumaton"]}
 {"fi":"-harjainen","gr":"adj","en":["suffix for building adjectives that describe the quality of a harja (can either mean brush, mane or crest) possessed by the modified word"]}
 {"fi":"harjallinen","gr":"adj","en":["brushed, with brush or brushes"]}
 {"fi":"nauttinen","gr":"adj","en":["nautical"]}
@@ -8711,10 +8537,6 @@
 {"fi":"kohtuuhintainen","gr":"adj","en":["affordable; having a reasonable price"]}
 {"fi":"viitseliäs","gr":"adj","en":["who or which bothers; who or which does something which is of negligible inconvenience"]}
 {"fi":"pornahtava","gr":"adj","en":["porny, spicy"]}
-{"fi":"irrationaali","gr":"adj","en":["alternative form of irrationaalinen"]}
-{"fi":"sekundaari","gr":"adj","en":["alternative form of sekundaarinen"]}
-{"fi":"sekundääri","gr":"adj","en":["alternative form of sekundäärinen"]}
-{"fi":"paralleeli","gr":"adj","en":["alternative form of paralleelinen"]}
 {"fi":"paralleelinen","gr":"adj","en":["parallel"]}
 {"fi":"multippeli","gr":"adj","en":["multiple"]}
 {"fi":"kulturelli","gr":"adj","en":["cultured","cultural"]}
@@ -8737,10 +8559,7 @@
 {"fi":"karakteristinen","gr":"adj","en":["characteristic"]}
 {"fi":"kerroksittainen","gr":"adj","en":["layered, laminated, tiered"]}
 {"fi":"röntgenologinen","gr":"adj","en":["roentgenological"]}
-{"fi":"militääri","gr":"adj","en":["alternative form of militäärinen"]}
-{"fi":"militäärinen","gr":"adj","en":["alternative form of militaarinen"]}
 {"fi":"militaarinen","gr":"adj","en":["synonym of sotilaallinen (“military”)"]}
-{"fi":"sekulaari","gr":"adj","en":["alternative form of sekulaarinen"]}
 {"fi":"karttuisa","gr":"adj","en":["ample, accumulating from small amounts"]}
 {"fi":"nulju","gr":"adj","en":["unpleasant, sly, devious"]}
 {"fi":"velmu","gr":"adj","en":["mischievous and amusing"]}
@@ -8765,7 +8584,6 @@
 {"fi":"torkku","gr":"adj","en":["sleepy"]}
 {"fi":"tönkkö","gr":"adj","en":["stiff"]}
 {"fi":"kiperä","gr":"adj","en":["difficult, tricky, tough","sharp, sudden"]}
-{"fi":"jämtti","gr":"adj","en":["alternative form of jämpti"]}
 {"fi":"järkky","gr":"adj","en":["shocking, horrible"]}
 {"fi":"vikuri","gr":"adj","en":["stubborn"]}
 {"fi":"kähärä","gr":"adj","en":["curled, fuzzed, frizzy"]}
@@ -8789,17 +8607,14 @@
 {"fi":"viljava","gr":"adj","en":["fertile, rich, fruitful (such as of soil)"]}
 {"fi":"juureva","gr":"adj","en":["strong-rooted","sturdy (resolute, firm)"]}
 {"fi":"varteva","gr":"adj","en":["tall, long, stout; having a long or tall stem, body or similar"]}
-{"fi":"punerva","gr":"adj","en":["alternative form of punertava"]}
 {"fi":"mielevä","gr":"adj","en":["ingratiating, allusive, (flatteringly) suggestive","shrewd, clever, smart, wise"]}
 {"fi":"kielevä","gr":"adj","en":["talkative, loquacious","snarky"]}
 {"fi":"lehtevä","gr":"adj","en":["leafy, bowery","flaky (of texture or structure)"]}
 {"fi":"leukava","gr":"adj","en":["arrogant, pretentious"]}
-{"fi":"väärtti","gr":"adj","en":["alternative form of väärti"]}
 {"fi":"lokoisa","gr":"adj","en":["comfy, cushy, cosy"]}
 {"fi":"likempi","gr":"adj","en":["closer, nearer"]}
 {"fi":"varhempi","gr":"adj","en":["earlier, erstwhile"]}
 {"fi":"potentti","gr":"adj","en":["potent"]}
-{"fi":"retliini","gr":"adj","en":["alternative form of kretliini"]}
 {"fi":"näpsäkkä","gr":"adj","en":["nifty, dexterous, clever"]}
 {"fi":"raflaava","gr":"adj","en":["showy, bold, flamboyant, racy; that which attracts or is intended to attract attention"]}
 {"fi":"julmettu","gr":"adj","en":["damn, filthy (intensifier)"]}
@@ -8810,7 +8625,6 @@
 {"fi":"kauempi","gr":"adj","en":["farther, further (that is farther or further)"]}
 {"fi":"kauin","gr":"adj","en":["farthest, furthest (that is farthest or furthest)"]}
 {"fi":"tämänlainen","gr":"adj","en":["synonym of tällainen"]}
-{"fi":"tälläinen","gr":"adj","en":["alternative form of tällainen"]}
 {"fi":"suosiollinen","gr":"adj","en":["gracious, favorable"]}
 {"fi":"merkitysopillinen","gr":"adj","en":["semantic (pertaining to semantics, a subfield of linguistics)"]}
 {"fi":"lauseopillinen","gr":"adj","en":["syntactic (pertaining to syntax, a subfield of linguistics)"]}
@@ -8822,12 +8636,6 @@
 {"fi":"meidänlaisemme","gr":"adj","en":["like us, like ourselves"]}
 {"fi":"hänenlaisensa","gr":"adj","en":["like him/her, like himself/herself"]}
 {"fi":"heidänlaisensa","gr":"adj","en":["like them, like themselves"]}
-{"fi":"minunlainen","gr":"adj","en":["alternative form of minunlaiseni"]}
-{"fi":"sinunlainen","gr":"adj","en":["alternative form of sinunlaisesi"]}
-{"fi":"hänenlainen","gr":"adj","en":["alternative form of hänenlaisensa"]}
-{"fi":"meidänlainen","gr":"adj","en":["alternative form of meidänlaisemme"]}
-{"fi":"teidänlainen","gr":"adj","en":["alternative form of teidänlaisenne"]}
-{"fi":"heidänlainen","gr":"adj","en":["alternative form of heidänlaisensa"]}
 {"fi":"kovuinen","gr":"adj","en":["as hard as"]}
 {"fi":"hupainen","gr":"adj","en":["synonym of hupaisa"]}
 {"fi":"pikkanen","gr":"adj","en":["little, small"]}
@@ -8835,7 +8643,6 @@
 {"fi":"syvyinen","gr":"adj","en":["having a depth of"]}
 {"fi":"tänäinen","gr":"adj","en":["today's (of, pertaining to, occurring or appearing today)"]}
 {"fi":"lyyrinen","gr":"adj","en":["lyrical"]}
-{"fi":"joltinen","gr":"adj","en":["alternative form of joltinenkin"]}
 {"fi":"joltinenkin","gr":"adj","en":["somewhat of a, quite a, reasonable"]}
 {"fi":"makoinen","gr":"adj","en":["synonym of makoisa"]}
 {"fi":"kapoinen","gr":"adj","en":["synonym of kapea (“narrow”)"]}
@@ -8859,7 +8666,6 @@
 {"fi":"sointinen","gr":"adj","en":["having a sound (of or like)"]}
 {"fi":"kohmeinen","gr":"adj","en":["numb from cold"]}
 {"fi":"pienoinen","gr":"adj","en":["tiny, little, weensy","mini-, small, little (combining form pienois-)"]}
-{"fi":"pikkainen","gr":"adj","en":["alternative form of pikkanen"]}
 {"fi":"piskuinen","gr":"adj","en":["tiny, petty, itsy"]}
 {"fi":"silkoinen","gr":"adj","en":["synonym of siloinen"]}
 {"fi":"sievoinen","gr":"adj","en":["bountiful, nice, tidy, hefty, quite a (generous; considerable)"]}
@@ -8873,7 +8679,6 @@
 {"fi":"synkretistinen","gr":"adj","en":["syncretic, syncretistic"]}
 {"fi":"kinesteettinen","gr":"adj","en":["kinesthetic"]}
 {"fi":"kollegiaalinen","gr":"adj","en":["collegial, collegiate"]}
-{"fi":"konfutselainen","gr":"adj","en":["alternative form of kungfutselainen"]}
 {"fi":"romahdusmainen","gr":"adj","en":["dramatic, drastic"]}
 {"fi":"hermeneuttinen","gr":"adj","en":["hermeneutic"]}
 {"fi":"palliatiivinen","gr":"adj","en":["palliative"]}
@@ -8887,12 +8692,10 @@
 {"fi":"tuonnoinen","gr":"adj","en":["of then, of that time, especially of a recent time"]}
 {"fi":"kumarainen","gr":"adj","en":["stooped"]}
 {"fi":"monituinen","gr":"adj","en":["many (used as an intensifier with moni (“many”))"]}
-{"fi":"taimmainen","gr":"adj","en":["alternative form of takimmainen"]}
 {"fi":"väkevyinen","gr":"adj","en":["having the concentration, potency or strength (of)"]}
 {"fi":"tuhantinen","gr":"adj","en":["of (some) thousands"]}
 {"fi":"vasituinen","gr":"adj","en":["special, that was made or done for some specific purpose"]}
 {"fi":"itsellinen","gr":"adj","en":["synonym of itsenäinen"]}
-{"fi":"sammalinen","gr":"adj","en":["alternative form of sammaleinen"]}
 {"fi":"hirtehinen","gr":"adj","en":["having or pertaining to gallows humor"]}
 {"fi":"röpelöinen","gr":"adj","en":["uneven, rough (not having a smooth texture)"]}
 {"fi":"pääomavaltainen","gr":"adj","en":["capital-intensive"]}
@@ -8914,7 +8717,6 @@
 {"fi":"rajakkainen","gr":"adj","en":["adjacent, that borders each other"]}
 {"fi":"rakenteinen","gr":"adj","en":["structured"]}
 {"fi":"korosteinen","gr":"adj","en":["having an emphasis (of), emphasized"]}
-{"fi":"hapras","gr":"adj","en":["alternative form of hauras (“brittle”)"]}
 {"fi":"ennalta arvattava","gr":"adj","en":["predictable"]}
 {"fi":"limittäinen","gr":"adj","en":["overlapping, interwoven"]}
 {"fi":"kimalteinen","gr":"adj","en":["glittery"]}
@@ -8924,7 +8726,6 @@
 {"fi":"lyydiläinen","gr":"adj","en":["Ludian, Ludic Karelian"]}
 {"fi":"kahtalainen","gr":"adj","en":["twofold, dual, double"]}
 {"fi":"summaarinen","gr":"adj","en":["summary"]}
-{"fi":"marksilainen","gr":"adj","en":["alternative form of marxilainen"]}
 {"fi":"reunimmainen","gr":"adj","en":["closest to the edge or border"]}
 {"fi":"puolimmainen","gr":"adj","en":["closer or closest to the side (of)"]}
 {"fi":"keulimmainen","gr":"adj","en":["closest to the bow (front of a boat or ship)"]}
@@ -9001,7 +8802,6 @@
 {"fi":"kääntyvä","gr":"adj","en":["invertible"]}
 {"fi":"jäljempi","gr":"adj","en":["latter (near or nearer to the end)","latter (in the past, but close or closer to the present time)"]}
 {"fi":"ulosottokelpoinen","gr":"adj","en":["attachable (able to be attached, or repossessed to settle or enforce a debt)"]}
-{"fi":"freessi","gr":"adj","en":["alternative form of freesi"]}
 {"fi":"jäännöksetön","gr":"adj","en":["remainderless"]}
 {"fi":"isomorfinen","gr":"adj","en":["isomorphic"]}
 {"fi":"isentalpinen","gr":"adj","en":["isoenthalpic, isenthalpic"]}
@@ -9033,7 +8833,6 @@
 {"fi":"häviötön","gr":"adj","en":["lossless"]}
 {"fi":"ajonaikainen","gr":"adj","en":["run-time"]}
 {"fi":"jäsentenvälinen","gr":"adj","en":["between or among members; internal (within a group), especially of a quarrel (between members), competition (only open for members), etc."]}
-{"fi":"laupea","gr":"adj","en":["alternative form of laupias"]}
 {"fi":"-jäseninen","gr":"adj","en":["-member (having a given number of members)"]}
 {"fi":"jättiläiskokoinen","gr":"adj","en":["gigantic"]}
 {"fi":"jätti-","gr":"adj","en":["huge, giant, enormous, (in some cases) super-"]}
@@ -9072,7 +8871,6 @@
 {"fi":"asyklinen","gr":"adj","en":["acyclic"]}
 {"fi":"asynkroninen","gr":"adj","en":["asynchronous"]}
 {"fi":"atseotrooppinen","gr":"adj","en":["azeotropic"]}
-{"fi":"autoritatiivinen","gr":"adj","en":["alternative form of auktoritatiivinen"]}
 {"fi":"vaahtomainen","gr":"adj","en":["foamlike, foam-like, froth-like"]}
 {"fi":"vähälaktoosinen","gr":"adj","en":["containing little lactose, low-lactose"]}
 {"fi":"harmittava","gr":"adj","en":["irritating, annoying, bothersome","disappointing, unfortunate"]}
@@ -9109,7 +8907,6 @@
 {"fi":"keskituloinen","gr":"adj","en":["middle-income, medium-income"]}
 {"fi":"huipputuloinen","gr":"adj","en":["top-income (being among the people with the highest income)"]}
 {"fi":"uusmaalainen","gr":"adj","en":["of or pertaining to Uusimaa, or its inhabitants"]}
-{"fi":"uusimaalainen","gr":"adj","en":["alternative form of uusmaalainen"]}
 {"fi":"egalitaarinen","gr":"adj","en":["egalitarian"]}
 {"fi":"eklektinen","gr":"adj","en":["eclectic"]}
 {"fi":"eksegeettinen","gr":"adj","en":["exegetic"]}
@@ -9149,12 +8946,10 @@
 {"fi":"unipotentti","gr":"adj","en":["unipotent"]}
 {"fi":"tapaturmainen","gr":"adj","en":["accidental (being or caused by an accident, usually one resulting in injury or death)"]}
 {"fi":"vastakkaissuuntainen","gr":"adj","en":["antiparallel (parallel but having the opposite direction)"]}
-{"fi":"kolmekulmainen","gr":"adj","en":["alternative form of kolmikulmainen"]}
 {"fi":"hajaantuva","gr":"adj","en":["divergent"]}
 {"fi":"vähäpukeinen","gr":"adj","en":["scantily clad"]}
 {"fi":"ohjelmallinen","gr":"adj","en":["programmatic"]}
 {"fi":"pelillinen","gr":"adj","en":["relating or pertaining to a game or games, to a match or matches"]}
-{"fi":"järkeenkäyvä","gr":"adj","en":["alternative form of järkeenkäypä"]}
 {"fi":"faattinen","gr":"adj","en":["phatic"]}
 {"fi":"faktitiivinen","gr":"adj","en":["factitive"]}
 {"fi":"alustariippumaton","gr":"adj","en":["cross-platform"]}
@@ -9206,8 +9001,6 @@
 {"fi":"paineenkestävä","gr":"adj","en":["pressure-resistant"]}
 {"fi":"paineilmakäyttöinen","gr":"adj","en":["pneumatically driven, pneumatically powered"]}
 {"fi":"kompleksiarvoinen","gr":"adj","en":["complex-valued"]}
-{"fi":"kolmeulotteinen","gr":"adj","en":["alternative form of kolmiulotteinen"]}
-{"fi":"neljäulotteinen","gr":"adj","en":["alternative form of neliulotteinen"]}
 {"fi":"samansyvyinen","gr":"adj","en":["of or having the same depth"]}
 {"fi":"erisyvyinen","gr":"adj","en":["of or having a different depth or different depths"]}
 {"fi":"ylipitkä","gr":"adj","en":["overlong, overly long"]}
@@ -9262,7 +9055,6 @@
 {"fi":"soveltava","gr":"adj","en":["applied","applied (nearly if not always optional; entirely optional in lukio)"]}
 {"fi":"sosiaalipsykologinen","gr":"adj","en":["social psychological"]}
 {"fi":"labiodentaalinen","gr":"adj","en":["labiodental"]}
-{"fi":"kahko","gr":"adj","en":["alternative form of kahjo"]}
 {"fi":"maadoittamaton","gr":"adj","en":["unearthed, ungrounded (not connected to ground potential)"]}
 {"fi":"perätön","gr":"adj","en":["ungrounded, unreal, false, baseless, unfounded (not based on facts)","empty (destitute of effect, sincerity, or sense)"]}
 {"fi":"oikeuskelpoinen","gr":"adj","en":["having legal capacity, having legal personality"]}
@@ -9292,8 +9084,6 @@
 {"fi":"koulukypsä","gr":"adj","en":["mature for school"]}
 {"fi":"koulumestarimainen","gr":"adj","en":["schoolmasterish"]}
 {"fi":"esikouluikäinen","gr":"adj","en":["preschool-age"]}
-{"fi":"tämmönen","gr":"adj","en":["alternative form of tämmöinen"]}
-{"fi":"mimmonen","gr":"adj","en":["alternative form of mimmoinen"]}
 {"fi":"kuusinen","gr":"adj","en":["spruce; made of spruce"]}
 {"fi":"mahonkinen","gr":"adj","en":["mahogany, made of mahogany"]}
 {"fi":"peruuttamaton","gr":"adj","en":["irreversible, irrevocable, irretrievable"]}
@@ -9421,7 +9211,6 @@
 {"fi":"vienalainen","gr":"adj","en":["from or pertaining to White Karelia"]}
 {"fi":"palatoalveolaarinen","gr":"adj","en":["palatoalveolar"]}
 {"fi":"postalveolaarinen","gr":"adj","en":["postalveolar"]}
-{"fi":"subraktiivinen","gr":"adj","en":["misspelling of subtraktiivinen"]}
 {"fi":"subtraktiivinen","gr":"adj","en":["subtractive"]}
 {"fi":"suhteuttamaton","gr":"adj","en":["non-proportional, monospaced"]}
 {"fi":"suhteutettu","gr":"adj","en":["proportional"]}
@@ -9488,7 +9277,6 @@
 {"fi":"detritaalinen","gr":"adj","en":["detrital"]}
 {"fi":"felsinen","gr":"adj","en":["felsic"]}
 {"fi":"hydroterminen","gr":"adj","en":["hydrothermal"]}
-{"fi":"intermediäärinen","gr":"adj","en":["alternative form of intermediaarinen"]}
 {"fi":"intermediaarinen","gr":"adj","en":["intermediate, intermediary"]}
 {"fi":"isostaattinen","gr":"adj","en":["isostatic"]}
 {"fi":"kerroksellinen","gr":"adj","en":["layered, stratified, lamellar"]}
@@ -9767,8 +9555,6 @@
 {"fi":"tulostusvalmis","gr":"adj","en":["ready for printing, ready to print"]}
 {"fi":"korkeapaineinen","gr":"adj","en":["high-pressure"]}
 {"fi":"hiuksenhieno","gr":"adj","en":["extremely fine (of a line), extremely narrow (of a margin or difference), delicate, subtle"]}
-{"fi":"seur.","gr":"adj","en":["abbreviation of seuraava (“next”)"]}
-{"fi":"mahd.","gr":"adj","en":["abbreviation of mahdollinen (“possible”)"]}
 {"fi":"epineoliittinen","gr":"adj","en":["Epineolithic"]}
 {"fi":"ersämordvalainen","gr":"adj","en":["synonym of ersäläinen"]}
 {"fi":"esiroomalainen","gr":"adj","en":["pre-Roman"]}
@@ -9788,9 +9574,7 @@
 {"fi":"köyhä kuin kirkonrotta","gr":"adj","en":["poor as a church mouse, poor as Job, poor as Job's turkey (extremely poor, destitute)"]}
 {"fi":"yliampuva","gr":"adj","en":["extravagant, outrageous, overstated, overdone, overkill, over the top"]}
 {"fi":"lovecraftilainen","gr":"adj","en":["Lovecraftian"]}
-{"fi":"ajoaikainen","gr":"adj","en":["alternative form of ajonaikainen"]}
 {"fi":"epäyhteensopiva","gr":"adj","en":["incompatible"]}
-{"fi":"kaksipuoleinen","gr":"adj","en":["nonstandard form of kaksipuolinen"]}
 {"fi":"keskeyttävä","gr":"adj","en":["interrupting, which interrupts","pre-emptive"]}
 {"fi":"kiinteämittainen","gr":"adj","en":["of fixed length or size"]}
 {"fi":"noheva","gr":"adj","en":["insightful, smart, sharp, independent"]}
@@ -9899,7 +9683,6 @@
 {"fi":"agonaalinen","gr":"adj","en":["agonal"]}
 {"fi":"idioventrikulaarinen","gr":"adj","en":["idioventricular"]}
 {"fi":"neurosirkulatorinen","gr":"adj","en":["neurocirculatory"]}
-{"fi":"myelooinen","gr":"adj","en":["alternative form of myeloinen"]}
 {"fi":"lamellaarinen","gr":"adj","en":["lamellar"]}
 {"fi":"vesipestävä","gr":"adj","en":["washable (that can be washed in water, as opposed to dry wash)"]}
 {"fi":"pestävä","gr":"adj","en":["washable (capable of being washed, usually by some particular means which is indicated by a modifier)"]}
@@ -9947,7 +9730,6 @@
 {"fi":"alavieskalainen","gr":"adj","en":["from, related or pertaining to Alavieska"]}
 {"fi":"alavutelainen","gr":"adj","en":["from, related or pertaining to Alavus"]}
 {"fi":"asikkalalainen","gr":"adj","en":["from, related or pertaining to Asikkala"]}
-{"fi":"asikkalainen","gr":"adj","en":["alternative form of asikkalalainen"]}
 {"fi":"askolalainen","gr":"adj","en":["from, related or pertaining to Askola"]}
 {"fi":"auralainen","gr":"adj","en":["from, related or pertaining to Aura (Finnish municipality)"]}
 {"fi":"enonkoskelainen","gr":"adj","en":["from, related or pertaining to Enonkoski"]}
@@ -9956,9 +9738,7 @@
 {"fi":"euralainen","gr":"adj","en":["from, related or pertaining to Eura (Finnish municipality)"]}
 {"fi":"evijärveläinen","gr":"adj","en":["from, related or pertaining to Evijärvi"]}
 {"fi":"forssalainen","gr":"adj","en":["from, related or pertaining to Forssa"]}
-{"fi":"haapajärveläinen","gr":"adj","en":["alternative form of haapajärvinen"]}
 {"fi":"haapajärvinen","gr":"adj","en":["from, related or pertaining to Haapajärvi"]}
-{"fi":"haapaveteläinen","gr":"adj","en":["alternative form of haapavetinen"]}
 {"fi":"haapavetinen","gr":"adj","en":["from, related or pertaining to Haapavesi"]}
 {"fi":"hailuotolainen","gr":"adj","en":["from, related or pertaining to Hailuoto"]}
 {"fi":"halsualainen","gr":"adj","en":["from, related or pertaining to Halsua"]}
@@ -9968,46 +9748,35 @@
 {"fi":"harjavaltalainen","gr":"adj","en":["from, related or pertaining to Harjavalta"]}
 {"fi":"hartolalainen","gr":"adj","en":["from, related or pertaining to Hartola"]}
 {"fi":"hattulalainen","gr":"adj","en":["from, related or pertaining to Hattula"]}
-{"fi":"hattulainen","gr":"adj","en":["alternative form of hattulalainen"]}
 {"fi":"hausjärveläinen","gr":"adj","en":["from, related or pertaining to Hausjärvi"]}
 {"fi":"heinolalainen","gr":"adj","en":["from, related or pertaining to Heinola"]}
-{"fi":"heinolainen","gr":"adj","en":["alternative form of heinolalainen"]}
 {"fi":"heinäveteläinen","gr":"adj","en":["from, related or pertaining to Heinävesi"]}
-{"fi":"heinävetinen","gr":"adj","en":["alternative form of heinäveteläinen"]}
 {"fi":"hirvensalmelainen","gr":"adj","en":["from, related or pertaining to Hirvensalmi"]}
 {"fi":"hollolalainen","gr":"adj","en":["from, related or pertaining to Hollola"]}
-{"fi":"hollolainen","gr":"adj","en":["alternative form of hollolalainen"]}
 {"fi":"honkajokelainen","gr":"adj","en":["from, related or pertaining to Honkajoki"]}
-{"fi":"honkajokinen","gr":"adj","en":["alternative form of honkajokelainen"]}
 {"fi":"huittislainen","gr":"adj","en":["from, related or pertaining to Huittinen"]}
 {"fi":"humppilalainen","gr":"adj","en":["from, related or pertaining to Humppila"]}
 {"fi":"hyrynsalmelainen","gr":"adj","en":["from, related or pertaining to Hyrynsalmi"]}
 {"fi":"hämeenkyröläinen","gr":"adj","en":["from, related or pertaining to Hämeenkyrö"]}
 {"fi":"täsmä-","gr":"adj","en":["precision, surgical (characterized by high precision)"]}
 {"fi":"sälöinen","gr":"adj","en":["splintery, slivery","bladed"]}
-{"fi":"harmaja","gr":"adj","en":["alternative form of harmaa (“grey”)"]}
 {"fi":"iiläinen","gr":"adj","en":["from, related or pertaining to Ii"]}
 {"fi":"iisalmelainen","gr":"adj","en":["from, related or pertaining to Iisalmi"]}
 {"fi":"iittiläinen","gr":"adj","en":["from, related or pertaining to Iitti"]}
 {"fi":"ikaalislainen","gr":"adj","en":["from, related or pertaining to Ikaalinen"]}
-{"fi":"ikaalilainen","gr":"adj","en":["alternative form of ikaalislainen"]}
 {"fi":"ilmajokelainen","gr":"adj","en":["from, related or pertaining to Ilmajoki"]}
-{"fi":"ilmajokinen","gr":"adj","en":["alternative form of ilmajokelainen"]}
 {"fi":"ilomantsilainen","gr":"adj","en":["from, related or pertaining to Ilomantsi"]}
 {"fi":"imatralainen","gr":"adj","en":["from, related or pertaining to Imatra"]}
 {"fi":"inarilainen","gr":"adj","en":["from, related or pertaining to Inari (Finnish municipality)"]}
 {"fi":"inkoolainen","gr":"adj","en":["from, related or pertaining to Inkoo"]}
-{"fi":"isojokelainen","gr":"adj","en":["alternative form of isojokinen"]}
 {"fi":"isojokinen","gr":"adj","en":["from, related or pertaining to Isojoki"]}
 {"fi":"isokyröläinen","gr":"adj","en":["from, related or pertaining to Isokyrö"]}
 {"fi":"janakkalalainen","gr":"adj","en":["from, related or pertaining to Janakkala"]}
-{"fi":"janakkalainen","gr":"adj","en":["alternative form of janakkalalainen"]}
 {"fi":"jokioislainen","gr":"adj","en":["from, related or pertaining to Jokioinen"]}
 {"fi":"joroislainen","gr":"adj","en":["from, related or pertaining to Joroinen"]}
 {"fi":"joutsalainen","gr":"adj","en":["from, related or pertaining to Joutsa"]}
 {"fi":"juukalainen","gr":"adj","en":["from, related or pertaining to Juuka"]}
 {"fi":"juupajokelainen","gr":"adj","en":["from, related or pertaining to Juupajoki"]}
-{"fi":"juupajokinen","gr":"adj","en":["alternative form of juupajokelainen"]}
 {"fi":"juvalainen","gr":"adj","en":["from, related or pertaining to Juva"]}
 {"fi":"jämijärveläinen","gr":"adj","en":["from, related or pertaining to Jämijärvi"]}
 {"fi":"jämsäläinen","gr":"adj","en":["from, related or pertaining to Jämsä"]}
@@ -10015,30 +9784,24 @@
 {"fi":"kaarinalainen","gr":"adj","en":["from, related or pertaining to Kaarina (Finnish municipality)"]}
 {"fi":"kaavilainen","gr":"adj","en":["from, related or pertaining to Kaavi"]}
 {"fi":"kajaanilainen","gr":"adj","en":["from, related or pertaining to Kajaani"]}
-{"fi":"kalajokelainen","gr":"adj","en":["alternative form of kalajokinen"]}
 {"fi":"kalajokinen","gr":"adj","en":["from, related or pertaining to Kalajoki (Finnish municipality)"]}
 {"fi":"tarsolainen","gr":"adj","en":["from Tarsus (city in Mersin province)"]}
 {"fi":"kangasalalainen","gr":"adj","en":["from, related or pertaining to Kangasala"]}
 {"fi":"kangasniemeläinen","gr":"adj","en":["from, related or pertaining to Kangasniemi"]}
 {"fi":"kankaanpääläinen","gr":"adj","en":["from, related or pertaining to Kankaanpää"]}
 {"fi":"kannonkoskelainen","gr":"adj","en":["from, related or pertaining to Kannonkoski"]}
-{"fi":"kannonkoskinen","gr":"adj","en":["alternative form of kannonkoskelainen"]}
 {"fi":"kannuslainen","gr":"adj","en":["from, related or pertaining to Kannus"]}
 {"fi":"karijokelainen","gr":"adj","en":["from, related or pertaining to Karijoki"]}
 {"fi":"karkkilalainen","gr":"adj","en":["from, related or pertaining to Karkkila"]}
-{"fi":"karkkilainen","gr":"adj","en":["alternative form of karkkilalainen"]}
 {"fi":"karstulalainen","gr":"adj","en":["from, related or pertaining to Karstula"]}
 {"fi":"karvialainen","gr":"adj","en":["from, related or pertaining to Karvia"]}
 {"fi":"kaskislainen","gr":"adj","en":["from, related or pertaining to Kaskinen"]}
-{"fi":"kauhajokelainen","gr":"adj","en":["alternative form of kauhajokinen"]}
 {"fi":"kauhajokinen","gr":"adj","en":["from, related or pertaining to Kauhajoki"]}
 {"fi":"kauhavalainen","gr":"adj","en":["from, related or pertaining to Kauhava"]}
 {"fi":"kauniaislainen","gr":"adj","en":["from, related or pertaining to Kauniainen"]}
 {"fi":"kaustislainen","gr":"adj","en":["from, related or pertaining to Kaustinen"]}
 {"fi":"keuruulainen","gr":"adj","en":["from, related or pertaining to Keuruu"]}
 {"fi":"kittiläläinen","gr":"adj","en":["from, related or pertaining to Kittilä"]}
-{"fi":"kittiläinen","gr":"adj","en":["alternative form of kittiläläinen"]}
-{"fi":"kiuruveteläinen","gr":"adj","en":["alternative form of kiuruvetinen"]}
 {"fi":"kiuruvetinen","gr":"adj","en":["from, related or pertaining to Kiuruvesi"]}
 {"fi":"kivijärveläinen","gr":"adj","en":["from, related or pertaining to Kivijärvi"]}
 {"fi":"keiteleläinen","gr":"adj","en":["from, related or pertaining to Keitele"]}
@@ -10052,111 +9815,71 @@
 {"fi":"kinnulalainen","gr":"adj","en":["from, related or pertaining to Kinnula"]}
 {"fi":"kirkkonummelainen","gr":"adj","en":["from, related or pertaining to Kirkkonummi"]}
 {"fi":"kiteeläinen","gr":"adj","en":["from, related or pertaining to Kitee"]}
-{"fi":"konneveteläinen","gr":"adj","en":["alternative form of konnevetinen"]}
 {"fi":"konnevetinen","gr":"adj","en":["from, related or pertaining to Konnevesi"]}
 {"fi":"koskelainen","gr":"adj","en":["from, related or pertaining to Koski Tl"]}
 {"fi":"kouvolalainen","gr":"adj","en":["from, related or pertaining to Kouvola"]}
-{"fi":"kouvolainen","gr":"adj","en":["alternative form of kouvolalainen"]}
 {"fi":"kristiinankaupunkilainen","gr":"adj","en":["synonym of kristiinalainen"]}
 {"fi":"kristiinalainen","gr":"adj","en":["from, related or pertaining to Kristinestad (Finnish town)"]}
 {"fi":"kyyjärveläinen","gr":"adj","en":["from, related or pertaining to Kyyjärvi"]}
-{"fi":"kyyjärvinen","gr":"adj","en":["alternative form of kyyjärveläinen"]}
 {"fi":"kärköläläinen","gr":"adj","en":["from, related or pertaining to Kärkölä"]}
-{"fi":"kärköläinen","gr":"adj","en":["alternative form of kärköläläinen"]}
-{"fi":"kärsämäkeläinen","gr":"adj","en":["alternative form of kärsämäkinen"]}
 {"fi":"kärsämäkinen","gr":"adj","en":["from, related or pertaining to Kärsämäki"]}
 {"fi":"laitilalainen","gr":"adj","en":["from, related or pertaining to Laitila"]}
 {"fi":"lapinjärveläinen","gr":"adj","en":["from, related or pertaining to Lapinjärvi (Finnish municipality)"]}
 {"fi":"lappajärveläinen","gr":"adj","en":["from, related or pertaining to Lappajärvi (Finnish municipality)"]}
-{"fi":"lappajärvinen","gr":"adj","en":["alternative form of lappajärveläinen"]}
 {"fi":"lempääläläinen","gr":"adj","en":["from, related or pertaining to Lempäälä"]}
-{"fi":"lempääläinen","gr":"adj","en":["alternative form of lempääläläinen"]}
 {"fi":"lestijärveläinen","gr":"adj","en":["synonym of lestijärvinen"]}
 {"fi":"lestijärvinen","gr":"adj","en":["from, related or pertaining to Lestijärvi (Finnish municipality)"]}
-{"fi":"lumijokelainen","gr":"adj","en":["alternative form of lumijokinen"]}
 {"fi":"lumijokinen","gr":"adj","en":["from, related or pertaining to Lumijoki (Finnish municipality)"]}
-{"fi":"loppelainen","gr":"adj","en":["alternative form of loppilainen"]}
 {"fi":"loppilainen","gr":"adj","en":["from, related or pertaining to Loppi (Finnish municipality)"]}
-{"fi":"merijärveläinen","gr":"adj","en":["alternative form of merijärvinen"]}
 {"fi":"merijärvinen","gr":"adj","en":["from, related or pertaining to Merijärvi (Finnish municipality)"]}
 {"fi":"miehikkäläläinen","gr":"adj","en":["from, related or pertaining to Miehikkälä"]}
-{"fi":"miehikkäläinen","gr":"adj","en":["alternative form of miehikkäläläinen"]}
 {"fi":"muhoslainen","gr":"adj","en":["from, related or pertaining to Muhos"]}
-{"fi":"muhokselainen","gr":"adj","en":["alternative form of muhoslainen"]}
 {"fi":"multialainen","gr":"adj","en":["from, related or pertaining to Multia"]}
-{"fi":"multiainen","gr":"adj","en":["alternative form of multialainen"]}
 {"fi":"myrskyläläinen","gr":"adj","en":["from, related or pertaining to Myrskylä"]}
 {"fi":"mäntsäläläinen","gr":"adj","en":["from, related or pertaining to Mäntsälä"]}
-{"fi":"mäntsäläinen","gr":"adj","en":["alternative form of mäntsäläläinen"]}
 {"fi":"nivalalainen","gr":"adj","en":["from, related or pertaining to Nivala"]}
-{"fi":"nivalainen","gr":"adj","en":["alternative form of nivalalainen"]}
 {"fi":"nousiaislainen","gr":"adj","en":["from, related or pertaining to Nousiainen (Finnish municipality)"]}
-{"fi":"noustelainen","gr":"adj","en":["alternative form of nousiaislainen"]}
-{"fi":"nurmekselainen","gr":"adj","en":["alternative form of nurmeslainen"]}
 {"fi":"nurmeslainen","gr":"adj","en":["from, related or pertaining to Nurmes"]}
 {"fi":"nurmijärveläinen","gr":"adj","en":["from, related or pertaining to Nurmijärvi"]}
-{"fi":"nurmijärvinen","gr":"adj","en":["alternative form of nurmijärveläinen"]}
-{"fi":"orimattilainen","gr":"adj","en":["alternative form of orimattilalainen"]}
-{"fi":"oulaislainen","gr":"adj","en":["alternative form of oulaistelainen"]}
 {"fi":"oulaistelainen","gr":"adj","en":["from, related or pertaining to Oulainen"]}
 {"fi":"orimattilalainen","gr":"adj","en":["from, related or pertaining to Orimattila"]}
 {"fi":"ammonilainen","gr":"adj","en":["Ammonite, of or relating to Ammon"]}
 {"fi":"paraislainen","gr":"adj","en":["from, related or pertaining to Parainen"]}
 {"fi":"parikkalalainen","gr":"adj","en":["from, related or pertaining to Parikkala"]}
-{"fi":"parikkalainen","gr":"adj","en":["alternative form of parikkalalainen"]}
-{"fi":"petäjäveteläinen","gr":"adj","en":["alternative form of petäjävetinen"]}
 {"fi":"petäjävetinen","gr":"adj","en":["from, related or pertaining to Petäjävesi"]}
-{"fi":"pielaveteläinen","gr":"adj","en":["alternative form of pielavetinen"]}
 {"fi":"pielavetinen","gr":"adj","en":["from, related or pertaining to Pielavesi"]}
 {"fi":"pornaislainen","gr":"adj","en":["from, related or pertaining to Pornainen"]}
-{"fi":"pornalainen","gr":"adj","en":["alternative form of pornaislainen"]}
 {"fi":"pukkilalainen","gr":"adj","en":["from, related or pertaining to Pukkila"]}
-{"fi":"pukkilainen","gr":"adj","en":["alternative form of pukkilalainen"]}
 {"fi":"puumalalainen","gr":"adj","en":["from, related or pertaining to Puumala"]}
-{"fi":"puumalainen","gr":"adj","en":["alternative form of puumalalainen"]}
-{"fi":"pyhäjokelainen","gr":"adj","en":["alternative form of pyhäjokinen"]}
 {"fi":"pyhäjokinen","gr":"adj","en":["from, related or pertaining to Pyhäjoki (Finnish municipality)"]}
-{"fi":"pyhäjärveläinen","gr":"adj","en":["alternative form of pyhäjärvinen"]}
 {"fi":"pyhäjärvinen","gr":"adj","en":["from, related or pertaining to Pyhäjärvi (Finnish municipality)"]}
 {"fi":"pyhäntäläinen","gr":"adj","en":["from, related or pertaining to Pyhäntä"]}
-{"fi":"reisjärveläinen","gr":"adj","en":["alternative form of reisjärvinen"]}
 {"fi":"reisjärvinen","gr":"adj","en":["from, related or pertaining to Reisjärvi (Finnish municipality)"]}
 {"fi":"ruoveteläinen","gr":"adj","en":["from, related or pertaining to Ruovesi"]}
-{"fi":"ruovetinen","gr":"adj","en":["alternative form of ruoveteläinen"]}
 {"fi":"rääkkyläläinen","gr":"adj","en":["from, related or pertaining to Rääkkylä"]}
 {"fi":"pahantuulinen","gr":"adj","en":["ill-tempered, bad-tempered"]}
 {"fi":"pedersöreläinen","gr":"adj","en":["from, related or pertaining to Pedersöre"]}
 {"fi":"saarijärveläinen","gr":"adj","en":["from, related or pertaining to Saarijärvi"]}
-{"fi":"saarijärvinen","gr":"adj","en":["alternative form of saarijärveläinen"]}
 {"fi":"savitaipalelainen","gr":"adj","en":["from, related or pertaining to Savitaipale"]}
 {"fi":"seinäjokelainen","gr":"adj","en":["synonym of seinäjokinen"]}
 {"fi":"seinäjokinen","gr":"adj","en":["from, related or pertaining to Seinäjoki (Finnish municipality)"]}
 {"fi":"siikaislainen","gr":"adj","en":["from, related or pertaining to Siikainen"]}
-{"fi":"siikajokelainen","gr":"adj","en":["alternative form of siikajokinen"]}
 {"fi":"siikajokinen","gr":"adj","en":["from, related or pertaining to Siikajoki (Finnish municipality)"]}
 {"fi":"sonkajärveläinen","gr":"adj","en":["from, related or pertaining to Sonkajärvi (the municipality)"]}
 {"fi":"sulkavalainen","gr":"adj","en":["from, related or pertaining to Sulkava"]}
 {"fi":"suonenjokelainen","gr":"adj","en":["from, related or pertaining to Suonenjoki (Finnish municipality)"]}
-{"fi":"suonenjokinen","gr":"adj","en":["alternative form of suonenjokelainen"]}
 {"fi":"säkyläläinen","gr":"adj","en":["from, related or pertaining to Säkylä"]}
 {"fi":"taivalkoskelainen","gr":"adj","en":["from, related or pertaining to Taivalkoski"]}
-{"fi":"taivalkoskinen","gr":"adj","en":["alternative form of taivalkoskelainen"]}
 {"fi":"tammelalainen","gr":"adj","en":["from, related or pertaining to Tammela"]}
 {"fi":"tervolainen","gr":"adj","en":["from, related or pertaining to Tervo"]}
-{"fi":"tervolainen","gr":"adj","en":["alternative form of tervolalainen"]}
 {"fi":"tervolalainen","gr":"adj","en":["from, related or pertaining to Tervola"]}
 {"fi":"koskilainen","gr":"adj","en":["synonym of valkeakoskelainen"]}
 {"fi":"tuusulalainen","gr":"adj","en":["from, related or pertaining to Tuusula"]}
-{"fi":"tuusulainen","gr":"adj","en":["alternative form of tuusulalainen"]}
 {"fi":"urjalalainen","gr":"adj","en":["from, related or pertaining to Urjala"]}
-{"fi":"urjalainen","gr":"adj","en":["alternative form of urjalalainen"]}
 {"fi":"utajärveläinen","gr":"adj","en":["from, related or pertaining to Utajärvi (Finnish municipality)"]}
-{"fi":"utajärvinen","gr":"adj","en":["alternative form of utajärveläinen"]}
 {"fi":"utsjokelainen","gr":"adj","en":["from, related or pertaining to Utsjoki (Finnish municipality)"]}
-{"fi":"utsjokinen","gr":"adj","en":["alternative form of utsjokelainen"]}
 {"fi":"viitasaarelainen","gr":"adj","en":["from, related or pertaining to Viitasaari (Finnish municipality)"]}
 {"fi":"vimpeliläinen","gr":"adj","en":["from, related or pertaining to Vimpeli"]}
-{"fi":"vimpeläinen","gr":"adj","en":["alternative form of vimpeliläinen"]}
 {"fi":"äänekoskelainen","gr":"adj","en":["from, related or pertaining to Äänikoski (Finnish municipality)"]}
 {"fi":"parasosiaalinen","gr":"adj","en":["parasocial"]}
 {"fi":"edustuskelpoinen","gr":"adj","en":["presentable, in a state where one may be presented"]}
@@ -10188,7 +9911,6 @@
 {"fi":"samantasoinen","gr":"adj","en":["on the same level, comparable, equal","synonym of koplanaarinen (“coplanar”)"]}
 {"fi":"edelliskertainen","gr":"adj","en":["previous, of the previous time it happened"]}
 {"fi":"edelliskesäinen","gr":"adj","en":["that took place in the previous summer"]}
-{"fi":"edelläkäypä","gr":"adj","en":["alternative form of edelläkäyvä"]}
 {"fi":"edelläkäyvä","gr":"adj","en":["preliminary, prevenient, previous"]}
 {"fi":"edelläoleva","gr":"adj","en":["foregoing, above"]}
 {"fi":"edesvastuullinen","gr":"adj","en":["liable, accountable, responsible"]}
@@ -10353,7 +10075,6 @@
 {"fi":"ensiasteinen","gr":"adj","en":["of the first degere, primary"]}
 {"fi":"ensikertainen","gr":"adj","en":["first-time"]}
 {"fi":"ensikesäinen","gr":"adj","en":["that takes place next summer"]}
-{"fi":"ensiksimainittu","gr":"adj","en":["alternative form of ensiksi mainittu"]}
 {"fi":"enimmäinen","gr":"adj","en":["maximal"]}
 {"fi":"ensiksi mainittu","gr":"adj","en":["synonym of ensin mainittu"]}
 {"fi":"ventti","gr":"adj","en":["tired, exhausted"]}
@@ -10564,7 +10285,6 @@
 {"fi":"muunlainen","gr":"adj","en":["other kind of"]}
 {"fi":"siihenastinen","gr":"adj","en":["up until that point, up to that point, until then"]}
 {"fi":"messevä","gr":"adj","en":["synonym of mehevä"]}
-{"fi":"helluntalainen","gr":"adj","en":["alternative form of helluntailainen"]}
 {"fi":"hellyydenkipeä","gr":"adj","en":["hungry for affection"]}
 {"fi":"helläkätinen","gr":"adj","en":["soft, gentle, sensitive"]}
 {"fi":"helläluonteinen","gr":"adj","en":["gentle, tender; of a gentle or tender character"]}
@@ -10579,10 +10299,8 @@
 {"fi":"helpottava","gr":"adj","en":["soothing, relieving"]}
 {"fi":"käännösaikainen","gr":"adj","en":["compile-time"]}
 {"fi":"pitkäkestoinen","gr":"adj","en":["lengthy, prolonged, sustained","long-term","long-lasting"]}
-{"fi":"ao.","gr":"adj","en":["abbreviation of asianomainen (“relevant, concerned”)"]}
 {"fi":"henkilöhistoriallinen","gr":"adj","en":["pertaining to personal history or history of a certain person"]}
 {"fi":"henkilöllinen","gr":"adj","en":["personal (of or pertaining to a particular person)"]}
-{"fi":"ilmielävä","gr":"adj","en":["alternative form of ilmi elävä"]}
 {"fi":"muromalainen","gr":"adj","en":["Muromian"]}
 {"fi":"tiedepoliittinen","gr":"adj","en":["pertaining to scientific policy"]}
 {"fi":"hermoheikko","gr":"adj","en":["synonym of heikkohermoinen"]}
@@ -10663,7 +10381,6 @@
 {"fi":"hiirenhiljainen","gr":"adj","en":["quiet as a mouse (very quiet)"]}
 {"fi":"entistä ehompi","gr":"adj","en":["better than before, improved"]}
 {"fi":"painoinen","gr":"adj","en":["of (the same) weight (as), heavy, of one's weight"]}
-{"fi":"ohempi","gr":"adj","en":["alternative form of ohuempi"]}
 {"fi":"hiivatinmoinen","gr":"adj","en":["heck of a, damn of a"]}
 {"fi":"hikoilevainen","gr":"adj","en":["sweating, sweaty"]}
 {"fi":"hiljentymätön","gr":"adj","en":["incessant; that does not go quiet"]}
@@ -10714,7 +10431,6 @@
 {"fi":"hopeahelainen","gr":"adj","en":["with silver fittings or bushings"]}
 {"fi":"epäelastinen","gr":"adj","en":["inelastic"]}
 {"fi":"hopeahko","gr":"adj","en":["silverish"]}
-{"fi":"hopeainen","gr":"adj","en":["alternative form of hopeinen"]}
 {"fi":"hopeakoristeinen","gr":"adj","en":["decorated with silver"]}
 {"fi":"horteinen","gr":"adj","en":["in hibernation or slumber","lethargic, drowsy"]}
 {"fi":"horjuvainen","gr":"adj","en":["wavering"]}
@@ -10764,8 +10480,6 @@
 {"fi":"huomispäiväinen","gr":"adj","en":["tomorrow's"]}
 {"fi":"huomiokykyinen","gr":"adj","en":["observant, attentive, perceptive, discerning"]}
 {"fi":"huomionarvoinen","gr":"adj","en":["remarkable, noteworthy, notable"]}
-{"fi":"huomioonotettava","gr":"adj","en":["alternative form of huomioon otettava"]}
-{"fi":"huomiotaherättävä","gr":"adj","en":["alternative form of huomiota herättävä"]}
 {"fi":"huomiota herättävä","gr":"adj","en":["that draws attention; striking, conspicuous, prominent"]}
 {"fi":"huomioon otettava","gr":"adj","en":["to be considered or taken into attention"]}
 {"fi":"ainoa laatuaan","gr":"adj","en":["only one of its kind, one of a kind"]}
@@ -10788,7 +10502,6 @@
 {"fi":"hurjapäinen","gr":"adj","en":["reckless, hotheaded, swashbuckling"]}
 {"fi":"hurjistunut","gr":"adj","en":["rampant, furious, frenzied"]}
 {"fi":"hurjaluonteinen","gr":"adj","en":["fierce(-tempered), ferocious, reckless"]}
-{"fi":"hutero","gr":"adj","en":["alternative form of hutera"]}
 {"fi":"huulikukkainen","gr":"adj","en":["being of the Lamiaceae family"]}
 {"fi":"huumeongelmainen","gr":"adj","en":["that has drug issues, addicted to drugs"]}
 {"fi":"painonsa arvoinen kultaa","gr":"adj","en":["worth one's weight in gold"]}
@@ -10929,7 +10642,6 @@
 {"fi":"varsinaissuomalainen","gr":"adj","en":["from, related or pertaining to Southwest Finland (Varsinais-Suomi)"]}
 {"fi":"ollut ja mennyt","gr":"adj","en":["gone, water under the bridge (that happened in the past and cannot be controlled or undone, but must be accepted, forgiven, or forgotten)"]}
 {"fi":"inklusiivinen","gr":"adj","en":["inclusive"]}
-{"fi":"ännäs","gr":"adj","en":["alternative form of n:s"]}
 {"fi":"instruktiivinen","gr":"adj","en":["instructive"]}
 {"fi":"instrumentaalinen","gr":"adj","en":["instrumental"]}
 {"fi":"pandeeminen","gr":"adj","en":["pandemic"]}
@@ -11038,7 +10750,6 @@
 {"fi":"uudismielinen","gr":"adj","en":["synonym of uudistusmielinen (“reformist”)"]}
 {"fi":"kaarteinen","gr":"adj","en":["meandering, curving, twisted"]}
 {"fi":"kademielinen","gr":"adj","en":["synonym of kateellinen"]}
-{"fi":"kahdenkertainen","gr":"adj","en":["alternative form of kaksinkertainen","double-entry"]}
 {"fi":"kahdenkeskinen","gr":"adj","en":["bilateral, mutual","one-to-one, private between two parties"]}
 {"fi":"kahdenlaatuinen","gr":"adj","en":["having two qualities"]}
 {"fi":"kahdenmaattava","gr":"adj","en":["for two people (of beds, sleeping bags, etc.)"]}
@@ -11087,7 +10798,6 @@
 {"fi":"kaikennäköinen","gr":"adj","en":["of various looks or appearances","of all kinds"]}
 {"fi":"kaikensuuruinen","gr":"adj","en":["of all sizes, values, etc."]}
 {"fi":"kaikenvärinen","gr":"adj","en":["of all colors"]}
-{"fi":"kaikenpuolinen","gr":"adj","en":["alternative form of kaikinpuolinen"]}
 {"fi":"kaikinpuolinen","gr":"adj","en":["in all aspects or respects, in every way"]}
 {"fi":"tasa-arvoinen","gr":"adj","en":["equal (with equality; characterized by equal treatment)","egalitarian (characterized by social equality and equal rights for all people)"]}
 {"fi":"kiukkuinen","gr":"adj","en":["annoyed, angry, cranky, snappy"]}
@@ -11570,7 +11280,6 @@
 {"fi":"kullanhohtoinen","gr":"adj","en":["with a golden shine"]}
 {"fi":"kullankiiltoinen","gr":"adj","en":["with a golden shine or glow"]}
 {"fi":"kullanvärinen","gr":"adj","en":["gilded, golden in color"]}
-{"fi":"kulloinen","gr":"adj","en":["alternative form of kulloinenkin"]}
 {"fi":"kultakantainen","gr":"adj","en":["goid-backed"]}
 {"fi":"kultakutrinen","gr":"adj","en":["golden-haired (with golden hair on one's head)"]}
 {"fi":"kultareunainen","gr":"adj","en":["with a golden edge, gilt-edged"]}
@@ -11685,7 +11394,6 @@
 {"fi":"kieroluonteinen","gr":"adj","en":["cunning, sly, devious"]}
 {"fi":"kierrekiinnitteinen","gr":"adj","en":["thread-mounted"]}
 {"fi":"kuvaamaton","gr":"adj","en":["indescribable"]}
-{"fi":"kuvainnollinen","gr":"adj","en":["alternative form of kuvaannollinen"]}
 {"fi":"kuvataiteellinen","gr":"adj","en":["pertaining to visual arts"]}
 {"fi":"kuvaton","gr":"adj","en":["plain, without a picture"]}
 {"fi":"kuvauksellinen","gr":"adj","en":["pictorial, picturesque"]}
@@ -11752,7 +11460,6 @@
 {"fi":"köyryselkäinen","gr":"adj","en":["hunch-backed"]}
 {"fi":"köytetty","gr":"adj","en":["tied up, roped"]}
 {"fi":"kokomusta","gr":"adj","en":["all-black, black throughout"]}
-{"fi":"kokoomukselainen","gr":"adj","en":["alternative form of kokoomuslainen"]}
 {"fi":"kokopitkä","gr":"adj","en":["full-length","feature-length"]}
 {"fi":"kokopäivätoiminen","gr":"adj","en":["full-time (working full-time, etc.)"]}
 {"fi":"kokovalkoinen","gr":"adj","en":["all-white, white throughout"]}
@@ -11775,7 +11482,6 @@
 {"fi":"kärpännahkainen","gr":"adj","en":["made of ermine fur"]}
 {"fi":"kärpässarjalainen","gr":"adj","en":["in the flyweight class"]}
 {"fi":"koristekuvioinen","gr":"adj","en":["with a decorative pattern"]}
-{"fi":"kärtyinen","gr":"adj","en":["alternative form of kärttyinen"]}
 {"fi":"käryinen","gr":"adj","en":["smelling like smoke or burning"]}
 {"fi":"korjuukypsä","gr":"adj","en":["ripe for collection or harvesting"]}
 {"fi":"ailahtelevainen","gr":"adj","en":["synonym of ailahteleva (“fickle”)"]}
@@ -11820,7 +11526,6 @@
 {"fi":"laajaspektrinen","gr":"adj","en":["synonym of laajakirjoinen"]}
 {"fi":"laajaulotteinen","gr":"adj","en":["broad, expansive, in many dimensions"]}
 {"fi":"laatuunkäypä","gr":"adj","en":["fair, decent, reasonable, adequate"]}
-{"fi":"laatuunkäyvä","gr":"adj","en":["alternative form of laatuunkäypä"]}
 {"fi":"lahdentakainen","gr":"adj","en":["beyond the bay or gulf","Swedish (beyond the Bothnian Bay)"]}
 {"fi":"lahovikainen","gr":"adj","en":["rotted, decayed (damaged by rot)"]}
 {"fi":"laikkupintainen","gr":"adj","en":["spotted, flecked"]}
@@ -11893,7 +11598,6 @@
 {"fi":"liikennekuntoinen","gr":"adj","en":["roadworthy, fit for traffic"]}
 {"fi":"liiketaloustieteellinen","gr":"adj","en":["related to business economics or business administration"]}
 {"fi":"liikkuvainen","gr":"adj","en":["mobile, moving"]}
-{"fi":"kys.","gr":"adj","en":["abbreviation of kyseinen (“in question, under consideration or discussion”)"]}
 {"fi":"salonkikelpoinen","gr":"adj","en":["appropriate for high society (in terms of etiquette and outwardly displayed features); civilized"]}
 {"fi":"lainomainen","gr":"adj","en":["according to a law, legally proscribed"]}
 {"fi":"viaton kuin kyyhkynen","gr":"adj","en":["innocent as a dove, innocent as the child unborn"]}
@@ -11923,7 +11627,6 @@
 {"fi":"lipallinen","gr":"adj","en":["with a peak or visor"]}
 {"fi":"lipeinen","gr":"adj","en":["that contains or resembles lye"]}
 {"fi":"lipeväkielinen","gr":"adj","en":["glib-tongued, smooth-tongued"]}
-{"fi":"lipeäinen","gr":"adj","en":["alternative form of lipeinen"]}
 {"fi":"lisämaksullinen","gr":"adj","en":["premium (having an extra premium rate)"]}
 {"fi":"värinpitävä","gr":"adj","en":["colorfast, colourfast, lightfast (having colors that are resistant to being washed out, running, or fading)"]}
 {"fi":"värinkestävä","gr":"adj","en":["synonym of värinpitävä (“colorfast”)"]}
@@ -11985,7 +11688,6 @@
 {"fi":"lapsiystävällinen","gr":"adj","en":["child-friendly"]}
 {"fi":"lapsuudenaikainen","gr":"adj","en":["childhood (from the times of childhood)"]}
 {"fi":"lasinkirkas","gr":"adj","en":["clear as glass, crystal clear"]}
-{"fi":"lastentajuinen","gr":"adj","en":["alternative form of lapsentajuinen"]}
 {"fi":"latvalaho","gr":"adj","en":["rotten all the way to the top","insane, out of one's mind"]}
 {"fi":"leijonankeltainen","gr":"adj","en":["lion yellow"]}
 {"fi":"lentokykyinen","gr":"adj","en":["capable of flying","carinate, mature"]}
@@ -12035,13 +11737,11 @@
 {"fi":"lössö","gr":"adj","en":["synonym of löysä"]}
 {"fi":"itseironinen","gr":"adj","en":["self-deprecating (humorously expressing disapproval or being critical of oneself)"]}
 {"fi":"-jakoinen","gr":"adj","en":["divisible into (certain number of similar or comparable parts)","dividing into parts (in some way)"]}
-{"fi":"onnetoin","gr":"adj","en":["archaic form of onneton"]}
 {"fi":"lähtövalmis","gr":"adj","en":["ready to go, start or leave"]}
 {"fi":"läikkäinen","gr":"adj","en":["spotted, spotty, splotchy, mottled"]}
 {"fi":"läiskäinen","gr":"adj","en":["splotchy"]}
 {"fi":"lämpimänpunainen","gr":"adj","en":["warm red"]}
 {"fi":"-jaksoinen","gr":"adj","en":["-interval, -period (consisting of certain kind or number of intervals or periods)"]}
-{"fi":"elementaari-","gr":"adj","en":["combining form of elementaarinen","elementary (relating to the basic, essential or fundamental part of something)","combining form of elementaarinen","elementary (of or pertaining to chemical elements)"]}
 {"fi":"-enteinen","gr":"adj","en":["boding (being or exhibiting a certain type of omen)"]}
 {"fi":"-enemmistöinen","gr":"adj","en":["exhibiting a majority of ..."]}
 {"fi":"-esteinen","gr":"adj","en":["synonym of rajoitteinen (“challenged”)"]}
@@ -12111,11 +11811,9 @@
 {"fi":"mainitunlainen","gr":"adj","en":["as mentioned, like what was mentioned"]}
 {"fi":"mainonnallinen","gr":"adj","en":["pertaining to advertisement or advertising"]}
 {"fi":"mairitteleva","gr":"adj","en":["flattering"]}
-{"fi":"majesteetillinen","gr":"adj","en":["alternative form of majesteettinen"]}
 {"fi":"makeankipeä","gr":"adj","en":["with a sweet tooth"]}
 {"fi":"maksipituinen","gr":"adj","en":["of maxi length"]}
 {"fi":"maksukykyinen","gr":"adj","en":["solvent (able to pay all debts)"]}
-{"fi":"makuisa","gr":"adj","en":["alternative form of makoisa"]}
 {"fi":"maljamainen","gr":"adj","en":["calicular, bowl-shaped"]}
 {"fi":"mallikelpoinen","gr":"adj","en":["exemplary, standard"]}
 {"fi":"mallisuojattu","gr":"adj","en":["design protected (that has been afforded industrial design right)"]}
@@ -12130,7 +11828,6 @@
 {"fi":"marjapuuronpunainen","gr":"adj","en":["\"berry porridge\" red; a light desaturated red or pink, possibly with a blue/purple tint"]}
 {"fi":"markkamääräinen","gr":"adj","en":["measured in marks (the former Finnish currency)"]}
 {"fi":"markkinaoikeudellinen","gr":"adj","en":["pertaining to the markkinaoikeus"]}
-{"fi":"marksilais-leniniläinen","gr":"adj","en":["alternative form of marxilais-leniniläinen"]}
 {"fi":"marxilais-leniniläinen","gr":"adj","en":["Marxist-Leninist"]}
 {"fi":"maskuliinisukuinen","gr":"adj","en":["masculine, in the masculine gender"]}
 {"fi":"massainen","gr":"adj","en":["with a mass (of)"]}
@@ -12202,7 +11899,6 @@
 {"fi":"muotopuoli","gr":"adj","en":["shapeless, formless","deformed, misshapen, malformed"]}
 {"fi":"miehenkorkuinen","gr":"adj","en":["as tall or high as a man"]}
 {"fi":"mielenosoituksellinen","gr":"adj","en":["demonstrative, pertaining to a demonstration or protest"]}
-{"fi":"mieliinpainuva","gr":"adj","en":["alternative form of mieleenpainuva"]}
 {"fi":"miellyttävä-ääninen","gr":"adj","en":["with a pleasant voice"]}
 {"fi":"miellyttäväkäytöksinen","gr":"adj","en":["pleasant in manner"]}
 {"fi":"mieskohtainen","gr":"adj","en":["personal, individual to every man"]}
@@ -12227,7 +11923,6 @@
 {"fi":"mokkainen","gr":"adj","en":["made of suede"]}
 {"fi":"mokkainen","gr":"adj","en":["containing or resembling mocha"]}
 {"fi":"mokkanahkainen","gr":"adj","en":["made of suede"]}
-{"fi":"molekylaarinen","gr":"adj","en":["alternative form of molekulaarinen"]}
 {"fi":"momentaaninen","gr":"adj","en":["momentane"]}
 {"fi":"monarkistinen","gr":"adj","en":["monarchistic"]}
 {"fi":"monarkkinen","gr":"adj","en":["monarchical"]}
@@ -12285,7 +11980,6 @@
 {"fi":"muovipintainen","gr":"adj","en":["with a plastic surface"]}
 {"fi":"muovipäällysteinen","gr":"adj","en":["plastic-coated, plastic-covered"]}
 {"fi":"udmurtinkielinen","gr":"adj","en":["Udmurt, Udmurt language (written or expressed in Udmurt)","Udmurt speaking (using Udmurt as a means of daily communication)"]}
-{"fi":"mureva","gr":"adj","en":["alternative form of murea"]}
 {"fi":"murkkuikäinen","gr":"adj","en":["synonym of murrosikäinen"]}
 {"fi":"murtumaton","gr":"adj","en":["unbreakable, unbroken"]}
 {"fi":"muruinen","gr":"adj","en":["crumbly, crumby"]}
@@ -12407,7 +12101,6 @@
 {"fi":"nelilappeinen","gr":"adj","en":["with four flat sides"]}
 {"fi":"neliniitinen","gr":"adj","en":["with four shafts"]}
 {"fi":"nelisylinterinen","gr":"adj","en":["four-cylinder"]}
-{"fi":"nelitoistavuotias","gr":"adj","en":["alternative form of neljätoistavuotias"]}
 {"fi":"nelivartinen","gr":"adj","en":["synonym of neliniitinen"]}
 {"fi":"nelivuotinen","gr":"adj","en":["four-year"]}
 {"fi":"neliääninen","gr":"adj","en":["with four voices"]}
@@ -12441,7 +12134,6 @@
 {"fi":"norjalaissyntyinen","gr":"adj","en":["Norwegian-born"]}
 {"fi":"normaalihintainen","gr":"adj","en":["normal-priced"]}
 {"fi":"normaalikokoinen","gr":"adj","en":["normal-sized"]}
-{"fi":"normaalinäköinen","gr":"adj","en":["normal-sighted","alternative form of normaalinnäköinen (“normal-looking”)"]}
 {"fi":"normaalipainoinen","gr":"adj","en":["with normal weight"]}
 {"fi":"normaalipituinen","gr":"adj","en":["with normal length or height (of person)"]}
 {"fi":"normaalivartaloinen","gr":"adj","en":["with an average build"]}
@@ -12539,7 +12231,6 @@
 {"fi":"vaihtuva","gr":"adj","en":["volatile, variable, varying, shifting, alternating, floating"]}
 {"fi":"valloittava","gr":"adj","en":["captivating, conquering, charming, winsome"]}
 {"fi":"vanhastava","gr":"adj","en":["synonym of vanhahtava"]}
-{"fi":"varottava","gr":"adj","en":["to be avoided, discouraged","dialectal or misspelled form of varoittava"]}
 {"fi":"varova","gr":"adj","en":["synonym of varovainen (“cautious, careful, wary”)"]}
 {"fi":"vikisevä","gr":"adj","en":["squeaking","incessantly complaining, whiny"]}
 {"fi":"vituttava","gr":"adj","en":["that pisses one off, fucking annoying"]}
@@ -12552,8 +12243,6 @@
 {"fi":"pahaluontoinen","gr":"adj","en":["with a bad nature or personality"]}
 {"fi":"pahanilkinen","gr":"adj","en":["maligned, nefarious, wicked, desperate"]}
 {"fi":"pahanlainen","gr":"adj","en":["bad or unpleasant"]}
-{"fi":"pahanluontoinen","gr":"adj","en":["alternative form of pahaluontoinen"]}
-{"fi":"pahantapainen","gr":"adj","en":["alternative form of pahatapainen"]}
 {"fi":"pahasuinen","gr":"adj","en":["foul-mouthed"]}
 {"fi":"pahatapainen","gr":"adj","en":["with bad manners"]}
 {"fi":"pahemmanpuoleinen","gr":"adj","en":["bordering on bad, on the worse side"]}
@@ -12705,9 +12394,7 @@
 {"fi":"pariosainen","gr":"adj","en":["containing a couple of parts","pinnatisect"]}
 {"fi":"parisataavuotinen","gr":"adj","en":["a couple-hundred-year"]}
 {"fi":"parisatainen","gr":"adj","en":["numbering a couple hundred"]}
-{"fi":"parisatavuotinen","gr":"adj","en":["alternative form of parisataavuotinen"]}
 {"fi":"paristokäyttöinen","gr":"adj","en":["battery-operated, powered by a (non-rechargeable) battery"]}
-{"fi":"parittainen","gr":"adj","en":["alternative form of pareittainen"]}
 {"fi":"parituhantinen","gr":"adj","en":["numbering a couple thousand"]}
 {"fi":"pariviikkoinen","gr":"adj","en":["a couple-week"]}
 {"fi":"parivuotias","gr":"adj","en":["a couple-year-old"]}
@@ -12822,7 +12509,6 @@
 {"fi":"pikisilmäinen","gr":"adj","en":["black-eyed, dark-eyed"]}
 {"fi":"pikkupoikamainen","gr":"adj","en":["like a little boy"]}
 {"fi":"pikkuporvarillinen","gr":"adj","en":["petit bourgeois, petty bourgeois"]}
-{"fi":"pikkuriikkinen","gr":"adj","en":["alternative form of pikkiriikkinen"]}
 {"fi":"pikkuruikkuinen","gr":"adj","en":["synonym of pikkiriikkinen"]}
 {"fi":"pikkuruutuinen","gr":"adj","en":["with small squares or panes"]}
 {"fi":"pikkusieluinen","gr":"adj","en":["petty, small-minded"]}
@@ -13174,7 +12860,6 @@
 {"fi":"reipashenkinen","gr":"adj","en":["brisk, healthy, dutiful"]}
 {"fi":"reiällinen","gr":"adj","en":["with a hole"]}
 {"fi":"reheväkasvuinen","gr":"adj","en":["lush-growing"]}
-{"fi":"remseä","gr":"adj","en":["alternative form of rempseä"]}
 {"fi":"reseptorinen","gr":"adj","en":["receptory"]}
 {"fi":"riittoinen","gr":"adj","en":["synonym of riittoisa"]}
 {"fi":"rikassisältöinen","gr":"adj","en":["content-rich"]}
@@ -13234,7 +12919,6 @@
 {"fi":"rokokootyylinen","gr":"adj","en":["rococo (in the rococo sryle)"]}
 {"fi":"romaniankielinen","gr":"adj","en":["in the Romanian language"]}
 {"fi":"romanikielinen","gr":"adj","en":["in a Romani language"]}
-{"fi":"romaninkielinen","gr":"adj","en":["alternative form of romanikielinen"]}
 {"fi":"romantiikannälkäinen","gr":"adj","en":["hungry for romance"]}
 {"fi":"roomalaiskatolilainen","gr":"adj","en":["Roman Catholic"]}
 {"fi":"roosanvärinen","gr":"adj","en":["rose-colored"]}
@@ -13254,7 +12938,6 @@
 {"fi":"ruostevapaa","gr":"adj","en":["rust-free"]}
 {"fi":"rusottava","gr":"adj","en":["ruddy, reddish"]}
 {"fi":"ruusunpunertava","gr":"adj","en":["pinkish, rose-colored"]}
-{"fi":"ruutikuiva","gr":"adj","en":["alternative form of rutikuiva"]}
 {"fi":"rutinoitu","gr":"adj","en":["routinized (made into a routine)"]}
 {"fi":"rutinoitunut","gr":"adj","en":["routined (that has acquired a routine)"]}
 {"fi":"runousopillinen","gr":"adj","en":["poetic (pertaining to poetics, or the theory of poetry)"]}
@@ -13317,7 +13000,6 @@
 {"fi":"rähmäinen","gr":"adj","en":["rheumy"]}
 {"fi":"räikeä-ääninen","gr":"adj","en":["with a loud, garish voice or sound"]}
 {"fi":"räikeänvärinen","gr":"adj","en":["garish-colored"]}
-{"fi":"räikeävärinen","gr":"adj","en":["alternative form of räikeänvärinen"]}
 {"fi":"rämäpäinen","gr":"adj","en":["reckless, foolhardy"]}
 {"fi":"räsyinen","gr":"adj","en":["ragged, in tatters"]}
 {"fi":"rääsyinen","gr":"adj","en":["ragged, in tatters"]}
@@ -13330,7 +13012,6 @@
 {"fi":"saaristoinen","gr":"adj","en":["archipelagal, islandy (that resembles or reminds one of an archipelago)"]}
 {"fi":"saasteinen","gr":"adj","en":["polluted, tainted"]}
 {"fi":"saatananmoinen","gr":"adj","en":["damn, damned"]}
-{"fi":"sadunhohteinen","gr":"adj","en":["alternative form of sadunhohtoinen"]}
 {"fi":"sadunhohtoinen","gr":"adj","en":["glamorous, mythical, fairytale"]}
 {"fi":"sadunomainen","gr":"adj","en":["fabled, like a fairytale"]}
 {"fi":"sahapintainen","gr":"adj","en":["with a serrated surface"]}
@@ -13363,20 +13044,16 @@
 {"fi":"alaslaskettu","gr":"adj","en":["lowered (that has been made lower, such as of a ceiling in a room)"]}
 {"fi":"jänniteohjattu","gr":"adj","en":["voltage-controlled"]}
 {"fi":"suureellinen","gr":"adj","en":["with a quantity"]}
-{"fi":"suureellinen","gr":"adj","en":["misspelling of suurellinen"]}
 {"fi":"vitamiiniköyhä","gr":"adj","en":["poor in vitamin"]}
 {"fi":"väetön","gr":"adj","en":["with no people"]}
 {"fi":"vähäläntä","gr":"adj","en":["shortish (of a person)"]}
 {"fi":"väljähkö","gr":"adj","en":["loosish"]}
-{"fi":"väriäpäästävä","gr":"adj","en":["alternative form of väriä päästävä"]}
 {"fi":"ylileveä","gr":"adj","en":["overly wide"]}
 {"fi":"yliälykäs","gr":"adj","en":["overly intelligent"]}
 {"fi":"äkkisyvä","gr":"adj","en":["suddenly deep"]}
 {"fi":"äkkiväärä","gr":"adj","en":["tightly turning or twisting"]}
 {"fi":"samakantainen","gr":"adj","en":["having the same base","coherent"]}
-{"fi":"samakeskinen","gr":"adj","en":["alternative form of samankeskinen"]}
 {"fi":"samalähtöinen","gr":"adj","en":["of the same origin"]}
-{"fi":"samamerkityksinen","gr":"adj","en":["alternative form of samanmerkityksinen"]}
 {"fi":"samamunainen","gr":"adj","en":["monozygotic, monovular; identical"]}
 {"fi":"samanhetkinen","gr":"adj","en":["simultaneous, co-occurrent"]}
 {"fi":"samanikäinen","gr":"adj","en":["of the same age"]}
@@ -13390,7 +13067,6 @@
 {"fi":"samaperintäinen","gr":"adj","en":["homozygotic"]}
 {"fi":"samasanainen","gr":"adj","en":["word-for-word"]}
 {"fi":"samasyntyinen","gr":"adj","en":["homologous"]}
-{"fi":"pernisioosi","gr":"adj","en":["alternative form of pernisiöösi"]}
 {"fi":"seitsemänlainen","gr":"adj","en":["of seven kinds"]}
 {"fi":"seuraavanlainen","gr":"adj","en":["as follows, as the following description states"]}
 {"fi":"sisterssiläinen","gr":"adj","en":["Cistercian"]}
@@ -13422,7 +13098,6 @@
 {"fi":"suhdanneherkkä","gr":"adj","en":["cycle-sensitive, trend-sensitive"]}
 {"fi":"suojaeristetty","gr":"adj","en":["double-insulated"]}
 {"fi":"sysipimeä","gr":"adj","en":["very dark, pitch-black"]}
-{"fi":"syvällekäypä","gr":"adj","en":["alternative form of syvällekäyvä"]}
 {"fi":"syvällekäyvä","gr":"adj","en":["profound, comprehensive, substantial"]}
 {"fi":"syyskylmä","gr":"adj","en":["cold as autumn or fall"]}
 {"fi":"syyspimeä","gr":"adj","en":["dark as autumn or fall"]}
@@ -13529,8 +13204,6 @@
 {"fi":"vankahko","gr":"adj","en":["robustish, sturdish"]}
 {"fi":"varastokuiva","gr":"adj","en":["dry from the warehouse"]}
 {"fi":"varaukseton","gr":"adj","en":["unreserved, unqualified","having no reservation","chargeless"]}
-{"fi":"viimeksimainittu","gr":"adj","en":["alternative form of viimeksi mainittu"]}
-{"fi":"viimemainittu","gr":"adj","en":["alternative form of viimeksi mainittu"]}
 {"fi":"vastukseton","gr":"adj","en":["without resistance"]}
 {"fi":"vauhditon","gr":"adj","en":["standing (without a run-up)","speedless (without speed)"]}
 {"fi":"vauhtisokea","gr":"adj","en":["not knowing how fast one is going"]}
@@ -13539,8 +13212,6 @@
 {"fi":"viinaton","gr":"adj","en":["without booze, without alcohol; (of a person) that does not drink alcohol; (of an event, etc.) not involving consumption of alcohol"]}
 {"fi":"vilunarka","gr":"adj","en":["synonym of kylmänarka"]}
 {"fi":"viraton","gr":"adj","en":["without official capacity"]}
-{"fi":"vireilläoleva","gr":"adj","en":["alternative form of vireillä oleva"]}
-{"fi":"virkaatoimittava","gr":"adj","en":["alternative form of virkaa toimittava"]}
 {"fi":"vivahdukseton","gr":"adj","en":["synonym of vivahteeton"]}
 {"fi":"vivahteeton","gr":"adj","en":["unnuanced"]}
 {"fi":"voitoton","gr":"adj","en":["winless"]}
@@ -13557,7 +13228,6 @@
 {"fi":"satapiikkinen","gr":"adj","en":["125 cc"]}
 {"fi":"sataprosenttinen","gr":"adj","en":["one hundred percent"]}
 {"fi":"satatuhantinen","gr":"adj","en":["numbering hundred thousand"]}
-{"fi":"samanistinen","gr":"adj","en":["alternative form of shamanistinen"]}
 {"fi":"satiinisidoksinen","gr":"adj","en":["satin-weave"]}
 {"fi":"sanonnallinen","gr":"adj","en":["concerning a saying"]}
 {"fi":"saranallinen","gr":"adj","en":["with a hinge, hinged"]}
@@ -13727,7 +13397,6 @@
 {"fi":"täysivahvuinen","gr":"adj","en":["full, of full strength"]}
 {"fi":"täysivarainen","gr":"adj","en":["solvent (able to pay all debts)"]}
 {"fi":"täysiverinen","gr":"adj","en":["full-blooded"]}
-{"fi":"täysivillainen","gr":"adj","en":["alternative form of täysvillainen"]}
 {"fi":"täysivoimainen","gr":"adj","en":["of full strength or power"]}
 {"fi":"uhkeapovinen","gr":"adj","en":["voluptuous-breasted"]}
 {"fi":"uhkearintainen","gr":"adj","en":["synonym of uhkeapovinen"]}
@@ -13877,7 +13546,6 @@
 {"fi":"seläntakainen","gr":"adj","en":["that happens behind one's back"]}
 {"fi":"selänteinen","gr":"adj","en":["ridged, ridgy"]}
 {"fi":"senaikainen","gr":"adj","en":["contemporary, at that time"]}
-{"fi":"senaikuinen","gr":"adj","en":["alternative form of senaikainen"]}
 {"fi":"senhetkinen","gr":"adj","en":["happening at that moment"]}
 {"fi":"senkaltainen","gr":"adj","en":["of that kind, such"]}
 {"fi":"senlaatuinen","gr":"adj","en":["of that kind or quality"]}
@@ -14048,7 +13716,6 @@
 {"fi":"säännönvastainen","gr":"adj","en":["against the rules"]}
 {"fi":"säätyjakoinen","gr":"adj","en":["with an estate system"]}
 {"fi":"udmurttilainen","gr":"adj","en":["Udmurt, Udmurtian (of or pertaining to Udmurts)"]}
-{"fi":"taaimmainen","gr":"adj","en":["alternative form of takimmainen"]}
 {"fi":"taajaväkinen","gr":"adj","en":["densely populated, populous"]}
 {"fi":"taaksepäinen","gr":"adj","en":["backward, rearward"]}
 {"fi":"tabloidikokoinen","gr":"adj","en":["tabloid-sized"]}
@@ -14355,7 +14022,6 @@
 {"fi":"uudenmallinen","gr":"adj","en":["of a new model"]}
 {"fi":"uudentyyppinen","gr":"adj","en":["of a new type or design"]}
 {"fi":"uusasiallinen","gr":"adj","en":["according to New Objectivity"]}
-{"fi":"uushopeainen","gr":"adj","en":["alternative form of uushopeinen"]}
 {"fi":"uushopeinen","gr":"adj","en":["made of nickel silver"]}
 {"fi":"uusrahvaanomainen","gr":"adj","en":["\"neo-vulgar\" (a kind of Finnish art style imitating folksy, popular or vulgar art)"]}
 {"fi":"uusromanttinen","gr":"adj","en":["neo-Romantic"]}
@@ -14508,7 +14174,6 @@
 {"fi":"valtapoliittinen","gr":"adj","en":["pertaining to power politics"]}
 {"fi":"valtioenemmistöinen","gr":"adj","en":["majority-owned by the state"]}
 {"fi":"valtioidenvälinen","gr":"adj","en":["transnational"]}
-{"fi":"valtionenemmistöinen","gr":"adj","en":["alternative form of valtioenemmistöinen"]}
 {"fi":"valtionjohtoinen","gr":"adj","en":["state-controlled"]}
 {"fi":"valtiontaloudellinen","gr":"adj","en":["pertaining to state finances"]}
 {"fi":"valtiotieteellinen","gr":"adj","en":["pertaining to political science"]}
@@ -14577,7 +14242,6 @@
 {"fi":"viheriäinen","gr":"adj","en":["greenish, verdant"]}
 {"fi":"vihmainen","gr":"adj","en":["drizzly"]}
 {"fi":"vihurirokkoinen","gr":"adj","en":["suffering from rubella"]}
-{"fi":"viidenkertainen","gr":"adj","en":["alternative form of viisinkertainen"]}
 {"fi":"viihteellinen","gr":"adj","en":["entertaining, having entertainment"]}
 {"fi":"viikinkiaikainen","gr":"adj","en":["from the Viking times"]}
 {"fi":"viikkopalkkainen","gr":"adj","en":["that is paid a weekly wage"]}
@@ -14614,7 +14278,6 @@
 {"fi":"villakankainen","gr":"adj","en":["woolly, made of wool"]}
 {"fi":"vilutautinen","gr":"adj","en":["suffering from ague or malaria"]}
 {"fi":"vimmainen","gr":"adj","en":["furious, frenzied"]}
-{"fi":"vinoittainen","gr":"adj","en":["alternative form of vinottainen"]}
 {"fi":"violetinvärinen","gr":"adj","en":["violet-colored"]}
 {"fi":"virallisluonteinen","gr":"adj","en":["of an official nature"]}
 {"fi":"virikkeellinen","gr":"adj","en":["stimulating, providing stimulation"]}
@@ -14686,7 +14349,6 @@
 {"fi":"antiokialainen","gr":"adj","en":["Antiochian"]}
 {"fi":"emesalainen","gr":"adj","en":["Emesene"]}
 {"fi":"palmyralainen","gr":"adj","en":["Palmyrene"]}
-{"fi":"tylppö","gr":"adj","en":["alternative form of tylppä (“blunt, obtuse”)"]}
 {"fi":"keskivertainen","gr":"adj","en":["average, typical"]}
 {"fi":"vaahtosammuttimen kokoinen","gr":"adj","en":["knee-high to a grasshopper (short, especially relating to when the subject is or was a small child)"]}
 {"fi":"kiero kuin korkkiruuvi","gr":"adj","en":["crooked as a dog's hind leg"]}
@@ -14703,12 +14365,6 @@
 {"fi":"lohenpunainen","gr":"adj","en":["salmon (of a salmon color)"]}
 {"fi":"esiplanetaarinen","gr":"adj","en":["protoplanetary, preplanetary (before the existence or formation of planets)"]}
 {"fi":"protoplanetaarinen","gr":"adj","en":["synonym of esiplanetaarinen (“protoplanetary”)"]}
-{"fi":"aik.","gr":"adj","en":["abbreviation of aikaisempi (“earlier, former”)"]}
-{"fi":"ent.","gr":"adj","en":["abbreviation of entinen (“former”)"]}
-{"fi":"myöh.","gr":"adj","en":["abbreviation of myöhempi (“later”)"]}
-{"fi":"nyk.","gr":"adj","en":["abbreviation of nykyinen (“current, present”)"]}
-{"fi":"vas.","gr":"adj","en":["abbreviation of vasen (“left”)"]}
-{"fi":"oik.","gr":"adj","en":["abbreviation of oikea (“right”)"]}
 {"fi":"luonnonharmaa","gr":"adj","en":["natural grey"]}
 {"fi":"luonnonväärä","gr":"adj","en":["naturally curved or bent"]}
 {"fi":"-kantainen","gr":"adj","en":["Having a certain number or type of kanta (“heel, base, stem etc.”), in all senses of the word."]}
@@ -14736,9 +14392,7 @@
 {"fi":"yhtämielinen","gr":"adj","en":["in agreement","synonym of yksimielinen (“unanimous”)"]}
 {"fi":"-loppuinen","gr":"adj","en":["-final; Forms nouns and adjectives that define a thing by its last component."]}
 {"fi":"ulospäinsuuntautunut","gr":"adj","en":["extroverted"]}
-{"fi":"ulospäin suuntautunut","gr":"adj","en":["alternative form of ulospäinsuuntautunut"]}
 {"fi":"sisäänpäinsuuntautunut","gr":"adj","en":["introverted"]}
-{"fi":"sisäänpäin suuntautunut","gr":"adj","en":["alternative form of sisäänpäinsuuntautunut"]}
 {"fi":"-suuntautunut","gr":"adj","en":["-oriented; used to form adjectives of orientation from adverbs."]}
 {"fi":"tekaistu","gr":"adj","en":["fabricated, made up"]}
 {"fi":"orwellilainen","gr":"adj","en":["Orwellian"]}
@@ -14749,9 +14403,7 @@
 {"fi":"alitajuntainen","gr":"adj","en":["subliminal, subconscious"]}
 {"fi":"alitajunnallinen","gr":"adj","en":["synonym of alitajuinen"]}
 {"fi":"viihdyttävä","gr":"adj","en":["entertaining, enjoyable","amusing","recreational"]}
-{"fi":"millanen","gr":"adj","en":["alternative form of millainen"]}
 {"fi":"erottuva","gr":"adj","en":["distinctive, distinct"]}
-{"fi":"karvanen","gr":"adj","en":["alternative form of karvainen"]}
 {"fi":"lepromatoidi","gr":"adj","en":["lepromatoid"]}
 {"fi":"tehdastekoinen","gr":"adj","en":["factory-made, factory-built"]}
 {"fi":"sävyinen","gr":"adj","en":["of a certain tint or tone","of a certain type or mood"]}
@@ -14787,7 +14439,6 @@
 {"fi":"erityislaatuinen","gr":"adj","en":["of excellent quality, outstanding","of a highly specific type"]}
 {"fi":"-ruokainen","gr":"adj","en":["Consuming food, or sometimes fuel, in a specified manner."]}
 {"fi":"uudistuskypsä","gr":"adj","en":["ready for regeneration"]}
-{"fi":"mysteerinen","gr":"adj","en":["alternative form of mystinen"]}
 {"fi":"kauhtunut","gr":"adj","en":["faded, worn out"]}
 {"fi":"bängeri","gr":"adj","en":["good; cool, sick"]}
 {"fi":"trinitaarinen","gr":"adj","en":["Trinitarian (of or pertaining to the Trinity or the doctrine thereof)","Trinitarian (Believing in the Trinity)"]}
@@ -14833,7 +14484,6 @@
 {"fi":"elimistöllinen","gr":"adj","en":["bodily, organic"]}
 {"fi":"elämätön","gr":"adj","en":["unlived","lifeless"]}
 {"fi":"-latvuksinen","gr":"adj","en":["crowned (of a tree or other plant: having a given type of crown)"]}
-{"fi":"nokonnuuka","gr":"adj","en":["alternative form of nokonuuka"]}
 {"fi":"nokonuuka","gr":"adj","en":["(so) accurate, precise, exact","picky, stingy"]}
 {"fi":"rokotevastainen","gr":"adj","en":["anti-vax (opposing vaccines and vaccination)"]}
 {"fi":"-lainoitteinen","gr":"adj","en":["Financed through a loan of the type specified by the modifier."]}
@@ -14876,7 +14526,6 @@
 {"fi":"-lentoinen","gr":"adj","en":["-flying (flying in a defined manner, also figuratively)"]}
 {"fi":"-liikenteinen","gr":"adj","en":["trafficked, -traffic"]}
 {"fi":"vörtti","gr":"adj","en":["worth it, worth something"]}
-{"fi":"wörtti","gr":"adj","en":["alternative form of vörtti"]}
 {"fi":"lianarka","gr":"adj","en":["easily soiled"]}
 {"fi":"-lierinen","gr":"adj","en":["-brimmed (having a defined type of brim)"]}
 {"fi":"lieritön","gr":"adj","en":["brimless (having no brim)"]}
@@ -14891,7 +14540,6 @@
 {"fi":"kolmenvälinen","gr":"adj","en":["tripartite (among three parties, as agreement or discussion)"]}
 {"fi":"koulutettu","gr":"adj","en":["educated; trained"]}
 {"fi":"alikoulutettu","gr":"adj","en":["undereducated"]}
-{"fi":"norea","gr":"adj","en":["alternative form of norja (“lithe”)"]}
 {"fi":"huippumukava","gr":"adj","en":["super nice"]}
 {"fi":"aikava","gr":"adj","en":["slow","adultlike, mature"]}
 {"fi":"ajokykyinen","gr":"adj","en":["fit to drive"]}
@@ -14908,7 +14556,6 @@
 {"fi":"autoton","gr":"adj","en":["carless, car-free"]}
 {"fi":"baltialainen","gr":"adj","en":["synonym of balttilainen"]}
 {"fi":"damastinen","gr":"adj","en":["made of damask"]}
-{"fi":"darwinistinen","gr":"adj","en":["alternative form of darvinistinen"]}
 {"fi":"dendrologinen","gr":"adj","en":["dendrological"]}
 {"fi":"dysfaattinen","gr":"adj","en":["dysphasic"]}
 {"fi":"dystooppinen","gr":"adj","en":["dystopian"]}
@@ -14927,7 +14574,6 @@
 {"fi":"entsymaattinen","gr":"adj","en":["enzymatic"]}
 {"fi":"epäammattimainen","gr":"adj","en":["unprofessional, amateurish"]}
 {"fi":"epäidenttinen","gr":"adj","en":["nonidentical"]}
-{"fi":"epälojaalinen","gr":"adj","en":["alternative form of epälojaali"]}
 {"fi":"epäsolidaarinen","gr":"adj","en":["not solidary"]}
 {"fi":"epätoivottu","gr":"adj","en":["unwanted, undesired"]}
 {"fi":"erityisherkkä","gr":"adj","en":["highly sensitive, hypersensitive"]}
@@ -14948,7 +14594,6 @@
 {"fi":"harmaasuolattu","gr":"adj","en":["grey-salted; salted with a salt that does not contain nitrite"]}
 {"fi":"heleänvihreä","gr":"adj","en":["light green, bright green"]}
 {"fi":"helmallinen","gr":"adj","en":["with a hem, hemmed"]}
-{"fi":"heppoisa","gr":"adj","en":["alternative form of heppoinen"]}
 {"fi":"hermostoperäinen","gr":"adj","en":["neurological, neurobehavioral, that originates from the nervous system"]}
 {"fi":"hermotautinen","gr":"adj","en":["neuropathic (who has neuropathy)"]}
 {"fi":"historiaton","gr":"adj","en":["historyless, unhistoried"]}
@@ -14975,7 +14620,6 @@
 {"fi":"itseruskettava","gr":"adj","en":["self-tanning"]}
 {"fi":"itsesyntyinen","gr":"adj","en":["idiopathic, spontaneous"]}
 {"fi":"jihadistinen","gr":"adj","en":["jihadistic"]}
-{"fi":"jok'ikinen","gr":"adj","en":["contraction of joka ikinen"]}
 {"fi":"laitosmuotoinen","gr":"adj","en":["institutional (organized in an institution)"]}
 {"fi":"lanteikas","gr":"adj","en":["wide-hipped"]}
 {"fi":"lantiomallinen","gr":"adj","en":["reaching (up/down) to the pelvis"]}
@@ -15007,7 +14651,6 @@
 {"fi":"kaikentyyppinen","gr":"adj","en":["all types of, all kinds of, all forms of"]}
 {"fi":"kajahtanut","gr":"adj","en":["crazy, nuts"]}
 {"fi":"kaksitoistavuotias","gr":"adj","en":["twelve-year-old"]}
-{"fi":"kalvakas","gr":"adj","en":["alternative form of kalvakka"]}
 {"fi":"kanervanpunainen","gr":"adj","en":["heather red (of a particular bluish red)"]}
 {"fi":"kannanhoidollinen","gr":"adj","en":["pertaining to maintaining a population (of animals)"]}
 {"fi":"kapeakatseinen","gr":"adj","en":["narrow-minded"]}
@@ -15086,19 +14729,15 @@
 {"fi":"kuosillinen","gr":"adj","en":["patterned, with a pattern"]}
 {"fi":"kureinen","gr":"adj","en":["wrinkled"]}
 {"fi":"kvartaalinen","gr":"adj","en":["quartal"]}
-{"fi":"kvartaarinen","gr":"adj","en":["alternative form of kvartäärinen"]}
 {"fi":"kylmänviileä","gr":"adj","en":["cold, chilly","cold-hearted, cold","calm, cool, collected"]}
 {"fi":"kylpyvalmis","gr":"adj","en":["synonym of löylyvalmis"]}
-{"fi":"kymmenenvuotias","gr":"adj","en":["alternative form of kymmenvuotias"]}
 {"fi":"kädenlämpöinen","gr":"adj","en":["about as warm as one's hands"]}
 {"fi":"kälyinen","gr":"adj","en":["crappy, crusty"]}
-{"fi":"kälynen","gr":"adj","en":["alternative form of kälyinen"]}
 {"fi":"käyttäjäkohtainen","gr":"adj","en":["specific to each user"]}
 {"fi":"käytöshäiriöinen","gr":"adj","en":["with a behavior disorder"]}
 {"fi":"resilientti","gr":"adj","en":["resilient"]}
 {"fi":"rimpula","gr":"adj","en":["lank, scrawny"]}
 {"fi":"rohea","gr":"adj","en":["coarse, rough"]}
-{"fi":"räyhäkkä","gr":"adj","en":["alternative form of räyhäkäs"]}
 {"fi":"maakohtainen","gr":"adj","en":["country-specific"]}
 {"fi":"maittainen","gr":"adj","en":["country-by-country"]}
 {"fi":"maksuperusteinen","gr":"adj","en":["cash-basis","defined-contribution"]}
@@ -15139,7 +14778,6 @@
 {"fi":"monisairas","gr":"adj","en":["multimorbid"]}
 {"fi":"monisikiöinen","gr":"adj","en":["with multiple fetuses"]}
 {"fi":"monitaiteinen","gr":"adj","en":["multiartistic, interdisciplinary (in arts)"]}
-{"fi":"monityydyttämätön","gr":"adj","en":["alternative form of monityydyttymätön"]}
 {"fi":"moniuskontoinen","gr":"adj","en":["multireligious"]}
 {"fi":"monokulttuurinen","gr":"adj","en":["monocultural"]}
 {"fi":"moottoriton","gr":"adj","en":["non-motorized, non-powered"]}
@@ -15181,14 +14819,12 @@
 {"fi":"paksuhuulinen","gr":"adj","en":["thick-lipped"]}
 {"fi":"parapsyykkinen","gr":"adj","en":["parapsychic"]}
 {"fi":"parlamentaristinen","gr":"adj","en":["parliamentarian"]}
-{"fi":"pastellinsävyinen","gr":"adj","en":["alternative form of pastellisävyinen"]}
 {"fi":"pastellisävyinen","gr":"adj","en":["pastel-colored"]}
 {"fi":"pehmeäluonteinen","gr":"adj","en":["synonym of pehmeäluontoinen"]}
 {"fi":"pelkääjänpuoleinen","gr":"adj","en":["passenger-side"]}
 {"fi":"persoonallisuushäiriöinen","gr":"adj","en":["with a personality disorder"]}
 {"fi":"pieniannoksinen","gr":"adj","en":["low-dose"]}
 {"fi":"pienihuokoinen","gr":"adj","en":["low-porosity"]}
-{"fi":"pienikaliiberinen","gr":"adj","en":["alternative form of pienikaliiperinen"]}
 {"fi":"pienikaliiperinen","gr":"adj","en":["small-caliber, small-calibre"]}
 {"fi":"pienipiirteinen","gr":"adj","en":["small-scale"]}
 {"fi":"pienoisjännitteinen","gr":"adj","en":["extra low-voltage"]}
@@ -15237,7 +14873,6 @@
 {"fi":"russofobinen","gr":"adj","en":["Russophobic"]}
 {"fi":"rustiikkinen","gr":"adj","en":["rustic"]}
 {"fi":"rutiiniluontoinen","gr":"adj","en":["routine, that is like a routine"]}
-{"fi":"ruuanlaittotaitoinen","gr":"adj","en":["alternative form of ruoanlaittotaitoinen"]}
 {"fi":"ruusukultainen","gr":"adj","en":["made of rose gold"]}
 {"fi":"räjähdysaltis","gr":"adj","en":["explosive (likely to explode)"]}
 {"fi":"samperinmoinen","gr":"adj","en":["synonym of saakelinmoinen"]}
@@ -15249,7 +14884,6 @@
 {"fi":"sedatiivinen","gr":"adj","en":["sedative"]}
 {"fi":"sekakätinen","gr":"adj","en":["ambidextrous"]}
 {"fi":"selkänojaton","gr":"adj","en":["without a backrest"]}
-{"fi":"sesonkiluontoinen","gr":"adj","en":["alternative form of sesonkiluonteinen"]}
 {"fi":"silmälläpidettävä","gr":"adj","en":["to keep an eye on, worth keeping one's eyes on","near-threatened"]}
 {"fi":"sisustuksellinen","gr":"adj","en":["pertaining to interior decoration or interior design"]}
 {"fi":"siviilipalvelusvelvollinen","gr":"adj","en":["who has the duty to carry out civilian or non-military service"]}
@@ -15258,7 +14892,6 @@
 {"fi":"suorituskeskeinen","gr":"adj","en":["performance-oriented"]}
 {"fi":"suuriannoksinen","gr":"adj","en":["high-dose"]}
 {"fi":"suurihuokoinen","gr":"adj","en":["wide-pore"]}
-{"fi":"suurikaliiberinen","gr":"adj","en":["alternative form of suurikaliiperinen"]}
 {"fi":"sydämenmuotoinen","gr":"adj","en":["heart-shaped, cordiform"]}
 {"fi":"syheröinen","gr":"adj","en":["synonym of sykkyräinen"]}
 {"fi":"syväluotaava","gr":"adj","en":["profound, in-depth"]}
@@ -15282,7 +14915,6 @@
 {"fi":"vetoava","gr":"adj","en":["appealing"]}
 {"fi":"viimekätinen","gr":"adj","en":["synonym of viimesijainen"]}
 {"fi":"viimesijainen","gr":"adj","en":["ultimate (last in a train of progression or consequences)"]}
-{"fi":"viinahuuruinen","gr":"adj","en":["alternative form of viinanhuuruinen"]}
 {"fi":"viinanhuuruinen","gr":"adj","en":["characterized by alcohol or drunkenness, boozy"]}
 {"fi":"viinanhöyryinen","gr":"adj","en":["synonym of viinanhuuruinen"]}
 {"fi":"virallisluontoinen","gr":"adj","en":["of an official nature"]}
@@ -15301,7 +14933,6 @@
 {"fi":"terveystietoinen","gr":"adj","en":["health-conscious"]}
 {"fi":"teräsbetonirakenteinen","gr":"adj","en":["with a structure made of (steel-)reinforced concrete"]}
 {"fi":"tiimalasimainen","gr":"adj","en":["hourglass-like, hourglass-shaped"]}
-{"fi":"tilapäisluontoinen","gr":"adj","en":["alternative form of tilapäisluonteinen"]}
 {"fi":"todenmakuinen","gr":"adj","en":["realistic, that feels real"]}
 {"fi":"todentuntuinen","gr":"adj","en":["realistic, like reality, that feels real","vivid, lifelike, that feels like it is real even though it is not","plausible, believable"]}
 {"fi":"traumaperäinen","gr":"adj","en":["traumatic, originating from trauma"]}
@@ -15315,7 +14946,6 @@
 {"fi":"julkisuudenkipeä","gr":"adj","en":["looking for publicity, publicity-seeking"]}
 {"fi":"julkisuushakuinen","gr":"adj","en":["publicity-seeking (done in order to gain publicity)"]}
 {"fi":"samanveikkainen","gr":"adj","en":["similar, suchlike"]}
-{"fi":"saman veikkainen","gr":"adj","en":["alternative form of samanveikkainen"]}
 {"fi":"liepeä","gr":"adj","en":["gentle, mild","weak, tasteless","lax"]}
 {"fi":"rakastava","gr":"adj","en":["affectionate, loving"]}
 {"fi":"yltiö-","gr":"adj","en":["overly"]}
@@ -15323,7 +14953,6 @@
 {"fi":"vetäytyvä","gr":"adj","en":["retreating, receding (anyting that moves back, an army, a hairline etc.)","reclusive"]}
 {"fi":"laskettava","gr":"adj","en":["lowerable (able to be lowered)","lowered (currently undergoing lowering)","countable (able to be counted)","countable","computable"]}
 {"fi":"jungilainen","gr":"adj","en":["Jungian"]}
-{"fi":"kauhia","gr":"adj","en":["alternative form of kauhea"]}
 {"fi":"imponeerattu","gr":"adj","en":["impressed"]}
 {"fi":"nomoteettinen","gr":"adj","en":["nomothetic"]}
 {"fi":"idiografinen","gr":"adj","en":["idiographic"]}
@@ -15347,19 +14976,15 @@
 {"fi":"ableistinen","gr":"adj","en":["ableist"]}
 {"fi":"jainalainen","gr":"adj","en":["Jainist"]}
 {"fi":"määritelmällinen","gr":"adj","en":["defined (having a definition)","related to a definition or definitions"]}
-{"fi":"bipoläärinen","gr":"adj","en":["alternative form of bipolaarinen"]}
 {"fi":"antediluviaaninen","gr":"adj","en":["antediluvian (related to time before the Flood)"]}
 {"fi":"diluviaaninen","gr":"adj","en":["diluvian (related to the Flood)"]}
-{"fi":"antediluviaani","gr":"adj","en":["alternative form of antediluviaaninen"]}
 {"fi":"tasasuuntainen","gr":"adj","en":["unidirectional"]}
 {"fi":"epäuskonnollinen","gr":"adj","en":["nonreligious, irreligious"]}
-{"fi":"uskonnonvastainen","gr":"adj","en":["alternative form of uskontovastainen"]}
 {"fi":"uskontovastainen","gr":"adj","en":["anti-religion, antireligious"]}
 {"fi":"lokerollinen","gr":"adj","en":["with a compartment"]}
 {"fi":"unelmaton","gr":"adj","en":["dreamless, having no visions or aspirations while awake"]}
 {"fi":"keskipohjalainen","gr":"adj","en":["of or pertaining to the region of Central Ostrobothnia"]}
 {"fi":"länsipohjalainen","gr":"adj","en":["of or pertaining to Westrobothnia"]}
-{"fi":"abulinen","gr":"adj","en":["alternative form of abuulinen (“abulic”)"]}
 {"fi":"finsve","gr":"adj","en":["synonym of suomenruotsalainen"]}
 {"fi":"ketogeeninen","gr":"adj","en":["ketogenic"]}
 {"fi":"temporoparietaalinen","gr":"adj","en":["temporoparietal"]}
@@ -15383,14 +15008,12 @@
 {"fi":"isovenäläinen","gr":"adj","en":["Of or pertaining to Russia as opposed to other Eastern Slavic nations.","Of or pertaining to Greater Russia.","Of or pertaining to the ideology behind the concept, or its supporters."]}
 {"fi":"punainen kuin omena","gr":"adj","en":["red as a beetroot"]}
 {"fi":"syntymäkuuro","gr":"adj","en":["deaf since birth"]}
-{"fi":"arbiträärinen","gr":"adj","en":["alternative form of arbitraarinen"]}
 {"fi":"ordoliberaali","gr":"adj","en":["ordoliberal (of or pertaining to ordoliberalism)"]}
 {"fi":"visuospatiaalinen","gr":"adj","en":["visuospatial"]}
 {"fi":"varhaiskuuro","gr":"adj","en":["deaf since childhood, usually before proper acquisition of language"]}
 {"fi":"yliveto","gr":"adj","en":["superb, excellent, the best"]}
 {"fi":"seostamaton","gr":"adj","en":["unalloyed"]}
 {"fi":"alahärmäläinen","gr":"adj","en":["of or pertaining to the village of Alahärmä in Southern Ostrobothnia, Finland"]}
-{"fi":"kämäinen","gr":"adj","en":["alternative form of kämänen"]}
 {"fi":"alihintainen","gr":"adj","en":["underpriced (having a relatively or abnormally low price)"]}
 {"fi":"alastarolainen","gr":"adj","en":["of, from, or pertaining to Alastaro"]}
 {"fi":"anjalankoskelainen","gr":"adj","en":["Of, from, or pertaining to Anjalankoski."]}
@@ -15405,12 +15028,8 @@
 {"fi":"swazimaalainen","gr":"adj","en":["synonym of eswatinilainen"]}
 {"fi":"eswatinilainen","gr":"adj","en":["Swazi (of or pertaining to Eswatini)"]}
 {"fi":"immunosuppressiivinen","gr":"adj","en":["immunosuppressive (having the capability to suppress the immune system, capable of immunosuppression)"]}
-{"fi":"viheriä","gr":"adj","en":["alternative form of vihreä (“green”)"]}
 {"fi":"šokeeraava","gr":"adj","en":["shocking"]}
-{"fi":"sokeeraava","gr":"adj","en":["alternative form of šokeeraava"]}
-{"fi":"shokeeraava","gr":"adj","en":["alternative form of šokeeraava"]}
 {"fi":"norkkokukintoinen","gr":"adj","en":["catkin-bearing"]}
-{"fi":"monikertainen","gr":"adj","en":["alternative form of moninkertainen"]}
 {"fi":"monikymmeninen","gr":"adj","en":["consisting of tens of members or items"]}
 {"fi":"monijäseninen","gr":"adj","en":["multimember, multi-member, multiple-member (consisting of two or more members)"]}
 {"fi":"monijyväinen","gr":"adj","en":["multigrain (containing multiple types of grain)"]}
@@ -15441,7 +15060,6 @@
 {"fi":"bensapihi","gr":"adj","en":["fuel-efficient"]}
 {"fi":"asetussääteinen","gr":"adj","en":["decretal (that is enacted by a governmental decree rather than a law)"]}
 {"fi":"arvossapidetty","gr":"adj","en":["synonym of arvostettu (“esteemed”)"]}
-{"fi":"hellyyttävä","gr":"adj","en":["alternative form of hellyttävä (“endearing”)"]}
 {"fi":"pikkutuhma","gr":"adj","en":["risqué, racy, naughty"]}
 {"fi":"turvonnut","gr":"adj","en":["swollen, bloated"]}
 {"fi":"huolenalainen","gr":"adj","en":["synonym of huolestunut"]}
@@ -15450,8 +15068,6 @@
 {"fi":"käsin kosketeltava","gr":"adj","en":["tangible, palpable, obvious"]}
 {"fi":"väritteinen","gr":"adj","en":["colored (influenced subtly), with a tone (of)","colored (with a pronunciation influenced by another sound)"]}
 {"fi":"mörkki","gr":"adj","en":["synonym of tumma (“black, dark, murky”)","synonym of vihainen (“angry”)"]}
-{"fi":"alu-","gr":"adj","en":["alternative form of alus- (“underlay, base, under”)-"]}
-{"fi":"pääly-","gr":"adj","en":["alternative form of päällys- (“top, toplayer, over-”)-"]}
 {"fi":"merkille pantava","gr":"adj","en":["noticeable, noteworthy (worthy of note)"]}
 {"fi":"neuroendokriininen","gr":"adj","en":["neuroendocrine (pertaining to the nervous system and endocrine system together)"]}
 {"fi":"monioireinen","gr":"adj","en":["multisymptomatic"]}
@@ -15459,10 +15075,6 @@
 {"fi":"hengitettävä","gr":"adj","en":["breathable (suitable for breathing)","breathable (letting air seep through)"]}
 {"fi":"niuha","gr":"adj","en":["picky"]}
 {"fi":"kanserogeeninen","gr":"adj","en":["cancerogenic (carcinogenic)"]}
-{"fi":"viimenen","gr":"adj","en":["alternative form of viimeinen (“last, final”)"]}
-{"fi":"viiminen","gr":"adj","en":["alternative form of viimeinen (“last, final”)"]}
-{"fi":"vileä","gr":"adj","en":["alternative form of viileä (“chilly, cold”)"]}
-{"fi":"kahes","gr":"adj","en":["alternative form of kahdes"]}
 {"fi":"suomalaisvalmisteinen","gr":"adj","en":["Finnish-made, made in Finland"]}
 {"fi":"mitattava","gr":"adj","en":["measurable, gaugable"]}
 {"fi":"nauhamainen","gr":"adj","en":["striplike (resembling a strip)"]}
@@ -15484,9 +15096,6 @@
 {"fi":"deskriptivistinen","gr":"adj","en":["descriptivist"]}
 {"fi":"preskriptivistinen","gr":"adj","en":["prescriptivist"]}
 {"fi":"länsiaasialainen","gr":"adj","en":["West Asian"]}
-{"fi":"ilmoitusluonteinen","gr":"adj","en":["alternative form of ilmoitusluontoinen"]}
-{"fi":"kolmansi","gr":"adj","en":["alternative form of kolmas"]}
-{"fi":"pimee","gr":"adj","en":["alternative form of pimeä"]}
 {"fi":"tokavika","gr":"adj","en":["second-to-last, next-to-last, penultimate"]}
 {"fi":"sanakirjamainen","gr":"adj","en":["dictionaric"]}
 {"fi":"ärmätti","gr":"adj","en":["pungent (sharp-tasting)"]}
@@ -15507,12 +15116,10 @@
 {"fi":"soseinen","gr":"adj","en":["mashy"]}
 {"fi":"madrasruutuinen","gr":"adj","en":["madras checkered (with a checkered pattern typical for madras cotton)"]}
 {"fi":"malagassinkielinen","gr":"adj","en":["Malagasy (expressed in Malagasy language)","Malagasy-speaking"]}
-{"fi":"malagasinkielinen","gr":"adj","en":["alternative spelling of malagassinkielinen"]}
 {"fi":"manksinkielinen","gr":"adj","en":["Manx (expressed in Manx language)","Manx-speaking"]}
 {"fi":"malminen","gr":"adj","en":["castiron (made of cast iron)"]}
 {"fi":"monipiippuinen","gr":"adj","en":["multibarreled (having more than two barrels)","complicated, multifaceted (having more than one aspect to consider, especially when with contradictory effects)"]}
 {"fi":"monipersoonainen","gr":"adj","en":["polypersonal, multipersonal (involving more than one person)"]}
-{"fi":"sankea","gr":"adj","en":["alternative form of sankka"]}
 {"fi":"kainaloinen","gr":"adj","en":["dear; chiefly used in the expression kainaloinen kana, which might be translated as consort or darling"]}
 {"fi":"serendipinen","gr":"adj","en":["serendipitous"]}
 {"fi":"kaakelipäällysteinen","gr":"adj","en":["tiled (covered with glazed tiles)"]}
@@ -15524,7 +15131,6 @@
 {"fi":"liukuva","gr":"adj","en":["sliding","flexible, flexitime (of working hours)"]}
 {"fi":"rasea","gr":"adj","en":["synonym of raukea","synonym of raskas","synonym of rasittava"]}
 {"fi":"automatisoitu","gr":"adj","en":["automated"]}
-{"fi":"pireä","gr":"adj","en":["alternative form of pirteä"]}
 {"fi":"sinnempi","gr":"adj","en":["closer to it (of a distant, unseen thing)","closer in time to that","later"]}
 {"fi":"tännempi","gr":"adj","en":["closer to here (when the speaker points at the place)"]}
 {"fi":"keulempi","gr":"adj","en":["more towards the front end of something"]}
@@ -15542,7 +15148,6 @@
 {"fi":"kalvopeitteinen","gr":"adj","en":["film-covered (covered with a film)"]}
 {"fi":"kalvopäällysteinen","gr":"adj","en":["filmcoated (coated with a film)"]}
 {"fi":"köpelö","gr":"adj","en":["synonym of kömpelö (“clumsy”)"]}
-{"fi":"militaari","gr":"adj","en":["alternative form of militaarinen"]}
 {"fi":"käsikäynnisteinen","gr":"adj","en":["hand-started"]}
 {"fi":"kyseessä oleva","gr":"adj","en":["synonym of kyseinen"]}
 {"fi":"-hiuksinen","gr":"adj","en":["-haired (having some specific type of hairs)"]}
@@ -15572,7 +15177,6 @@
 {"fi":"kouristeinen","gr":"adj","en":["synonym of kouristuksenomainen"]}
 {"fi":"kartesiolainen","gr":"adj","en":["Cartesian"]}
 {"fi":"konetahtinen","gr":"adj","en":["machine-paced (paced by machinery, such as work on an assembly line)"]}
-{"fi":"litsmärkä","gr":"adj","en":["alternative form of litimärkä"]}
 {"fi":"markkinakelvoton","gr":"adj","en":["unmarketable (not marketable)"]}
 {"fi":"kaupaksi käymätön","gr":"adj","en":["unsellable, unmerchantable, unsaleable (not fit for market, hard to sell)"]}
 {"fi":"kaupaksi käyvä","gr":"adj","en":["marketable, easy to sell, readily sold, merchantable, -selling"]}
@@ -15685,7 +15289,6 @@
 {"fi":"matalakalorinen","gr":"adj","en":["low-calorie (of diet, food or drink: containing less calories than alternatives)"]}
 {"fi":"pitkäkalloinen","gr":"adj","en":["dolichocephalic (of a person or animal, having a head that is long from front to back relative to its width from left to right)"]}
 {"fi":"-kaliiperinen","gr":"adj","en":["-caliber, -calibre (having specified caliber)"]}
-{"fi":"-kaliiberinen","gr":"adj","en":["alternative form of -kaliiperinen"]}
 {"fi":"-intoinen","gr":"adj","en":["eager to"]}
 {"fi":"holja","gr":"adj","en":["weird, loony","carefree, relaxed"]}
 {"fi":"quijoottinen","gr":"adj","en":["quixotic"]}
@@ -15737,10 +15340,8 @@
 {"fi":"arabiystävällinen","gr":"adj","en":["pro-Arab (supporting or favoring Arabs)"]}
 {"fi":"ravinteinen","gr":"adj","en":["synonym of ravinteikas","nutrient- (containing defined type or quantity of nutrients)"]}
 {"fi":"-maalinen","gr":"adj","en":["Used to form adjectives that refer to the number of goals made in a game or series of games."]}
-{"fi":"yl.","gr":"adj","en":["abbreviation of yleinen (“general, common”)"]}
 {"fi":"hengittämätön","gr":"adj","en":["unbreathable (not letting air seep through)"]}
 {"fi":"alkamaton","gr":"adj","en":["synonym of aloittamaton"]}
-{"fi":"gton","gr":"adj","en":["abbreviation of gluteeniton (“gluten-free”)"]}
 {"fi":"maidoton","gr":"adj","en":["dairy-free, nondairy","milk-free, not containing milk","not yielding milk"]}
 {"fi":"muuttuvakokoinen","gr":"adj","en":["of dynamic size, of a changing size"]}
 {"fi":"kosteuttava","gr":"adj","en":["moisturizing, emollient"]}
@@ -15818,13 +15419,11 @@
 {"fi":"jyrkeä","gr":"adj","en":["large, bulky"]}
 {"fi":"lentokelvoton","gr":"adj","en":["unairworthy, unflightworthy (unfit for an air voyage)"]}
 {"fi":"mauritanialainen","gr":"adj","en":["Mauritanian"]}
-{"fi":"sairaanloinen","gr":"adj","en":["misspelling of sairaalloinen"]}
 {"fi":"punapilleröity","gr":"adj","en":["red pilled"]}
 {"fi":"-pilleröity","gr":"adj","en":["-pilled"]}
 {"fi":"tapaturma-altis","gr":"adj","en":["injury-prone"]}
 {"fi":"loukkaantumisaltis","gr":"adj","en":["injury-prone (susceptible to getting injured)"]}
 {"fi":"kortiton","gr":"adj","en":["cardless"]}
-{"fi":"spesifi","gr":"adj","en":["alternative form of spesifinen"]}
 {"fi":"vaikutukseton","gr":"adj","en":["effectless, ineffective"]}
 {"fi":"reunaton","gr":"adj","en":["without edges, borders or margins"]}
 {"fi":"liputon","gr":"adj","en":["ticketless (without a ticket, e.g. of admission)"]}
@@ -15864,7 +15463,6 @@
 {"fi":"valtakunnanlaajuinen","gr":"adj","en":["nationwide (extending throughout an entire nation)"]}
 {"fi":"antihauras","gr":"adj","en":["antifragile"]}
 {"fi":"epähauras","gr":"adj","en":["synonym of antihauras"]}
-{"fi":"perustuslainvastainen","gr":"adj","en":["alternative form of perustuslain vastainen (“unconstitutional”) (much more often spelled as two words)"]}
 {"fi":"kaukaa viisas","gr":"adj","en":["prescient, having foresight"]}
 {"fi":"kvanttiturvallinen","gr":"adj","en":["post-quantum, quantum-resistant (capable of resisting hypothetical future attacks by quantum computers)"]}
 {"fi":"muslimivastainen","gr":"adj","en":["anti-Muslim"]}
@@ -15884,10 +15482,8 @@
 {"fi":"alioptimaalinen","gr":"adj","en":["suboptimal (less than optimal)"]}
 {"fi":"neuropsykiatrinen","gr":"adj","en":["neuropsychiatric"]}
 {"fi":"raivostuttava","gr":"adj","en":["enraging, infuriating"]}
-{"fi":"ensimäinen","gr":"adj","en":["alternative form of ensimmäinen"]}
 {"fi":"olkaimeton","gr":"adj","en":["strapless (without a strap or straps; usually describing women's clothing without shoulder straps)"]}
 {"fi":"pohjois–etelä-suuntainen","gr":"adj","en":["meridional (along a north–south direction)"]}
-{"fi":"pohjois-eteläsuuntainen","gr":"adj","en":["alternative form of pohjois–etelä-suuntainen (“meridional”)"]}
 {"fi":"ruosteeton","gr":"adj","en":["unrusted (not rusted)"]}
 {"fi":"aloitteleva","gr":"adj","en":["fledgling, emergent, nascent"]}
 {"fi":"itseinen","gr":"adj","en":["synonym of absoluuttinen (“absolute”)"]}
@@ -15903,14 +15499,12 @@
 {"fi":"painekyllästeinen","gr":"adj","en":["synonym of painekyllästetty"]}
 {"fi":"painekyllästetty","gr":"adj","en":["pressure impregnated (chiefly of wood, impregnated in a pressurized process which drives the preserving liquid deep into the tissue)"]}
 {"fi":"sankkahiuksinen","gr":"adj","en":["synonym of tuuheatukkainen"]}
-{"fi":"ev.lut.","gr":"adj","en":["abbreviation of evankelis-luterilainen"]}
 {"fi":"hondurasilainen","gr":"adj","en":["Honduran (of or pertaining to Honduras)"]}
 {"fi":"raskasaseinen","gr":"adj","en":["heavily armed"]}
 {"fi":"vähäoireinen","gr":"adj","en":["exhibiting few symptoms","with mild symptoms"]}
 {"fi":"silkinpehmoinen","gr":"adj","en":["soft as silk"]}
 {"fi":"lasitettu","gr":"adj","en":["glazed (having glass)","vitrified"]}
 {"fi":"lasittamaton","gr":"adj","en":["unglazed (not having glass)","unvitrified"]}
-{"fi":"mitäänymmärtämätön","gr":"adj","en":["alternative form of mitään ymmärtämätön (“clueless, baffled”)"]}
 {"fi":"vaikuttunut","gr":"adj","en":["impressed"]}
 {"fi":"huomionhakuinen","gr":"adj","en":["attention-seeking","histrionic"]}
 {"fi":"saliuskottava","gr":"adj","en":["gym-credible"]}
@@ -15925,14 +15519,11 @@
 {"fi":"raakatakiloitu","gr":"adj","en":["square-rigged (of a sailing vessel, having sails rigged on spars perpendicular to the keel)"]}
 {"fi":"baltiansaksalainen","gr":"adj","en":["Baltic German"]}
 {"fi":"ääntämisopillinen","gr":"adj","en":["synonym of foneettinen (“phonetical, phonetic”) (of, or pertaining to phonetics)."]}
-{"fi":"lihaksitullut","gr":"adj","en":["alternative form of lihaksi tullut (“incarnate, made flesh”)"]}
 {"fi":"-valkuaisinen","gr":"adj","en":["containing protein"]}
-{"fi":"seksuellinen","gr":"adj","en":["archaic form of seksuaalinen (“sexual”)"]}
 {"fi":"rienaava","gr":"adj","en":["blaspheming, blasphemous"]}
 {"fi":"pilkkaava","gr":"adj","en":["mocking, derisive"]}
 {"fi":"-kurkkuinen","gr":"adj","en":["throated (having the specified type of throat)","throat (having the specified number of throats)"]}
 {"fi":"räivä","gr":"adj","en":["foul-mouthed, mischievous"]}
-{"fi":"ysö","gr":"adj","en":["alternative form of iso"]}
 {"fi":"raastava","gr":"adj","en":["grating, racking","heartwrenching, harrowing"]}
 {"fi":"epäraamatullinen","gr":"adj","en":["unbiblical"]}
 {"fi":"-vartinen","gr":"adj","en":["Having a defined type of trunk, stem, handle, shaft etc. (any sense of the word varsi)"]}
@@ -16002,7 +15593,6 @@
 {"fi":"bakterisidinen","gr":"adj","en":["bactericidal"]}
 {"fi":"bikuspidaalinen","gr":"adj","en":["bicuspid"]}
 {"fi":"biliaarinen","gr":"adj","en":["biliary"]}
-{"fi":"bronkopulmonaarinen","gr":"adj","en":["alternative form of bronkopulmonaalinen"]}
 {"fi":"dopaminerginen","gr":"adj","en":["dopaminergic"]}
 {"fi":"dorsolateraalinen","gr":"adj","en":["dorsolateral"]}
 {"fi":"duktaalinen","gr":"adj","en":["ductal"]}
@@ -16145,11 +15735,9 @@
 {"fi":"ruohonkarvainen","gr":"adj","en":["green, greenish"]}
 {"fi":"kullankarvainen","gr":"adj","en":["yellow, gold-coloured, golden"]}
 {"fi":"stydi","gr":"adj","en":["strong","sturdy, strong"]}
-{"fi":"kiehkeä","gr":"adj","en":["alternative form of kehkeä"]}
 {"fi":"yksitoiminen","gr":"adj","en":["single-action, single-acting"]}
 {"fi":"stressaava","gr":"adj","en":["stressful (causing psychological or physical stress)","stressed, stressed out (suffering from psychological or physical stress)"]}
 {"fi":"kromivihreä","gr":"adj","en":["chrome green"]}
-{"fi":"verbaali","gr":"adj","en":["alternative form of verbaalinen (“verbal”)"]}
 {"fi":"papualainen","gr":"adj","en":["Papuan (of or pertaining to Papua)"]}
 {"fi":"peruskorvattava","gr":"adj","en":["reimbursable, reimbursed at the basic rate (in the Finnish health insurance system, describing a category of medicines which are reimbursable to the patient at the base rate)"]}
 {"fi":"taittuvapiippuinen","gr":"adj","en":["break-action"]}
@@ -16200,7 +15788,6 @@
 {"fi":"geminaalinen","gr":"adj","en":["geminal"]}
 {"fi":"gyromagneettinen","gr":"adj","en":["gyromagnetic"]}
 {"fi":"heksagonaalinen","gr":"adj","en":["hexagonal"]}
-{"fi":"imaginäärinen","gr":"adj","en":["alternative form of imaginaarinen"]}
 {"fi":"integraalinen","gr":"adj","en":["integral"]}
 {"fi":"ioniselektiivinen","gr":"adj","en":["ion-selective"]}
 {"fi":"isoelektrinen","gr":"adj","en":["isoelectric"]}
@@ -16211,7 +15798,6 @@
 {"fi":"kapasitiivinen","gr":"adj","en":["capacitive"]}
 {"fi":"kryogeeninen","gr":"adj","en":["cryogenic"]}
 {"fi":"kryoskooppinen","gr":"adj","en":["cryoscopic"]}
-{"fi":"kvaternäärinen","gr":"adj","en":["alternative form of kvaternaarinen"]}
 {"fi":"lyofiilinen","gr":"adj","en":["lyophilic"]}
 {"fi":"lyofobinen","gr":"adj","en":["lyophobic"]}
 {"fi":"magnetomotorinen","gr":"adj","en":["magnetomotive"]}
@@ -16238,10 +15824,8 @@
 {"fi":"tetragonaalinen","gr":"adj","en":["tetragonal, quadrangular"]}
 {"fi":"unimolekulaarinen","gr":"adj","en":["unimolecular"]}
 {"fi":"visinaalinen","gr":"adj","en":["vicinal"]}
-{"fi":"volymetrinen","gr":"adj","en":["alternative form of volumetrinen"]}
 {"fi":"volumetrinen","gr":"adj","en":["volumetric"]}
 {"fi":"irreversiibeli","gr":"adj","en":["irreversible"]}
-{"fi":"kovalentti","gr":"adj","en":["alternative form of kovalenttinen"]}
 {"fi":"ortonormitettu","gr":"adj","en":["orthonormalized"]}
 {"fi":"termostabiili","gr":"adj","en":["thermostable"]}
 {"fi":"absorptiivinen","gr":"adj","en":["absorptive"]}
@@ -16287,7 +15871,6 @@
 {"fi":"yksitahoinen","gr":"adj","en":["one-sided","monostichous"]}
 {"fi":"-vuokrainen","gr":"adj","en":["-rent (having a rent of certain type)"]}
 {"fi":"sovelluskohtainen","gr":"adj","en":["application-specific"]}
-{"fi":"stationäärinen","gr":"adj","en":["alternative form of stationaarinen"]}
 {"fi":"viekas kuin kettu","gr":"adj","en":["sly as a fox"]}
 {"fi":"äkkiarvaamaton","gr":"adj","en":["unpredictable"]}
 {"fi":"koloratiivinen","gr":"adj","en":["Pertaining to koloratiivirakenne structures.","Pertaining to the latter, expressive verb in a koloratiivirakenne."]}
@@ -16305,7 +15888,6 @@
 {"fi":"järkeinen","gr":"adj","en":["rational"]}
 {"fi":"vesilevintäinen","gr":"adj","en":["hydrochorous (spread, or having seeds that are dispersed, by water)"]}
 {"fi":"-verkkoinen","gr":"adj","en":["-netted, -mesh"]}
-{"fi":"nopee","gr":"adj","en":["alternative form of nopea"]}
 {"fi":"-viiksinen","gr":"adj","en":["-moustached (in compounds, having a certain type of moustache)"]}
 {"fi":"-viikkoinen","gr":"adj","en":["-week, week-long, weeks old (lasting or having lasted a given number of weeks)"]}
 {"fi":"alimiehitetty","gr":"adj","en":["synonym of vajaamiehitetty"]}
@@ -16316,7 +15898,6 @@
 {"fi":"multiplikatiivinen","gr":"adj","en":["multiplicative"]}
 {"fi":"-vikainen","gr":"adj","en":["having a fault or flaw in a specific thing or of a specific type"]}
 {"fi":"puolitoistakertainen","gr":"adj","en":["1½ times; sesquialterate"]}
-{"fi":"seitsemänkertainen","gr":"adj","en":["alternative form of seitsenkertainen (“sevenfold, septuple; seven-time”)"]}
 {"fi":"rutainen","gr":"adj","en":["muddy"]}
 {"fi":"sakarakoroinen","gr":"adj","en":["embattled"]}
 {"fi":"yrttinen","gr":"adj","en":["herbal, herb-like, resembling herbs"]}
@@ -16337,7 +15918,6 @@
 {"fi":"eriteräinen","gr":"adj","en":["polypetalous, apopetalous, choripetalous"]}
 {"fi":"yhdisteräinen","gr":"adj","en":["gamopetalous, synpetalous"]}
 {"fi":"yhtinen","gr":"adj","en":["one, unitary"]}
-{"fi":"yhtinen","gr":"adj","en":["misspelling of yhteinen"]}
 {"fi":"aistittava","gr":"adj","en":["perceptible (able to be sensed)"]}
 {"fi":"ryhmäteoreettinen","gr":"adj","en":["group theoretic"]}
 {"fi":"mikrokuituinen","gr":"adj","en":["microfiber, microfibrous"]}
@@ -16372,7 +15952,6 @@
 {"fi":"vaihemoduloitu","gr":"adj","en":["phase-modulated"]}
 {"fi":"koho-","gr":"adj","en":["raised, elevated"]}
 {"fi":"ugaritilainen","gr":"adj","en":["Ugaritic, Ugaritian (of or related to the ancient city of Ugarit)"]}
-{"fi":"ugaritlainen","gr":"adj","en":["alternative form of ugaritilainen"]}
 {"fi":"lahjottava","gr":"adj","en":["bribable"]}
 {"fi":"arvostettava","gr":"adj","en":["respectable, appreciated, commendable"]}
 {"fi":"ennakoitava","gr":"adj","en":["anticipable, foreseeable, predictable"]}
@@ -16474,9 +16053,7 @@
 {"fi":"lasinalainen","gr":"adj","en":["under glass (e.g. of growing something under glass)"]}
 {"fi":"lihapitoinen","gr":"adj","en":["containing (much) meat"]}
 {"fi":"liikasanainen","gr":"adj","en":["redundant, overly verbose, pleonastic (expressed using too many words)"]}
-{"fi":"maanisdepressiivinen","gr":"adj","en":["alternative form of maanis-depressiivinen"]}
 {"fi":"monihäiriöinen","gr":"adj","en":["multimorbid, suffering from or caused by multiple disorders"]}
-{"fi":"monijumalinen","gr":"adj","en":["alternative form of monijumalainen"]}
 {"fi":"monivaimoinen","gr":"adj","en":["polygynous (practicing polygyny; that has multiple wives)"]}
 {"fi":"neuroplastinen","gr":"adj","en":["neuroplastic"]}
 {"fi":"normisidonnainen","gr":"adj","en":["norm-dependent, tied to norms"]}
@@ -16488,7 +16065,6 @@
 {"fi":"palvelinpohjainen","gr":"adj","en":["server-side, server-based"]}
 {"fi":"palveluskelpoinen","gr":"adj","en":["able-bodied, fit for (military) service"]}
 {"fi":"pannukarkea","gr":"adj","en":["coarse-ground (of coffee: ground coarse, as suited for making coffee in a traditional coffee pot or French press)"]}
-{"fi":"paranormaalinen","gr":"adj","en":["alternative form of paranormaali"]}
 {"fi":"pidätyskyvytön","gr":"adj","en":["incontinent (plagued by incontinence; unable to retain natural discharges or evacuations)"]}
 {"fi":"piilokiveksinen","gr":"adj","en":["cryptorchidic"]}
 {"fi":"poikkitieteinen","gr":"adj","en":["synonym of poikkitieteellinen"]}
@@ -16521,7 +16097,6 @@
 {"fi":"voittopuolinen","gr":"adj","en":["predominant, primary"]}
 {"fi":"yhteenkuuluvainen","gr":"adj","en":["synonym of yhteenkuuluva"]}
 {"fi":"yhteenkuuluva","gr":"adj","en":["cohesive (having social cohesion)"]}
-{"fi":"yksijumalinen","gr":"adj","en":["alternative form of yksijumalainen"]}
 {"fi":"yksimerkityksinen","gr":"adj","en":["monosemous, monosemic, unambiguous"]}
 {"fi":"ylläpidettävä","gr":"adj","en":["maintainable","to be maintained"]}
 {"fi":"rutihullu","gr":"adj","en":["completely crazy, lunatic"]}
@@ -16557,19 +16132,6 @@
 {"fi":"syntoninen","gr":"adj","en":["syntonic"]}
 {"fi":"transvestinen","gr":"adj","en":["transvestic"]}
 {"fi":"trikuspidaalinen","gr":"adj","en":["tricuspid, tricuspidal"]}
-{"fi":"epänormaalinen","gr":"adj","en":["alternative form of epänormaali"]}
-{"fi":"banaalinen","gr":"adj","en":["alternative form of banaali"]}
-{"fi":"fetaalinen","gr":"adj","en":["alternative form of fetaali"]}
-{"fi":"konkaavinen","gr":"adj","en":["alternative form of konkaavi"]}
-{"fi":"konveksinen","gr":"adj","en":["alternative form of konveksi"]}
-{"fi":"labiilinen","gr":"adj","en":["alternative form of labiili"]}
-{"fi":"likvidinen","gr":"adj","en":["alternative form of likvidi"]}
-{"fi":"moderninen","gr":"adj","en":["alternative form of moderni"]}
-{"fi":"permitiivinen","gr":"adj","en":["alternative form of permittiivinen"]}
-{"fi":"populaarinen","gr":"adj","en":["alternative form of populaari"]}
-{"fi":"sensuellinen","gr":"adj","en":["alternative form of sensuelli"]}
-{"fi":"stabiilinen","gr":"adj","en":["alternative form of stabiili"]}
-{"fi":"steriilinen","gr":"adj","en":["alternative form of steriili"]}
 {"fi":"terminaalinen","gr":"adj","en":["terminal"]}
 {"fi":"legaali","gr":"adj","en":["synonym of legaalinen"]}
 {"fi":"nemaliini","gr":"adj","en":["nemaline"]}
@@ -16577,10 +16139,7 @@
 {"fi":"aneroidinen","gr":"adj","en":["aneroid"]}
 {"fi":"avuliainen","gr":"adj","en":["synonym of avulias"]}
 {"fi":"itsekkäinen","gr":"adj","en":["synonym of itsekäs"]}
-{"fi":"häveliäinen","gr":"adj","en":["alternative form of häveliäs"]}
 {"fi":"perpendikkeli","gr":"adj","en":["synonym of kohtisuora (“perpendicular”)"]}
-{"fi":"similaari","gr":"adj","en":["alternative form of similaarinen"]}
-{"fi":"unaari","gr":"adj","en":["alternative form of unaarinen"]}
 {"fi":"eris-","gr":"adj","en":["synonym of eri (“separate”)"]}
 {"fi":"karkeis-","gr":"adj","en":["synonym of karkea"]}
 {"fi":"ennallinen","gr":"adj","en":["pre-existing, that one already had"]}
@@ -16624,10 +16183,8 @@
 {"fi":"vasikallinen","gr":"adj","en":["one-and-a-half leaf"]}
 {"fi":"-laitainen","gr":"adj","en":["-sided","on the side (of)","-straked"]}
 {"fi":"sotateollinen","gr":"adj","en":["military-industrial"]}
-{"fi":"täyssärmäinen","gr":"adj","en":["alternative form of täysisärmäinen"]}
 {"fi":"valmiudellinen","gr":"adj","en":["related to preparedness, in terms of preparedness"]}
 {"fi":"biteittäinen","gr":"adj","en":["bitwise"]}
-{"fi":"viim.","gr":"adj","en":["abbreviation of viimeinen (“last, final”)"]}
 {"fi":"puoliaaltotasasuunnattu","gr":"adj","en":["half-wave rectified"]}
 {"fi":"kokoaaltotasasuunnattu","gr":"adj","en":["full-wave rectified"]}
 {"fi":"suomenvenäläinen","gr":"adj","en":["Russian Finnish (pertaining to Russians in Finland or Finns with (significant) Russian ancestry)"]}
@@ -16664,7 +16221,6 @@
 {"fi":"harsomainen","gr":"adj","en":["gauzelike, gauzy"]}
 {"fi":"joustinneuleinen","gr":"adj","en":["rib-knitted"]}
 {"fi":"lieväkierteinen","gr":"adj","en":["low-twist, slightly twisted, not very twisted"]}
-{"fi":"lilanvärinen","gr":"adj","en":["alternative form of liilanvärinen"]}
 {"fi":"malvanvärinen","gr":"adj","en":["mauve-colored"]}
 {"fi":"monivartinen","gr":"adj","en":["with many arms, shafts, etc.","multistemmed"]}
 {"fi":"nahanvärinen","gr":"adj","en":["leather-colored"]}
@@ -16731,11 +16287,8 @@
 {"fi":"referentiaalinen","gr":"adj","en":["referential"]}
 {"fi":"revisionaarinen","gr":"adj","en":["revisionary"]}
 {"fi":"transsendentaalinen","gr":"adj","en":["transcendental"]}
-{"fi":"revisionäärinen","gr":"adj","en":["alternative form of revisionaarinen"]}
 {"fi":"totuusfunktionaalinen","gr":"adj","en":["truth-functional"]}
 {"fi":"yhteiskuntafilosofinen","gr":"adj","en":["social-philosophical"]}
-{"fi":"esilläoleva","gr":"adj","en":["alternative form of esillä oleva (see esillä)","present-at-hand"]}
-{"fi":"käsilläoleva","gr":"adj","en":["alternative form of käsillä oleva (see käsillä)","ready-to-hand"]}
 {"fi":"intelligiibeli","gr":"adj","en":["intelligible"]}
 {"fi":"supererogatorinen","gr":"adj","en":["supererogatory"]}
 {"fi":"sulfaatinkestävä","gr":"adj","en":["sulfate-resistant"]}
@@ -16822,7 +16375,6 @@
 {"fi":"tasoherkkä","gr":"adj","en":["level-triggered (whose output is sensitive to changes when clock signal is high)"]}
 {"fi":"yksityisomisteinen","gr":"adj","en":["privately owned, proprietary"]}
 {"fi":"ylikylläinen","gr":"adj","en":["supersaturated (more concentrated than is normally possible)"]}
-{"fi":"iänkaikkinen","gr":"adj","en":["alternative form of iankaikkinen"]}
 {"fi":"akiraalinen","gr":"adj","en":["achiral"]}
 {"fi":"alluviaalinen","gr":"adj","en":["alluvial"]}
 {"fi":"automaaginen","gr":"adj","en":["automagical"]}
@@ -16971,7 +16523,6 @@
 {"fi":"arvopohjainen","gr":"adj","en":["value-based; values-based"]}
 {"fi":"p-adinen","gr":"adj","en":["p-adic"]}
 {"fi":"kreikanuskoinen","gr":"adj","en":["Eastern Orthodox"]}
-{"fi":"vanhanajan","gr":"adj","en":["alternative spelling of vanhan ajan"]}
 {"fi":"erotukseton","gr":"adj","en":["indiscriminate"]}
 {"fi":"kermaisa","gr":"adj","en":["synonym of kermainen (“creamy”)"]}
 {"fi":"maalaisranskalainen","gr":"adj","en":["rural French (of an aesthetic, a style, an atmosphere, etc.)"]}
@@ -16982,7 +16533,6 @@
 {"fi":"lannistava","gr":"adj","en":["discouraging, demoralizing, disheartening, devastating, defeating, dissuasive, disempowering"]}
 {"fi":"huxleylainen","gr":"adj","en":["Huxleyan"]}
 {"fi":"vasimmainen","gr":"adj","en":["leftmost"]}
-{"fi":"etimmäinen","gr":"adj","en":["alternative form of etummainen"]}
 {"fi":"samoankielinen","gr":"adj","en":["Samoan-speaking","expressed in the Samoan language"]}
 {"fi":"ilmailulääketieteellinen","gr":"adj","en":["aeromedical"]}
 {"fi":"lääketiedevastainen","gr":"adj","en":["antimedical (opposing medical science)"]}
@@ -17010,7 +16560,6 @@
 {"fi":"yläviisto","gr":"adj","en":["slanted upwards, pointing diagonally upwards","erectopatent"]}
 {"fi":"alaviisto","gr":"adj","en":["slanted downwards, pointing diagonally downwards"]}
 {"fi":"etäämpi","gr":"adj","en":["synonym of etäisempi"]}
-{"fi":"mäskä","gr":"adj","en":["alternative form of mäsä"]}
 {"fi":"vapaasyntyinen","gr":"adj","en":["freeborn"]}
 {"fi":"aalloton","gr":"adj","en":["waveless"]}
 {"fi":"aaltoisa","gr":"adj","en":["synonym of aaltoinen"]}
@@ -17019,7 +16568,6 @@
 {"fi":"aerostaattinen","gr":"adj","en":["aerostatic"]}
 {"fi":"yksikköjoustava","gr":"adj","en":["unit elastic"]}
 {"fi":"kulumaton","gr":"adj","en":["unworn","wear-free, nonwearable","nonexpendable","nonrival"]}
-{"fi":"niinsanottu","gr":"adj","en":["alternative spelling of niin sanottu"]}
 {"fi":"vahvasti yhtenäinen","gr":"adj","en":["strongly connected"]}
 {"fi":"akwardi","gr":"adj","en":["awkward"]}
 {"fi":"maroniittinen","gr":"adj","en":["Maronite, Maronitic"]}
@@ -17054,35 +16602,7 @@
 {"fi":"nikotiinipitoinen","gr":"adj","en":["containing nicotine"]}
 {"fi":"ravintopitoinen","gr":"adj","en":["nutritious, nutrient-rich"]}
 {"fi":"uraanipitoinen","gr":"adj","en":["containing uranium, uraniferous"]}
-{"fi":"agressiivinen","gr":"adj","en":["misspelling of aggressiivinen"]}
-{"fi":"pelvoton","gr":"adj","en":["alternative form of peloton"]}
-{"fi":"ylötön","gr":"adj","en":["alternative form of yletön"]}
-{"fi":"ylöllinen","gr":"adj","en":["alternative form of ylellinen"]}
 {"fi":"laestadiolainen","gr":"adj","en":["archaic spelling of lestadiolainen"]}
-{"fi":"ulkokullainen","gr":"adj","en":["alternative form of ulkokultainen"]}
-{"fi":"jälempi","gr":"adj","en":["alternative form of jäljempi"]}
-{"fi":"paloteknillinen","gr":"adj","en":["alternative form of palotekninen"]}
-{"fi":"psykofyysillinen","gr":"adj","en":["alternative form of psykofyysinen"]}
-{"fi":"psykoteknillinen","gr":"adj","en":["alternative form of psykotekninen"]}
-{"fi":"puuteknillinen","gr":"adj","en":["alternative form of puutekninen"]}
-{"fi":"radioteknillinen","gr":"adj","en":["alternative form of radiotekninen"]}
-{"fi":"rakennusteknillinen","gr":"adj","en":["alternative form of rakennustekninen"]}
-{"fi":"sähköteknillinen","gr":"adj","en":["alternative form of sähkötekninen"]}
-{"fi":"vakuutusteknillinen","gr":"adj","en":["alternative form of vakuutustekninen"]}
-{"fi":"valoteknillinen","gr":"adj","en":["alternative form of valotekninen"]}
-{"fi":"metafyysillinen","gr":"adj","en":["alternative form of metafyysinen"]}
-{"fi":"tragikoomillinen","gr":"adj","en":["alternative form of tragikoominen"]}
-{"fi":"faktillinen","gr":"adj","en":["alternative form of faktinen"]}
-{"fi":"graafillinen","gr":"adj","en":["alternative form of graafinen"]}
-{"fi":"kliinillinen","gr":"adj","en":["alternative form of kliininen"]}
-{"fi":"kosmillinen","gr":"adj","en":["alternative form of kosminen"]}
-{"fi":"maagillinen","gr":"adj","en":["alternative form of maaginen"]}
-{"fi":"metrillinen","gr":"adj","en":["alternative form of metrinen"]}
-{"fi":"poliitillinen","gr":"adj","en":["alternative form of poliittinen"]}
-{"fi":"praktillinen","gr":"adj","en":["alternative form of praktinen"]}
-{"fi":"psyykillinen","gr":"adj","en":["alternative form of psyykkinen"]}
-{"fi":"romantillinen","gr":"adj","en":["alternative form of romanttinen"]}
-{"fi":"skeptillinen","gr":"adj","en":["alternative form of skeptinen"]}
 {"fi":"fotometrinen","gr":"adj","en":["photometric"]}
 {"fi":"palotekninen","gr":"adj","en":["pertaining to fire protection engineering or fire safety engineering"]}
 {"fi":"psykotekninen","gr":"adj","en":["psychotechnical"]}
@@ -17091,8 +16611,6 @@
 {"fi":"vakuutustekninen","gr":"adj","en":["technical (pertaining to the technical aspects of insurance)"]}
 {"fi":"valotekninen","gr":"adj","en":["pertaining to lighting technology or illumination engineering","synonym of fotometrinen (“photometric”)"]}
 {"fi":"ohellinen","gr":"adj","en":["synonym of oheinen"]}
-{"fi":"fascistinen","gr":"adj","en":["dated form of fasistinen (“fascist”)"]}
-{"fi":"totalitäärinen","gr":"adj","en":["alternative form of totalitaarinen"]}
 {"fi":"molekyylinen","gr":"adj","en":["synonym of molekulaarinen"]}
 {"fi":"pigmenttinen","gr":"adj","en":["pigmented"]}
 {"fi":"reumatisminen","gr":"adj","en":["synonym of reumaattinen"]}
@@ -17123,15 +16641,10 @@
 {"fi":"skismaattinen","gr":"adj","en":["schismatic"]}
 {"fi":"symbolistinen","gr":"adj","en":["symbolistic"]}
 {"fi":"universalistinen","gr":"adj","en":["universalistic"]}
-{"fi":"irtanainen","gr":"adj","en":["alternative form of irtonainen"]}
-{"fi":"sairaloinen","gr":"adj","en":["alternative form of sairaalloinen"]}
-{"fi":"tuonoinen","gr":"adj","en":["alternative form of tuonnoinen"]}
 {"fi":"vikanainen","gr":"adj","en":["synonym of viallinen"]}
-{"fi":"äsköinen","gr":"adj","en":["alternative form of äskeinen"]}
 {"fi":"substantiaalinen","gr":"adj","en":["substantial"]}
 {"fi":"tainkaltainen","gr":"adj","en":["such, like this"]}
 {"fi":"vartinen","gr":"adj","en":["by the side of, beside"]}
-{"fi":"vapaehtoinen","gr":"adj","en":["archaic form of vapaaehtoinen"]}
 {"fi":"minunkaltaiseni","gr":"adj","en":["synonym of minunlaiseni (“like me, like myself”)"]}
 {"fi":"luterinuskoinen","gr":"adj","en":["Lutheran"]}
 {"fi":"ionisoimaton","gr":"adj","en":["nonionizing","nonionized"]}
@@ -17152,9 +16665,7 @@
 {"fi":"reitevä","gr":"adj","en":["thighed up (having extra wide or enlarged thighs)"]}
 {"fi":"pohjin","gr":"adj","en":["synonym of pohjimmainen"]}
 {"fi":"ehtoinen","gr":"adj","en":["synonym of iltainen"]}
-{"fi":"ehtoinen","gr":"adj","en":["alternative form of ehtoisa"]}
 {"fi":"ristillinen","gr":"adj","en":["with a cross"]}
-{"fi":"ristillinen","gr":"adj","en":["alternative form of kristillinen (“Christian”)"]}
 {"fi":"kangasmainen","gr":"adj","en":["fabriclike, clothlike (resembling a fabric or cloth)"]}
 {"fi":"kangasmainen","gr":"adj","en":["resembling a boreal forest or kangas soil type"]}
 {"fi":"kuuluvainen","gr":"adj","en":["synonym of kuuluva"]}
@@ -17180,7 +16691,6 @@
 {"fi":"suoritusvelvollinen","gr":"adj","en":["obliged or liable to perform some action or transaction defined as an obligation in a contract"]}
 {"fi":"palautusvelvollinen","gr":"adj","en":["liable to repay, obliged to repay"]}
 {"fi":"-talvias","gr":"adj","en":["-winter-old, -year-old"]}
-{"fi":"ristitty","gr":"adj","en":["alternative form of kristitty (“Christian”)"]}
 {"fi":"makkabealainen","gr":"adj","en":["Maccabean"]}
 {"fi":"plyysinen","gr":"adj","en":["made of plush (textile fabric with a nap or shag on one side)"]}
 {"fi":"syrjempi","gr":"adj","en":["aside"]}

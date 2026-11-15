@@ -1,13 +1,10 @@
 {"fi":"kun","gr":"pron","en":["that, who, which, where"]}
 {"fi":"het","gr":"pron","en":["they (plural; only of people)"]}
 {"fi":"te","gr":"pron","en":["you (second-person plural; when addressing many persons or when addressing politely or formally one person)"]}
-{"fi":"mi","gr":"pron","en":["alternative form of mikä (“what”) (especially as a relative pronoun)"]}
-{"fi":"see","gr":"pron","en":["alternative form of se"]}
 {"fi":"he","gr":"pron","en":["they (plural, only of people)","he, she, one, (singular) they (of a single human being, like hän)","they (in indirect speech: referring to the subjects of the main clause, regardless of whether they are human beings or not, i.e. logophoric pronoun)"]}
 {"fi":"me","gr":"pron","en":["we"]}
 {"fi":"met","gr":"pron","en":["we"]}
 {"fi":"se","gr":"pron","en":["that (compare tuo, see usage notes)","it","the one (who, what, which) (always with a relative clause)","he, she, one, they sg (of a human being; gender-neutral)"]}
-{"fi":"net","gr":"pron","en":["alternative form of ne","alternative form of he"]}
 {"fi":"hän","gr":"pron","en":["he, she, one, they sg (only of a human being; gender-neutral)","he, she, one, they, it (in indirect speech: referring to the subject of the main clause, regardless of whether they are a human being or not, i.e. logophoric pronoun)"]}
 {"fi":"sie","gr":"pron","en":["you (second-person singular personal pronoun)"]}
 {"fi":"ken","gr":"pron","en":["who; (when followed by a modifier in the elative case) which one (of)","whoever"]}
@@ -27,8 +24,6 @@
 {"fi":"muu","gr":"pron","en":["other, another","the others (of people)","else"]}
 {"fi":"taa","gr":"pron","en":["this, that (medial between tämä and tuo)"]}
 {"fi":"toi","gr":"pron","en":["synonym of tuo (“that”)"]}
-{"fi":"ite","gr":"pron","en":["alternative form of itse (“oneself”) (personal pronoun; also in plural)"]}
-{"fi":"Te","gr":"pron","en":["You (very formal, honorific or respectful 2nd person address both in singular and in plural) (alternative letter-case form of te)"]}
 {"fi":"mie","gr":"pron","en":["I (1st person singular personal pronoun)."]}
 {"fi":"sää","gr":"pron","en":["you (addressing one person; in archaic English: thou)."]}
 {"fi":"työ","gr":"pron","en":["you (plural)"]}
@@ -40,7 +35,6 @@
 {"fi":"kukin","gr":"pron","en":["each","who (used always in connection with another interrogative pronoun)"]}
 {"fi":"kukaan","gr":"pron","en":["anybody, anyone; (with negative) no-one, none, nobody"]}
 {"fi":"tet","gr":"pron","en":["you (plural; in archaic English: ye)"]}
-{"fi":"heil","gr":"pron","en":["alternative form of heillä"]}
 {"fi":"itse","gr":"pron","en":["oneself, itself (used to emphasize the person or thing acting as the headword)","self-, auto-","ego-, self-"]}
 {"fi":"jokainen","gr":"pron","en":["everyone, everybody"]}
 {"fi":"joiden","gr":"pron","en":["whose; of which.","who(m), that, which."]}
@@ -57,28 +51,22 @@
 {"fi":"ketä","gr":"pron","en":["synonym of kuka (“who”)"]}
 {"fi":"kenkään","gr":"pron","en":["(not) anybody, (not) anyone; no-one, none, nobody"]}
 {"fi":"kumpainen","gr":"pron","en":["which one (of the two) (usually begins an indirect question)","both (usually with a clitic: kumpainenkin, kumpainenkaan)"]}
-{"fi":"näitten","gr":"pron","en":["alternative form of näiden"]}
 {"fi":"niiden","gr":"pron","en":["genitive plural of ne","their; used without possessive suffix in the main word owned.","genitive plural of ne","theirs (that which belongs to them, used without a following noun)","genitive plural of ne","they; used with monopersonal verbs which require genitive such as pitää, täytyä, tulla, olla + passive present participle etc.","genitive plural of ne","their, theirs; used instead of heidän (“their, theirs”)"]}
 {"fi":"mä","gr":"pron","en":["I (first person singular personal pronoun)"]}
 {"fi":"mää","gr":"pron","en":["I."]}
 {"fi":"myö","gr":"pron","en":["we"]}
 {"fi":"hyö","gr":"pron","en":["they (plural; only of people)"]}
 {"fi":"monet","gr":"pron","en":["many"]}
-{"fi":"sulki","gr":"pron","en":["alternative form of sinullakin"]}
 {"fi":"sitä","gr":"pron","en":["(the ...) the (establishes a parallel)","General intensifier."]}
 {"fi":"johonkin","gr":"pron","en":["to somewhere"]}
 {"fi":"kaikista","gr":"pron","en":["of all (emphasizing a superlative)"]}
-{"fi":"muks","gr":"pron","en":["alternative form of minuksi"]}
-{"fi":"mikskä","gr":"pron","en":["alternative spelling of miksikä"]}
 {"fi":"nää","gr":"pron","en":["synonym of sinä"]}
 {"fi":"joka ikinen","gr":"pron","en":["everyone, every (single) one","each and every, every single"]}
 {"fi":"muutama","gr":"pron","en":["a few, some"]}
 {"fi":"mikin","gr":"pron","en":["synonym of mikäkin (“which”) (used in connection with another interrogative pronoun)"]}
 {"fi":"muuan","gr":"pron","en":["a, an","certain"]}
-{"fi":"muudan","gr":"pron","en":["dated form of muuan"]}
 {"fi":"meitsi","gr":"pron","en":["synonym of meikäläinen"]}
 {"fi":"se ja se","gr":"pron","en":["such-and-such, so-and-so"]}
-{"fi":"meil","gr":"pron","en":["alternative form of meillä"]}
 {"fi":"noil","gr":"pron","en":["pronunciation spelling of noilla"]}
 {"fi":"joka iikka","gr":"pron","en":["everyone; every man Jack"]}
 {"fi":"meikäläinen","gr":"pron","en":["yours truly, I; your boy (male), your girl (female); may express modesty, helplessness, or comedic intent."]}
@@ -88,45 +76,29 @@
 {"fi":"kuka tahansa","gr":"pron","en":["anyone, anybody","whoever"]}
 {"fi":"kaikki muut","gr":"pron","en":["everybody else, everyone else"]}
 {"fi":"ei kukaan muu","gr":"pron","en":["no one else"]}
-{"fi":"itsekukin","gr":"pron","en":["alternative form of itse kukin"]}
 {"fi":"se ja tämä","gr":"pron","en":["this and that"]}
-{"fi":"sitä sun tätä","gr":"pron","en":["alternative form of sitä ja tätä"]}
 {"fi":"miä","gr":"pron","en":["I (1st person singular personal pronoun)."]}
 {"fi":"mikä vain","gr":"pron","en":["whatever, whichever, anything"]}
 {"fi":"mikä tahansa","gr":"pron","en":["whatever, whichever, anything"]}
-{"fi":"jllk","gr":"pron","en":["alternative form of jllak"]}
-{"fi":"jltk","gr":"pron","en":["alternative form of jltak"]}
-{"fi":"jssk","gr":"pron","en":["alternative form of jssak"]}
-{"fi":"jstk","gr":"pron","en":["alternative form of jstak"]}
 {"fi":"kenkin","gr":"pron","en":["synonym of kukin (“(indefinite) each”) (only of people)","synonym of kukakin (“(indefinite) who”) (always used with another interrogative pronoun)"]}
 {"fi":"siä","gr":"pron","en":["you (second-person singular personal pronoun)"]}
-{"fi":"teil","gr":"pron","en":["alternative form of teillä"]}
-{"fi":"toho","gr":"pron","en":["alternative form of tohon"]}
 {"fi":"monesko","gr":"pron","en":["what number, which (used to ask a position in an ordered group; \"whatth\", \"how manyth\")"]}
-{"fi":"aniharva","gr":"pron","en":["alternative spelling of ani harva"]}
-{"fi":"nämät","gr":"pron","en":["alternative form of nämä"]}
 {"fi":"mikälie","gr":"pron","en":["A fill-in interrogative with little informative value, used rather like whatever, who knows or you know in English."]}
-{"fi":"itte","gr":"pron","en":["alternative form of itse (“oneself”) oneself (personal pronoun; also in plural)"]}
-{"fi":"jtk","gr":"pron","en":["misspelling of jtkn"]}
 {"fi":"kuinka mones","gr":"pron","en":["synonym of monesko"]}
-{"fi":"nuot","gr":"pron","en":["alternative form of nuo"]}
 {"fi":"tiedät-kyllä-kuka","gr":"pron","en":["you-know-who (singular)"]}
 {"fi":"tiedätte-kyllä-ketkä","gr":"pron","en":["you-know-who (plural)"]}
 {"fi":"Teidän armonne","gr":"pron","en":["your grace, your Grace"]}
-{"fi":"teidän korkeutenne","gr":"pron","en":["alternative form of Teidän korkeutenne"]}
 {"fi":"Teidän korkeutenne","gr":"pron","en":["Your Highness, Your Honour, Your Excellency"]}
 {"fi":"teikäläinen","gr":"pron","en":["my man, you"]}
 {"fi":"tiedätte-kyllä-kuka","gr":"pron","en":["you-know-who (polite, singular)"]}
 {"fi":"mihinkä","gr":"pron","en":["synonym of mihin"]}
 {"fi":"minnekä","gr":"pron","en":["synonym of minne (possibly more emphatic)"]}
-{"fi":"semmonen","gr":"pron","en":["alternative form of semmoinen"]}
 {"fi":"itse kukin","gr":"pron","en":["everyone (individually), each (person) individually, each (of us/you/them etc.)"]}
 {"fi":"jompi","gr":"pron","en":["that, which (of the two)"]}
 {"fi":"mikäkin","gr":"pron","en":["which (used always in connection with another interrogative pronoun)","some kind of (often with kuin (“like”))"]}
 {"fi":"minnekin","gr":"pron","en":["(to) wherever"]}
 {"fi":"oma itsensä","gr":"pron","en":["oneself; as one truly is, behaving or acting naturally"]}
 {"fi":"meikäpoika","gr":"pron","en":["synonym of meikäläinen (“your boy, me”)"]}
-{"fi":"jokahinen","gr":"pron","en":["alternative form of jokainen"]}
 {"fi":"teitsi","gr":"pron","en":["you (singular)"]}
 {"fi":"kuka vain","gr":"pron","en":["anyone, anybody"]}
 {"fi":"meikämanne","gr":"pron","en":["synonym of meikäläinen (“your boy, me”)"]}
@@ -137,7 +109,6 @@
 {"fi":"hyä","gr":"pron","en":["they (only of people)."]}
 {"fi":"myä","gr":"pron","en":["we"]}
 {"fi":"jokayksi","gr":"pron","en":["synonym of jokainen"]}
-{"fi":"snää","gr":"pron","en":["alternative form of sinä"]}
 {"fi":"niil","gr":"pron","en":["pronunciation spelling of niillä"]}
 {"fi":"näil","gr":"pron","en":["pronunciation spelling of näillä"]}
 {"fi":"meikäreikä","gr":"pron","en":["synonym of meikäläinen (“your boy, me”)"]}
@@ -145,4 +116,3 @@
 {"fi":"kukakin","gr":"pron","en":["who (used always in connection with another interrogative pronoun)","synonym of kukin (“each”)"]}
 {"fi":"toinen toisensa","gr":"pron","en":["each other, one another"]}
 {"fi":"moniahta","gr":"pron","en":["some (an indefinite number of)"]}
-{"fi":"monikahta","gr":"pron","en":["alternative form of moniahta"]}
