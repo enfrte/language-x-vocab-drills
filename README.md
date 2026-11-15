@@ -1,6 +1,6 @@
 # learn-language-x
 
-Demo: https://language-x-vocab-drills.vercel.app/
+Demo: https://language-x-vocab-drills.vercel.app/ - The manifest allows you to install it on your phone 
 
 A frontend-agnostic vocabulary learning PWA. All business logic lives in pure
 TypeScript classes (`src/domain/`, `src/data/`, `src/storage/`); a minimal
