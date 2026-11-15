@@ -1,5 +1,7 @@
 # learn-language-x
 
+Demo: https://language-x-vocab-drills.vercel.app/
+
 A frontend-agnostic vocabulary learning PWA. All business logic lives in pure
 TypeScript classes (`src/domain/`, `src/data/`, `src/storage/`); a minimal
 vanilla-TS demo UI (`src/demo-ui/`) proves it works and is meant to be replaced
@@ -74,10 +76,12 @@ src/
 
 ## Pandunia support 
 
+Demo: https://language-x-vocab-drills.vercel.app/pd
+
 `scripts/build-pd-en.js`
 
-This script creates the topics for Pandunia from Panlexia repo. 
+This script creates the topics for Pandunia from [Panlexia repo](https://github.com/barumau/panlexia). It also attempts to sort the entries by frequency using a dataset from a movie subtitles word frequency sorter. 
 
-Run it with `npm run build:pd-en`
+Run it with `npm run build:pd-en` --this can be used to rebuild when there are updated from the [Panlexia](https://github.com/barumau/panlexia) 
 
 To use a different output directory, pass it after --: `npm run build:pd-en -- some/dir`
