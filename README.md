@@ -80,8 +80,8 @@ Demo: https://language-x-vocab-drills.vercel.app/pd
 
 `scripts/build-pd-en.js`
 
-This script creates the topics for Pandunia from [Panlexia repo](https://github.com/barumau/panlexia). It also attempts to sort the entries by frequency using a dataset from a movie subtitles word frequency sorter. 
+This script creates the topics for Pandunia from the [Panlexia repo](https://github.com/barumau/panlexia). It also attempts to sort the entries by frequency using a dataset from a movie subtitles word frequency sorter. 
 
-Run it with `npm run build:pd-en` --this can be used to rebuild when there are updated from the [Panlexia](https://github.com/barumau/panlexia) 
+Run it with `npm run build:pd-en` --this can be used to rebuild when there are updates from [Panlexia](https://github.com/barumau/panlexia) 
 
 To use a different output directory, pass it after --: `npm run build:pd-en -- some/dir`
