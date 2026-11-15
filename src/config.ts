@@ -40,16 +40,12 @@ export const LANGUAGES: Record<string, LanguageConfig> = {
     name: 'Finnish',
     source: 'en',
     topics: {
+      'Nouns': 'data/datasets/fi/fi-en-nouns.jsonl',
       'Verbs': 'data/datasets/fi/fi-en-verbs.jsonl',
+      'Pronouns': 'data/datasets/fi/fi-en-pronouns.jsonl',
       'Adjectives': 'data/datasets/fi/fi-en-adjectives.jsonl',
       'Adverbs': 'data/datasets/fi/fi-en-adverbs.jsonl',
-      'Pronouns': 'data/datasets/fi/fi-en-pronouns.jsonl',
       'Suffixes': 'data/datasets/fi/fi-en-suffixes.jsonl',
-      // fi-en-nouns.jsonl exists on disk (11 MB, 129k words) but is not
-      // listed: too large to bundle raw for now. It is also excluded from
-      // the build via a glob negation in src/data/registry.ts — remove that
-      // exclusion when re-adding it here.
-      // 'Nouns': 'data/datasets/fi/fi-en-nouns.jsonl',
     },
   },
   mi: {
@@ -71,7 +67,7 @@ export function getLanguage(code: string): LanguageConfig | null {
 }
 
 /** Package / Vercel project name — intentionally language-generic. */
-export const APP_NAME = 'learn-language-x';
+export const APP_NAME = 'language-x-vocab-drills';
 
 /** How many new words a Learn batch contains. */
 export const LEARN_BATCH_SIZE = 5;
