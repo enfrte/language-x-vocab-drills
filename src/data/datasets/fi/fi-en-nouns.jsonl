@@ -4,7 +4,6 @@
 {"fi": "aika", "gr": "noun", "en": ["time (inevitable progression into the future with the passing of present and past events)", "time, period (temporal distance or duration)", "time (moment or period in time), moment", "time, season (the moment or period of time during which something regularly occurs e.g. within a year)", "appointment (arranged meeting)", "age (shortest geochronologic unit)"]}
 {"fi": "minä", "gr": "noun", "en": ["ego", "self"]}
 {"fi": "asia", "gr": "noun", "en": ["matter, issue, affair, concern, business, subject, case, thing (any abstract thing)", "case, court case", "thing, object (that is physical, concrete, tangible)", "errand"]}
-{"fi": "ihminen", "gr": "noun", "en": ["human, human being (an individual)", "man, Homo sapiens", "synonym of henkilö (“person”)"]}
 {"fi": "oma", "gr": "noun", "en": ["friendly (someone on the same side)"]}
 {"fi": "osa", "gr": "noun", "en": ["part (fraction of a whole)", "part (distinct element of something larger); piece (one of many very similar or identical elements)", "one/a -th, one/a third, one/a fourth, etc. (used to express fractions by means of an ordinal number as the modifier; see usage notes)", "part (unit of relative proportion in a mixture)", "part (section of a document)", "role, part (position or role in a play, film, etc.)", "part (part of a larger whole); piece (when removable)", "proportion, section, part (quantity of something that is part of the whole amount or number)", "partition, portion, division (separated part of anything)", "bit, part (individual contribution toward an overall effort)", "bit (fraction of a second)", "lot, portion (part, or fate, that falls to one without planning)", "share (portion of something, especially a portion given or allotted to someone)", "volume, tome (single book of a publication issued in multi-book format)", "episode, installment (part of a published or broadcast serial)", "movement (large division of a larger composition)"]}
 {"fi": "euro", "gr": "noun", "en": ["euro (currency)"]}
@@ -14,13 +13,11 @@
 {"fi": "itse", "gr": "noun", "en": ["self, ego"]}
 {"fi": "poliisi", "gr": "noun", "en": ["police (organization)", "policeman, police officer"]}
 {"fi": "lapsi", "gr": "noun", "en": ["child (person who is below the age of adulthood)", "child (daughter or son)", "child (member of a religious community)"]}
-{"fi": "alue", "gr": "noun", "en": ["area, region (any considerable and connected part of a space or surface)", "region, area (regional subdivisions)", "region, area (regional subdivisions)", "oblast (regional administrative unit in Russia)", "reserve (tract of land reserved, or set apart, for a particular purpose)", "area, region, extent (range of values or locations)", "domain (geographic area owned or controlled by a single person or organization)", "band (wavelength band)", "domain", "register (range of a voice or instrument)", "synonym of ala (“field; course of study or domain of knowledge or practice”)"]}
 {"fi": "viikko", "gr": "noun", "en": ["week", "working week (Monday to Friday)"]}
 {"fi": "tilanne", "gr": "noun", "en": ["situation, state of affairs, circumstances", "situation, position (one's status with regard to circumstances)", "score (number of points accrued by each of the participants in a game)"]}
 {"fi": "mieli", "gr": "noun", "en": ["mind, reason (capability for rational thought)", "mind (ability to be aware of, remember, and focus on things)", "mood (mental or emotional state)", "mind (desire, inclination)", "one's attention, mind", "mind", "sense, meaning, significance, regard (chiefly in the inessive singular)", "mind, view, opinion (in general usage, largely supplanted by mielipide [coined in 1847], but still in use in certain expressions)", "favorite"]}
 {"fi": "työ", "gr": "noun", "en": ["work, toil, effort, labour (effort expended on a particular task)", "work (sustained effort to overcome obstacles and achieve a result)", "work (something on which effort is or has been expended)", "work, labour (effort for which one is compensated; effort done as one's livelihood)", "work, job (economic role for which a person is paid)", "work (place of work) (locative cases in the plural)", "work (action or activity in general)", "work (artistic or intellectual production)", "work (measure of energy)", "turn to be the dealer; the work of a dealer (to shuffle and deal cards)"]}
 {"fi": "päivä", "gr": "noun", "en": ["day (period between sunrise and sunset)", "day (from midnight to midnight)", "day (period of 24 hours)", "day (the part of a day period which one spends at one’s job, school, etc.)", "the sun (also still used in some fixed expressions)", "event, occasion, symposium, forum, fair, etc. (in the singular only if the event lasts one day, otherwise in the plural)"]}
-{"fi": "kerta", "gr": "noun", "en": ["time, occasion (particular instance or occurrence)", "time (ratio of comparison)", "synonym of kerros (“layer”)", "floor", "one-off, one-time (occurring once, independent of any pattern)", "disposable", "(complete) set"]}
 {"fi": "nuori", "gr": "noun", "en": ["a young person", "youth"]}
 {"fi": "kausi", "gr": "noun", "en": ["period, age, epoch, season", "season, series (group of episodes of a television or radio program broadcast in regular intervals with a long break between each group)", "term (duration of officeholding of an elected official)", "period (subdivision of an era)", "seasonal"]}
 {"fi": "suomalainen", "gr": "noun", "en": ["Finn (person from Finland)", "a person from Southwest Finland/Finland Proper"]}
@@ -29,10 +26,8 @@
 {"fi": "ottelu", "gr": "noun", "en": ["match, game, (in some sports) bout (sporting event)"]}
 {"fi": "määrä", "gr": "noun", "en": ["amount, quantity, volume", "count, number", "limit, measure (amount that cannot be exceeded)", "aim, objective", "defined, determined, predetermined, set", "extent, degree (amount that an entity possesses a certain property)", "destination (place set for the end of a journey)"]}
 {"fi": "joukkue", "gr": "noun", "en": ["team", "platoon"]}
-{"fi": "nainen", "gr": "noun", "en": ["woman (adult female human being)", "lady", "synonym of vaimo (“wife”)"]}
 {"fi": "puoli", "gr": "noun", "en": ["half (one of two usually roughly equal parts into which anything may be divided, or considered as divided)", "half (one of two usually roughly equal parts into which anything may be divided, or considered as divided)", "half", "half (one of two usually roughly equal parts into which anything may be divided, or considered as divided)", "A time that is 30 minutes before any hour; (equivalent) half past, the bottom of the hour.", "side (of something with two sides, sometimes of something with more than two sides)", "aspect, facet, feature", "side (region in a specified position with respect to something)", "side (possible aspect of a concept)", "side, party (one person or group involved in something)", "step- (of parent or grandfather who is not blood relative or adopted)", "For adjectives, used to express that something, usually one half of a pair is missing."]}
 {"fi": "kunta", "gr": "noun", "en": ["municipality (incorporated town or village)", "commune (local political division in many European countries and their former colonies)", "used to form nouns that refer to administrative or functional regions", "used to form nouns that refer to multimember bodies, organizations etc.", "used to form nouns that refer to large groups of creatures or things as a whole", "used with certain numerals to represent an approximate amount", "kingdom", "field"]}
-{"fi": "hetki", "gr": "noun", "en": ["moment, instant (particular point of time)", "moment, minute, while (brief, unspecified amount of time)", "hour (set time of prayer)", "synonym of tunti (“an hour, 60 minutes”)"]}
 {"fi": "aina", "gr": "noun", "en": ["the string in the upper or lower edge of a fishing net or seine; line in a gillnet"]}
 {"fi": "alku", "gr": "noun", "en": ["start, beginning, inception, incipience", "first, prime, primeval, primordial, proto-, ur-, initial"]}
 {"fi": "käyttö", "gr": "noun", "en": ["use, usage, utilization"]}
@@ -57,7 +52,6 @@
 {"fi": "tapaus", "gr": "noun", "en": ["event, incident, occurrence, occasion, episode", "case, instance"]}
 {"fi": "työntekijä", "gr": "noun", "en": ["employee, worker"]}
 {"fi": "tulos", "gr": "noun", "en": ["result (that which results)", "result, outcome, conclusion (resulting effect)", "result (decision or determination)", "result(s) (formal report outlining results)", "profit (total income or cash flow minus expenditures)", "return, yield (that which is yielded or returned by effort or investment)", "product, result (consequence of efforts)", "result, score (in sports, in a game, etc.)"]}
-{"fi": "vuoksi", "gr": "noun", "en": ["flow (rising tide)", "synonym of korkeavesi (“high tide”)", "A large, rapidly flowing river."]}
 {"fi": "yhtiö", "gr": "noun", "en": ["company, corporation, business"]}
 {"fi": "kevät", "gr": "noun", "en": ["spring, springtime (season of the year)"]}
 {"fi": "henkilö", "gr": "noun", "en": ["person, figure (an individual with personhood, such as one representing a certain consciousness)", "person, character (in a story)", "antipersonnel"]}
@@ -73,7 +67,6 @@
 {"fi": "maanantai", "gr": "noun", "en": ["Monday (day of the week; the first day of the week in Finland and in the ISO 8601 standard)"]}
 {"fi": "kuukausi", "gr": "noun", "en": ["month"]}
 {"fi": "joukko", "gr": "noun", "en": ["group, cluster, band; crowd (of people) (number of things or persons, especially a rather large and unorganized one)", "force, troop; (in the plural) troops, forces", "a large quantity or amount (of something)", "set (collection of objects, or of other sets)", "mass (involving a mass of people or things)"]}
-{"fi": "perhe", "gr": "noun", "en": ["family, nuclear family, immediate family (parents and children)", "synonym of joukkoperhe"]}
 {"fi": "raha", "gr": "noun", "en": ["money (means of exchange and measure of value)", "cash, piece of currency, money (hard cash, money as item; usually a coin when in the singular)", "money (available liquid assets, or the assets necessary for something)", "money, wealth", "money, currency", "squirrel pelt"]}
 {"fi": "yhteys", "gr": "noun", "en": ["connection (point at which two or more things are connected)", "connection (feeling of understanding and ease of communication between two or more people)", "connection, link (established communications or transportation link)", "access, connection (connection to or communication with the Internet)", "connection (transfer from one transportation vehicle to another in scheduled transportation service)", "contact, touch (in the expressions in contact, in touch, out of touch) (establishment of communication)", "contact(s) (being in close association)", "context (circumstances or settings surrounding something)", "association"]}
 {"fi": "tehtävä", "gr": "noun", "en": ["task (a piece of work done as part of one's duties)", "task (a difficult or tedious undertaking), mission (duty that involves fulfilling a request)", "task, duty, responsibility, vocation", "task, objective", "job, duty, function (professional or official position), post, position, situation (position of employment; a post)", "purpose, function (what something does, exists, or is used for)", "exercise, problem, task, assignment, or puzzle assigned in a course or game, for example math exercises or a crossword (ristisanatehtävä)", "task, process", "task, problem in a computer program", "commission (mission)"]}
@@ -134,12 +127,10 @@
 {"fi": "musiikki", "gr": "noun", "en": ["music"]}
 {"fi": "koti", "gr": "noun", "en": ["home (house or structure in which one lives; place of the affections, or of refuge or rest)"]}
 {"fi": "taso", "gr": "noun", "en": ["plane, flat or level surface", "tray (flat carrier for items)", "level (distance relative to a given reference elevation)", "level (degree or amount)", "level, standard (level of quality, attainment or qualification)", "level, tier (position on a hierarchy)", "level, layer (one of the items in a hierarchy)", "plane (flat surface extending infinitely in all directions)", "plane, wing (wing or pair of wings)", "pitch (perceived frequency of a sound or note)", "level, stage (one of several discrete segments of a game)", "level (numeric value that quantifies a character, ability, or item's experience and power)"]}
-{"fi": "tarve", "gr": "noun", "en": ["need, requirement, demand", "synonym of tarvike"]}
 {"fi": "raja", "gr": "noun", "en": ["border, boundary, limit, line (line or frontier area separating political or geographical regions)", "limit, bound, confine (any other kind of restriction when likened to those bounding a geographical region, e.g. when a value must stay within a range)", "line, edge (exterior limit of a figure; conceptual division or distinction; demarcation)", "line (any line on the playfield which acts as a boundary or border within certain rules)", "a worn out object, something worn"]}
 {"fi": "talous", "gr": "noun", "en": ["economy (system of production and distribution and consumption)", "finances (monetary situation)", "an independently acting and managed economic unit, especially in terms of food procurement and cooking", "an independently acting and managed economic unit, especially in terms of food procurement and cooking", "household", "housekeeping, household management", "economy (effective management of a community or system, or especially its resources)"]}
 {"fi": "rakennus", "gr": "noun", "en": ["building (closed structure with walls and a roof)", "building, construction (the act of building or construction)"]}
 {"fi": "poika", "gr": "noun", "en": ["boy (young male human)", "son (male offspring)", "young (an offspring of an animal, especially of a bird)", "guy, man, boy, lad (often a young or younger one)", "bachelor, unmarried male", "virgin male"]}
-{"fi": "vaihe", "gr": "noun", "en": ["phase, stage, step (distinct or distinguishable part of a sequence or process)", "point (particular moment in an event or occurrence, juncture)", "stage (one of the portions of a device, such as a rocket, which are used or activated in a particular order)", "phase (particular appearance or state in a regularly recurring cycle)", "phase (point or portion in a recurring series of changes; e.g. the phase of a wave)", "phase (of alternating current)", "phase (with a periodic function)", "age (unit of geologic time)", "stage (succession of rock strata laid down in a single age)", "stage (number of an electronic circuit’s block)", "synonym of väli (“gap”)"]}
 {"fi": "käytäntö", "gr": "noun", "en": ["convention, custom, policy, practice", "practice (as opposed to theory)"]}
 {"fi": "kokemus", "gr": "noun", "en": ["experience"]}
 {"fi": "erä", "gr": "noun", "en": ["batch (quantity of anything produced at one operation)", "lot (separate portion; a number of things taken collectively)", "installment/instalment (one of the portions of a debt or sum of money that is paid at regular intervals)", "item, entry, accounting entry (formal record in bookkeeping that documents a transaction)", "a subdivision of game time (can be a time-limited part of a match between two parties or, where the number of contestants exceeds the capacity of the sports facillity, a qualifying competition between a subset of contestants, the translation into English varies by sport)", "period", "a subdivision of game time (can be a time-limited part of a match between two parties or, where the number of contestants exceeds the capacity of the sports facillity, a qualifying competition between a subset of contestants, the translation into English varies by sport)", "half", "a subdivision of game time (can be a time-limited part of a match between two parties or, where the number of contestants exceeds the capacity of the sports facillity, a qualifying competition between a subset of contestants, the translation into English varies by sport)", "quarter or half, depending on rules applied", "a subdivision of game time (can be a time-limited part of a match between two parties or, where the number of contestants exceeds the capacity of the sports facillity, a qualifying competition between a subset of contestants, the translation into English varies by sport)", "round", "a subdivision of game time (can be a time-limited part of a match between two parties or, where the number of contestants exceeds the capacity of the sports facillity, a qualifying competition between a subset of contestants, the translation into English varies by sport)", "set", "a subdivision of game time (can be a time-limited part of a match between two parties or, where the number of contestants exceeds the capacity of the sports facillity, a qualifying competition between a subset of contestants, the translation into English varies by sport)", "game", "a subdivision of game time (can be a time-limited part of a match between two parties or, where the number of contestants exceeds the capacity of the sports facillity, a qualifying competition between a subset of contestants, the translation into English varies by sport)", "heat", "a subdivision of game time (can be a time-limited part of a match between two parties or, where the number of contestants exceeds the capacity of the sports facillity, a qualifying competition between a subset of contestants, the translation into English varies by sport)", "chukker", "a subdivision of game time (can be a time-limited part of a match between two parties or, where the number of contestants exceeds the capacity of the sports facillity, a qualifying competition between a subset of contestants, the translation into English varies by sport)", "end", "time, occasion", "hunting", "game, catch", "wilderness, especially some good for hunting"]}
@@ -164,9 +155,7 @@
 {"fi": "huomio", "gr": "noun", "en": ["attention (mental focus)", "observation, remark, note, comment"]}
 {"fi": "kasvu", "gr": "noun", "en": ["growth (act of growing; something that grows or has grown)", "growth, increase, rise"]}
 {"fi": "voima", "gr": "noun", "en": ["power, strength, force, might", "force", "power (rank of angel)"]}
-{"fi": "jäsen", "gr": "noun", "en": ["limb, member", "member (person belonging to a group)", "synonym of termi (“term”)", "synonym of nivel (“joint”)"]}
 {"fi": "asunto", "gr": "noun", "en": ["home, residence; unit, housing unit, dwelling unit; dwelling, domicile, habitation (any place for living, especially one constructed for that purpose)", "flat, apartment (complete domicile occupying only part of a building)"]}
-{"fi": "tuttu", "gr": "noun", "en": ["synonym of tuttava (“acquaintance (person with whom one is acquainted)”)"]}
 {"fi": "suunnitelma", "gr": "noun", "en": ["plan (set of intended actions through which one expects to achieve a goal)", "scheme, blueprint (systematic, detailed plan of future action)", "design (plan for the structure and functions of an artifact, building or system)"]}
 {"fi": "pelastuslaitos", "gr": "noun", "en": ["rescue department"]}
 {"fi": "opiskelija", "gr": "noun", "en": ["student"]}
@@ -202,7 +191,6 @@
 {"fi": "vaihtoehto", "gr": "noun", "en": ["option, choice, alternative"]}
 {"fi": "kansanedustaja", "gr": "noun", "en": ["A Member of Parliament, specifically a member of the eduskunta (“Finnish Parliament”)."]}
 {"fi": "toukokuu", "gr": "noun", "en": ["May (month)"]}
-{"fi": "ruoka", "gr": "noun", "en": ["food (any substance consumed by living organisms to sustain life)", "meal (food that is prepared and eaten)", "dish (specific type of prepared food)", "synonym of keitto (“soup”)"]}
 {"fi": "kuu", "gr": "noun", "en": ["the moon (the Earth's moon)", "moon, satellite (of a planet)", "month (see usage notes)", "animal fat, fat, tallow, especially reindeer fat", "The name of the Latin script letter Q/q.", "The letter Q in the Finnish spelling alphabet."]}
 {"fi": "rooli", "gr": "noun", "en": ["role", "role", "part (position or role in a play or a film)"]}
 {"fi": "kappale", "gr": "noun", "en": ["object (thing that has physical existence)", "piece (part of a larger whole)", "track, song (piece of music, especially of light music)", "single item (such as of a product; often used in pricing as an equivalent of apiece or each; abbreviated kpl)", "copy (of a publication such as a book)", "article (member of a group or class)", "paragraph (passage in text)", "solid (three-dimensional object)", "body, physical body"]}
@@ -228,7 +216,6 @@
 {"fi": "puhe", "gr": "noun", "en": ["speech, speaking (act of speaking; a style of speaking)", "speech, oration, address (formal session of speaking)", "talk (conversation)", "talk, gossip, rumour", "speak (jargon, terminology)", "something discussed and agreed, something agreed orally"]}
 {"fi": "lokakuu", "gr": "noun", "en": ["October (month)"]}
 {"fi": "valmentaja", "gr": "noun", "en": ["coach, trainer"]}
-{"fi": "nousu", "gr": "noun", "en": ["rise, ascent (moving upwards)", "synonym of kasvu (“growth, increase, rise”)", "getting on (a vehicle), embarking, embarkation", "getting off (a vehicle), disembarking, disembarkation", "thread pitch, pitch (the distance from the crest of one thread of a screw to the next)", "thread pitch, lead (the distance along a screw's axis that is covered by one 360° rotation of the screw)", "twist (of rifling)", "comeback (overcoming or attempting to overcome a substantial disadvantage)", "raise (shaft or a winze that is dug from below)", "rising (above the horizon)", "climb, ascent", "takeoff of an airplane or rocket", "upward mobility (advancement to better-paid or better-regarded social strata) (often with the adjective sosiaalinen)", "onset, 'the way up'"]}
 {"fi": "myynti", "gr": "noun", "en": ["sale, selling (exchange of goods or services for currency or credit)", "sales (amount or value of goods and services sold)"]}
 {"fi": "viranomainen", "gr": "noun", "en": ["official, public authority", "officer or official of an authority"]}
 {"fi": "tartunta", "gr": "noun", "en": ["contagion, infection (spread or transmission of a contagious disease)", "adhesion (ability of a substance to stick to an unlike substance)", "dowel bar, reinforcing rod (in a concrete foundation)"]}
@@ -261,7 +248,6 @@
 {"fi": "venäläinen", "gr": "noun", "en": ["Russian (person)"]}
 {"fi": "huhtikuu", "gr": "noun", "en": ["April (month)"]}
 {"fi": "viikonloppu", "gr": "noun", "en": ["weekend"]}
-{"fi": "vieras", "gr": "noun", "en": ["guest", "attendee", "stranger", "synonym of humalanvieras (“greater dodder”)", "bogey (unidentified aircraft, suspected hostile)"]}
 {"fi": "riski", "gr": "noun", "en": ["risk (possible, usually negative, outcome, e.g., a danger)", "risk (likelihood of a negative outcome)", "risk (potential, conventionally negative, impact of an event)", "chance (risk)"]}
 {"fi": "kirkko", "gr": "noun", "en": ["church (Christian house of worship)", "church (denomination of Christianity)", "church (Christians collectively seen as a single spiritual community)", "church (Christian worship held at a church, church service)", "church (organized religion in general or a specific religion)"]}
 {"fi": "neuvottelu", "gr": "noun", "en": ["negotiation, consultation"]}
@@ -274,11 +260,9 @@
 {"fi": "valtuusto", "gr": "noun", "en": ["council (committee that leads or governs, e.g. city council, school council)", "delegation (group of delegates, or persons authorized to act as representatives)"]}
 {"fi": "suhde", "gr": "noun", "en": ["relation (way in which two things may be associated)", "relationship (connection or association)", "relationship, affair (romantic or sexual involvement)", "proportion, ratio (quantity of a part; number representing comparison; relative magnitude of two quantities)", "relationship (links between values)", "link (causal relationship)", "connections, network (connections; relationships; one's social or business network)", "respect, regard (particular aspect, feature or detail of something)", "stance, position, attitude (towards something)", "conditions, circumstances"]}
 {"fi": "omistaja", "gr": "noun", "en": ["owner"]}
-{"fi": "liike", "gr": "noun", "en": ["motion, movement (state of progression from one place to another; change of place or position)", "a move (formalized or practiced action in exercise, dance, etc.)", "movement (trend in various fields or social categories)", "shop, store (establishment that sells goods)", "business (commercial enterprise)", "circulation (circulating coin; notes, bills, etc.) (chiefly in the locative cases)", "synonym of liikenne (“financial traffic, transactions, operations”)"]}
 {"fi": "tausta", "gr": "noun", "en": ["back, back side", "back, the area behind something", "background (part of the picture that depicts scenery to the rear or behind the main subject)", "background (less important feature of scenery)", "background (one's social heritage, or previous life; what one did in the past)", "background, context (information relevant to the current situation about past events)", "background"]}
 {"fi": "henki", "gr": "noun", "en": ["breath", "soul", "life (the state of being alive, as opposed to being dead)", "soul", "person (only when counting, thus with a numeral or interrogative (\"how many\"))", "spirit, ghost", "spirit, ghost", "genie", "spirit, atmosphere, mood"]}
 {"fi": "ravintola", "gr": "noun", "en": ["restaurant (an eating establishment in which diners are served food at their tables)"]}
-{"fi": "tyttö", "gr": "noun", "en": ["girl (young female human)", "synonym of tytär (“daughter”)", "girl, lass (not necessarily a child, but often a young or younger one)", "maiden, maid, unmarried female, bachelorette"]}
 {"fi": "luonto", "gr": "noun", "en": ["nature, environment (the natural world)", "nature (the order of the natural world; the physical world in contrast to manmade or spiritual things or concepts)", "character, nature, characteristics (of a thing)", "character, nature, characteristics (of a person)"]}
 {"fi": "linja", "gr": "noun", "en": ["line (a connected set of points, e.g. a path acting as a boundary)", "line (a path regularly used by a mode of transportation; connected series of public conveyances, and hence, an established arrangement for forwarding merchandise, etc.)", "line (telephone, network or electrical connection, often but not necessarily physical)", "policy, line (principle of behaviour, conduct, or relationship towards something)", "outline, contour (e.g. when describing the shape of something)", "line (series or succession of ancestors or descendants of a given person)", "line (demarcation of the extent of the territory occupied by specified forces)", "curriculum, study program", "file (vertical line of squares)", "line (products or services sold by a business, or the business itself)", "line (population of cells derived from a single cell and containing the same genetic makeup)", "an obsolete Finnish unit of measurement for length equal to 1/12th of a tuuma or around 2.062 millimeters; comparable to imperial line"]}
 {"fi": "eläin", "gr": "noun", "en": ["animal (any organism in the clade Animalia)", "animal (an animal that is not a human)"]}
@@ -293,11 +277,9 @@
 {"fi": "teos", "gr": "noun", "en": ["work (of art), oeuvre, opus (literary, artistic, or intellectual production)", "work, something wrought"]}
 {"fi": "arki", "gr": "noun", "en": ["everyday life, daily life, normal life (ordinary, mundane or non-special days in life)", "weekday, working day"]}
 {"fi": "jää", "gr": "noun", "en": ["ice (water in solid form)", "ice (water in solid form)", "the ice covering a body of water", "ice (any substance having the appearance of ice)", "ice (crystal form of methamphetamine)"]}
-{"fi": "sija", "gr": "noun", "en": ["place, stead (location or position of or for something)", "place, position (in a competition, race, etc.); rank, ranking", "synonym of tila (“space, room (for something to fit in)”) (especially figuratively)", "case"]}
 {"fi": "kaupunginhallitus", "gr": "noun", "en": ["city board (the executive branch of city government)"]}
 {"fi": "mestaruus", "gr": "noun", "en": ["mastery, virtuosity", "championship"]}
 {"fi": "kysely", "gr": "noun", "en": ["inquiry, enquiry, query", "questionnaire, survey", "query"]}
-{"fi": "valinta", "gr": "noun", "en": ["selection (process or act of selecting)", "selection (something selected)", "choice (option or decision that one chooses or has chosen)", "volition (conscious choice or decision)", "choice, trade-off", "synonym of vaihtoehto (“option”)"]}
 {"fi": "professori", "gr": "noun", "en": ["professor", "An honorary title of the sixth rank granted by the President of Finland to professors leading a research entity."]}
 {"fi": "käynti", "gr": "noun", "en": ["gait, walk (manner of walking, e.g. of a human or a horse)", "running, operation (of a machine, e.g. a motor)", "visit (act of visiting)", "passage, passageway"]}
 {"fi": "vuosikymmen", "gr": "noun", "en": ["decade, ten years"]}
@@ -344,7 +326,6 @@
 {"fi": "kari", "gr": "noun", "en": ["rock (mass of stone projecting out of water or just underwater)", "skerry (small rocky island)", "ground (bottom of a body of water whenever it produces a navigational hazard)"]}
 {"fi": "joulu", "gr": "noun", "en": ["Christmas"]}
 {"fi": "terveys", "gr": "noun", "en": ["health"]}
-{"fi": "kärki", "gr": "noun", "en": ["point, tip, cusp, prong, tine (sharp point or pointed end)", "lead (the state of being ahead in a race; the highest score in a game in an incomplete game)", "spearhead (leading military unit in an attack)", "vertex (corner of a polygon or polyhedron)", "cusp (point of a curve where it has no tangent)", "vertex (point in 3D space)", "pile (one of the ordinaries or subordinaries having the form of a wedge)", "cusp (boundary between houses)", "synonym of palokärki (“black woodpecker”)"]}
 {"fi": "markkinat", "gr": "noun", "en": ["market (gathering for trading)", "market (formally organized system of trading in specified goods or effects)", "fair, funfair (event for public entertainment and trade)"]}
 {"fi": "turnaus", "gr": "noun", "en": ["tournament"]}
 {"fi": "kansalainen", "gr": "noun", "en": ["citizen", "national"]}
@@ -382,7 +363,6 @@
 {"fi": "kansa", "gr": "noun", "en": ["people, nation (community of people united by shared culture or ethnicity, or the inhabitants of a country)", "people, populace (the inhabitants of a region)", "people (an undefined mass of people)", "people (the common people)"]}
 {"fi": "aikataulu", "gr": "noun", "en": ["timetable", "schedule"]}
 {"fi": "lento", "gr": "noun", "en": ["flying, flight (act of flying or being in the air)", "flight (of an aircraft, other flying vehicle or spacecraft)", "flight (fast and/or smooth movement)"]}
-{"fi": "ehto", "gr": "noun", "en": ["condition, term, requirement", "candidacy in an election or for public office (used for equivalents of running for office in the US or standing for election in the UK)", "constraint", "failing a subject, requiring a repeat examination which, if failed, will result in (grade) retention", "synonym of varaus (“reservation; limiting qualification regarding certainty”)", "synonym of vaihtoehto (“choice, option”)"]}
 {"fi": "korona", "gr": "noun", "en": ["corona", "corona discharge", "short for koronavirus", "novuss, koroona (table game similar to carom)"]}
 {"fi": "syyte", "gr": "noun", "en": ["charge, accusation, indictment (formal charge or accusation brought in a court of law)"]}
 {"fi": "katsoja", "gr": "noun", "en": ["viewer, spectator (someone who views a spectacle)", "viewer (someone who watches television or computer screen)", "spectator (one who watches an event; especially, one held outdoors)", "watcher, looker (someone who watches or observes)", "onlooker, looker-on, bystander (one who looks on or watches, without becoming involved or participating)", "beholder (one who observes or beholds)"]}
@@ -399,7 +379,6 @@
 {"fi": "näkökulma", "gr": "noun", "en": ["visual angle (angle formed by two straight lines drawn from the extreme points of an object to the center of the eye)", "perspective, point of view, angle (choice of a single point of view from which to sense, categorize, measure or codify experience)"]}
 {"fi": "suosio", "gr": "noun", "en": ["popularity (quality or state of being popular)", "favor/favour (goodwill; benevolent regard)"]}
 {"fi": "lintu", "gr": "noun", "en": ["bird (animal in the class Aves, having a beaked mouth and usually capable of flight)", "poultry (meat of domesticated fowl used for nutrition)"]}
-{"fi": "kysyntä", "gr": "noun", "en": ["demand (amount of a good or service that consumers are willing to buy at a particular price)", "synonym of kysyminen (“asking”)"]}
 {"fi": "teatteri", "gr": "noun", "en": ["theatre (UK), theater (US)"]}
 {"fi": "museo", "gr": "noun", "en": ["museum"]}
 {"fi": "vara", "gr": "noun", "en": ["reserve, backup (that which is reserved or kept back, as for future use)", "(natural) resources, (natural) reserves", "stores, stocks, reserves", "funds, means, assets, savings (but usually in the partitive singular when used predicatively)", "room, margin; allowance", "caution, concern, care; often translated into English with an adjective (see also pitää varansa)", "a tool for cutting long grooves into (the bottoms of) logs for fitting, or for drafting where the grooves will be cut"]}
@@ -480,10 +459,8 @@
 {"fi": "homma", "gr": "noun", "en": ["job, work, errand (task at hand)", "thing, case (object of scrutiny)"]}
 {"fi": "parlamentti", "gr": "noun", "en": ["parliament"]}
 {"fi": "tähti", "gr": "noun", "en": ["star (luminous dot)", "star (astronomical object)", "star (shape, symbol or ornament)", "a famous person, celebrity, star", "star", "a white spot on the forehead of a horse", "star, asterisk", "asterisk (placed over the diskos)", "mark, spot"]}
-{"fi": "jokeri", "gr": "noun", "en": ["joker", "synonym of jokerilyöjä"]}
 {"fi": "sade", "gr": "noun", "en": ["precipitation (any kind of precipitation from the sky (e.g. rain, snow, sleet, hailstones))", "precipitation (any kind of precipitation from the sky (e.g. rain, snow, sleet, hailstones))", "rain (condensed water falling from a cloud)", "rain (any matter moving or falling, usually through air)"]}
 {"fi": "hotelli", "gr": "noun", "en": ["hotel (establishment providing accommodation)"]}
-{"fi": "muoto", "gr": "noun", "en": ["shape, form, figure (physical appearance or outline)", "form (any way or manifestation in which something is carried out)", "form (constitution; mode of construction, organization, etc.; system)", "form (established method of expression or practice; fixed way of proceeding)", "format (layout of a document; means of representation)", "kind, form (type, race or category)", "figure, curves (of a person, especially a woman)", "formation (arrangement of soldiers or troops)", "form (particular shape or structure of a word or part of speech)", "mode (state related to signals or vibrations; wave pattern in the electromagnetic field)", "synonym of olomuoto (“state of matter”)", "manner, way"]}
 {"fi": "tauko", "gr": "noun", "en": ["break, pause, recess (interruption)", "rest", "caesura (break in a speech, play, poem etc.)", "hiatus", "thick rope, tow rope"]}
 {"fi": "mielenosoitus", "gr": "noun", "en": ["protest, demonstration (public display of group opinion, such as a protest march)", "demonstration (expression of one's feelings by outward signs)"]}
 {"fi": "meri", "gr": "noun", "en": ["sea (a single area or the seas altogether)"]}
@@ -502,7 +479,6 @@
 {"fi": "musta", "gr": "noun", "en": ["black (colour)", "black (person)", "black horse"]}
 {"fi": "dollari", "gr": "noun", "en": ["dollar (unit of currency in the US, Canada, Australia, NZ, Hong Kong and Singapore)"]}
 {"fi": "korvaus", "gr": "noun", "en": ["compensation, reimbursement, reparation, remuneration, indemnification", "replacement"]}
-{"fi": "rivi", "gr": "noun", "en": ["row, line, rank (objects arranged in a line)", "row (horizontal line, as opposed to column)", "line (of text)", "rank (one of the eight horizontal lines of squares on a chessboard)", "synonym of vuohistulehdus (“mud fever”)"]}
 {"fi": "henkilöauto", "gr": "noun", "en": ["passenger car, motorcar, automobile (motor vehicle designed to carry (a few) passengers)"]}
 {"fi": "kirjasto", "gr": "noun", "en": ["library (institution)", "library (institution)", "public library (library provided as a public service)", "library (collection of books)", "library (reusable collection of software routines)"]}
 {"fi": "näyttelijä", "gr": "noun", "en": ["actor (person who performs in a theatrical play or film)"]}
@@ -561,7 +537,6 @@
 {"fi": "poliitikko", "gr": "noun", "en": ["politician"]}
 {"fi": "oire", "gr": "noun", "en": ["symptom", "sign (visible indication)"]}
 {"fi": "näyttely", "gr": "noun", "en": ["exhibit, exhibition, fair, show", "showing something or someone repeatedly", "acting (playing a role)"]}
-{"fi": "hevonen", "gr": "noun", "en": ["horse, Equus caballus", "horse, Equus caballus", "equine, horse", "horse", "synonym of ratsu (“knight”)", "horsepower (short for hevosvoima)", "horse (lever(s) suspending the heddle(s) in a loom)"]}
 {"fi": "suunnittelu", "gr": "noun", "en": ["planning (act of formulating of a course of action, or of drawing up plans)", "design (art of designing)", "contemplation (act of looking forward to an event; the act of intending or purposing)", "plotting (planning of a crime)"]}
 {"fi": "vanhempi", "gr": "noun", "en": ["parent", "A conscript who has served more than 180 days in the (Finnish) army."]}
 {"fi": "projekti", "gr": "noun", "en": ["project"]}
@@ -595,12 +570,10 @@
 {"fi": "eläke", "gr": "noun", "en": ["pension (payment made to one retired)"]}
 {"fi": "valitus", "gr": "noun", "en": ["moan, groan, wailing", "lament, lamentation", "complaint, whining", "appeal (an application for the removal of a cause or suit from an inferior to a superior judge or court for re-examination or review)"]}
 {"fi": "yhtye", "gr": "noun", "en": ["group, band", "ensemble (used especially of groups performing classical music)"]}
-{"fi": "valvonta", "gr": "noun", "en": ["supervision, oversight (act or instance of supervising or overseeing)", "monitoring, control (continuous or regular observation and possible intervention)", "surveillance (close observation of individuals or groups of individuals)", "synonym of valvominen (“staying awake, staying up”)"]}
 {"fi": "kiinnostus", "gr": "noun", "en": ["interest (intellectual curiosity; great attention and concern)"]}
 {"fi": "odotus", "gr": "noun", "en": ["wait, waiting", "expectation, anticipation", "expecting (a baby), pregnancy"]}
 {"fi": "seinä", "gr": "noun", "en": ["wall (substantial structure acting as side or division in a building; something with the apparent solidity and dimensions of a building wall; also figurative uses)", "mains (domestic electrical power supply)"]}
 {"fi": "tappara", "gr": "noun", "en": ["battle axe, axe (weapon)"]}
-{"fi": "silta", "gr": "noun", "en": ["bridge (construction or natural feature that spans a divide)", "bridge (in eyeglasses or spectacles, the connecting part between the two lenses)", "pons (bridge-like tissue connecting two parts of an organ)", "synonym of hammassilta (“bridge (prosthesis replacing one or several adjacent teeth)”)", "synonym of komentosilta (“bridge (platform above the upper deck)”)", "bridge, backbend", "bridge", "bridge (system which connects two or more local area networks)", "bridge (device which connects computer buses)", "bridge (intermolecular valence bond)", "bridge (section of music, usually one between a stanza and a chorus/refrain)", "(observation) platform (open space at the end of a passenger car)", "synonym of lattia (“floor”)", "synonym of laituri (“dock, pier”)"]}
 {"fi": "luottamus", "gr": "noun", "en": ["trust, confidence (feeling of certainty in or reliance on some person or quality)"]}
 {"fi": "lentokenttä", "gr": "noun", "en": ["airport", "airfield, aerodrome (place where airplanes can take off and land but unlike an airport must not necessarily have terminals or paved runways)"]}
 {"fi": "työryhmä", "gr": "noun", "en": ["working group, workgroup (any more or less formal team working for joint purpose, often established for a limited purpose for a defined period of time)", "working committee (as above, but usually in a more formal context)"]}
@@ -639,7 +612,6 @@
 {"fi": "pääsy", "gr": "noun", "en": ["access, clearance", "admission"]}
 {"fi": "paikko", "gr": "noun", "en": ["spare"]}
 {"fi": "kampanja", "gr": "noun", "en": ["campaign (series of operations undertaken to achieve a set goal)"]}
-{"fi": "tytär", "gr": "noun", "en": ["daughter", "synonym of tyttö (“girl”)", "maiden (an upright post on a spinning wheel that holds a bobbin)"]}
 {"fi": "eurooppalainen", "gr": "noun", "en": ["European"]}
 {"fi": "sentti", "gr": "noun", "en": ["cent (one hundredth of many monetary units, particularly of the euro and the dollar)", "one cent (coin worth one cent)", "centimetre"]}
 {"fi": "oppositio", "gr": "noun", "en": ["opposition", "opposition"]}
@@ -675,7 +647,6 @@
 {"fi": "suositus", "gr": "noun", "en": ["recommendation (something recommended, especially as something to follow, an instruction; act of recommending, especially authoritatively)", "testimonial (written recommendation of someone's worth or character)", "guideline (non-specific rule or principle)"]}
 {"fi": "liikunta", "gr": "noun", "en": ["exercise (physical activity)", "physical education (element of an educational curriculum concerned with bodily development)"]}
 {"fi": "hallinta", "gr": "noun", "en": ["control (influence or authority over something)", "mastery (position or authority of a master; superiority in war or competition)", "mastery, expertise (act or process of mastering)", "management (judicious use of means to accomplish an end)", "possession (control of the ball in a disputed sports game)"]}
-{"fi": "harrastus", "gr": "noun", "en": ["synonym of harrastaminen (“practicing”)", "hobby (activity that one enjoys doing in one's spare time)", "interest (something one is interested in)"]}
 {"fi": "dokumentti", "gr": "noun", "en": ["document", "documentary"]}
 {"fi": "ulkomaalainen", "gr": "noun", "en": ["foreigner"]}
 {"fi": "vero", "gr": "noun", "en": ["tax (money paid to the government)"]}
@@ -683,8 +654,6 @@
 {"fi": "joensuu", "gr": "noun", "en": ["river mouth"]}
 {"fi": "komissio", "gr": "noun", "en": ["commission (body of officials)", "brokerage, commission (payment given to an intermediary in a business deal)"]}
 {"fi": "kyyti", "gr": "noun", "en": ["ride, lift (act of transporting someone in a vehicle)", "used of the stagecoach system in use in the Kingdom of Sweden and later in Finland into the 19th century", "pump (ride on the handlebar or fender of a bicycle)"]}
-{"fi": "taho", "gr": "noun", "en": ["authority, organization, institution; any group of humans or human institution (exact type depends on the context)", "party (person or group of people constituting a particular side in a contract or legal action)", "facet (flat surface cut into a gem)", "direction, general vicinity", "synonym of tahko (“face”)"]}
-{"fi": "city", "gr": "noun", "en": ["synonym of liikekeskusta (“central business district”) (central area of a city)"]}
 {"fi": "valmistelu", "gr": "noun", "en": ["preparation"]}
 {"fi": "siirto", "gr": "noun", "en": ["move, transport (act or instance of moving or transporting, or changing the location or position of)", "shift (act of shifting, or moving or changing somewhat)", "transfer (act or instance of transferring or conveying)", "translation (motion without deformation or rotation)", "transfer, transmission (act or instance of conveying information)", "move (act of moving a token on a gameboard)", "move, act (strategic action or change)"]}
 {"fi": "länsi", "gr": "noun", "en": ["west", "the West"]}
@@ -722,7 +691,6 @@
 {"fi": "kasvot", "gr": "noun", "en": ["face, visage (front part of the head)"]}
 {"fi": "kamppailu", "gr": "noun", "en": ["combat, fight", "struggle"]}
 {"fi": "tori", "gr": "noun", "en": ["square (open space in a town)", "market, market square (city square or other place where traders set up stalls and buyers browse the merchandise)", "square (open space in a town)", "town square", "square (open space in a town)", "forum (town square or market place in a Roman town)"]}
-{"fi": "kakkonen", "gr": "noun", "en": ["two (digit, symbol)", "number two (anything that is second or with the number two)", "deuce (playing card or side of a dice with two spots on it)", "synonym of kakkospesä (“second base”)", "synonym of kakkosvaihde (“second gear”)", "anus, especially in sexual context", "synonym of toinen (“second”)", "affair partner"]}
 {"fi": "vastaanottokeskus", "gr": "noun", "en": ["reception center; a facility run by the (Finnish) Ministry of Interior (sisäasiainministeriö) that accommodates arriving refugees and asylum seekers"]}
 {"fi": "osasto", "gr": "noun", "en": ["department (part, portion, subdivision, e.g. of organizations or institutions)", "compartment (room, section, chamber; smaller part of a space or room)", "section (part of a newspaper or similar publication)", "unit (organized group comprising people and/or equipmen)", "area, field of activity"]}
 {"fi": "laukaus", "gr": "noun", "en": ["gunshot, shot", "shot (launching a ball or similar object toward a goal)"]}
@@ -762,7 +730,6 @@
 {"fi": "varapuheenjohtaja", "gr": "noun", "en": ["vice-chairman, vice-chairperson"]}
 {"fi": "uhka", "gr": "noun", "en": ["threat, menace (person or object that is regarded as a danger)", "threat, risk, danger (indication of potential or imminent danger)"]}
 {"fi": "avustus", "gr": "noun", "en": ["grant (something, usually funding, granted; a gift; a boon)", "contribution (amount of money given toward something)", "relief, aid (aid or assistance offered in time of need)"]}
-{"fi": "kasvi", "gr": "noun", "en": ["plant (non-animal organism, especially an organism capable of photosynthesis)", "synonym of vuosikasvain"]}
 {"fi": "valtuutettu", "gr": "noun", "en": ["representative", "councilmember, councilman, councilwoman, councilor, councillor (member of a council)", "ombudsman", "agent, party authorized to act by a power of attorney, attorney-in-fact"]}
 {"fi": "kokeilu", "gr": "noun", "en": ["test, experiment; attempt, try", "experimentation (act of experimenting; practice by experiment)"]}
 {"fi": "pettymys", "gr": "noun", "en": ["disappointment, letdown", "disappointment, disillusionment, disenchantment (feeling)"]}
@@ -777,20 +744,17 @@
 {"fi": "putki", "gr": "noun", "en": ["tube, pipe, duct, conduit (long, hollow object, often cylindrical, used to convey fluids or loose solids)", "pipeline (conduit made of pipes)", "barrel (of a large calibre firearm)", "streak (continuous series of like events)", "bout, binge (period where something is done or happens continuously)", "pipeline (system through which something is conducted)", "cow parsley (plant in the family Apiaceae similar to Anthriscus sylvestris)", "pipe"]}
 {"fi": "lahti", "gr": "noun", "en": ["bay, gulf, inlet (portion of a body of water extending into the land)", "culling, slaughter (killing animals)"]}
 {"fi": "omakotitalo", "gr": "noun", "en": ["detached house (especially UK, Canada, Australia), single-family home (US), separate house (New Zealand) (a free-standing residential building)"]}
-{"fi": "öljy", "gr": "noun", "en": ["oil", "synonym of ruokaöljy (“oil, liquid fat”)", "oil", "synonym of raakaöljy (“crude oil”)", "oil", "oil, petroleum-based liquid used as a lubricant or fuel", "The letter Ö in the Finnish spelling alphabet."]}
 {"fi": "ässä", "gr": "noun", "en": ["ace (highest-value card in an ordinary pack of playing cards)", "ace (peak performer, as in \"fighter ace\" etc.)", "ace (serve won without the opponent hitting the ball)", "ace, hole in one", "ess (the letter \"s\")", "an S-shaped pastry"]}
 {"fi": "edusta", "gr": "noun", "en": ["front, front side (of an object, a building, etc.)", "front, breast (the part of clothing facing the front of the body)", "front, the area in front of something (e.g. the front of a house)", "foreground (elements of an image which lie closest to the picture plane)", "foreground"]}
 {"fi": "kaksikko", "gr": "noun", "en": ["twosome, two, duet, duo, pair, doublet, twin, dyad (group of two; two similar or closely related objects, entities etc., or a group of two people, not necessarily related in any way)", "dual, dual number (grammatical number of a noun marking two of something)", "double, tandem", "twayblade (orchid of the former genus Listera, now considered part of Neottia)"]}
 {"fi": "päästö", "gr": "noun", "en": ["emission (of a harmful substance, such as exhaust gas)", "release (act of releasing)", "tempering"]}
 {"fi": "kiinalainen", "gr": "noun", "en": ["Chinese (person)", "a kind of a firecracker, petard"]}
 {"fi": "korotus", "gr": "noun", "en": ["raise, increase", "raise, promotion", "raising, elevating, elevation", "raise (a raising bet)"]}
-{"fi": "kissa", "gr": "noun", "en": ["cat (Felis catus)", "synonym of kissaeläin (“feline”)", "cat, chick, fox (a sexy young woman)"]}
 {"fi": "mäki", "gr": "noun", "en": ["hill (a relatively large, usually rounded elevation of earth; generally larger than kukkula (“hill, hillock”) and smaller than vuori (“mountain”))", "slope, hillside"]}
 {"fi": "sauna", "gr": "noun", "en": ["sauna", "Any bath where sweating is part of the bathing process.", "a very hot place, oven"]}
 {"fi": "vastaanotto", "gr": "noun", "en": ["reception, receipt (act of receiving)", "reception, receipt (act of receiving)", "acceptance (act of receiving and accepting)", "reception (ability to receive signals)", "reception (reaction)", "welcome (act of greeting someone's arrival)", "reception (social engagement, especially a formal one, to receive someone)", "reception (social engagement, especially a formal one, to receive someone)", "soirée (formal evening party, which is not a seated dinner, but usually a buffet is served)", "reception, front desk (front desk in a hotel, office etc.)", "consultation or appointment with a professional person"]}
 {"fi": "pääasia", "gr": "noun", "en": ["main thing, main issue, central point"]}
 {"fi": "opinnot", "gr": "noun", "en": ["studies (academic field of study concerning a given subject)"]}
-{"fi": "tuli", "gr": "noun", "en": ["fire (reaction; burning)", "fire (instance of this chemical reaction)", "synonym of nuotio (“campfire”)", "fire, gunfire", "fire (one of the basic elements)"]}
 {"fi": "tuntematon", "gr": "noun", "en": ["stranger (person whom one does not know)", "unknown (variable whose value is to be found)"]}
 {"fi": "haitta", "gr": "noun", "en": ["disadvantage, hindrance, con, demerit, drawback", "tumbler (part of a lock)", "damage, disservice, harm, trouble"]}
 {"fi": "linjaus", "gr": "noun", "en": ["a line drawn or traced for something, delineating", "an objective or a position (in terms of policy) laid out, outlined or expressed; a policy, a line"]}
@@ -812,7 +776,6 @@
 {"fi": "yksilö", "gr": "noun", "en": ["individual (a person considered alone)", "individual (single object as contrasted to a class)", "specimen (individual instance that represents a class, especially of species in biology)"]}
 {"fi": "läheisyys", "gr": "noun", "en": ["proximity, closeness, vicinity", "intimacy"]}
 {"fi": "sari", "gr": "noun", "en": ["sari (Indian piece of clothing)"]}
-{"fi": "huume", "gr": "noun", "en": ["drug, narcotic (an addictive substance)", "synonym of huuma (“daze, stun”)"]}
 {"fi": "kerrostalo", "gr": "noun", "en": ["apartment building/block of flats", "multistorey building"]}
 {"fi": "tarjous", "gr": "noun", "en": ["offer, bid, tender"]}
 {"fi": "ennuste", "gr": "noun", "en": ["forecast, prediction, projection", "prognosis"]}
@@ -835,7 +798,6 @@
 {"fi": "vuokra", "gr": "noun", "en": ["rent (payment made by a tenant or user of a service)", "rent, lease"]}
 {"fi": "autoilija", "gr": "noun", "en": ["motorist, someone who drives a car"]}
 {"fi": "paita", "gr": "noun", "en": ["shirt (article of clothing)"]}
-{"fi": "suoja", "gr": "noun", "en": ["synonym of suojasää (“thaw”) (weather warm enough to melt snow and ice)", "one who gives, allows, grants or permits"]}
 {"fi": "maski", "gr": "noun", "en": ["mask (cover for the face)", "screen (player that obstructs the view of the goaltender or goalkeeper)", "mask (pattern of bits used in bitwise operations; two-color bitmap used to create transparency in an image)"]}
 {"fi": "pariskunta", "gr": "noun", "en": ["couple (two partners in a romantic or sexual relationship)"]}
 {"fi": "olympialaiset", "gr": "noun", "en": ["Olympic Games"]}
@@ -844,9 +806,7 @@
 {"fi": "neljännes", "gr": "noun", "en": ["quarter (fourth part of anything)", "A historical subdivision in Finland around the 13th to 16th centuries, four of which originally comprised a hallintopitäjä (later not necessarily always four)."]}
 {"fi": "ukrainalainen", "gr": "noun", "en": ["Ukrainian (person)"]}
 {"fi": "fiilis", "gr": "noun", "en": ["vibe, feeling"]}
-{"fi": "rengas", "gr": "noun", "en": ["ring, loop, hoop (hollow circular object)", "tyre, tire (ring-shaped protective covering around a wheel)", "rings, still rings (apparatus)", "synonym of lenkki (“link”) (element of a chain or other connected series)", "ring (group of atoms linked by bonds to form a closed chain)", "ring (a planar geometrical figure between two concentric circles)", "ring (algebraic structure)", "bracelet, anklet (band worn around the wrist, ankle, etc. as jewelry/jewellery or an ornament)"]}
 {"fi": "pula", "gr": "noun", "en": ["shortage", "an economic crisis characterized by shortage of goods and/or means to buy them; a depression, slump", "trouble, scrape, pinch, deep water, urgent situation"]}
-{"fi": "linna", "gr": "noun", "en": ["castle (large fortified residential building)", "castle (house or mansion with some of the architectural features of medieval castles)", "palace (official residence of a head of state or other dignitary)", "palace (large and lavishly ornate residence, used especially in names of such residences)", "fort (fortified defensive structure, used especially in compound terms)", "fort (improvised structure for playing games)", "prison, jail, slammer", "synonym of Linnan juhlat"]}
 {"fi": "terveyskeskus", "gr": "noun", "en": ["health center, health centre, health care center, clinic (municipal facility providing medical services for residents of a designated area)"]}
 {"fi": "ulkoministeriö", "gr": "noun", "en": ["ministry for foreign affairs, foreign ministry, Foreign Office (UK), State Department (U.S.)"]}
 {"fi": "lähtökohta", "gr": "noun", "en": ["starting point, point of departure, starting value, base, ground line", "basis, foundation, background, backdrop", "premise, assumption, context, (as a) rule"]}
@@ -866,7 +826,6 @@
 {"fi": "hälytys", "gr": "noun", "en": ["alarm (summons to arms)", "alarm, alert (any sound or information intended to give notice of approaching danger; a warning sound to arouse attention)"]}
 {"fi": "vahvuus", "gr": "noun", "en": ["strength (quality or degree of being strong)", "strength (positive attribute), strong suit", "muster, manpower (total number of troops in a military formation)"]}
 {"fi": "omaisuus", "gr": "noun", "en": ["one's properties (combined), possessions, assets; estate", "wealth, fortune"]}
-{"fi": "nettisivu", "gr": "noun", "en": ["web site", "synonym of verkkosivu (“webpage”)"]}
 {"fi": "toimisto", "gr": "noun", "en": ["office (building or room for professional duties)"]}
 {"fi": "kilpailija", "gr": "noun", "en": ["competitor (person or organization against whom one is competing)", "rival (close competitor)", "racer (participant to a race)", "contestant (participant in a contest)"]}
 {"fi": "tietokone", "gr": "noun", "en": ["computer (programmable electronic device)", "computer (programmable electronic device)", "a computer that is at least as large as a laptop, excluding mobile devices (like in English)"]}
@@ -874,7 +833,6 @@
 {"fi": "jäte", "gr": "noun", "en": ["waste, garbage, rubbish, refuse"]}
 {"fi": "ostaja", "gr": "noun", "en": ["buyer"]}
 {"fi": "työvoima", "gr": "noun", "en": ["labor force, labour force, labour, manpower, workforce"]}
-{"fi": "kuvaus", "gr": "noun", "en": ["description (sketch or account of anything in words; a representation in language)", "depiction, portrayal (lifelike image of something, either verbal or visual)", "shooting (action of taking photographs or recording film)", "photo shoot (session in which a photographer takes shots of an individual or group)", "filming, recording (of video)", "synonym of valokuvaus (“photography”)", "mapping, function"]}
 {"fi": "norjalainen", "gr": "noun", "en": ["Norwegian"]}
 {"fi": "teknologia", "gr": "noun", "en": ["technology (the study of or a collection of techniques)"]}
 {"fi": "otsikko", "gr": "noun", "en": ["heading, header, title, headline, caption", "signature (of a function, variable, etc.)"]}
@@ -961,7 +919,6 @@
 {"fi": "haku", "gr": "noun", "en": ["search (act or result of searching or seeking)", "applying, application (act of applying, or submitting oneself as a candidate)", "retrieval (act of retrieving)"]}
 {"fi": "demokratia", "gr": "noun", "en": ["democracy"]}
 {"fi": "varmuus", "gr": "noun", "en": ["certainty", "assurance (state of being assured)", "positivity, positiveness (quality of being sure)", "self-confidence, composure, aplomb, poise", "safety", "security"]}
-{"fi": "lasta", "gr": "noun", "en": ["a tool with a handle and a wide, flat blade", "spatula, scraper (kitchen tool)", "a tool with a handle and a wide, flat blade", "squeegee (window wiping tool)", "a tool with a handle and a wide, flat blade", "synonym of paistinlasta (“turner (kitchen tool)”)", "a tool with a handle and a wide, flat blade", "putty knife, spackle knife, scraper, spatula (construction tool)", "a tool with a handle and a wide, flat blade", "taping knife, joint knife (broad smoothing tool)", "a tool with a handle and a wide, flat blade", "spudger", "splint (device to immobilize a body part)"]}
 {"fi": "kulutus", "gr": "noun", "en": ["consumption (act of consuming, e.g. resources, food or products; the amount consumed)", "expenditure (act of expending money)"]}
 {"fi": "tulva", "gr": "noun", "en": ["flood (overflow of a large amount of water)", "flood, deluge, inundation"]}
 {"fi": "osallistuja", "gr": "noun", "en": ["participant"]}
@@ -971,7 +928,6 @@
 {"fi": "eduskuntaryhmä", "gr": "noun", "en": ["parliamentary group (group of MP's within a parliament who have agreed to act together in promoting the interests of their voters, usually consisting of the members of the same political party)"]}
 {"fi": "latu", "gr": "noun", "en": ["ski track", "course"]}
 {"fi": "kulta", "gr": "noun", "en": ["gold (metal; chemical element Au)", "gold (first prize); gold medal", "darling, dear, baby (term of endearment)"]}
-{"fi": "kolari", "gr": "noun", "en": ["crash, collision, especially an automobile accident", "synonym of nokikolari (“chimney sweep”)"]}
 {"fi": "este", "gr": "noun", "en": ["obstacle, barrier, hindrance, obstruction, impediment", "impediment, bar, excuse", "hurdle"]}
 {"fi": "toimitus", "gr": "noun", "en": ["delivery, dispatch, shipping", "delivery, dispatch, shipment", "supply, provision (usually of a continuously provided resource)", "process, procedure; (law) proceedings (set of actions done to achieve a goal)", "ceremony (ritual, with religious or cultural significance)", "action, performance (something performed, often ritual or unusual)", "operation, action (something carried out, usually as part of a task)", "editorial staff, editorial office; the editors of a publication", "publication (a published scientific article) (particularly common in titles of book or journal series or names of journals)", "function, purpose, task", "check-in, commit (submission of changes to version control)"]}
 {"fi": "kapinallinen", "gr": "noun", "en": ["rebel, insurgent"]}
@@ -1016,11 +972,9 @@
 {"fi": "posti", "gr": "noun", "en": ["jamb, post (of a door, window, etc.)", "appointment, position, post", "bubble, parison; inflated or partially inflated gather of glass on a blowpipe"]}
 {"fi": "yhteydenotto", "gr": "noun", "en": ["contact (act of contacting)"]}
 {"fi": "hopea", "gr": "noun", "en": ["silver (metallic element)", "silver (alloy of silver and copper which contains at least 83 % silver)", "silver (second prize)"]}
-{"fi": "lohko", "gr": "noun", "en": ["a piece cut off something; wedge, slice", "section, segment, block (part, piece or subdivision, especially one that is clearly delineated from the others)", "a clearly delineated area of land; parcel", "block (section of the ground separated from others by faults)", "lobe (clear division of an organ that can be determined at the gross anatomy level, especially one of the parts of the brain, liver or lung)", "group (subset of a division; set of teams playing a series of games against each other, thus qualifying for finals in which they play of championship against the best teams from other groups)", "block, chunk", "synonym of kaista", "A traditional Eastern Finnish dish of chopped potatoes, turnips or swedes/rutabagas, possibly among other ingredients (e.g. meat or fish), usually prepared as either a stew or a soup."]}
 {"fi": "olympiakomitea", "gr": "noun", "en": ["Olympic committee"]}
 {"fi": "arviointi", "gr": "noun", "en": ["evaluation, assessment", "review, criticism", "valuation, assessment"]}
 {"fi": "nurmi", "gr": "noun", "en": ["lawn, grass (low, dense cover of grass plants; area of land with such a cover)", "plain, meadow (open area covered in grass plants)", "sod, turf (layer of earth covered with grass)"]}
-{"fi": "taloyhtiö", "gr": "noun", "en": ["synonym of asunto-osakeyhtiö"]}
 {"fi": "köyhä", "gr": "noun", "en": ["poor person, person in poverty; (in the plural) the poor"]}
 {"fi": "ennakko", "gr": "noun", "en": ["(done or made) in advance", "advance, advancement, prepayment (payment in advance)", "lead (when shooting a moving target, the estimated distance the target advances during the time the projectile travels to the target)"]}
 {"fi": "kahvi", "gr": "noun", "en": ["coffee (beverage made by infusing the beans of the coffee plant)", "coffee (seeds of the plant used to make coffee, or a powder ground from these seeds)", "coffee meeting, especially at someone's home"]}
@@ -1047,7 +1001,6 @@
 {"fi": "kirjo", "gr": "noun", "en": ["spectrum, gamut (range)", "spectrum (range of colours)", "colorful, multicolored, colored"]}
 {"fi": "kartta", "gr": "noun", "en": ["map (visual representation of an area)", "map (diagram of components of an item)", "coordinate chart"]}
 {"fi": "räjähdys", "gr": "noun", "en": ["explosion"]}
-{"fi": "haave", "gr": "noun", "en": ["dream (hope, wish)", "daydream", "vision (ideal or a goal toward which one aspires)", "velleity (slight wish not followed by any effort to obtain)", "synonym of aave (“ghost, phantom, apparition”)"]}
 {"fi": "keli", "gr": "noun", "en": ["weather conditions relating specifically to surfaces for travel (such as road conditions or skiing conditions)", "weather"]}
 {"fi": "lupaus", "gr": "noun", "en": ["promise, pledge", "rising star, emerging talent, promising talent (person)", "nomination whist, oh well (card game in which one aims to winning exactly the bid number of tricks)"]}
 {"fi": "risteys", "gr": "noun", "en": ["crossing, intersection, junction, crossroads"]}
@@ -1067,7 +1020,6 @@
 {"fi": "ruuhka", "gr": "noun", "en": ["congestion, lots of traffic, traffic jam", "jam, logjam, blockage", "backlog (accumulation or buildup)"]}
 {"fi": "vire", "gr": "noun", "en": ["form, condition (especially emotionally and/or mentally)", "shed (area between upper and lower warp yarns in a loom)", "tune (the state or condition of being correctly tuned)", "tuning (the overall pitch an instrument is tuned to, relative to a standard frequency)", "being ready to act", "A light breeze or the small, disappearing waves on top of water produced by a breeze."]}
 {"fi": "kipu", "gr": "noun", "en": ["pain, ache, hurt (bodily suffering, sometimes also figuratively other kinds of suffering)"]}
-{"fi": "hirvi", "gr": "noun", "en": ["elk, moose (Alces alces)", "any large deer, such as an elk, moose or wapiti", "synonym of hirvenliha: meat of these animals", "synonym of hirvieläin (“deer, Cervidae”)"]}
 {"fi": "keskiarvo", "gr": "noun", "en": ["mean", "average, arithmetic mean"]}
 {"fi": "alaikäinen", "gr": "noun", "en": ["minor, juvenile (underage person)", "infant (underage person)"]}
 {"fi": "vesistö", "gr": "noun", "en": ["water system, body of water", "drainage basin"]}
@@ -1104,7 +1056,6 @@
 {"fi": "sankari", "gr": "noun", "en": ["hero, heroine", "great capricorn beetle (Cerambyx cerdo)"]}
 {"fi": "hallitusohjelma", "gr": "noun", "en": ["the 'government programme'; a plan of action of a national government for its planned term, agreed upon before the term begins in negotiations between the political parties which agree to form the government"]}
 {"fi": "neuvo", "gr": "noun", "en": ["advice", "means", "equipment, tools"]}
-{"fi": "tarjonta", "gr": "noun", "en": ["supply (act of supplying)", "selection (variety of items from a larger collection)", "presentation (position of the foetus in the uterus at birth)", "synonym of tarjoaminen (“offering”)"]}
 {"fi": "terveysministeriö", "gr": "noun", "en": ["ministry of health"]}
 {"fi": "varoitus", "gr": "noun", "en": ["warning"]}
 {"fi": "italialainen", "gr": "noun", "en": ["Italian (person)"]}
@@ -1128,15 +1079,12 @@
 {"fi": "perustuslaki", "gr": "noun", "en": ["constitution (a legal document describing the formal system of primary principles and laws that regulates a government or other institutions)"]}
 {"fi": "ilmapiiri", "gr": "noun", "en": ["climate (figuratively: context in general of a particular political, moral etc. situation)", "atmosphere (mood or feeling in a situation)"]}
 {"fi": "pääsihteeri", "gr": "noun", "en": ["Secretary General, General Secretary"]}
-{"fi": "suku", "gr": "noun", "en": ["extended family, kin (in addition to parents and children, includes cousins, uncles, aunts, grandparents and farther relatives)", "genus", "gender", "synonym of genus (“genus”)"]}
-{"fi": "kollega", "gr": "noun", "en": ["colleague", "synonym of nuorempi lehtori (a junior teacher in a high school or college)."]}
 {"fi": "siviili", "gr": "noun", "en": ["civilian", "civilian life (as opposed to military service)"]}
 {"fi": "seuraaja", "gr": "noun", "en": ["follower", "successor"]}
 {"fi": "marja", "gr": "noun", "en": ["berry (small succulent fruit)", "berry (soft fruit which develops from a single ovary and contains seeds not encased in pits)", "picking berries (as a personal activity; used together with verbs like olla (“to be”), mennä (“to go”), lähteä (“to leave and go”), käydä (“to go and come back”))"]}
 {"fi": "myymälä", "gr": "noun", "en": ["shop, store (establishment that sells goods or services to the public)"]}
 {"fi": "vankeusrangaistus", "gr": "noun", "en": ["prison sentence"]}
 {"fi": "iho", "gr": "noun", "en": ["skin (of a human being)", "skin of a human being or an animal"]}
-{"fi": "heitto", "gr": "noun", "en": ["throw, cast, shy (act of throwing)", "toss (throw with an initial upward direction, particularly with a lack of care)", "shot", "caprice (impulsive, seemingly unmotivated notion)", "retort, riposte (quick response)", "runout (deviation of the axis of rotation)", "fly switch, kick, drop (shunting maneuver in which a car or wagon is given speed and then rolls on its own onto one track, and then another car or the locomotive is braked before switching so that they can go to another track)", "synonym of kulle (“heavy seine”)", "imprecision, inaccuracy", "conjecture (statement or an idea which is unproven, but is thought to be true; a guess)"]}
 {"fi": "apteekki", "gr": "noun", "en": ["pharmacy, drugstore"]}
 {"fi": "aikaväli", "gr": "noun", "en": ["timespan, interval; (in expressions) term, run (period of time between two events)"]}
 {"fi": "keittiö", "gr": "noun", "en": ["kitchen (room or area for preparing food)", "cuisine (characteristic style of preparing food from a place of origin)"]}
@@ -1163,7 +1111,6 @@
 {"fi": "pyyntö", "gr": "noun", "en": ["request (act of requesting; formal message requesting something)"]}
 {"fi": "järjestys", "gr": "noun", "en": ["order (arrangement, disposition, especially one following a certain logic or method)", "order (state of being well arranged)", "order (conformity with law or decorum, freedom from disturbance)", "organization (quality of being organized)"]}
 {"fi": "talousarvio", "gr": "noun", "en": ["budget (itemized summary of intended expenditure and revenue)"]}
-{"fi": "koivisto", "gr": "noun", "en": ["synonym of koivikko"]}
 {"fi": "seksi", "gr": "noun", "en": ["sex (sexual intercourse)", "sexuality (sexual activity)"]}
 {"fi": "virasto", "gr": "noun", "en": ["bureau, office, agency, board (operative unit in the public sector on central (state), regional or local (municipal) level)"]}
 {"fi": "ilmastonmuutos", "gr": "noun", "en": ["climate change"]}
@@ -1186,7 +1133,6 @@
 {"fi": "ajankohta", "gr": "noun", "en": ["a point in time; date; date and time, an exact time"]}
 {"fi": "harmaa", "gr": "noun", "en": ["grey/gray (colour)", "a gray suit of clothes; especially a Finnish army uniform"]}
 {"fi": "kaasu", "gr": "noun", "en": ["gas (state of matter)", "gas pedal", "laughing gas (particularly as an intoxicant)"]}
-{"fi": "kulma", "gr": "noun", "en": ["corner (external point where two converging lines meet)", "synonym of nurkka (“corner”) (internal point where two converging lines meet)", "angle (corner where two walls intersect)", "angle (geometrical figure; measure)", "brow (the ridge above the eye)", "part of a larger place or region, locality, neighbourhood", "corner (corner kick, etc.)"]}
 {"fi": "suksi", "gr": "noun", "en": ["ski (one of a pair of long flat runners designed for gliding over snow, ice or water)"]}
 {"fi": "mainos", "gr": "noun", "en": ["advertisement (a commercial solicitation designed to sell some commodity, service or similar)"]}
 {"fi": "synnytys", "gr": "noun", "en": ["giving birth; childbirth, parturition, delivery, labour"]}
@@ -1206,7 +1152,6 @@
 {"fi": "ajo", "gr": "noun", "en": ["driving", "riding (act of riding a motorcycle)", "chase", "shaving (act of shaving hair)", "use of another farming implement that is moved on a farmland: plowing, harrowing, mowing, etc.", "execution, run", "race (especially in the name of a racing event)"]}
 {"fi": "ruotsi", "gr": "noun", "en": ["Swedish (language)", "Swede", "Swedish Lutheran, regardless of ethnicity, including Finnish Lutherans"]}
 {"fi": "sektori", "gr": "noun", "en": ["sector"]}
-{"fi": "menetelmä", "gr": "noun", "en": ["method (process by which a task is completed)", "synonym of menettely (“procedure”)"]}
 {"fi": "oja", "gr": "noun", "en": ["ditch, trench (especially one used for drainage)", "small natural brook"]}
 {"fi": "tehopiste", "gr": "noun", "en": ["score point, point (unit of measuring the efficiency of an individual player in a ball game)"]}
 {"fi": "maito", "gr": "noun", "en": ["milk (white liquid produced by the mammary glands of female mammals)", "milk (individual serving of milk)", "milk, non-dairy milk, plant milk (white liquid obtained from a vegetable source by processing it)"]}
@@ -1237,7 +1182,6 @@
 {"fi": "kataja", "gr": "noun", "en": ["juniper (any shrub or tree of the genus Juniperus of the cypress family)", "common juniper, Juniperus communis"]}
 {"fi": "järki", "gr": "noun", "en": ["reason (ability to think)", "sense (meaning, reason, or value of something)", "sense (sound practical judgment)", "logic (conscious or rational human thought, as opposed to thought based on emotions or feelings)"]}
 {"fi": "trendi", "gr": "noun", "en": ["trend"]}
-{"fi": "rinta", "gr": "noun", "en": ["chest, breast, thorax (region of the mammalian body between the neck and the abdomen, especially the front of it)", "breast (milk-producing organ)", "a projecting front of an inanimate object", "synonym of rinnus (part in clothes or shoes)"]}
 {"fi": "kontakti", "gr": "noun", "en": ["contact"]}
 {"fi": "parisuhde", "gr": "noun", "en": ["intimate relationship"]}
 {"fi": "kutsu", "gr": "noun", "en": ["invitation (act of inviting)", "invitation (document or verbal message conveying an invitation)", "party (social gathering)", "call (beckoning or summoning)", "summons, convocation (call to do something)", "summons, subpoena (invitation to appear in a court)", "call (act of jumping to a subprogram)", "call (act of matching a bet)"]}
@@ -1260,7 +1204,6 @@
 {"fi": "britti", "gr": "noun", "en": ["Briton (inhabitant of Great Britain)", "Briton (citizen of the United Kingdom)", "Briton (Celtic inhabitant of southern Britain at the time of the Roman conquest)", "Great Britain", "British"]}
 {"fi": "viljelijä", "gr": "noun", "en": ["farmer, cultivator (person who grows plants, especially edible plants, commercially or otherwise)"]}
 {"fi": "republikaani", "gr": "noun", "en": ["republican (someone who favors republic over other forms of government)", "Republican (supporter of a Republican party of the United States)"]}
-{"fi": "ydin", "gr": "noun", "en": ["core, kernel, nucleus, the central part of something", "core, point, essential content, essence; often with the genitive of asia (“matter, topic”)", "the most central, inner part of certain body parts", "the most central, inner part of certain body parts", "synonym of luuydin (“(bone) marrow”)", "the most central, inner part of certain body parts", "quick (sensitive tissue inside a nail)", "pith (soft spongy substance in the center of the stems of many plants and trees)", "endosperm (of a kernel of a ripe crop)", "core (center or inner part of a planet)", "core (artifact that was created from a rock, etc. by chipping flakes off of it)", "nucleus (massive, positively charged core of an atom)", "kernel (set of elements mapped to zero; set of members of a fuzzy set that are fully included)", "kernel (central part of many computer operating systems)", "core (individual computer processor)", "nucleus (centre of a syllable)"]}
 {"fi": "mielikuva", "gr": "noun", "en": ["impression (vague recalling of an event, a belief)", "mental image (mental picture)"]}
 {"fi": "ruumis", "gr": "noun", "en": ["body (of a living being)", "corpse, cadaver"]}
 {"fi": "hammas", "gr": "noun", "en": ["tooth (hard, calcareous structure present in the mouth of many vertebrate animals)", "tooth, cog (projection on the edge of a gear)", "sprocket (tooth of a sprocket wheel)", "tooth, sawtooth (sharp projection on the blade of a saw or similar implement)", "tine, prong, tooth (spike or point on an implement or tool)", "tooth, serration (pointed projection from the margin of a leaf)"]}
@@ -1288,7 +1231,6 @@
 {"fi": "alkuviikko", "gr": "noun", "en": ["the beginning of a week, usually understood to include Monday and Tuesday", "early week", "any of the first weeks of a longer period of time"]}
 {"fi": "perustaja", "gr": "noun", "en": ["founder (one who founds or establishes (a company, project, organisation, state, etc.))"]}
 {"fi": "toimipiste", "gr": "noun", "en": ["place of business, location (single shop of e.g. a franchise)", "office (particular place of business of a larger white-collar business or a public service)"]}
-{"fi": "asetus", "gr": "noun", "en": ["decree; executive order (regulation that is subordinate to legislative statutes, specifies them or lays down how they are actually implemented)", "regulation (self-effecting legislative act, which requires no further intervention by the Member States to become law)", "setting, (in the plural) settings, configuration", "ordinance", "synonym of asettaminen (“placing, setting”)"]}
 {"fi": "kannanotto", "gr": "noun", "en": ["contention, position (point maintained in an argument)", "position paper (essay or report which expresses a position on a contested issue)", "resolution (formal statement adopted by an assembly)", "statement (presentation of opinion or position)"]}
 {"fi": "epäily", "gr": "noun", "en": ["suspicion (act of suspecting something or someone, especially of something wrong)"]}
 {"fi": "olut", "gr": "noun", "en": ["beer, ale (fermented beverage made of malt, originally barley, but also other cereals are used)", "beer (portion of such beverage)"]}
@@ -1306,7 +1248,6 @@
 {"fi": "tiede", "gr": "noun", "en": ["science (collective discipline of learning, including the liberal arts or humanities)"]}
 {"fi": "pörssi", "gr": "noun", "en": ["exchange (place for conducting trading), especially a stock exchange", "purse, wallet"]}
 {"fi": "kirjallisuus", "gr": "noun", "en": ["literature"]}
-{"fi": "patsas", "gr": "noun", "en": ["statue (three-dimensional work of art)", "a column formed by e.g. water, smoke or clouds", "synonym of pylväs (“column, pillar”)"]}
 {"fi": "asuinalue", "gr": "noun", "en": ["residential area", "neighbourhood"]}
 {"fi": "etäopetus", "gr": "noun", "en": ["distance teaching, teleteaching"]}
 {"fi": "valmistus", "gr": "noun", "en": ["manufacturing, making, fabrication, production (act of being produced, manufactured)"]}
@@ -1319,7 +1260,6 @@
 {"fi": "kiuru", "gr": "noun", "en": ["skylark, Alauda arvensis"]}
 {"fi": "puutarha", "gr": "noun", "en": ["garden"]}
 {"fi": "kansanäänestys", "gr": "noun", "en": ["referendum, plebiscite"]}
-{"fi": "jako", "gr": "noun", "en": ["division, distribution, sharing, dealing (an act of division etc.)", "division, distribution, sharing, dealing (the result of a division etc.)", "count-off (the act of splitting a group of persons into a number N of smaller groups by having them call out, one by one, the numbers one through N and again until everyone has a number; also as an interjection ordering a group to do so)", "synonym of osuus (“share, part”)", "pitch; graduation (distance between evenly spaced objects, such as on a roller chain, or the markings on a measuring instrument)", "deal", "chance (also in plural)"]}
 {"fi": "voittomaali", "gr": "noun", "en": ["winner, game-winning goal (goal that wins a game, i.e. one made by the winning team that adds the number of their goals to the final score of the losing team plus one)"]}
 {"fi": "terrorismi", "gr": "noun", "en": ["terrorism"]}
 {"fi": "perä", "gr": "noun", "en": ["rear, back, tail end (aft part of anything)", "stern, aft (rear part or after end of a ship or vessel)", "rear, back, tail end (aft part of anything)", "tail, tail end (of a seine)", "far end or side of something (like of a room, hallway, etc.)", "butt (blunt end of anything, especially that of a gun)", "basis, grounds, reality, truth, facts", "stipe (part of the stalk supporting the flower)", "drift (horizontal tunnel)", "breech (part of a cannon or other firearm behind the chamber)", "neighbourhood", "bottom, behind", "remainder, leftovers", "ground"]}
@@ -1361,7 +1301,6 @@
 {"fi": "pyöräilijä", "gr": "noun", "en": ["cyclist"]}
 {"fi": "mittaus", "gr": "noun", "en": ["measurement (act of measuring)", "measurement (something measured)"]}
 {"fi": "bakteeri", "gr": "noun", "en": ["bacterium"]}
-{"fi": "protesti", "gr": "noun", "en": ["protest (formal objection)", "synonym of mielenosoitus", "protest (noting by a notary public of an unpaid or unaccepted bill)"]}
 {"fi": "varusmies", "gr": "noun", "en": ["conscript, draftee, serviceman"]}
 {"fi": "ristiriita", "gr": "noun", "en": ["contradiction (a logical incompatibility among two or more elements or propositions)", "disagreement, conflict"]}
 {"fi": "ambulanssi", "gr": "noun", "en": ["ambulance"]}
@@ -1398,7 +1337,6 @@
 {"fi": "huolto", "gr": "noun", "en": ["maintenance, service, servicing, upkeep, care", "logistics (procurement, supply, maintenance, and transportation of equipment, facilities, and personnel)", "welfare (service)s, social services"]}
 {"fi": "rasismi", "gr": "noun", "en": ["racism"]}
 {"fi": "suuruus", "gr": "noun", "en": ["size, magnitude, dimensions", "largeness, greatness", "greatness, magnificence, sublimity, grandeur"]}
-{"fi": "voimalaitos", "gr": "noun", "en": ["synonym of voimala (“power station”)"]}
 {"fi": "jännitys", "gr": "noun", "en": ["excitement (state of being excited)", "tension (condition of being tense or tensed)", "tension (state of an elastic object)", "tension (psychological state of being tense)", "suspense, suspension (condition of being suspended)", "suspense, suspension (act of keeping a person listening in doubt and expectation; pleasurable emotion of anticipation and excitement; unpleasant emotion of anxiety or apprehension)", "stress (internal force across a boundary per area)"]}
 {"fi": "länsimaa", "gr": "noun", "en": ["a western country"]}
 {"fi": "alusta", "gr": "noun", "en": ["platform (something that serves as a base)", "underbody, undercarriage"]}
@@ -1428,12 +1366,10 @@
 {"fi": "lyönti", "gr": "noun", "en": ["punch, hit, strike, beat, blow", "stroke (hitting of a bell or similar by the clapper or hammer of a clock)", "beat (pulsation, throb)", "minting, coining (making money, especially coins)", "ictus, a single gesture in conducting an orchestra", "hit, strike, batting", "capture, capturing a piece", "play, playing a card (in games where cards are predominantly discarded after play)", "keystroke, stroke (a single press of a key, such as on a typewriter or a keyboard)"]}
 {"fi": "ilmavoimat", "gr": "noun", "en": ["air force"]}
 {"fi": "palkkio", "gr": "noun", "en": ["reward, bounty", "fee, honorarium, remuneration"]}
-{"fi": "peruna", "gr": "noun", "en": ["potato, Solanum tuberosum (plant and the tuber)", "synonym of päärynä (“pear”)"]}
 {"fi": "titteli", "gr": "noun", "en": ["title (prefix or suffix added to name)"]}
 {"fi": "jazz", "gr": "noun", "en": ["jazz (style of music)"]}
 {"fi": "siirtolainen", "gr": "noun", "en": ["migrant; immigrant or emigrant"]}
 {"fi": "suomenkielinen", "gr": "noun", "en": ["A Finnish speaker; somebody whose mother tongue is Finnish."]}
-{"fi": "runo", "gr": "noun", "en": ["poem (piece of poetry)", "synonym of runous (“poetry”)", "rune (only in the rare sense of a Finnish poem, or a division of one, especially a division of the Kalevala)", "singer, poet"]}
 {"fi": "temppu", "gr": "noun", "en": ["trick, stunt (difficult physical action)", "trick (effective, clever or quick way of doing something)", "trick, stunt, antic (mischievous or annoying behavior)", "trick (magic trick)", "gimmick"]}
 {"fi": "vuori", "gr": "noun", "en": ["mountain (large mass of earth and rock)", "mountain (large amount)", "high hill (especially in toponyms)", "lining (covering for the inside of a garment)"]}
 {"fi": "hullu", "gr": "noun", "en": ["crazy, mad or insane person", "reckless person", "enthusiast, addict, freak, aficionado, junkie"]}
@@ -1445,7 +1381,6 @@
 {"fi": "akku", "gr": "noun", "en": ["battery (rechargeable device for storing electric energy)", "battery (rechargeable device for storing electric energy)", "accumulator, wet-cell battery", "accumulator (register)", "batteries (strength, energy)"]}
 {"fi": "kylki", "gr": "noun", "en": ["side (of a human or an animal)", "side, belly (cut of pork meat)", "loin (cut of beef)", "board or side of a ship", "side of a vehicle or other symmetric object", "flanch, flaunch"]}
 {"fi": "tutkinto", "gr": "noun", "en": ["examination (formal test in education)", "degree, diploma, qualification (award bestowed by an educational institution as an indication of academic achievement)"]}
-{"fi": "nosto", "gr": "noun", "en": ["lift, lifting, hoist, hoisting (act of lifting, hoisting or raising)", "raise, raising (act of raising)", "cash withdrawal", "drawing (taking a card from the deck)", "cut (act or right of dividing a deck of playing cards)", "fade in (type of transition from black to an image or from silence to audio)", "pull quote (brief excerpt used out of context and set separately from the main text)", "synonym of revisio (“revision”)"]}
 {"fi": "voi", "gr": "noun", "en": ["butter"]}
 {"fi": "toimintatapa", "gr": "noun", "en": ["way of acting, way of working, procedure"]}
 {"fi": "suo", "gr": "noun", "en": ["swamp, bog, marsh, mire"]}
@@ -1453,7 +1388,6 @@
 {"fi": "huhu", "gr": "noun", "en": ["rumor/rumour"]}
 {"fi": "moottori", "gr": "noun", "en": ["engine, motor", "motor, engine, driving force", "engine (software or hardware system responsible for a specific technical task)"]}
 {"fi": "käsikirjoitus", "gr": "noun", "en": ["manuscript", "script, screenplay (text of the dialogue and action for a drama)", "scenario (outline of the plot of a dramatic work for theatre, cinema or TV)"]}
-{"fi": "allas", "gr": "noun", "en": ["a closed body of water, e.g. a lagoon", "reservoir (natural or artificial lake used as a source of water supply)", "glacial basin (a broad and relatively shallow depression caused by glaciation)", "tank, open tank (open container for liquids)", "pool, swimming pool", "basin, sink (wide bowl for washing)", "synonym of valuma-alue (“basin, drainage basin”)", "synonym of kaukalo (“trough, manger (for animals to eat or drink out of)”)"]}
 {"fi": "maatalous", "gr": "noun", "en": ["agriculture, farming"]}
 {"fi": "saaja", "gr": "noun", "en": ["receiver (person who gets or receives)", "payee (of a bill of exchange or cheque)"]}
 {"fi": "presidenttiehdokas", "gr": "noun", "en": ["presidential candidate"]}
@@ -1504,7 +1438,6 @@
 {"fi": "rajavartiolaitos", "gr": "noun", "en": ["border guard (agency)"]}
 {"fi": "arkipäivä", "gr": "noun", "en": ["weekday (Monday to Friday)", "of things that are or have become part of normal life"]}
 {"fi": "sisäministeriö", "gr": "noun", "en": ["interior ministry, ministry of the interior, ministry of internal affairs; Home Office (UK); Department of Homeland Security (US) (ministry responsible for internal affairs in another country)", "interior ministry, ministry of the interior, ministry of internal affairs; Home Office (UK); Department of Homeland Security (US) (ministry responsible for internal affairs in another country)", "Ministry of the Interior (official translation)"]}
-{"fi": "harju", "gr": "noun", "en": ["esker (long, narrow, sinuous ridge created by deposits from a stream running beneath a glacier)", "terminal moraine", "synonym of harjanne (“ridge, spine”)"]}
 {"fi": "moottoritie", "gr": "noun", "en": ["expressway, freeway; (UK) motorway; (US) highway, parkway, superhighway"]}
 {"fi": "pelikielto", "gr": "noun", "en": ["suspension (penalty in team sports consisting of prohibiting a player to play in one or more consecutive matches or for a period of time)"]}
 {"fi": "ennakkosuosikki", "gr": "noun", "en": ["front runner, favorite (one expected to win a contest, election etc.)"]}
@@ -1513,7 +1446,6 @@
 {"fi": "työnhakija", "gr": "noun", "en": ["job applicant, jobseeker"]}
 {"fi": "hitti", "gr": "noun", "en": ["hit, success (of a book, song, movie, any product, etc.)"]}
 {"fi": "prinssi", "gr": "noun", "en": ["prince (son or male-line grandson of a monarch)"]}
-{"fi": "hylly", "gr": "noun", "en": ["shelf (flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk etc.)", "synonym of hyllykkö (“rack, shelf, an article of furniture with one or more shelves”)"]}
 {"fi": "lentopallo", "gr": "noun", "en": ["volleyball (sport or activity)", "volleyball (ball)"]}
 {"fi": "polkupyörä", "gr": "noun", "en": ["bicycle"]}
 {"fi": "laboratorio", "gr": "noun", "en": ["a laboratory"]}
@@ -1594,12 +1526,10 @@
 {"fi": "ulkonäkö", "gr": "noun", "en": ["look, appearance, semblance"]}
 {"fi": "väkivaltaisuus", "gr": "noun", "en": ["violence, state of being violent (i.e. taking actions intended to cause destruction, pain or suffering)", "(acts of) violence", "roughing"]}
 {"fi": "rattijuopumus", "gr": "noun", "en": ["drunk driving"]}
-{"fi": "prisma", "gr": "noun", "en": ["prism", "synonym of särmiö (“prism”)"]}
 {"fi": "siipi", "gr": "noun", "en": ["wing (animal appendage for flying)", "wing (airplane part)", "wing (part of building)", "wing (portion of forces extending to one side from the main body on a front)", "wing (fraction of political movement)", "sail (blade of a windmill)", "wing, arm (of a seine)", "arm (of a semaphore)", "blade or a paddle of a water wheel or a paddlewheel", "blade or vane of a rotor, e.g. on a turbine or a propeller", "mouldboard (curved blade on a plough that serves to turn over the furrow)", "flyer of a spinning wheel", "wing (human hand)"]}
 {"fi": "herkku", "gr": "noun", "en": ["delicacy, treat (pleasing food or drink)", "treat (snack food item designed to be given to pets)", "sweet foods, desserts, candy, etc.", "delicacy, treat (something pleasing)", "option, accessory"]}
 {"fi": "päähenkilö", "gr": "noun", "en": ["protagonist, hero"]}
 {"fi": "poissaolo", "gr": "noun", "en": ["absence"]}
-{"fi": "jäähy", "gr": "noun", "en": ["a cooling period between sessions in a hot sauna", "penalty (punishment in the form of being removed from play for a specified amount of time)", "a temporary expulsion, ban, etc.; a timeout, cooling-off period", "synonym of jäähdytin (“cooler”)"]}
 {"fi": "virta", "gr": "noun", "en": ["flow, stream, current", "river", "current (amount of electric charge flowing in each unit of time)", "electricity, power", "stream (steady flow or succession of material)", "flow (in expressions referring to conformity)", "zip, energy, vigor, vim (personal energy)", "speed (recreational amphetamine drug)"]}
 {"fi": "lehdistötilaisuus", "gr": "noun", "en": ["press conference (question and answer session with members of television, print and other media)"]}
 {"fi": "harkinta", "gr": "noun", "en": ["consideration, deliberation", "premeditation"]}
@@ -1656,19 +1586,16 @@
 {"fi": "syytös", "gr": "noun", "en": ["accusation, charge, allegation, crimination, recrimination"]}
 {"fi": "avain", "gr": "noun", "en": ["key (device designed to open and close a lock)", "key (something crucial)", "wrench, spanner, key (tool for making rotational adjustments)", "a tool for opening something, opener", "clef (musical symbol for indicating pitches)", "key (device used to transmit Morse code)", "code (set of rules for converting information in a primitive form of cryptography)", "key (piece of information used to encode or decode)", "key (field, potentially unique, used for lookup)"]}
 {"fi": "alkulohko", "gr": "noun", "en": ["qualification group, group; also other terms may be used, depending on sport (in a tournament with multiple participants, any of the divisions into which the original participants are divided in order to select the participants to the finals)"]}
-{"fi": "laatikko", "gr": "noun", "en": ["box (cuboid space; container; compartment)", "drawer (open-topped box in a cabinet used for storing)", "casserole (food consisting of vegetables, meat and starchy binder, cooked in a high-walled dish or pan)", "synonym of lukonkehys (“receiver”)"]}
 {"fi": "baari", "gr": "noun", "en": ["bar (public house)", "cafeteria (restaurant serving simple food and usually having the right to serve medium strength beer, see keskiolut)", "bar (unit of pressure)"]}
 {"fi": "tosiasia", "gr": "noun", "en": ["fact (something true, real or actual)"]}
 {"fi": "nuoriso", "gr": "noun", "en": ["youth (collectively)"]}
 {"fi": "tuska", "gr": "noun", "en": ["pain, distress, agony, suffering, anguish, torment"]}
 {"fi": "mielenterveys", "gr": "noun", "en": ["mental health"]}
 {"fi": "tasapeli", "gr": "noun", "en": ["draw, tie (result of a contest in which neither side has won)"]}
-{"fi": "villa", "gr": "noun", "en": ["wool", "synonym of huvila (“villa”)"]}
 {"fi": "hyväksyntä", "gr": "noun", "en": ["approval, acceptance, agreement, assent", "sanction (approval of an action by an authority)"]}
 {"fi": "alkuerä", "gr": "noun", "en": ["qualifier, qualifying round"]}
 {"fi": "verotulo", "gr": "noun", "en": ["tax revenue (total revenue which a taxing entity - state, municipality etc. - gets from all taxes)"]}
 {"fi": "työnteko", "gr": "noun", "en": ["working (the act of working, as in being employed)"]}
-{"fi": "lause", "gr": "noun", "en": ["clause (group of words which include a subject and any necessary predicate, such as can make up a simple sentence on its own)", "sentence (not as a grammatical term) (grammatically complete series of words consisting of a subject and predicate)", "theorem (mathematical statement of some importance that has been proven to be true)", "synonym of väitelause (“proposition (assertion which is provably true, but not important enough to be called a theorem)”)", "proposition (assertion which may be true or false)", "statement (instruction in a computer program, especially one that returns no value)"]}
 {"fi": "teoria", "gr": "noun", "en": ["theory"]}
 {"fi": "dosentti", "gr": "noun", "en": ["docent (teacher or lecturer in university)"]}
 {"fi": "kapasiteetti", "gr": "noun", "en": ["capacity"]}
@@ -1777,7 +1704,6 @@
 {"fi": "lounas", "gr": "noun", "en": ["southwest", "lunch"]}
 {"fi": "nenä", "gr": "noun", "en": ["nose (protuberance on the human face)", "head, person (synecdoche for a person, idiomatically used when something is reckoned or allocated per person; often with per)", "rhinarium, nose leather", "nose (tip of some objects)"]}
 {"fi": "kolumni", "gr": "noun", "en": ["column (a piece or article in newspaper or magazine)"]}
-{"fi": "saatto", "gr": "noun", "en": ["escort, escorting, accompanying", "follow-through", "synonym of saattue (“convoy, procession”)", "haycock"]}
 {"fi": "korpi", "gr": "noun", "en": ["deep forest, forested wilderness", "deep forest, forested wilderness", "an area remote from dense population; backwoods, backwater, the sticks", "coniferous swamp (a boreal forest type appearing on moist moraine soils, characterized by dense growth of spruce as the dominating tree species and deep layer of moss as undergrowth; acting often as a transition zone between a dried kangas (“boreal forest”) and various types of suo (“swamp”))", "desert"]}
 {"fi": "lentoliikenne", "gr": "noun", "en": ["air traffic"]}
 {"fi": "rautatieasema", "gr": "noun", "en": ["railway station, railroad station"]}
@@ -1833,7 +1759,6 @@
 {"fi": "alaisuus", "gr": "noun", "en": ["state of being subordinate; no direct English equivalent"]}
 {"fi": "ahdistus", "gr": "noun", "en": ["anxiety (unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event)", "anxiety (state of restlessness and agitation)", "angst (emotional turmoil, painful sadness)"]}
 {"fi": "keräys", "gr": "noun", "en": ["collecting, collection, gathering (action)", "fundraising"]}
-{"fi": "jymy", "gr": "noun", "en": ["synonym of jyminä (“rumble”)", "sensational, huge"]}
 {"fi": "hakkuu", "gr": "noun", "en": ["logging (cutting trees)"]}
 {"fi": "kävely", "gr": "noun", "en": ["walk (trip made by walking)", "walk (distance walked)", "walk (manner of walking)", "walking (act)", "racewalking, speedwalking (sport); race walk (event)", "stroll (leisurely walk)"]}
 {"fi": "vitsi", "gr": "noun", "en": ["joke"]}
@@ -1863,7 +1788,6 @@
 {"fi": "tietoisuus", "gr": "noun", "en": ["consciousness, awareness (state of being conscious, of having cognition, of being aware of one's own existence, or of being done with awareness)", "sentience (state or quality of being sentient; possession of consciousness)"]}
 {"fi": "taistelija", "gr": "noun", "en": ["fighter, warrior, combatant (someone who fights, someone who is actively engaged in a battle)"]}
 {"fi": "haastateltava", "gr": "noun", "en": ["interviewee (someone being interviewed currently or in the future)"]}
-{"fi": "mopo", "gr": "noun", "en": ["moped", "synonym of monni (“rookie, recruit”)", "new student in a school"]}
 {"fi": "rajavartiosto", "gr": "noun", "en": ["border guard, border patrol (not as an official term)", "border guard district (regional subdivision of the Finnish Border Guard)"]}
 {"fi": "joulupukki", "gr": "noun", "en": ["Santa Claus"]}
 {"fi": "pieli", "gr": "noun", "en": ["jamb, post (vertical component forming the sides of a door frame, window frame or other opening in a wall)", "doorjamb, doorpost", "jamb, post (vertical component forming the sides of a door frame, window frame or other opening in a wall)", "window jamb", "gatepost", "side", "mast", "tierce, side (on the dextral side unless otherwise specified)"]}
@@ -1929,7 +1853,6 @@
 {"fi": "puheenaihe", "gr": "noun", "en": ["talking point, theme (something talked about)"]}
 {"fi": "miinus", "gr": "noun", "en": ["minus", "minus sign", "con, minus, negative thing", "weather with below zero Celsius of temperature"]}
 {"fi": "keskikenttäpelaaja", "gr": "noun", "en": ["midfield player, midfielder", "centerfielder"]}
-{"fi": "kana", "gr": "noun", "en": ["chicken (domestic fowl of species Gallus gallus, Gallus domesticus)", "chicken (domestic fowl of species Gallus gallus, Gallus domesticus)", "chicken (meat from this bird eaten as food)", "hen (female chicken)", "hen (female of other bird species, particularly a sexually mature female fowl)", "An unintelligent, talkative woman.", "woman, sweetheart", "kana (Japanese syllabary)", "synonym of kokka (“bow of a boat”)"]}
 {"fi": "vuorovaikutus", "gr": "noun", "en": ["interaction"]}
 {"fi": "iltalehti", "gr": "noun", "en": ["evening paper"]}
 {"fi": "kangas", "gr": "noun", "en": ["cloth, fabric, textile (woven fabric)", "material (cloth to be made into a garment)", "A soil type: firm, moraine ground covered with a relatively thin layer of organic topsoil called podsol.", "A forest type growing on such soil, predominantly coniferous; boreal forest, heath forest."]}
@@ -1947,7 +1870,6 @@
 {"fi": "osto", "gr": "noun", "en": ["purchase, purchasing, buying (acquisition of title to, or property in, anything for a price)"]}
 {"fi": "metro", "gr": "noun", "en": ["a metro, an underground, a subway, a Tube"]}
 {"fi": "epäselvyys", "gr": "noun", "en": ["obscurity, unclearness, ambiguity", "blurriness"]}
-{"fi": "matto", "gr": "noun", "en": ["carpet, mat, rug", "mat (thick layer of something that resembles a mat or carpet)", "mat (floor pad to protect athletes)", "mat, blasting mat (heavy, flexible cover, often made of used rubber tires and used to prevent debris from flying around during rock blasting)", "tapestry, esp. of rya type", "synonym of kuli (“certain old unit of measure for weight”)"]}
 {"fi": "loppukesä", "gr": "noun", "en": ["late summer"]}
 {"fi": "uimari", "gr": "noun", "en": ["swimmer"]}
 {"fi": "huippu-urheilu", "gr": "noun", "en": ["competitive sports at the highest level", "a competitive sport at its highest level"]}
@@ -1955,7 +1877,6 @@
 {"fi": "vääntö", "gr": "noun", "en": ["twist, torsion (act of turning, twisting or wrenching of a body by the exertion of a lateral force tending to turn one end or part of it about a longitudinal axis, while the other is held fast or turned in the opposite direction)", "A tough negotiation.", "torque"]}
 {"fi": "vihollinen", "gr": "noun", "en": ["enemy"]}
 {"fi": "piilo", "gr": "noun", "en": ["hideout, lair, covert, hiding place", "hiding place, cache, stash", "hidden"]}
-{"fi": "näytös", "gr": "noun", "en": ["synonym of näytäntö", "showing (occasion when something is shown for public)", "act (subdivision of a play)", "ostentation (ambitious display; vain show; display intended to excite admiration or applause)"]}
 {"fi": "elimistö", "gr": "noun", "en": ["body (as the sum of organs)", "organ system, system"]}
 {"fi": "ateria", "gr": "noun", "en": ["meal (food that is prepared and eaten)"]}
 {"fi": "kaappi", "gr": "noun", "en": ["cabinet, closet, cupboard (a piece of furniture used for storage and closed with a door)", "locker (storage compartment as part of a larger storage unit)", "the closet (a state of secrecy regarding one's sexual identity or similar)", "unit (a physically large, imposing, muscular person)"]}
@@ -1985,7 +1906,6 @@
 {"fi": "vaalitulos", "gr": "noun", "en": ["election results"]}
 {"fi": "suurlähetystö", "gr": "noun", "en": ["embassy", "High Commission (embassy of a Commonwealth country in another Commonwealth country)"]}
 {"fi": "kuolonuhri", "gr": "noun", "en": ["fatality, casualty (person who died as result of accident, violence, disease etc.)"]}
-{"fi": "siemen", "gr": "noun", "en": ["seed (fertilized and ripened ovule, containing an embryonic plant)", "pit (seed inside a fruit; stone or pip inside a fruit)", "seed, set (small tuber or bulb used for planting)", "synonym of siemenneste (“semen”)", "element, hint (small but present amount of a quality)", "germ, seed (origin or earliest version of an idea or project)"]}
 {"fi": "menettely", "gr": "noun", "en": ["procedure"]}
 {"fi": "työura", "gr": "noun", "en": ["working career, professional career, career"]}
 {"fi": "takki", "gr": "noun", "en": ["coat, jacket (piece of clothing worn on the upper body outside a shirt or blouse, covering the upper torso and arms)"]}
@@ -2015,7 +1935,6 @@
 {"fi": "yleisötilaisuus", "gr": "noun", "en": ["public event (any event where people are admitted into the audience)"]}
 {"fi": "suola", "gr": "noun", "en": ["salt (common table salt, sodium chloride, NaCl)", "salt (chemical compound formed from the reaction of an acid with a base)", "salt"]}
 {"fi": "huutokauppa", "gr": "noun", "en": ["auction"]}
-{"fi": "katko", "gr": "noun", "en": ["cut, break, pause", "rehab", "stake (usually in the adessive singular to mean \"at stake\")", "interference", "A particular trick-taking card game.", "synonym of myrkkykatko"]}
 {"fi": "kehä", "gr": "noun", "en": ["circle, ring (enclosure, perimeter, a circular arrangement of something)", "circular (resembling a circle in some aspect)", "rim (edge around a circular object)", "coil, reel, roll", "frame (especially in fixed, established terms for certain frames)", "frame", "frame (especially in fixed, established terms for certain frames)", "race (part of a rolling-element bearing; ring with a groove in which rolling elements ride)", "frame (especially in fixed, established terms for certain frames)", "bezel (on a watch)", "ring (arena for boxing and other combat sports; also figuratively)", "circumference, circle, perimeter (line that bounds a circle or other two-dimensional object; the length of such a line)", "halo (atmospheric phenomenon)", "orle, tressure", "perianth (sterile parts of a flower)", "cycle (closed walk or path)"]}
 {"fi": "veteraani", "gr": "noun", "en": ["veteran, old-timer"]}
 {"fi": "melu", "gr": "noun", "en": ["noise, racket (various sounds, usually unwanted and loud)"]}
@@ -2039,7 +1958,6 @@
 {"fi": "synty", "gr": "noun", "en": ["birth", "origin, genesis, beginning", "establishment, formation, passing, production, creation, building, emergence, etc. of a right, contract, resolution, work, town, industry, etc."]}
 {"fi": "veroprosentti", "gr": "noun", "en": ["tax rate (percentage rate at which something is taxed)"]}
 {"fi": "sähköverkko", "gr": "noun", "en": ["electrical grid, power grid, electricity network"]}
-{"fi": "mummo", "gr": "noun", "en": ["grandmother, grandma", "old woman", "synonym of mummonmarkka (“Finnish mark”)"]}
 {"fi": "nurkka", "gr": "noun", "en": ["corner (area in the angle between converging walls or sides)"]}
 {"fi": "maastohiihto", "gr": "noun", "en": ["cross-country skiing"]}
 {"fi": "hattutemppu", "gr": "noun", "en": ["hat trick (three goals by one player in one game)"]}
@@ -2054,7 +1972,6 @@
 {"fi": "huoneisto", "gr": "noun", "en": ["a place with multiple connected rooms that can act as a complete unit in some respect, whether residential, commercial, etc.; a suite of rooms, a set of rooms, etc.", "apartment, flat (complete domicile occupying only part of a building)"]}
 {"fi": "pääty", "gr": "noun", "en": ["end (of an object, area or similar; a side behaving as an end, especially a short or narrow one, and when there is no clear \"beginning\" and \"end\" but two ends)", "end (of an object, area or similar; a side behaving as an end, especially a short or narrow one, and when there is no clear \"beginning\" and \"end\" but two ends)", "gable end (side of a building which is topped by a gable)", "end (of an object, area or similar; a side behaving as an end, especially a short or narrow one, and when there is no clear \"beginning\" and \"end\" but two ends)", "header face (of bricks or ceramic/concrete blocks)"]}
 {"fi": "raunio", "gr": "noun", "en": ["ruin (remains of destroyed or dilapidated construction)"]}
-{"fi": "luotto", "gr": "noun", "en": ["credit", "synonym of luottamus (“trust”)"]}
 {"fi": "paloasema", "gr": "noun", "en": ["fire station (building for fire fighters)"]}
 {"fi": "vannas", "gr": "noun", "en": ["share, ploughshare/plowshare (part of plough)", "stem (of a ship)"]}
 {"fi": "apuraha", "gr": "noun", "en": ["grant (quantity of money given by an institution to a qualifying individual or group of individuals to support their academic or artistic work etc.)"]}
@@ -2158,7 +2075,6 @@
 {"fi": "huomautus", "gr": "noun", "en": ["remark, reminder", "comment", "notice (formal notification or warning)"]}
 {"fi": "hyönteinen", "gr": "noun", "en": ["insect"]}
 {"fi": "rikko", "gr": "noun", "en": ["breakage, breakdown", "saxifrage (plant of the genus Saxifraga)"]}
-{"fi": "syli", "gr": "noun", "en": ["arms (in reference to embracing or holding in both one's arms)", "lap (space over upper legs of a seated person)", "lap (place of rearing and fostering)", "synonym of sylillinen (“armful”)", "fathom (traditional measure of length equal to three cubits; see usage notes below)", "fathom", "A unit of volume for firewood, enough firewood to make a woodpile four kyynärä (around 2.4 metres) long and three kyynärä (around 1.8 metres) tall, with the width depending on the type of tree; e.g. five kortteli (around 0.75 metres) wide (equating to around 3.14 stacked cubic metres) for birch and six kortteli (around 0.9 metres) wide (equating to around 3.77 stacked cubic metres) for wood from coniferous trees.", "A somewhat less old unit of volume for firewood equivalent to four (stacked) cubic metres."]}
 {"fi": "planeetta", "gr": "noun", "en": ["planet"]}
 {"fi": "kriitikko", "gr": "noun", "en": ["critic"]}
 {"fi": "juoksija", "gr": "noun", "en": ["runner (person who runs, or moves quickly on their feet)", "baserunner, runner"]}
@@ -2217,7 +2133,6 @@
 {"fi": "haava", "gr": "noun", "en": ["wound, sore (injury, such as a cut, stab, or tear)", "ulcer", "reaching the next base as an advancing baserunner after being forced to as a result of a midair catch; the baserunner will be removed from the field but is not out"]}
 {"fi": "hallituskausi", "gr": "noun", "en": ["reign, regime (period of rule)", "the term of a government (cabinet)"]}
 {"fi": "poisto", "gr": "noun", "en": ["removal, extraction", "deletion", "depreciation, amortization"]}
-{"fi": "sika", "gr": "noun", "en": ["pig, swine (Sus domesticus)", "pig (animal of the genus Sus)", "hog (animal in the family Suidae)", "synonym of sianliha (“pork”)", "pig, swine (term for a person)", "pig (police officer)"]}
 {"fi": "asento", "gr": "noun", "en": ["position, posture (way a person holds and positions their body)", "pose (position or arrangement of the human body)", "stance (manner, pose, or posture in which one stands)", "attention (state of alertness in the standing position)", "asana (body position associated with the practice of yoga)", "trim (fore-and-aft angle of the vessel to the water)", "trim (arrangement of the sails with reference to the wind)", "orientation (imaginary rotation that is needed to move the object from a reference placement to its current placement, not necessarily just including the direction)"]}
 {"fi": "niemimaa", "gr": "noun", "en": ["(large) peninsula, subcontinent"]}
 {"fi": "kaupunginvaltuutettu", "gr": "noun", "en": ["member of a city council or town council, city councillor, town councillor, councilman, councilor, alderman"]}
@@ -2232,7 +2147,6 @@
 {"fi": "tähtipelaaja", "gr": "noun", "en": ["all-star player, all-star, star player"]}
 {"fi": "hiili", "gr": "noun", "en": ["coal (black or brownish black rock formed from prehistoric plant remains)", "coal (piece of coal)", "carbon (chemical element)", "something made of carbon, such as the carbon brushes in electrical machinery, or carbon rods in arc lamps", "charcoal, char (impure carbon obtained by destructive distillation of wood or other organic matter)", "charcoal (stick of black carbon material used for drawing)", "char (any charred substance)"]}
 {"fi": "show", "gr": "noun", "en": ["show (entertainment)"]}
-{"fi": "tuoksu", "gr": "noun", "en": ["fragrance, aroma, odour, smell, scent, whiff", "synonym of hajuvesi (“fragrance, perfume”)"]}
 {"fi": "fysiikka", "gr": "noun", "en": ["physics", "physique"]}
 {"fi": "tuoli", "gr": "noun", "en": ["chair (piece of furniture for sitting)"]}
 {"fi": "podcast", "gr": "noun", "en": ["podcast"]}
@@ -2251,7 +2165,6 @@
 {"fi": "vihapuhe", "gr": "noun", "en": ["hate speech"]}
 {"fi": "ennakkoluulo", "gr": "noun", "en": ["prejudice, preconception (negative view of something formed without adequate information or evidence)"]}
 {"fi": "kontti", "gr": "noun", "en": ["traditional type of knapsack made of birch bark", "foot, lower leg", "shinbone of a reindeer or horse", "A diagonal strut in the traditional Swedish roof truss design between the käpälä and the rafter.", "container, shipping container (very large, typically metal, box used for transporting goods)", "container"]}
-{"fi": "sulku", "gr": "noun", "en": ["closing, closure, shutting (act of closing or shutting)", "block, blockade (something that prevents passing)", "blockade (isolation of something)", "barrage, concentrated fire for area denial; an area thus denied", "synonym of sulje (“bracket, parenthesis”) (graphic symbol)", "lock (segment of a canal or other waterway enclosed by gates, used for raising and lowering boats between levels)", "sluice (artificial passage for water, fitted with a valve or gate)", "freeze, halt, block", "fault (abnormal connection in an electric circuit)", "nonproliferation"]}
 {"fi": "katti", "gr": "noun", "en": ["cat (animal)", "short for katalysaattori"]}
 {"fi": "kansakunta", "gr": "noun", "en": ["nation"]}
 {"fi": "liika", "gr": "noun", "en": ["excess, overabundance, glut (the state of being excessive or too much, or that which is excessive or too much)"]}
@@ -2325,16 +2238,13 @@
 {"fi": "kuolemantapaus", "gr": "noun", "en": ["fatality, death (one instance of a person or other living being dying)"]}
 {"fi": "suostumus", "gr": "noun", "en": ["consent, approval"]}
 {"fi": "osuuskunta", "gr": "noun", "en": ["cooperative, co-op (company that is owned partially or wholly by its employees, customers or tenants)"]}
-{"fi": "keihäs", "gr": "noun", "en": ["spear (long stick with a sharp tip used as a weapon for throwing or thrusting)", "javelin (light spear thrown with the hand and used as a weapon)", "javelin (metal-tipped spear thrown for distance in an athletic field event)", "synonym of piikki (“pike”)"]}
 {"fi": "myrkky", "gr": "noun", "en": ["poison (substance harmful to a living organism)", "poison (substance harmful to a living organism)", "venom (animal toxin intended for offensive use)", "poison (substance harmful to a living organism)", "toxin (a poison produced by the biological processes of organisms)"]}
 {"fi": "toimialajohtaja", "gr": "noun", "en": ["head of department, head of branch, head of service"]}
 {"fi": "kesäteatteri", "gr": "noun", "en": ["summer theatre (theatre that performs oly in the summer, usually outdoors)"]}
-{"fi": "lakka", "gr": "noun", "en": ["varnish, lacquer", "lac (scarlet resinous substance)", "cloudberry, Rubus chamaemorus", "synonym of laavu", "canopy, a structure with a roof but with at most one wall, especially by a riihi; often used as a shelter against wind and rain for storing tools, sheaves, etc.", "attic, loft", "dovecote", "gamma-butyrolactone (GBL), when used as recreational drug; liquid ecstasy"]}
 {"fi": "mustikka", "gr": "noun", "en": ["bilberry, common bilberry, European blueberry, blueberry (Vaccinium myrtillus); a common shrub in Finland, and its fruit", "bilberry, common bilberry, European blueberry, blueberry (Vaccinium myrtillus); a common shrub in Finland, and its fruit", "picking bilberries (as a personal activity; used together with verbs like olla (“to be”), mennä (“to go”), lähteä (“to leave and go”), käydä (“to go and come back”))", "blueberry, bilberry; any of several closely related species in the genus Vaccinium with blue fruit, or those fruit"]}
 {"fi": "pinta-ala", "gr": "noun", "en": ["area", "surface area"]}
 {"fi": "harjoitusottelu", "gr": "noun", "en": ["exhibition game, friendly, preseason game, exhibition match, scrimmage, demonstration, warmup match, preparation match, challenge match, friendly match (sporting event whose prize money and impact on the player's or the team's rankings is either zero or otherwise greatly reduced)"]}
 {"fi": "syke", "gr": "noun", "en": ["pulse, heartbeat; heart rate"]}
-{"fi": "ratikka", "gr": "noun", "en": ["synonym of raitiovaunu (“tram”)"]}
 {"fi": "alkuilta", "gr": "noun", "en": ["early evening"]}
 {"fi": "sivullinen", "gr": "noun", "en": ["bystander, onlooker (person who, although present at some event, does not take part in it)", "outsider (someone who is not involved in an organization, etc.)", "pageful (as much (text etc.) as a page will hold)"]}
 {"fi": "hermo", "gr": "noun", "en": ["nerve (bundle of neurons)", "nerve, nerves (one's ability to control oneself)", "snap (card game)"]}
@@ -2342,7 +2252,6 @@
 {"fi": "ammattitaito", "gr": "noun", "en": ["workmanship (skill of an artisan or craftsman)", "professional skills of a person as a whole"]}
 {"fi": "arkkitehtuuri", "gr": "noun", "en": ["architecture"]}
 {"fi": "työyhteisö", "gr": "noun", "en": ["work environment, [your/one's] colleagues, workplace, at work"]}
-{"fi": "live", "gr": "noun", "en": ["synonym of lipeä (“lye”)", "live"]}
 {"fi": "lautta", "gr": "noun", "en": ["raft (flat, floating structure)", "ferry (ship used to transport people, smaller vehicles and goods from one port to another, usually on a regular schedule)", "raft (collection of logs, fallen trees, etc. being driven down to a river)", "drift, floe, slick (mass of floating substance, such as ice or oil)"]}
 {"fi": "neuvonantaja", "gr": "noun", "en": ["adviser, advisor"]}
 {"fi": "taimi", "gr": "noun", "en": ["sapling (young tree, taller than a seedling)", "seedling (any young plant grown from the seed)"]}
@@ -2368,7 +2277,6 @@
 {"fi": "romahdus", "gr": "noun", "en": ["collapse (act or instance of collapsing)", "plummeting (of prices, rates, etc.)", "meltdown (situation being likened to a nuclear meltdown)", "collapse (of a wave function)"]}
 {"fi": "palopaikka", "gr": "noun", "en": ["scene of fire, burning place"]}
 {"fi": "lauma", "gr": "noun", "en": ["group of (land) animals, herd", "group of (land) animals, herd", "band (of coyotes)", "group of (land) animals, herd", "business (of ferrets)", "group of (land) animals, herd", "colony (of ants)", "group of (land) animals, herd", "crash (of rhinos)", "group of (land) animals, herd", "flange (of baboons)", "group of (land) animals, herd", "flock (of sheep)", "group of (land) animals, herd", "mob (of kangaroos)", "group of (land) animals, herd", "pace (of donkeys)", "group of (land) animals, herd", "pack (of dogs)", "group of (land) animals, herd", "pod (of seals or hippopotami)", "group of (land) animals, herd", "pride (of lions)", "group of (land) animals, herd", "bed (of snakes)", "crowd, mob, flock, horde, rout (large uncontrolled group of people)", "swarm (mass of people or animals in turmoil)"]}
-{"fi": "lepistö", "gr": "noun", "en": ["synonym of lepikko"]}
 {"fi": "kultamitali", "gr": "noun", "en": ["gold medal"]}
 {"fi": "maastopalo", "gr": "noun", "en": ["wildfire (rapidly spreading fire, especially one occurring in a wildland area)"]}
 {"fi": "bruttokansantuote", "gr": "noun", "en": ["gross domestic product"]}
@@ -2385,7 +2293,6 @@
 {"fi": "päämäärä", "gr": "noun", "en": ["goal, aim, objective, purpose, end", "goal, aim, objective, purpose, end", "a (long-term) goal"]}
 {"fi": "sellutehdas", "gr": "noun", "en": ["pulp mill"]}
 {"fi": "bulla", "gr": "noun", "en": ["bull (papal bull)"]}
-{"fi": "lehdistö", "gr": "noun", "en": ["the press (print-based media, e.g. newspapers)", "synonym of lehvistö (“foliage, leafage”)"]}
 {"fi": "peitto", "gr": "noun", "en": ["blanket (part of bedding)", "cover, covering (something that covers, especially something flexible, e.g. made of fabric)", "coverage (area covered by a cell or other radio network)", "penetration (proportion of the target audience who buy or use the specified product or service)"]}
 {"fi": "punta", "gr": "noun", "en": ["pound (currency)", "pound (unit of weight)", "old unit of volume for grain, equivalent to either six or eight panni (the former more common in Finland, the latter more common in Sweden)"]}
 {"fi": "komedia", "gr": "noun", "en": ["comedy"]}
@@ -2463,12 +2370,10 @@
 {"fi": "palautus", "gr": "noun", "en": ["refund (an amount of money returned)", "return (item that is returned)", "return (the act of returning something)", "return (of a serve, etc.)", "submission (of coursework, etc.)", "rollback"]}
 {"fi": "ylitys", "gr": "noun", "en": ["crossing (act of going across)", "crossing, going over, surpassing (a limit, etc.)"]}
 {"fi": "retki", "gr": "noun", "en": ["trip, excursion", "expedition", "road"]}
-{"fi": "luottamushenkilö", "gr": "noun", "en": ["synonym of luottamusmies", "A person who is elected to serve as a member of a council, board, subcommittee or other decision-making organ in a municipality, association, foundation etc."]}
 {"fi": "kasvis", "gr": "noun", "en": ["any plant eaten for its nutritional content; vegetable (in the broad sense, including fruit and berries, possibly also cereals and nuts)", "vegetarian"]}
 {"fi": "tutka", "gr": "noun", "en": ["radar"]}
 {"fi": "kätilö", "gr": "noun", "en": ["midwife"]}
 {"fi": "sisäilma", "gr": "noun", "en": ["indoor air", "indoor air quality"]}
-{"fi": "kuusisto", "gr": "noun", "en": ["synonym of kuusikko (“spruce forest”)"]}
 {"fi": "imago", "gr": "noun", "en": ["image (a characteristic of a person, group or company, how one is, or wishes to be, perceived by others)", "imago"]}
 {"fi": "katukuva", "gr": "noun", "en": ["the usual view or scene of a street or town/city", "image or imagery of a street or streets"]}
 {"fi": "hankaluus", "gr": "noun", "en": ["difficulty, trouble", "difficulty, complexity, inconvenience"]}
@@ -2526,7 +2431,6 @@
 {"fi": "eläintarha", "gr": "noun", "en": ["zoo, menagerie"]}
 {"fi": "rikosnimike", "gr": "noun", "en": ["(name of a) criminal offense, offense (criminal offense as a juridical concept; the name or title of a criminal offense as used and described in law)"]}
 {"fi": "eläkeikä", "gr": "noun", "en": ["retirement age, pension age (the age at which a pension can be claimed)"]}
-{"fi": "määritelmä", "gr": "noun", "en": ["definition", "synonym of määrittely", "synonym of lauseke (“expression (a piece of code in a high-level language that returns a value)”)"]}
 {"fi": "ikäraja", "gr": "noun", "en": ["age limit"]}
 {"fi": "alppihiihto", "gr": "noun", "en": ["alpine skiing, downhill skiing"]}
 {"fi": "europarlamentaarikko", "gr": "noun", "en": ["MEP, a member of the European Parliament"]}
@@ -2547,7 +2451,6 @@
 {"fi": "kotiseutu", "gr": "noun", "en": ["home, home region"]}
 {"fi": "puhdistus", "gr": "noun", "en": ["cleaning, cleansing (making clean or not dirty; process of removing dirt, toxins, etc.)", "refining, purifying", "purge (forcible removal of people)"]}
 {"fi": "eurovaalit", "gr": "noun", "en": ["European election, European Parliament election (election of the European Parliament)"]}
-{"fi": "talkoot", "gr": "noun", "en": ["bee, dugnad (gathering for carrying out a major task, such as harvesting, construction or cleaning)", "synonym of talkootyö (“volunteering, volunteer work”)"]}
 {"fi": "poikkeusolot", "gr": "noun", "en": ["exceptional circumstances"]}
 {"fi": "mielikuvitus", "gr": "noun", "en": ["imagination"]}
 {"fi": "rinki", "gr": "noun", "en": ["ring of people"]}
@@ -2604,9 +2507,7 @@
 {"fi": "asuinpaikka", "gr": "noun", "en": ["residence, place of residence, habitation, homestead, domicile (place where one lives)"]}
 {"fi": "pelastustoimi", "gr": "noun", "en": ["emergency service, rescue service (a public service that deals with emergencies, especially the police, fire, ambulance or lifeboat service)", "rescue operations, emergency response"]}
 {"fi": "helmi", "gr": "noun", "en": ["pearl (rounded shelly concretion produced by certain mollusks)", "bead (small, round object, such as those attached with a thread or string to form a chain)", "pearl (font size)", "gem (precious or highly valued thing or person)"]}
-{"fi": "viina", "gr": "noun", "en": ["liquor (US), spirits (UK, AU, NZ) (distilled alcoholic beverage; rather strong and often clear, such as vodka)", "brandy (brandy made of fermented fruit juice) (usually with a modifier that specifies the raw material)", "booze (any alcoholic beverage, especially a strong one)", "synonym of viini (“wine”)"]}
 {"fi": "itäosa", "gr": "noun", "en": ["eastern part"]}
-{"fi": "lappi", "gr": "noun", "en": ["synonym of saame (“Sami language”)", "synonym of saamelainen (“Sami”)"]}
 {"fi": "luottamusmies", "gr": "noun", "en": ["union representative, union steward, (UK) shop steward, (US) workplace steward", "A union representative whose powers are based on a collective agreement between an employers' association and a trade union, as contrasted with luottamusvaltuutettu."]}
 {"fi": "rotta", "gr": "noun", "en": ["rat", "unemployed person living on welfare"]}
 {"fi": "syrjä", "gr": "noun", "en": ["edge, side", "edge, side", "edge (of lumber)", "edge, side", "stretcher face (of bricks or ceramic/concrete blocks)", "edge, border, brink, side, verge", "shoulder (a verge to the side of a road)", "remote area; back ((something) far from the main area)"]}
@@ -2642,7 +2543,6 @@
 {"fi": "sukka", "gr": "noun", "en": ["sock (garment covering foot)", "stocking (garment covering foot and part of leg)", "stocking (knitted hood of cotton thread which is eventually converted into an incandescent mantle for gas lighting)"]}
 {"fi": "pöly", "gr": "noun", "en": ["dust (fine, dry particles)"]}
 {"fi": "parkki", "gr": "noun", "en": ["bark (exterior covering of the trunk and branches of a tree)", "tannic", "bark (three-masted vessel, foremast and mainmast square-rigged, mizzenmast schooner-rigged)", "refers to parking or a vehicle being parked or a place where one can temporarily leave something"]}
-{"fi": "jääkaappi", "gr": "noun", "en": ["refrigerator", "synonym of jäälohkarekaappi (“icebox”)"]}
 {"fi": "matkapuhelin", "gr": "noun", "en": ["mobile phone, mobile telephone, cellular, cell phone"]}
 {"fi": "kuulumiset", "gr": "noun", "en": ["recent business, events or news; goings-on"]}
 {"fi": "helvetti", "gr": "noun", "en": ["hell", "hell, devil"]}
@@ -2652,7 +2552,6 @@
 {"fi": "puheenjohtajuus", "gr": "noun", "en": ["chairmanship"]}
 {"fi": "emäntä", "gr": "noun", "en": ["mistress, lady (of a household or estate)", "housewife (especially of a farm)", "hostess", "matron (female domestic manager of an institution)", "wife, old lady, missus (one's female partner; the tone is slightly jocular but well-meaning)"]}
 {"fi": "syntymäpäivä", "gr": "noun", "en": ["birthday", "birthdate, date of birth"]}
-{"fi": "ilmakehä", "gr": "noun", "en": ["atmosphere (atmosphere of the Earth)", "synonym of normaali-ilmakehä (“atmosphere (unit of pressure)”)"]}
 {"fi": "tavaratalo", "gr": "noun", "en": ["department store"]}
 {"fi": "juomavesi", "gr": "noun", "en": ["drinking water (water that is suitable or intended for ingestion by humans)"]}
 {"fi": "tuuma", "gr": "noun", "en": ["thought, idea", "inch (Imperial or US unit of length, equivalent to 2.54 centimeters)", "inch (of various historical units of length; equal in the Kingdom of Sweden to 1/24 of a kyynärä or 24.744 millimeters, and in the Russian Empire equal to 25.4 millimeters)"]}
@@ -2712,7 +2611,6 @@
 {"fi": "tuhka", "gr": "noun", "en": ["ash (residue after burning)"]}
 {"fi": "puuha", "gr": "noun", "en": ["work, undertaking, activity; chore, trouble"]}
 {"fi": "edustusjoukkue", "gr": "noun", "en": ["representative team"]}
-{"fi": "alakerta", "gr": "noun", "en": ["lower floor, lower storey; downstairs", "synonym of alio"]}
 {"fi": "alunen", "gr": "noun", "en": ["underlay (anything underlaid)", "litter (absorbent material used in an animal's litter tray)"]}
 {"fi": "kuume", "gr": "noun", "en": ["fever (body temperature that is higher than normal)", "fever, rush (period of heightened activity)"]}
 {"fi": "isoisä", "gr": "noun", "en": ["grandfather"]}
@@ -2736,7 +2634,6 @@
 {"fi": "säädös", "gr": "noun", "en": ["statute (legislated rule of society which has been given the force of law)"]}
 {"fi": "maa-alue", "gr": "noun", "en": ["an area of land, land area"]}
 {"fi": "sunnuntaiaamu", "gr": "noun", "en": ["Sunday morning"]}
-{"fi": "muutosneuvottelu", "gr": "noun", "en": ["synonym of yhteistoimintaneuvottelu; officially \"change negotiations\""]}
 {"fi": "ope", "gr": "noun", "en": ["teach, teacher"]}
 {"fi": "propaganda", "gr": "noun", "en": ["propaganda"]}
 {"fi": "laiho", "gr": "noun", "en": ["a (growing) crop of cereal"]}
@@ -2797,7 +2694,6 @@
 {"fi": "konkurssipesä", "gr": "noun", "en": ["bankruptcy estate, estate"]}
 {"fi": "syntyvyys", "gr": "noun", "en": ["birthrate, natality (ratio of live births to population)"]}
 {"fi": "pop", "gr": "noun", "en": ["pop (popular music)"]}
-{"fi": "kunnari", "gr": "noun", "en": ["synonym of kunniajuoksu", "synonym of cunningham"]}
 {"fi": "kiintiö", "gr": "noun", "en": ["quota"]}
 {"fi": "tarkkailu", "gr": "noun", "en": ["monitoring", "watching, specifically in terms like lintujen tarkkailu (“birdwatching”), valaiden tarkkailu (“whale watching”)"]}
 {"fi": "vakavuus", "gr": "noun", "en": ["severity", "seriousness", "graveness, gravity", "stability"]}
@@ -2831,7 +2727,6 @@
 {"fi": "ennakkotieto", "gr": "noun", "en": ["foreknowledge", "preliminary information, provisional information"]}
 {"fi": "hyökkäyspeli", "gr": "noun", "en": ["offense (strategy and tactics employed when in position to score)"]}
 {"fi": "vertaistuki", "gr": "noun", "en": ["peer support"]}
-{"fi": "aurinkopaneeli", "gr": "noun", "en": ["solar panel", "synonym of aurinkokeräin (“solar thermal collector”)"]}
 {"fi": "maahantulo", "gr": "noun", "en": ["entry into a country"]}
 {"fi": "esittely", "gr": "noun", "en": ["introduction (act of causing someone to be acquainted with someone else)", "introduction (act of making something or someone known by formal announcement or recommendation)", "introduction (means, such as a personal letter, of presenting one person to another)", "exhibition, show, exposition (public showing)", "demonstration, demo, presentation (act of demonstrating or presenting something to introduce it)", "declaration (specification of a programming variable)"]}
 {"fi": "käyttötarkoitus", "gr": "noun", "en": ["use (purpose for which something may be employed)"]}
@@ -2843,7 +2738,6 @@
 {"fi": "vastahyökkäys", "gr": "noun", "en": ["counter-attack, counter-offensive"]}
 {"fi": "huonekalu", "gr": "noun", "en": ["piece of furniture; (in the plural) furniture"]}
 {"fi": "vartalo", "gr": "noun", "en": ["body, torso (main structure of a human or animal frame excluding the extremities)", "body, figure (the human body in respect of its appearance and form)", "stem, word stem", "style (stalk that connects the stigma(s) to the ovary in a pistil of a flower)"]}
-{"fi": "puolisko", "gr": "noun", "en": ["one half (of something)", "synonym of pallonpuolisko (“hemisphere”)"]}
 {"fi": "tutkimusryhmä", "gr": "noun", "en": ["research group"]}
 {"fi": "journalisti", "gr": "noun", "en": ["journalist"]}
 {"fi": "kontrolli", "gr": "noun", "en": ["control"]}
@@ -2876,13 +2770,10 @@
 {"fi": "loppiainen", "gr": "noun", "en": ["Epiphany"]}
 {"fi": "ale", "gr": "noun", "en": ["sale (selling of goods at bargain prices)", "ale (type of beer)"]}
 {"fi": "avainpelaaja", "gr": "noun", "en": ["key player"]}
-{"fi": "sanoitus", "gr": "noun", "en": ["lyrics (words of a song)", "synonym of sanoittaminen (“writing lyrics (to a song), penning lyrics”)"]}
 {"fi": "sirkus", "gr": "noun", "en": ["circus"]}
 {"fi": "takuu", "gr": "noun", "en": ["guarantee (anything that assures a certain outcome)", "guarantee (written declaration that a product will be fit for a purpose and work correctly)", "warranty (engagement or undertaking, that a certain fact regarding the subject of a contract is, or shall be, as it is expressly implied or promised to be)", "bail bond, bail, warrant (surety or money posted as bail)"]}
-{"fi": "kehysriihi", "gr": "noun", "en": ["synonym of kehysneuvottelu"]}
 {"fi": "puhuja", "gr": "noun", "en": ["orator, speaker (one who speaks)"]}
 {"fi": "tutkimustieto", "gr": "noun", "en": ["research findings, scientific knowledge, researched information or knowledge"]}
-{"fi": "ravinne", "gr": "noun", "en": ["nutrient (substance that provides nourishment, especially in the context of plants)", "synonym of ravinto (“nutrition”)"]}
 {"fi": "finalisti", "gr": "noun", "en": ["finalist"]}
 {"fi": "sarka", "gr": "noun", "en": ["patch, strip (of field)", "wadmal; a dense, rather coarse, highly fulled woolen fabric (either plain-woven or twilled), less fine, thin and valued than broadcloth (verka)", "field, area, branch", "chance, odds"]}
 {"fi": "asukasluku", "gr": "noun", "en": ["population (number of residents in a given area)"]}
@@ -2917,8 +2808,6 @@
 {"fi": "puro", "gr": "noun", "en": ["stream, streamlet, brook, creek (body of running water smaller than a river)"]}
 {"fi": "rakennushanke", "gr": "noun", "en": ["construction project, development project", "real estate development (group of buildings planned as a whole)"]}
 {"fi": "kyläyhdistys", "gr": "noun", "en": ["village association (residents' association of a village community)"]}
-{"fi": "peto", "gr": "noun", "en": ["predator", "synonym of petoeläin (“carnivore, carnivorous animal”)", "monster, beast"]}
-{"fi": "taulukko", "gr": "noun", "en": ["table, matrix, grid (of data)", "array (arrangement of memory elements)", "synonym of taulu (“table”)"]}
 {"fi": "äänimäärä", "gr": "noun", "en": ["number of votes"]}
 {"fi": "sijoituspaikka", "gr": "noun", "en": ["location, site (place where something is or is going to be located)"]}
 {"fi": "pääkirjasto", "gr": "noun", "en": ["main library"]}
@@ -2975,7 +2864,6 @@
 {"fi": "liigajoukkue", "gr": "noun", "en": ["league team (team playing in a league)"]}
 {"fi": "terveydenhoito", "gr": "noun", "en": ["health care (prevention, treatment, and management of illnesses)"]}
 {"fi": "divisioona", "gr": "noun", "en": ["division (a military unit)"]}
-{"fi": "käräjät", "gr": "noun", "en": ["a session of a rural district court before the reform of 1993", "thing, Thing (public assembly or judicial council)", "(legal) trial", "synonym of käräjäoikeus (“District Court”)"]}
 {"fi": "kemppi", "gr": "noun", "en": ["An insect of the superfamily Psylloidea."]}
 {"fi": "marginaali", "gr": "noun", "en": ["margin", "margin (interest) rate (in a loan) (an additional amount added to a reference interest rate to get the final interest rate of a loan)"]}
 {"fi": "alkusyksy", "gr": "noun", "en": ["early autumn"]}
@@ -2996,7 +2884,6 @@
 {"fi": "liigaottelu", "gr": "noun", "en": ["league match"]}
 {"fi": "mieliala", "gr": "noun", "en": ["mood (emotional state)"]}
 {"fi": "arkeologi", "gr": "noun", "en": ["archeologist"]}
-{"fi": "itku", "gr": "noun", "en": ["cry, crying (shedding of tears)", "synonym of itkuvirsi (“(traditional Finnic) lament/dirge”)"]}
 {"fi": "talvikausi", "gr": "noun", "en": ["winter season"]}
 {"fi": "ääretön", "gr": "noun", "en": ["infinity (number)", "infinity (symbol)"]}
 {"fi": "mänty", "gr": "noun", "en": ["pine (tree of the genus Pinus)", "pine, pinewood (wood of pine tree)", "Scots pine, Pinus sylvestris"]}
@@ -3005,7 +2892,6 @@
 {"fi": "tarvike", "gr": "noun", "en": ["accessory, article, utensil, necessity (object or item that is useful or essential for some purpose)", "gear, equipment, supplies"]}
 {"fi": "tutkimusprofessori", "gr": "noun", "en": ["research professor"]}
 {"fi": "alasajo", "gr": "noun", "en": ["shutdown, especially a step-wise process of stopping a system such as an industrial process or a business in a controlled manner"]}
-{"fi": "lennokki", "gr": "noun", "en": ["model aircraft (model aircraft capable of flying)", "UAV, drone", "synonym of paperilennokki (“paper airplane”)"]}
 {"fi": "sotaharjoitus", "gr": "noun", "en": ["war game, wargame (US), military exercises, field exercise (full-scale rehearsal of military maneuvers as practice for warfare)"]}
 {"fi": "iva", "gr": "noun", "en": ["ridicule, sarcasm, mockery, derision", "irony"]}
 {"fi": "house", "gr": "noun", "en": ["house music, house (a genre of music)"]}
@@ -3016,7 +2902,6 @@
 {"fi": "osio", "gr": "noun", "en": ["item, section (part of a text)", "segment (part of a broadcast program, devoted to a topic)", "partition (formatted section of a mass storage medium)"]}
 {"fi": "viestintäministeriö", "gr": "noun", "en": ["ministry of communications"]}
 {"fi": "koetus", "gr": "noun", "en": ["test, challenge, trial, ordeal"]}
-{"fi": "terä", "gr": "noun", "en": ["blade, edge", "head (end of an axe)", "crown (part of a tooth above the gums)", "synonym of teriö (“corolla”)", "synonym of kehrä (“the sun or moon thought of as a disk that rolls along the firmament”)", "synonym of tähkä (“ear of grain”)", "terminal part of a limb", "the degree of sharpness of a cutting tool"]}
 {"fi": "tappioputki", "gr": "noun", "en": ["losing streak"]}
 {"fi": "yhtenäisyys", "gr": "noun", "en": ["cohesion, unity", "uniformity", "conformity", "coherence, consistency", "harmoniousness, harmony, wholeness", "connectedness"]}
 {"fi": "lausuntokierros", "gr": "noun", "en": ["circulation for comment, consultation round (especially in Australia), public consultation, consultation, public comment"]}
@@ -3169,7 +3054,6 @@
 {"fi": "tuotantoyhtiö", "gr": "noun", "en": ["production company"]}
 {"fi": "paperitehdas", "gr": "noun", "en": ["paper mill"]}
 {"fi": "valtaus", "gr": "noun", "en": ["takeover (time or event in which control or authority changes hands, especially unwillingly over a facility)", "conquest (that which is conquered; possession gained by force)", "takeover (purchase of one company by another, especially where some stakeholders in the purchased company oppose the purchase)", "claim, mining claim (claim of the right to extract minerals from a tract of public, or, depending on jurisdiction, private land; the piece of land claimed)", "claiming/assuming the ownership of property, especially movables but historically also land, which has no owner or has been abandoned by its owner"]}
-{"fi": "kontio", "gr": "noun", "en": ["synonym of karhu (“bear”)"]}
 {"fi": "parvi", "gr": "noun", "en": ["group of (water or flying) animals", "brood (of chickens)", "group of (water or flying) animals", "flock (of birds)", "group of (water or flying) animals", "muster (of peafowl)", "group of (water or flying) animals", "kettle (of flying hawks)", "group of (water or flying) animals", "swarm (of insects)", "group of (water or flying) animals", "school (of fish or marine mammals such as dolphins or whales)", "group of (water or flying) animals", "pod (of marine mammals)", "group of (water or flying) animals", "gam (of whales)", "group of (water or flying) animals", "cast (of crabs)", "group, cluster", "cluster", "balcony, loft, gallery"]}
 {"fi": "lakkautus", "gr": "noun", "en": ["abolition, closing down, termination, cessation, shutdown"]}
 {"fi": "jatkosota", "gr": "noun", "en": ["Continuation War, War of Continuation (war fought between the Soviet Union and Finland in 1941-44)"]}
@@ -3196,12 +3080,10 @@
 {"fi": "karsi", "gr": "noun", "en": ["char, that has been burned and charred", "snuff (black, burnt remains of a wick in a candle)", "skarn; a silicate rock that occurs on the fringes of limestone"]}
 {"fi": "julkisivu", "gr": "noun", "en": ["facade, façade"]}
 {"fi": "poliisiauto", "gr": "noun", "en": ["police car"]}
-{"fi": "ulottuvuus", "gr": "noun", "en": ["dimension", "dimension (number of independent coordinates)", "dimension", "dimension (number of elements of any basis of a vector space)", "dimension", "dimension (any of the independent ranges of indices in a multidimensional array)", "dimension", "synonym of dimensio (“dimension (one of the physical properties that are regarded as fundamental measures of a physical quantity)”)", "reach (the extent to which something can reach)"]}
 {"fi": "ylpeys", "gr": "noun", "en": ["pride"]}
 {"fi": "skenaario", "gr": "noun", "en": ["scenario"]}
 {"fi": "painoarvo", "gr": "noun", "en": ["weight, importance, value (degree of importance)", "clout (political influence or effectiveness)", "importance, noteworthiness (quality or condition of being important or worthy of note)"]}
 {"fi": "ensihoitaja", "gr": "noun", "en": ["paramedic, emergency medical technician"]}
-{"fi": "tammi", "gr": "noun", "en": ["oak (any tree or shrub of the genus Quercus)", "pedunculate oak, Quercus robur", "checkers, draughts (boardgame)", "king (doubled piece in checkers)", "heart, core, axis", "synonym of pato (“dam”)"]}
 {"fi": "purkutyö", "gr": "noun", "en": ["demolition work, dismantling work"]}
 {"fi": "status", "gr": "noun", "en": ["status (a person's position or standing; high standing)"]}
 {"fi": "kiertotie", "gr": "noun", "en": ["detour"]}
@@ -3209,11 +3091,9 @@
 {"fi": "multa", "gr": "noun", "en": ["mold, mull (humus); soil or earth suitable for growing plants, a mixture of mineral soil and humus", "earth (especially as that which covers the dead)"]}
 {"fi": "arkkipiispa", "gr": "noun", "en": ["archbishop"]}
 {"fi": "vietto", "gr": "noun", "en": ["celebration (of a holiday, birthday, etc.)", "something on which time is spent", "gradient, declivity, slope, slant"]}
-{"fi": "indeksi", "gr": "noun", "en": ["synonym of hakemisto (“index”) (listing)", "index (single number calculated from an array of prices or quantities)", "index (number representing a property or ratio)", "superscript or subscript (text offset vertically from the rest of the text on the same line and often smaller, for marking references, footnotes, etc.)", "index (numeral suffix, in e.g. summation)", "index (key indicating location of data)", "index (data structure that improves the performance of operations on a table)", "index (type of noun where the meaning of the form changes with respect to the context)"]}
 {"fi": "takaraja", "gr": "noun", "en": ["rear boundary or limit", "rear boundary or limit", "baseline", "deadline"]}
 {"fi": "kustantaja", "gr": "noun", "en": ["publisher (of books or other print media)"]}
 {"fi": "kuutti", "gr": "noun", "en": ["seal pup"]}
-{"fi": "pila", "gr": "noun", "en": ["practical joke, jest, prank", "synonym of vitsi (“joke, jest”)"]}
 {"fi": "seuraamus", "gr": "noun", "en": ["sanction (penalty, punishment, or some coercive measure, intended to ensure compliance)", "consequence, repercussion"]}
 {"fi": "kauppahinta", "gr": "noun", "en": ["The final price at which a deal is concluded; used normally of items such as property for which the price is negotiated individually."]}
 {"fi": "metsätalous", "gr": "noun", "en": ["forestry (art and practice of cultivating, exploiting and renewing forests for commercial purposes)"]}
@@ -3229,7 +3109,6 @@
 {"fi": "apuväline", "gr": "noun", "en": ["ancillary, tool, aid, material aid (implement or device that serves an ancillary function)"]}
 {"fi": "turvallisuuspolitiikka", "gr": "noun", "en": ["security policy; security politics"]}
 {"fi": "työllisyysaste", "gr": "noun", "en": ["employment rate, employment-to-population ratio"]}
-{"fi": "kirjaus", "gr": "noun", "en": ["entry, record, booking", "registration", "synonym of kirjaaminen"]}
 {"fi": "väittely", "gr": "noun", "en": ["argument, debate"]}
 {"fi": "harakka", "gr": "noun", "en": ["magpie (bird of the genus Pica)", "Eurasian magpie, common magpie, magpie, Pica pica"]}
 {"fi": "pistemies", "gr": "noun", "en": ["scorer, someone who gets/got points"]}
@@ -3255,7 +3134,6 @@
 {"fi": "järjestyksenvalvoja", "gr": "noun", "en": ["an individual to whom certain police rights have been granted for a specific location and a limited time; security steward, bouncer, peace officer, proctor, community service officer, security guard"]}
 {"fi": "päärooli", "gr": "noun", "en": ["leading role"]}
 {"fi": "kansannousu", "gr": "noun", "en": ["uprising, popular revolt"]}
-{"fi": "yläaste", "gr": "noun", "en": ["synonym of yläkoulu"]}
 {"fi": "tovi", "gr": "noun", "en": ["moment, while"]}
 {"fi": "kauppahalli", "gr": "noun", "en": ["market hall, indoor market"]}
 {"fi": "ponnistus", "gr": "noun", "en": ["effort, exertion", "takeoff (in long jump and similar sports, the act that sends the athlete in the air)"]}
@@ -3305,7 +3183,6 @@
 {"fi": "äijä", "gr": "noun", "en": ["old man; geezer, gaffer", "guy, bloke, dude", "bro, man (used for generally addressing a man)", "real man, tough guy", "player character"]}
 {"fi": "santa", "gr": "noun", "en": ["sand"]}
 {"fi": "lohtu", "gr": "noun", "en": ["comfort, consolation, solace"]}
-{"fi": "hilla", "gr": "noun", "en": ["cloudberry, Rubus chamaemorus", "synonym of hillo (“jam, jelly”)"]}
 {"fi": "valtti", "gr": "noun", "en": ["trump", "trump, advantage (especially one held in reserve)"]}
 {"fi": "vesilaitos", "gr": "noun", "en": ["waterworks (water supply system; any single facility, such as a filtration plant or pumping station, within such a system)", "water-powered facility (e.g. a sawmill, grain mill or power plant)"]}
 {"fi": "rumpali", "gr": "noun", "en": ["drummer"]}
@@ -3314,7 +3191,6 @@
 {"fi": "tankki", "gr": "noun", "en": ["tank (container)", "tank (armoured fighting vehicle)"]}
 {"fi": "naaras", "gr": "noun", "en": ["female (female animal)"]}
 {"fi": "sarjakärki", "gr": "noun", "en": ["lead in a series"]}
-{"fi": "nauta", "gr": "noun", "en": ["cattle; cow, bull (animal of the species Bos taurus, regardless of gender or age)", "synonym of naudanliha (“beef”)"]}
 {"fi": "kino", "gr": "noun", "en": ["cinema"]}
 {"fi": "luonnonsuojelualue", "gr": "noun", "en": ["conservation area, protected area"]}
 {"fi": "keuhko", "gr": "noun", "en": ["lung (organ for breathing)"]}
@@ -3371,8 +3247,6 @@
 {"fi": "kuvakaappaus", "gr": "noun", "en": ["screenshot"]}
 {"fi": "sadekuuro", "gr": "noun", "en": ["rain shower, shower (fall of light rain)"]}
 {"fi": "työväenpuolue", "gr": "noun", "en": ["Labour Party"]}
-{"fi": "katsaus", "gr": "noun", "en": ["overview, review", "survey, summary", "synonym of katsausartikkeli (“review article”)"]}
-{"fi": "meteli", "gr": "noun", "en": ["noise, racket", "synonym of jatuli (“a sort of giant”)", "a crime of intentionally endangering public safety or making a threat of violence against a public officer"]}
 {"fi": "kuolleisuus", "gr": "noun", "en": ["death rate, mortality"]}
 {"fi": "saapas", "gr": "noun", "en": ["boot (shoe)"]}
 {"fi": "kokoomuslainen", "gr": "noun", "en": ["A member or supporter of Kokoomus (Coalition) party."]}
@@ -3386,7 +3260,6 @@
 {"fi": "paalupaikka", "gr": "noun", "en": ["pole position"]}
 {"fi": "terveystarkastus", "gr": "noun", "en": ["physical, health check or assessment"]}
 {"fi": "teräs", "gr": "noun", "en": ["steel (alloy of iron and carbon)", "steel (extreme hardness or resilience)", "steel (bullets, projectiles)"]}
-{"fi": "vasa", "gr": "noun", "en": ["fawn, calf (of e.g. a deer, elk or antelope)", "synonym of vasikka (“calf (of a cow)”)", "joist"]}
 {"fi": "taite", "gr": "noun", "en": ["fold (result of folding; a place where something folds or is folded)", "turn, bend, crook (place where something turns sharply)", "hip (inclined external angle formed by the intersection of two sloping roof planes)", "turn (the point in time between two periods of equal or approximately equal length; the beginning or end of a period of time)"]}
 {"fi": "sumu", "gr": "noun", "en": ["fog, mist", "nebula"]}
 {"fi": "autokauppa", "gr": "noun", "en": ["car dealership"]}
@@ -3404,7 +3277,6 @@
 {"fi": "maailmantalous", "gr": "noun", "en": ["world economy"]}
 {"fi": "proteiini", "gr": "noun", "en": ["protein"]}
 {"fi": "psykiatria", "gr": "noun", "en": ["psychiatry"]}
-{"fi": "raivo", "gr": "noun", "en": ["fury, rage, wrath", "synonym of takaraivo (“back of the head”)"]}
 {"fi": "panimo", "gr": "noun", "en": ["brewery"]}
 {"fi": "spekulaatio", "gr": "noun", "en": ["speculation"]}
 {"fi": "vaalivoitto", "gr": "noun", "en": ["election victory, electoral victory"]}
@@ -3440,7 +3312,6 @@
 {"fi": "tapaninpäivä", "gr": "noun", "en": ["St. Stephen's Day (December 26, coinciding with Boxing Day)"]}
 {"fi": "ranska", "gr": "noun", "en": ["French (language)"]}
 {"fi": "metso", "gr": "noun", "en": ["wood grouse, capercaillie, Tetrao urogallus (large, black bird of grouse family)"]}
-{"fi": "yläkerta", "gr": "noun", "en": ["upper floor, upper storey; upstairs", "top floor, top storey", "synonym of yliö", "heaven", "cocaine"]}
 {"fi": "idoli", "gr": "noun", "en": ["idol"]}
 {"fi": "oletus", "gr": "noun", "en": ["assumption, supposition", "default"]}
 {"fi": "piippo", "gr": "noun", "en": ["woodrush (plant of the genus Luzula)", "the genus Luzula"]}
@@ -3449,8 +3320,6 @@
 {"fi": "opastus", "gr": "noun", "en": ["guiding, instruction, briefing"]}
 {"fi": "äänestyspaikka", "gr": "noun", "en": ["polling station (UK, Aus., Can.), voting station (US), polling place (place where voters go to cast their ballot)"]}
 {"fi": "varustamo", "gr": "noun", "en": ["shipping company"]}
-{"fi": "salasana", "gr": "noun", "en": ["password (string used for authentication)", "synonym of tunnussana (“password (secret word used to gain admittance)”)"]}
-{"fi": "muistio", "gr": "noun", "en": ["memorandum, memo (short note serving as a reminder; written business communication; brief diplomatic communication)", "synonym of muistilehtiö (“notepad”)"]}
 {"fi": "autotalli", "gr": "noun", "en": ["garage (place to store a car, etc.)"]}
 {"fi": "järkytys", "gr": "noun", "en": ["shock, jolt (surprise)"]}
 {"fi": "yhteisövero", "gr": "noun", "en": ["corporate tax (tax levied on profit of corporations)"]}
@@ -3458,7 +3327,6 @@
 {"fi": "villisika", "gr": "noun", "en": ["wild boar, boar (Sus scrofa)"]}
 {"fi": "valtakunnansovittelija", "gr": "noun", "en": ["conciliator general, national conciliator (a public official that is responsible for helping to conciliate or mediate labor disputes)"]}
 {"fi": "kevättalvi", "gr": "noun", "en": ["Late winter or early spring; the time between actual winter and spring."]}
-{"fi": "käyminen", "gr": "noun", "en": ["verbal noun of käydä", "fermentation", "verbal noun of käydä", "going, visiting", "verbal noun of käydä", "going by (of time or a clock)", "verbal noun of käydä", "walking", "verbal noun of käydä", "synonym of käynti (“gait, walk”)"]}
 {"fi": "lajike", "gr": "noun", "en": ["cultivar"]}
 {"fi": "palatsi", "gr": "noun", "en": ["palace"]}
 {"fi": "vesitorni", "gr": "noun", "en": ["water tower"]}
@@ -3485,7 +3353,6 @@
 {"fi": "puristus", "gr": "noun", "en": ["press, squeeze, compression"]}
 {"fi": "suure", "gr": "noun", "en": ["quantity", "quantity, physical quantity"]}
 {"fi": "sademäärä", "gr": "noun", "en": ["rainfall, precipitation (amount of rain)"]}
-{"fi": "moite", "gr": "noun", "en": ["rebuke, reproof, reproach, blame", "synonym of moitekanne"]}
 {"fi": "alkuaika", "gr": "noun", "en": ["starting time, start time", "early time(s), early period"]}
 {"fi": "kampanjointi", "gr": "noun", "en": ["campaigning"]}
 {"fi": "erityisasiantuntija", "gr": "noun", "en": ["specialist, specialized expert"]}
@@ -3659,7 +3526,6 @@
 {"fi": "ruuma", "gr": "noun", "en": ["cargo hold, hold", "cargo hold, cargo bin, luggage hold (compartment in the plane used to transport check-in luggage)", "room"]}
 {"fi": "teurastamo", "gr": "noun", "en": ["slaughterhouse, abattoir"]}
 {"fi": "itäpuoli", "gr": "noun", "en": ["eastern side, eastside"]}
-{"fi": "säde", "gr": "noun", "en": ["beam, ray (of light)", "beam, ray (of radiation)", "radius", "synonym of kipinä (“spark”)"]}
 {"fi": "testamentti", "gr": "noun", "en": ["will (a legal document stating who is to receive a person's estate and assets after his/her death)", "testament"]}
 {"fi": "europarlamentti", "gr": "noun", "en": ["European Parliament"]}
 {"fi": "pääsykoe", "gr": "noun", "en": ["entrance examination (examination used by an educational institution to select which students it will grant admission to)"]}
@@ -3715,13 +3581,11 @@
 {"fi": "kaavamuutos", "gr": "noun", "en": ["rezoning"]}
 {"fi": "puolukka", "gr": "noun", "en": ["lingonberry, cowberry, Vaccinium vitis-idaea", "lingonberry, cowberry, Vaccinium vitis-idaea", "picking lingonberries (as a personal activity; used together with verbs like olla (“to be”), mennä (“to go”), lähteä (“to leave and go”), käydä (“to go and come back”))", "plant in the genus Vaccinium", "genus Vaccinium"]}
 {"fi": "huoltotyö", "gr": "noun", "en": ["maintenance work"]}
-{"fi": "perus", "gr": "noun", "en": ["synonym of perustus (“foundation”)"]}
 {"fi": "kunnianosoitus", "gr": "noun", "en": ["homage, tribute (demonstration of respect)", "homage (artistic work imitating another in a flattering style)", "salute (formal gesture to indicate honor/honour)", "recognition (honour, favorable note or gesture)"]}
 {"fi": "työnjako", "gr": "noun", "en": ["division of labour (separation of work into different categories or tasks)", "division of work, assignment of tasks"]}
 {"fi": "luoja", "gr": "noun", "en": ["creator"]}
 {"fi": "mekanismi", "gr": "noun", "en": ["mechanism"]}
 {"fi": "satakuntalainen", "gr": "noun", "en": ["A person from Satakunta."]}
-{"fi": "tiedotus", "gr": "noun", "en": ["announcing, announcement; informing, information; providing information or guidance (e.g. to the public)", "synonym of tiedote (“a bulletin, an announcement, a notice; an instance of announcing, of providing information or guidance (e.g. to the public), or something thus provided”)"]}
 {"fi": "muikku", "gr": "noun", "en": ["vendace, Coregonus albula (Eurasian species of fish in the Salmonidae family)", "Used also of some closely related North American species of the genus Coregonus, called cisco in English, usually as part of a compound term as in amerikanmuikku (“Coregonus artedi”)."]}
 {"fi": "kirjastoauto", "gr": "noun", "en": ["bookmobile, bookbus, mobile library"]}
 {"fi": "kehitysmaa", "gr": "noun", "en": ["developing country"]}
@@ -3748,7 +3612,6 @@
 {"fi": "riistanhoitoyhdistys", "gr": "noun", "en": ["game management association"]}
 {"fi": "vastapuoli", "gr": "noun", "en": ["opponent, opposing side", "opposing litigant, opposing side (the party in a lawsuit one is litigating against)", "counterparty (other party to a financial transaction)", "counterparty (other party to a contract)", "opposite side of anything"]}
 {"fi": "edustus", "gr": "noun", "en": ["representation", "the right to represent a product, brand, etc.; agency", "representation; actions done to represent one's business, etc., to (actual or potential) customers (roughly equivalent to e.g. 'meals and entertainment' in US business taxation)"]}
-{"fi": "verho", "gr": "noun", "en": ["curtain, drape (piece of cloth covering a window)", "covering, veil, shroud (anything which covers)", "hull, envelope", "synonym of sälekaihdin (“window blind”)"]}
 {"fi": "dialogi", "gr": "noun", "en": ["dialogue/dialog"]}
 {"fi": "huippupelaaja", "gr": "noun", "en": ["top player"]}
 {"fi": "merivoimat", "gr": "noun", "en": ["navy"]}
@@ -3775,7 +3638,6 @@
 {"fi": "lääkehoito", "gr": "noun", "en": ["medicinal treatment, drug treatment, pharmacotherapy"]}
 {"fi": "alokas", "gr": "noun", "en": ["recruit, rookie (newly enlisted soldier)"]}
 {"fi": "ehdokaslista", "gr": "noun", "en": ["list of candidates, ballot"]}
-{"fi": "ahma", "gr": "noun", "en": ["wolverine, glutton (Gulo gulo)", "synonym of ahmatti (“glutton”)"]}
 {"fi": "erikoistutkija", "gr": "noun", "en": ["A job title for a researcher advanced in and/or specialised in a certain field of research; specialist researcher, senior researcher."]}
 {"fi": "olympiajoukkue", "gr": "noun", "en": ["Olympic team"]}
 {"fi": "asiantuntemus", "gr": "noun", "en": ["expertise (great knowledge in a particular field or hobby)"]}
@@ -3799,7 +3661,6 @@
 {"fi": "kesätyöpaikka", "gr": "noun", "en": ["summer job"]}
 {"fi": "luento", "gr": "noun", "en": ["lecture (especially one given in a higher learning institution as part of the curriculum)"]}
 {"fi": "noki", "gr": "noun", "en": ["soot (fine black or dull brown particles)", "black spores of ustilago or stripe smut (fungus) that cause plant diseases"]}
-{"fi": "sotku", "gr": "noun", "en": ["mess, hash, hodgepodge (disagreeable mixture or confusion of things)", "mess, tangle, snafu, hodgepodge (something in disarray)", "synonym of sotilaskoti"]}
 {"fi": "parta", "gr": "noun", "en": ["beard (facial hair on humans)", "beard (an appendage of some animals, e.g. birds or goats, that looks similar to the facial hair on humans)", "beard (curved underside of an axehead)", "beard, harmonic bridge (on an organ pipe or a flue pipe)"]}
 {"fi": "poliklinikka", "gr": "noun", "en": ["outpatient clinic, policlinic"]}
 {"fi": "valtionavustus", "gr": "noun", "en": ["state grant, state subsidy, state aid"]}
@@ -3812,7 +3673,6 @@
 {"fi": "biopolttoaine", "gr": "noun", "en": ["biofuel"]}
 {"fi": "hiilijalanjälki", "gr": "noun", "en": ["carbon footprint"]}
 {"fi": "nahka", "gr": "noun", "en": ["leather (tough material produced from the skin of animals)", "skin (skin of an individual animal used by humans for clothing, upholstery, etc., either with fur or unhaired)", "skin of a human being"]}
-{"fi": "pihamaa", "gr": "noun", "en": ["synonym of piha"]}
 {"fi": "pöllö", "gr": "noun", "en": ["owl", "fool"]}
 {"fi": "epätietoisuus", "gr": "noun", "en": ["uninformedness, unawareness"]}
 {"fi": "raide", "gr": "noun", "en": ["track, railroad track (pair of formed steel rails, separated and supported usually on wooden or concrete ties or sleepers, for trains to run on)", "track, groove, rut (left by a wheel, a skid of a sleigh, etc.)"]}
@@ -3885,7 +3745,6 @@
 {"fi": "auttaja", "gr": "noun", "en": ["helper (one who helps)"]}
 {"fi": "ihmiskauppa", "gr": "noun", "en": ["human trafficking"]}
 {"fi": "luovutus", "gr": "noun", "en": ["extradition (a formal process by which a criminal suspect is handed over to another government)", "donation (of blood, organs, etc.)", "release, surrender (of property)", "release, surrender (of property)", "transfer, relinquishment (conveying the ownership of property away from oneself)", "cession (that which is ceded)", "disposition, disposal", "giving up, forfeiting"]}
-{"fi": "tykki", "gr": "noun", "en": ["large gun, especially one with a calibre of more than 20 millimeters", "cannon, artillery piece", "Something that may be compared to a gun by e.g. form, function or effectiveness.", "any gun, even a handgun", "syringe", "synonym of tykkipitsi"]}
 {"fi": "asiakaskunta", "gr": "noun", "en": ["clientele, patronage, customer base (customers collectively)"]}
 {"fi": "elämäkerta", "gr": "noun", "en": ["biography (personal life story)"]}
 {"fi": "koostumus", "gr": "noun", "en": ["composition, constitution (proportion of different parts to make a whole)", "texture, consistency (as in e.g. food)"]}
@@ -3893,7 +3752,6 @@
 {"fi": "kuvituskuva", "gr": "noun", "en": ["illustration (picture designed to decorate)", "file photo (photograph that is representative of the subject of a news story, but that has been selected from a news organization's existing photo library, and may not represent the exact or particular details of the story in question)"]}
 {"fi": "runous", "gr": "noun", "en": ["poetry"]}
 {"fi": "erilaisuus", "gr": "noun", "en": ["difference (quality of being different)"]}
-{"fi": "lähete", "gr": "noun", "en": ["referral (act or process of transferring someone or something to another, of sending by reference, or referring)", "synonym of lähetys (“broadcast”)"]}
 {"fi": "iltavuoro", "gr": "noun", "en": ["evening shift"]}
 {"fi": "käsiala", "gr": "noun", "en": ["handwriting (characteristic writing of a person)", "the characteristic, distinct style of a person (in art, etc.)"]}
 {"fi": "päätöslauselma", "gr": "noun", "en": ["resolution (a formal statement adopted by an assembly)"]}
@@ -3928,7 +3786,6 @@
 {"fi": "televisiokanava", "gr": "noun", "en": ["television channel (radio frequency or band of frequencies used for transmitting television)", "television channel (station or broadcaster using the band)"]}
 {"fi": "hämäläinen", "gr": "noun", "en": ["Tavastian, Tavastlander (a person living in or originating from the area of the historical province of Tavastia or Häme)"]}
 {"fi": "hätänumero", "gr": "noun", "en": ["emergency number"]}
-{"fi": "ala-aste", "gr": "noun", "en": ["synonym of alakoulu"]}
 {"fi": "rapu", "gr": "noun", "en": ["European crayfish, noble crayfish, broad-fingered crayfish, Astacus astacus", "signal crayfish, Pacifastacus leniusculus", "crayfish, crawfish (Southern US), crawdad (central and western US), freshwater lobster, mountain lobster, mudbug (US, rare), yabby (Australia) (freshwater decapod crustacean resembling small lobster)", "decapod (any crustacean of the order Decapoda)", "crab"]}
 {"fi": "valtionyhtiö", "gr": "noun", "en": ["state-owned company, state-owned enterprise (company in which the state owns at least half of the shares)"]}
 {"fi": "keisari", "gr": "noun", "en": ["emperor"]}
@@ -3940,11 +3797,9 @@
 {"fi": "hinnannousu", "gr": "noun", "en": ["price increase, markup"]}
 {"fi": "uoma", "gr": "noun", "en": ["riverbed, channel, streambed", "normal state of affairs (used primarily in the expression asettua uomiinsa (“to settle down into normal state”))"]}
 {"fi": "aasialainen", "gr": "noun", "en": ["Asian (person)", "Asian flu (form of influenza that caused a pandemic in 1950s)"]}
-{"fi": "kappeli", "gr": "noun", "en": ["chapel", "synonym of kappeliseurakunta"]}
 {"fi": "kilpi", "gr": "noun", "en": ["shield (broad piece of defensive armor)", "escutcheon (the shield on which a coat of arms is displayed)", "shield (large, flat expanse)", "sign (clearly visible object, generally flat, bearing a short message in words or pictures)", "sign (clearly visible object, generally flat, bearing a short message in words or pictures)", "shield (a sign or symbol identifying a highway route)", "plate, number plate, license plate"]}
 {"fi": "timantti", "gr": "noun", "en": ["diamond (material)", "diamond (precious stone)"]}
 {"fi": "abi", "gr": "noun", "en": ["A candidate for the matriculation examination."]}
-{"fi": "laiska", "gr": "noun", "en": ["synonym of laiskuri (“slob”)", "imposition (task imposed as punishment in school, especially of having to do homework after class when it was left undone)"]}
 {"fi": "pankkitili", "gr": "noun", "en": ["bank account"]}
 {"fi": "sarjapaikka", "gr": "noun", "en": ["spot on a league or division"]}
 {"fi": "jatkaja", "gr": "noun", "en": ["One who continues."]}
@@ -4104,7 +3959,6 @@
 {"fi": "kauppakatu", "gr": "noun", "en": ["shopping street"]}
 {"fi": "tae", "gr": "noun", "en": ["guarantee", "Something made of wrought iron, a forged object."]}
 {"fi": "espanja", "gr": "noun", "en": ["Spanish (language)"]}
-{"fi": "duo", "gr": "noun", "en": ["duo (twosome of musicians performing together)", "synonym of kaksikko (“twosome, pair”) (often with a modifier)"]}
 {"fi": "aluepäällikkö", "gr": "noun", "en": ["regional manager, district manager"]}
 {"fi": "iskulause", "gr": "noun", "en": ["slogan, catchphrase"]}
 {"fi": "naapurusto", "gr": "noun", "en": ["neighborhood, neighbourhood"]}
@@ -4114,7 +3968,6 @@
 {"fi": "puutalo", "gr": "noun", "en": ["wooden house"]}
 {"fi": "mobiilisovellus", "gr": "noun", "en": ["mobile application, app (software perceived as a tool for a well-defined purpose and installed on a mobile device)"]}
 {"fi": "paratiisi", "gr": "noun", "en": ["paradise"]}
-{"fi": "edus", "gr": "noun", "en": ["synonym of edusta (“front (of a house, etc.)”)", "representation"]}
 {"fi": "päätekijä", "gr": "noun", "en": ["principal (primary participant in a crime)"]}
 {"fi": "aamupala", "gr": "noun", "en": ["breakfast (especially a less formal or organized breakfast)"]}
 {"fi": "joustavuus", "gr": "noun", "en": ["flexibility (the quality of being flexible)"]}
@@ -4127,7 +3980,6 @@
 {"fi": "oleskelu", "gr": "noun", "en": ["staying or being somewhere; a stay, a sojourn", "residence, act of (legally) residing"]}
 {"fi": "jumi", "gr": "noun", "en": ["(muscle) stiffness, e.g. in the neck", "sulk, sulking person", "wood borer, woodworm (any of several insects and their larvae in the family Anobiidae)", "A kind of supernatural creature."]}
 {"fi": "mopoilija", "gr": "noun", "en": ["mopedist"]}
-{"fi": "valkea", "gr": "noun", "en": ["fire, campfire", "synonym of valo (“light”)"]}
 {"fi": "epäonni", "gr": "noun", "en": ["misfortune"]}
 {"fi": "koodi", "gr": "noun", "en": ["code"]}
 {"fi": "kurikka", "gr": "noun", "en": ["beater, mallet, paddle (sturdy and somewhat short instrument for beating, e.g. as a weapon or for washing clothes)"]}
@@ -4164,7 +4016,6 @@
 {"fi": "työnjohtaja", "gr": "noun", "en": ["foreman (leader of a work crew)"]}
 {"fi": "basisti", "gr": "noun", "en": ["bassist"]}
 {"fi": "oivallus", "gr": "noun", "en": ["idea, inspiration, realization, insight"]}
-{"fi": "paska", "gr": "noun", "en": ["shit, crap, turd (excrement)", "bullshit, crap, shit, nonsense (false or exaggerated statements made to impress and deceive the listener rather than inform)", "piece of shit, crap (bad thing, something of poor quality)", "synonym of paskiainen (“piece of shit, sense despicable person”)", "shit, jack shit (nothing, lack of anything of value) (with -kaan)"]}
 {"fi": "ruokapöytä", "gr": "noun", "en": ["dinner table"]}
 {"fi": "veropetos", "gr": "noun", "en": ["tax fraud, tax evasion"]}
 {"fi": "liikehdintä", "gr": "noun", "en": ["motion, movement", "movement, activity, bustle, stir"]}
@@ -4229,7 +4080,6 @@
 {"fi": "apina", "gr": "noun", "en": ["simian (ape, monkey or human; animal belonging to the infraorder Simiiformes within the order Primates)", "monkey (any nonhuman simian primate)", "ape (uncivilized person)"]}
 {"fi": "pöytäkirja", "gr": "noun", "en": ["minutes, proceedings, protocol (record of a meeting; document setting out an agreement reached in a negotiation)"]}
 {"fi": "hakkeri", "gr": "noun", "en": ["hacker (an advanced hobbyist of computer technology, not necessarily one who uses their skill to commit crime)"]}
-{"fi": "parkkihalli", "gr": "noun", "en": ["synonym of pysäköintihalli"]}
 {"fi": "norsu", "gr": "noun", "en": ["elephant"]}
 {"fi": "hallituskumppani", "gr": "noun", "en": ["coalition partner in the government"]}
 {"fi": "virkavalta", "gr": "noun", "en": ["official authority", "bureaucracy", "the authorities, police"]}
@@ -4279,7 +4129,6 @@
 {"fi": "hiihtolatu", "gr": "noun", "en": ["ski trail"]}
 {"fi": "myyrä", "gr": "noun", "en": ["cricetid (rodent of the family Cricetidae which includes true hamsters, voles, lemmings, and New World rats and mice)", "Cricetidae (zoological family Cricetidae)", "vole (any of several species of small rodents in the subfamily Arvicolinae within the family Cricetidae)", "mole (small burrowing insectivore of the family Talpidae)", "mole (internal spy)"]}
 {"fi": "ratsastaja", "gr": "noun", "en": ["rider, equestrian (one who rides a horse)", "slider, sail slide (small pieces attached to the luff of a fore-and-aft mainsail which hold the hoisted sail in its place by sliding into a groove at the aft side of the mast)"]}
-{"fi": "leuka", "gr": "noun", "en": ["jaw (part of the face below the mouth)", "chin (bottom of a face)", "jaw (bone of the jaw)", "jaw (one of a pair of opposing parts which are movable towards or from each other)", "synonym of leuanveto (“pull-up (exercise)”)"]}
 {"fi": "saattohoito", "gr": "noun", "en": ["hospice (provision of palliative care for terminally ill patients)"]}
 {"fi": "tukipalvelu", "gr": "noun", "en": ["support service, help desk"]}
 {"fi": "pubi", "gr": "noun", "en": ["pub, public house"]}
@@ -4293,9 +4142,7 @@
 {"fi": "tervehdys", "gr": "noun", "en": ["greeting", "salute, salutation"]}
 {"fi": "vastaehdokas", "gr": "noun", "en": ["rival candidate (in an election or another process of applying for a position)"]}
 {"fi": "kärkitulos", "gr": "noun", "en": ["leading result, top result"]}
-{"fi": "vieremä", "gr": "noun", "en": ["synonym of vyöry (“(land)slide”)", "slope, bank, hillside"]}
 {"fi": "käyttöaste", "gr": "noun", "en": ["utilization rate"]}
-{"fi": "datakeskus", "gr": "noun", "en": ["synonym of palvelinkeskus"]}
 {"fi": "ilmastointi", "gr": "noun", "en": ["air conditioning"]}
 {"fi": "majuri", "gr": "noun", "en": ["major (in the Finnish Army and the Finnish Air Force, or of equivalents in other militaries) (commissioned officer rank, NATO: OF-3)"]}
 {"fi": "myllerrys", "gr": "noun", "en": ["upheaval, turmoil"]}
@@ -4308,14 +4155,12 @@
 {"fi": "toimikunta", "gr": "noun", "en": ["task force, working group, committee, commission"]}
 {"fi": "jäsenmäärä", "gr": "noun", "en": ["membership count (number of members in an organization)"]}
 {"fi": "perhe-elämä", "gr": "noun", "en": ["family life"]}
-{"fi": "kasvo", "gr": "noun", "en": ["face (front of the head) (always in the plural; see kasvot)", "face, figure", "synonym of kasvu (“growth”)"]}
 {"fi": "liike-elämä", "gr": "noun", "en": ["business world"]}
 {"fi": "palkanmaksu", "gr": "noun", "en": ["payroll, payment of salaries, payment of wages"]}
 {"fi": "turvattomuus", "gr": "noun", "en": ["insecurity (state of being subject to danger; vulnerability)"]}
 {"fi": "hoitokoti", "gr": "noun", "en": ["nursing home, care home"]}
 {"fi": "kotimatka", "gr": "noun", "en": ["home trip, journey home, journey back home (act of traveling home from another location)"]}
 {"fi": "ikävuosi", "gr": "noun", "en": ["year of age"]}
-{"fi": "esiintymä", "gr": "noun", "en": ["occurrence, deposit", "attestation", "synonym of ilmentymä (“instance”)", "token (individual, concrete instance)"]}
 {"fi": "keskipiste", "gr": "noun", "en": ["centre/center point, midpoint"]}
 {"fi": "naula", "gr": "noun", "en": ["nail (spike-shaped fastener, now often made of metal)", "peg (protrusion fixed on the wall on which one can hang a hat, coat, etc.)", "Any of mostly old units of weight roughly equivalent to 300-500 grams.", "pound (Swedish unit of weight equal to 425 grams)", "Any of mostly old units of weight roughly equivalent to 300-500 grams.", "funt, foont (Russian unit of weight equal to 409.5 grams)", "Any of mostly old units of weight roughly equivalent to 300-500 grams.", "pound (unit of weight or mass in the imperial system, now roughly equal to 453.5 grams)", "Any of mostly old units of weight roughly equivalent to 300-500 grams.", "libra (ancient Roman unit of weight, roughly equal to 327 grams)"]}
 {"fi": "kalatalous", "gr": "noun", "en": ["fishing, fishery, fishing industry (fishing as a branch of economy, like agriculture or forestry)"]}
@@ -4405,7 +4250,6 @@
 {"fi": "vasemmistopuolue", "gr": "noun", "en": ["left-wing party (a political party that is regarded as being on the left)"]}
 {"fi": "yrtti", "gr": "noun", "en": ["herb"]}
 {"fi": "äänioikeus", "gr": "noun", "en": ["right to vote, franchise, suffrage, voting right"]}
-{"fi": "lähettiläs", "gr": "noun", "en": ["emissary", "synonym of lähetti (“bishop”)"]}
 {"fi": "maaliero", "gr": "noun", "en": ["goal difference"]}
 {"fi": "valtapuolue", "gr": "noun", "en": ["major party, major political party"]}
 {"fi": "vapautus", "gr": "noun", "en": ["making free: liberation, emancipation", "release, setting free, letting loose (act of setting free)", "exemption, freeing from an obligation", "profile (exemption from certain duty, usually on physical grounds)"]}
@@ -4512,7 +4356,6 @@
 {"fi": "moraali", "gr": "noun", "en": ["moral(s), morality (common concepts of decency)", "moral (moral practice or teaching)", "morale"]}
 {"fi": "kokonaiskustannukset", "gr": "noun", "en": ["total costs, overall costs"]}
 {"fi": "maahanmuuttopolitiikka", "gr": "noun", "en": ["immigration policy"]}
-{"fi": "näppi", "gr": "noun", "en": ["fingertip(s) (when talking about having something on or between one's fingertips)", "the tips of the thumb and another finger or fingers pressed together", "synonym of näpy (“bunt”)"]}
 {"fi": "notkahdus", "gr": "noun", "en": ["bending under weight", "sagging, drooping"]}
 {"fi": "pyry", "gr": "noun", "en": ["snowstorm, blizzard"]}
 {"fi": "talviaika", "gr": "noun", "en": ["wintertime", "standard time (as opposed to daylight saving time)"]}
@@ -4528,7 +4371,6 @@
 {"fi": "mäkiosuus", "gr": "noun", "en": ["a ski jumping segment in Nordic combined"]}
 {"fi": "lisenssi", "gr": "noun", "en": ["license"]}
 {"fi": "voimistelu", "gr": "noun", "en": ["gymnastics", "calisthenics"]}
-{"fi": "kannustin", "gr": "noun", "en": ["incentive (something that motivates)", "synonym of kannus (“spur”)"]}
 {"fi": "myyntipäällikkö", "gr": "noun", "en": ["sales manager", "account manager"]}
 {"fi": "sekajäte", "gr": "noun", "en": ["mixed (municipal) waste (household and municipal waste that cannot be recycled or is not worth recycling)"]}
 {"fi": "koeaika", "gr": "noun", "en": ["probation, probationary period (during which, in Finland, both the employer and employee can terminate the contract)", "period of probation for a suspended prison sentence or conditional imprisonment; suspended sentence period", "trial period, testing period"]}
@@ -4609,7 +4451,6 @@
 {"fi": "loukkaus", "gr": "noun", "en": ["insult, affront", "violation, infringement"]}
 {"fi": "opiskelija-asunto", "gr": "noun", "en": ["student apartment (any dwelling in which a student stays during their studies)"]}
 {"fi": "lätkä", "gr": "noun", "en": ["any relatively flat and small object", "disk", "any relatively flat and small object", "flap", "any relatively flat and small object", "scrap", "any relatively flat and small object", "badge", "any relatively flat and small object", "piece", "paddle (spanking implement)", "hockey puck", "ice hockey", "ID badge, pass card", "hashish"]}
-{"fi": "raivaus", "gr": "noun", "en": ["clearance, clearing (act of clearing, or getting rid of something that is in the way)", "synonym of miinanraivaus (“demining”)"]}
 {"fi": "sotaveteraani", "gr": "noun", "en": ["war veteran"]}
 {"fi": "yhdiste", "gr": "noun", "en": ["compound (substance made by chemical combination of elements)", "union (set containing all of the elements of two or more sets)", "union (union of data in two or more tables)", "union (data structure that can store any of various types of item, but only one at a time)"]}
 {"fi": "ympäristöasia", "gr": "noun", "en": ["environmental issue"]}
@@ -4647,7 +4488,6 @@
 {"fi": "menestystarina", "gr": "noun", "en": ["success story"]}
 {"fi": "jättiläinen", "gr": "noun", "en": ["giant", "A creature often translated as ogre or giant.", "giant, gigantic; sometimes also ogrish"]}
 {"fi": "kirkkoneuvosto", "gr": "noun", "en": ["parish council, church council"]}
-{"fi": "loisto", "gr": "noun", "en": ["glitter, gleam, shine", "A beacon equipped with light, often showing different colours to different directions and blinking according to a recognizable pattern.", "splendor, glory, luster", "luxury", "synonym of loistava (“excellent, superb”)"]}
 {"fi": "määrittely", "gr": "noun", "en": ["specification", "configuration", "definition"]}
 {"fi": "valeuutinen", "gr": "noun", "en": ["a piece of fake news (misleading information presented as news)", "fake news"]}
 {"fi": "kato", "gr": "noun", "en": ["crop failure, failure of crops", "loss, disappearance, lack (used primarily in compound terms)", "loss, omission, elision"]}
@@ -4683,7 +4523,6 @@
 {"fi": "valaisin", "gr": "noun", "en": ["light fixture, luminaire, light fitting, lighting fixture (complete lighting unit attached to a wall or ceiling)", "lamp, light (piece of furniture holding one or more electric light sockets)", "illuminant (something that illuminates)"]}
 {"fi": "palkkalista", "gr": "noun", "en": ["payroll (list of employees who receive salary or wages from a particular organization)"]}
 {"fi": "seniori", "gr": "noun", "en": ["an old person"]}
-{"fi": "aitaus", "gr": "noun", "en": ["An area surrounded by fences; a yard, corral.", "synonym of aitaaminen (“fencing (in/off), building a fence”)"]}
 {"fi": "kallo", "gr": "noun", "en": ["skull, cranium", "head, e.g. in tao se kalloosi \"get it through your thick skull\"", "a smooth and round hard surface"]}
 {"fi": "olento", "gr": "noun", "en": ["being, creature, entity", "essive"]}
 {"fi": "piha-alue", "gr": "noun", "en": ["yard area, garden, grounds"]}
@@ -4715,11 +4554,8 @@
 {"fi": "kani", "gr": "noun", "en": ["rabbit, cony, coney", "pawnshop"]}
 {"fi": "ohjauskorko", "gr": "noun", "en": ["policy rate, key interest rate (interest rate determined by a central bank with which the bank intends to influence market interest rates; typically the annualized rents at which the central bank lends money overnight to or from the commercial banks)"]}
 {"fi": "jatko-osa", "gr": "noun", "en": ["sequel (a narrative written after another narrative set in the same universe)"]}
-{"fi": "lakana", "gr": "noun", "en": ["sheet, bedsheet, bed sheet", "synonym of petivaatteet (“bedclothes, bedlinen”)", "any large square or rectangular piece of textile, especially a banner", "blank card (in a deck of cards, such as one used to replace a missing card)"]}
 {"fi": "muistotilaisuus", "gr": "noun", "en": ["commemoration (celebration designed to honor the memory of some person or event)", "memorial service (informal service honoring a deceased person)"]}
 {"fi": "palvelutalo", "gr": "noun", "en": ["sheltered home, sheltered accommodation, assisted living building"]}
-{"fi": "tonttu", "gr": "noun", "en": ["A miniature mythical humanoid creature believed to live in the forests and in or near people's dwellings, similar to an elf or gnome.", "elf, Christmas elf (Santa's helper)", "fool (person with poor judgment or little intelligence)", "synonym of tonni (“one thousand units of money, one grand”)"]}
-{"fi": "löyly", "gr": "noun", "en": ["the steam that rises from the sauna stove (kiuas) or the heat of the sauna", "sauna bath, sauna (act of taking a bath in a sauna)", "heat, pressure, intensity", "synonym of henki (“spirit”)"]}
 {"fi": "sademetsä", "gr": "noun", "en": ["rainforest"]}
 {"fi": "tuulilasi", "gr": "noun", "en": ["windscreen (UK); windshield (US, Canada) (screen located in front of a vehicle to protect from wind and weather)"]}
 {"fi": "kansanmusiikki", "gr": "noun", "en": ["folk music"]}
