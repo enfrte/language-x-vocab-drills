@@ -61,6 +61,6 @@ describe('LearnXApp', () => {
   });
 
   it('reflects the configured languages', () => {
-    expect(Object.keys(LANGUAGES)).toEqual(['fi', 'mi']);
+    expect(Object.keys(LANGUAGES)).toEqual(['fi', 'mi', 'pd']);
   });
 });

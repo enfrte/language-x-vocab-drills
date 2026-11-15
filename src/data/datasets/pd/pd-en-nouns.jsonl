@@ -1,0 +1,1541 @@
+{"pd":"pigu","gr":"n","en":["can","behind","ass","seat","bottom","butt","tail","tail end","bum","rear","rear end","arse","fanny","stern","buns","backside","hind end","buttocks","rump","tush","posterior","prat","keister","derriere","fundament","hindquarters","nates","tooshie"]}
+{"pd":"tong","gr":"n","en":["can","barrel","gun barrel","cask"]}
+{"pd":"hak","gr":"n","en":["right","entitlement"]}
+{"pd":"ica","gr":"n","en":["will"]}
+{"pd":"volition","gr":"n","en":["will","volition"]}
+{"pd":"kron, vakte","gr":"n","en":["time"]}
+{"pd":"mar","gr":"n","en":["time","number of times","moment in time","horse","instance","clip","occurrence"]}
+{"pd":"okei","gr":"n","en":["okay","OK","O.K.","acceptance","okey","okeh"]}
+{"pd":"posfenomen","gr":"n","en":["back","issue","event","effect","result","outcome","consequence","follow-up","upshot"]}
+{"pd":"hom, homan","gr":"n","en":["man","human","human being","homo"]}
+{"pd":"homania","gr":"n","en":["man","world","human race","humans","human beings","humanity","mankind","humankind"]}
+{"pd":"vir","gr":"n","en":["man"]}
+{"pd":"cut mun","gr":"n","en":["way out","issue","exit","exit door","outlet"]}
+{"pd":"dao","gr":"n","en":["way","road","path","route"]}
+{"pd":"dika","gr":"n","en":["way","target","direction","bearing","objective","orientation"]}
+{"pd":"vei","gr":"n","en":["way","style","fashion","manner","mode"]}
+{"pd":"demo","gr":"n","en":["people","people in general","public","citizenry"]}
+{"pd":"nas","gr":"n","en":["people","folk"]}
+{"pd":"sexama","gr":"n","en":["love","sexual love","erotic love"]}
+{"pd":"sam","gr":"n","en":["even","evening","eve","eventide"]}
+{"pd":"made","gr":"n","en":["thing","matter","substance"]}
+{"pd":"helpe","gr":"n","en":["help","aid","assistance","assist"]}
+{"pd":"statik grafe","gr":"n","en":["still","film frame"]}
+{"pd":"bio","gr":"n","en":["life","organic"]}
+{"pd":"dien","gr":"n","en":["day","twenty-four hour period","twenty-four hours","mean solar day","solar day","24 hours","24-hour interval"]}
+{"pd":"deo","gr":"n","en":["god","God","immortal","deity","divinity"]}
+{"pd":"stude","gr":"n","en":["work","study","work made in order to practise or demonstrate"]}
+{"pd":"fikre","gr":"n","en":["thought","idea"]}
+{"pd":"rai","gr":"n","en":["thought","view","opinion","sentiment","persuasion"]}
+{"pd":"dom","gr":"n","en":["home","house","residence","dwelling","dwelling house","abode","habitation","domicile"]}
+{"pd":"noce","gr":"n","en":["night","dark","nighttime"]}
+{"pd":"fin","gr":"n","en":["last","end","final stage","ending"]}
+{"pd":"sen nien, senita","gr":"n","en":["years","age","old age","eld","geezerhood"]}
+{"pd":"mone, pesa","gr":"n","en":["money"]}
+{"pd":"famil nim","gr":"n","en":["last name","family name","surname","cognomen"]}
+{"pd":"nim","gr":"n","en":["name"]}
+{"pd":"lok","gr":"n","en":["place","position","site","location"]}
+{"pd":"klespatre","gr":"n","en":["Father"]}
+{"pd":"pa, patre","gr":"n","en":["father","dad","papa","male parent","begetter"]}
+{"pd":"banda","gr":"n","en":["lot","set","group","band","tape","squad","circle","strip","ribbon","lace"]}
+{"pd":"lot","gr":"n","en":["lot","draw"]}
+{"pd":"femben","gr":"n","en":["girl","daughter"]}
+{"pd":"jun fem","gr":"n","en":["girl","miss","young woman","young lady","missy","fille"]}
+{"pd":"jen","gr":"n","en":["someone","person","somebody","soul","individual","mortal"]}
+{"pd":"gen","gr":"n","en":["kind","sort","form","variety"]}
+{"pd":"kan","gr":"n","en":["house","house or place for doing something","building","shop","workshop"]}
+{"pd":"karkan","gr":"n","en":["house or place for doing something","building","shop","workshop"]}
+{"pd":"bioter","gr":"n","en":["being","living thing","organism"]}
+{"pd":"esentia","gr":"n","en":["being","existence","essence","beingness"]}
+{"pd":"darse kurse","gr":"n","en":["course","class","course of study","course of instruction"]}
+{"pd":"kurse","gr":"n","en":["course","class","track","course of study","path","course of instruction"]}
+{"pd":"mes faif","gr":"n","en":["May"]}
+{"pd":"cin","gr":"n","en":["mother or father","parent"]}
+{"pd":"ma, matre","gr":"n","en":["mother","mom","mama","female parent"]}
+{"pd":"dunia","gr":"n","en":["world","domain"]}
+{"pd":"Geia, geo","gr":"n","en":["world","earth","Earth","ground","globe","Terra"]}
+{"pd":"uneversia","gr":"n","en":["world","universe","existence","creation","cosmos","macrocosm"]}
+{"pd":"jan","gr":"n","en":["care","attention","focus","attending","caution","heed"]}
+{"pd":"auto, gar, motogar","gr":"n","en":["car","machine","wagon","cart","carriage","auto","automobile","motorcar"]}
+{"pd":"namben","gr":"n","en":["son","boy"]}
+{"pd":"fem","gr":"n","en":["woman","female","adult female"]}
+{"pd":"ruh","gr":"n","en":["mind","head","brain","soul","spirit","psyche","nous"]}
+{"pd":"doste","gr":"n","en":["friend","brother","buddy","pal","chum","sidekick","crony"]}
+{"pd":"narak","gr":"n","en":["hell","Hell","underworld","Hades","infernal region","netherworld","Scheol"]}
+{"pd":"suba","gr":"n","en":["morning","morning time","dawn","morn","forenoon"]}
+{"pd":"jun nam","gr":"n","en":["boy","male child"]}
+{"pd":"sara","gr":"n","en":["saw"]}
+{"pd":"famil","gr":"n","en":["family","family unit"]}
+{"pd":"gener","gr":"n","en":["family","class","category","gender","genre","genus"]}
+{"pd":"bebe","gr":"n","en":["baby","babe","infant"]}
+{"pd":"kamre","gr":"n","en":["room","chamber"]}
+{"pd":"kaka, sit","gr":"n","en":["shit","poop","poo","stool","feces","excrement","fecal matter","faeces","BM","dejection","faecal matter","ordure"]}
+{"pd":"cef","gr":"n","en":["head","boss","top dog","chief"]}
+{"pd":"kap","gr":"n","en":["head","caput"]}
+{"pd":"melodem, tem melodia","gr":"n","en":["idea","theme","musical theme","melodic theme"]}
+{"pd":"handul","gr":"n","en":["hold","handle","grip","hilt","handgrip"]}
+{"pd":"dor","gr":"n","en":["door","gate","hatch"]}
+{"pd":"brad","gr":"n","en":["brother","blood brother"]}
+{"pd":"sen bra","gr":"n","en":["big brother","elder brother"]}
+{"pd":"cana","gr":"n","en":["while","second","minute","moment","instant"]}
+{"pd":"isme","gr":"n","en":["school of thought","way of thinking","philosophy","ideology","philosophical system","doctrine","-ism","ism"]}
+{"pd":"gol","gr":"n","en":["end","goal","destination"]}
+{"pd":"telefon","gr":"n","en":["phone","telephone","telephone set"]}
+{"pd":"drama","gr":"n","en":["play","dramatic play","drama","theatrical play"]}
+{"pd":"asa","gr":"n","en":["hope","wish"]}
+{"pd":"muka","gr":"n","en":["face","human face"]}
+{"pd":"biz","gr":"n","en":["business","activity","commercial activity","business enterprise","commercial enterprise"]}
+{"pd":"sou biz","gr":"n","en":["show business","entertainment industry","show biz"]}
+{"pd":"zar kub","gr":"n","en":["die","dice"]}
+{"pd":"harde, hardia","gr":"n","en":["heart","pump","ticker"]}
+{"pd":"mosim","gr":"n","en":["time of year","season"]}
+{"pd":"nen","gr":"n","en":["year","yr","twelvemonth"]}
+{"pd":"muzik","gr":"n","en":["music"]}
+{"pd":"hande","gr":"n","en":["hand","paw","mitt","manus"]}
+{"pd":"dokter, medik dokter","gr":"n","en":["doctor","Dr.","doc","physician","MD","scholar who has attained doctorate","medico"]}
+{"pd":"sekun","gr":"n","en":["second","s","sec","second(s"]}
+{"pd":"pis","gr":"n","en":["water","piss","pee","urine","piddle","weewee"]}
+{"pd":"sui","gr":"n","en":["water"]}
+{"pd":"parte","gr":"n","en":["part","piece","chip","portion","shred","fragment","crumb","shard","morsel"]}
+{"pd":"rol","gr":"n","en":["part","office","role","function"]}
+{"pd":"minut","gr":"n","en":["minute","min"]}
+{"pd":"baca","gr":"n","en":["kid","child","minor","fry","small fry","youngster","nipper","shaver","tyke","nestling","tiddler","tike"]}
+{"pd":"ben","gr":"n","en":["kid","child"]}
+{"pd":"arak","gr":"n","en":["hard drink","strong drink","spirits","hard liquor","liquor","booze"]}
+{"pd":"cek","gr":"n","en":["check","bank check","cheque"]}
+{"pd":"mineria","gr":"n","en":["mine"]}
+{"pd":"nekre","gr":"n","en":["dead body","remains","clay","corpse","stiff","cadaver"]}
+{"pd":"sona","gr":"n","en":["sleep","slumber"]}
+{"pd":"canse","gr":"n","en":["chance","opportunity"]}
+{"pd":"vun, zar","gr":"n","en":["chance","luck","fortune","hazard"]}
+{"pd":"partia","gr":"n","en":["party","political party"]}
+{"pd":"biblia","gr":"n","en":["Word of God","Holy Book","Bible","Holy Scripture"]}
+{"pd":"lexe","gr":"n","en":["word"]}
+{"pd":"histor","gr":"n","en":["story","history","account","chronicle","annals"]}
+{"pd":"kisa, log","gr":"n","en":["story","tale","narrative","narration"]}
+{"pd":"num","gr":"n","en":["number","quantity"]}
+{"pd":"pation","gr":"n","en":["hurt","suffering"]}
+{"pd":"trauma","gr":"n","en":["hurt","harm","trauma","injury"]}
+{"pd":"baki","gr":"n","en":["rest","remains","balance","residue","remainder","residual","residuum"]}
+{"pd":"zuge","gr":"n","en":["married person","better half","partner","mate","spouse"]}
+{"pd":"flem","gr":"n","en":["fire","flame","flaming"]}
+{"pd":"piro","gr":"n","en":["fire","burning"]}
+{"pd":"rage","gr":"n","en":["fire","fervor","fervour","ardor","ardour","fervency","fervidness"]}
+{"pd":"jok","gr":"n","en":["game"]}
+{"pd":"plot","gr":"n","en":["game","secret plan","plot","scheme","intrigue"]}
+{"pd":"jun sis","gr":"n","en":["little sister","younger sister"]}
+{"pd":"sen sis","gr":"n","en":["big sister","elder sister"]}
+{"pd":"sib","gr":"n","en":["brother or sister","sibling","sib"]}
+{"pd":"sis","gr":"n","en":["sister","sis"]}
+{"pd":"mid","gr":"n","en":["the part in between","middle"]}
+{"pd":"hakita","gr":"n","en":["truth"]}
+{"pd":"hemo","gr":"n","en":["blood"]}
+{"pd":"fragtur","gr":"n","en":["break","fracture"]}
+{"pd":"paus","gr":"n","en":["break","pause","suspension","interruption","intermission"]}
+{"pd":"matropol","gr":"n","en":["city","urban center","metropolis"]}
+{"pd":"pol","gr":"n","en":["city","town"]}
+{"pd":"buro","gr":"n","en":["office","post","authority","agency","government agency","federal agency","bureau"]}
+{"pd":"burokan","gr":"n","en":["business office","office","bureau"]}
+{"pd":"sual","gr":"n","en":["question","interrogation","inquiry","query","interrogative","interrogative sentence"]}
+{"pd":"potentia","gr":"n","en":["power","ability"]}
+{"pd":"medu","gr":"n","en":["honey"]}
+{"pd":"tim","gr":"n","en":["team","squad"]}
+{"pd":"hobi","gr":"n","en":["by-line","spare-time activity","hobby","pursuit","sideline","avocation"]}
+{"pd":"kable","gr":"n","en":["line","cable","transmission line"]}
+{"pd":"line","gr":"n","en":["line"]}
+{"pd":"habar","gr":"n","en":["news","intelligence","tidings"]}
+{"pd":"tema","gr":"n","en":["stupid","subject","theme","topic","idiotic"]}
+{"pd":"fot","gr":"n","en":["light","visible light","visible radiation","illumination"]}
+{"pd":"litre","gr":"n","en":["l","liter","litre","cubic decimeter","cubic decimetre"]}
+{"pd":"gau","gr":"n","en":["dog","domestic dog"]}
+{"pd":"gogia","gr":"n","en":["country","land","state","nation","commonwealth","body politic","res publica"]}
+{"pd":"matria, patria","gr":"n","en":["mother country","native land","homeland","country of origin","motherland","fatherland"]}
+{"pd":"nasia","gr":"n","en":["country","land","nation"]}
+{"pd":"stan","gr":"n","en":["country","land","ground","area","region","tract"]}
+{"pd":"klub","gr":"n","en":["order","club","society","social club","lodge","guild","gild"]}
+{"pd":"orgen","gr":"n","en":["order","command","organ","pipe organ"]}
+{"pd":"kompatia","gr":"n","en":["feeling together","compassion","compassionateness"]}
+{"pd":"simpatia","gr":"n","en":["feeling the same","fellow feeling","sympathy"]}
+{"pd":"sabab","gr":"n","en":["cause"]}
+{"pd":"plan","gr":"n","en":["plan","program","road map","programme","blueprint"]}
+{"pd":"dien yam","gr":"n","en":["dinner","supper"]}
+{"pd":"vod","gr":"n","en":["promise","oath","vow"]}
+{"pd":"buk","gr":"n","en":["book","volume"]}
+{"pd":"haur","gr":"n","en":["hour","sixty minutes","hr","60 minutes"]}
+{"pd":"historia","gr":"n","en":["past times","history"]}
+{"pd":"arde","gr":"n","en":["earth","land","ground","dry land","solid ground","soil","terra firma"]}
+{"pd":"son","gr":"n","en":["sound","audio"]}
+{"pd":"top","gr":"n","en":["top","top side","upper side","upside"]}
+{"pd":"iha","gr":"n","en":["ass","donkey","domestic ass"]}
+{"pd":"cing","gr":"n","en":["asking","request","petition"]}
+{"pd":"kesa","gr":"n","en":["hair"]}
+{"pd":"bela","gr":"n","en":["bad luck","tough luck","harm","ill luck","disaster","misery","misfortune","catastrophe","calamity","affliction"]}
+{"pd":"aer","gr":"n","en":["air"]}
+{"pd":"truk","gr":"n","en":["fast one","trick","fraud","ruse"]}
+{"pd":"zukam","gr":"n","en":["cold","common cold","illness"]}
+{"pd":"bale","gr":"n","en":["dance","ball","formal"]}
+{"pd":"dance","gr":"n","en":["dance","dancing","saltation","terpsichore"]}
+{"pd":"sexal gen","gr":"n","en":["sex"]}
+{"pd":"sexe","gr":"n","en":["sex","sexual practice","sex activity","sexual activity"]}
+{"pd":"master","gr":"n","en":["master","expert","maestro"]}
+{"pd":"senseng","gr":"n","en":["master","sensei","sifu"]}
+{"pd":"fon","gr":"n","en":["voice","vote","cast a vote","phonation","vocalisation","vocalism","vocalization","vox"]}
+{"pd":"halva","gr":"n","en":["sweet","sweets","confection"]}
+{"pd":"felte","gr":"n","en":["felt"]}
+{"pd":"icara","gr":"n","en":["sign","motion","gesture"]}
+{"pd":"Kriste, Yesa","gr":"n","en":["Jesus","Christ","Savior","Saviour","Redeemer","the Nazarene","Deliverer"]}
+{"pd":"kafe","gr":"n","en":["coffee","java"]}
+{"pd":"nen mes din","gr":"n","en":["date","day of the month"]}
+{"pd":"taslam","gr":"n","en":["fall","surrender","capitulation"]}
+{"pd":"galte","gr":"n","en":["fault","mistake","error"]}
+{"pd":"heterosexamiste","gr":"n","en":["straight","straight person","heterosexual","heterosexual person"]}
+{"pd":"gante","gr":"n","en":["song","vocal"]}
+{"pd":"jun nien, junes","gr":"n","en":["early days","young age","youth","years in life following childhood"]}
+{"pd":"foto, fotografe","gr":"n","en":["picture","photo","photograph","exposure","pic"]}
+{"pd":"kinografe","gr":"n","en":["picture","picture show","moving picture","moving-picture show","movie","film","motion picture","motion-picture show","flick","pic"]}
+{"pd":"ya","gr":"n","en":["land","domain","demesne"]}
+{"pd":"presiden","gr":"n","en":["president"]}
+{"pd":"ain","gr":"n","en":["eye","optic","oculus"]}
+{"pd":"migration","gr":"n","en":["moving","migration"]}
+{"pd":"hal","gr":"n","en":["state","condition","status"]}
+{"pd":"kanun","gr":"n","en":["law","rule","regulation","jurisprudence"]}
+{"pd":"alge","gr":"n","en":["pain","grief","distress","pain sensation","painful sensation","woe"]}
+{"pd":"klas","gr":"n","en":["class","social class","social station","social status","rank","social rank","socio-economic class","stratum"]}
+{"pd":"bina","gr":"n","en":["building","construction","structure"]}
+{"pd":"umre","gr":"n","en":["age"]}
+{"pd":"nau","gr":"n","en":["ship","boat"]}
+{"pd":"grama","gr":"n","en":["system","system of rules","rules for structures and functions","grammar"]}
+{"pd":"kino","gr":"n","en":["movie house","picture palace","movie theater","movie theatre","cinema"]}
+{"pd":"tesla","gr":"n","en":["T","tesla"]}
+{"pd":"nate dien","gr":"n","en":["birthday","natal day"]}
+{"pd":"televizion","gr":"n","en":["TV","video","television","telecasting"]}
+{"pd":"data","gr":"n","en":["information","data","numeric information"]}
+{"pd":"aminia","gr":"n","en":["security"]}
+{"pd":"mes","gr":"n","en":["month","calendar month"]}
+{"pd":"relgar, tren","gr":"n","en":["train","railroad train"]}
+{"pd":"hotel","gr":"n","en":["hotel"]}
+{"pd":"kristogen","gr":"n","en":["Christmas","Noel","Christmastime","Yuletide","Yule","Christmastide"]}
+{"pd":"bag","gr":"n","en":["bag"]}
+{"pd":"sak","gr":"n","en":["bag","sack","gunny sack","burlap bag","gunnysack"]}
+{"pd":"porte","gr":"n","en":["station","port","harbor"]}
+{"pd":"anjil, misaje","gr":"n","en":["message"]}
+{"pd":"kontenet","gr":"n","en":["message","subject matter","content","substance"]}
+{"pd":"meza","gr":"n","en":["table"]}
+{"pd":"petre","gr":"n","en":["rock","stone"]}
+{"pd":"ring","gr":"n","en":["ring","band"]}
+{"pd":"plumbe","gr":"n","en":["lead"]}
+{"pd":"sor, taiyang","gr":"n","en":["sun","Sun"]}
+{"pd":"kosme","gr":"n","en":["space","universe","infinite","cosmos"]}
+{"pd":"kas, sinduk","gr":"n","en":["box","chest","container"]}
+{"pd":"grup","gr":"n","en":["group","grouping"]}
+{"pd":"mer","gr":"n","en":["part of a group","fellow member","member","component"]}
+{"pd":"gamia","gr":"n","en":["marriage","union","matrimony","wedlock","spousal relationship"]}
+{"pd":"fobe","gr":"n","en":["fear","fright","fearfulness"]}
+{"pd":"pace","gr":"n","en":["peace"]}
+{"pd":"hinsa","gr":"n","en":["force","violence"]}
+{"pd":"grim","gr":"n","en":["crime","law-breaking","commit a crime","criminal offense","offense","criminal offence","offence","perpetrate"]}
+{"pd":"darte","gr":"n","en":["ground","dirt","soil"]}
+{"pd":"Amerikan","gr":"n","en":["American"]}
+{"pd":"mid dien yam","gr":"n","en":["lunch","luncheon","tiffin","dejeuner"]}
+{"pd":"radio","gr":"n","en":["radio","wireless","radiocommunication"]}
+{"pd":"bol","gr":"n","en":["ball","sphere","orb"]}
+{"pd":"kaguz, karte","gr":"n","en":["paper","material"]}
+{"pd":"cavi","gr":"n","en":["key"]}
+{"pd":"bot","gr":"n","en":["boat","shoe","shoe or boot"]}
+{"pd":"aur","gr":"n","en":["gold"]}
+{"pd":"bar, birkan","gr":"n","en":["bar","beer house","pub","saloon","barroom","ginmill","taproom"]}
+{"pd":"kafekan","gr":"n","en":["coffee bar","coffee shop","cafe","coffeehouse"]}
+{"pd":"minu","gr":"n","en":["fish"]}
+{"pd":"krus","gr":"n","en":["mark","cross","crisscross"]}
+{"pd":"marke","gr":"n","en":["mark"]}
+{"pd":"sigu","gr":"n","en":["accident","mishap"]}
+{"pd":"polite","gr":"n","en":["government","government activity","administration","governing","governance"]}
+{"pd":"politolojia","gr":"n","en":["government","political science","politics","politology"]}
+{"pd":"hijab","gr":"n","en":["cover","screen","head covering","veil"]}
+{"pd":"bahai","gr":"n","en":["sea"]}
+{"pd":"bumerang","gr":"n","en":["throw stick","throwing stick","boomerang"]}
+{"pd":"banke","gr":"n","en":["bank","banking company","banking concern","cache","depository","depository financial institution"]}
+{"pd":"safar","gr":"n","en":["trip","travel","journey","voyage","journeying"]}
+{"pd":"liste","gr":"n","en":["list","catalogue","listing"]}
+{"pd":"nao","gr":"n","en":["brain","encephalon"]}
+{"pd":"ca","gr":"n","en":["tea"]}
+{"pd":"cakan","gr":"n","en":["tea house","tea parlor","tea parlour","teahouse","tearoom","teashop"]}
+{"pd":"parke","gr":"n","en":["park","parkland"]}
+{"pd":"vakiler","gr":"n","en":["agent","deputy","representative","proxy"]}
+{"pd":"cide","gr":"n","en":["killing","violent death"]}
+{"pd":"ais","gr":"n","en":["ice","water ice"]}
+{"pd":"klesia","gr":"n","en":["church"]}
+{"pd":"cite","gr":"n","en":["cell"]}
+{"pd":"eritrocite","gr":"n","en":["red blood cell","erythrocyte","RBC"]}
+{"pd":"leukocite","gr":"n","en":["white blood cell","white cell","leucocyte","leukocyte","WBC","white blood corpuscle","white corpuscle"]}
+{"pd":"jok kisa","gr":"n","en":["laugh","joke","gag","jest","jape"]}
+{"pd":"juder","gr":"n","en":["judge","justice","referee","jurist"]}
+{"pd":"janel","gr":"n","en":["window"]}
+{"pd":"linke","gr":"n","en":["relationship","tie","tie-in","connection","joint","data link","link","association","linkup"]}
+{"pd":"asan","gr":"n","en":["position","attitude","posture","asana"]}
+{"pd":"makin","gr":"n","en":["machine"]}
+{"pd":"arte","gr":"n","en":["art","artistic creation","artistic production"]}
+{"pd":"sut","gr":"n","en":["art","skill","craft","accomplishment","acquisition","acquirement","attainment"]}
+{"pd":"hedon","gr":"n","en":["pleasure","pleasance"]}
+{"pd":"plesur","gr":"n","en":["pleasure"]}
+{"pd":"guru","gr":"n","en":["teacher","sage","guru"]}
+{"pd":"cai","gr":"n","en":["green","greens","leafy vegetable"]}
+{"pd":"butik","gr":"n","en":["store","dress shop","shop","boutique"]}
+{"pd":"hazin","gr":"n","en":["store","stock","fund","deposit"]}
+{"pd":"hazinkan, mahazin","gr":"n","en":["store","magazine","warehouse","storage","depot","storehouse","depository","entrepot"]}
+{"pd":"caka","gr":"n","en":["doubt","suspect","uncertainty","doubt; suspicion","doubtfulness","dubiety","dubiousness","incertitude"]}
+{"pd":"mau","gr":"n","en":["cat","true cat"]}
+{"pd":"jang medan","gr":"n","en":["field","field of honor","field of battle","battlefield","battleground"]}
+{"pd":"lojia","gr":"n","en":["field","field of study","study","subject","subject area","subject field","discipline","-logy","bailiwick"]}
+{"pd":"medan","gr":"n","en":["field","square","plaza","maidan"]}
+{"pd":"platistan","gr":"n","en":["field","plain","flat lands","plateau","champaign"]}
+{"pd":"vain","gr":"n","en":["wine","vino"]}
+{"pd":"sud","gr":"n","en":["south","due south","southward"]}
+{"pd":"haha","gr":"n","en":["laughter"]}
+{"pd":"nes","gr":"n","en":["island"]}
+{"pd":"glas","gr":"n","en":["glass"]}
+{"pd":"asle","gr":"n","en":["beginning","source","root","origin","rootage"]}
+{"pd":"plat","gr":"n","en":["plane","plate","sheet"]}
+{"pd":"restauran","gr":"n","en":["eating house","eating place","restaurant","eatery"]}
+{"pd":"norde","gr":"n","en":["north","due north","northward"]}
+{"pd":"daru","gr":"n","en":["tree"]}
+{"pd":"donaje","gr":"n","en":["gift"]}
+{"pd":"baru","gr":"n","en":["bear"]}
+{"pd":"bir","gr":"n","en":["beer"]}
+{"pd":"magia","gr":"n","en":["magic","thaumaturgy"]}
+{"pd":"vante","gr":"n","en":["wind","air current","current of air"]}
+{"pd":"jarbe","gr":"n","en":["experience"]}
+{"pd":"komputer","gr":"n","en":["computer","electronic computer","information processing system","data processor","computing device","computing machine"]}
+{"pd":"planet","gr":"n","en":["major planet","planet"]}
+{"pd":"bus","gr":"n","en":["bus","coach","passenger vehicle","double-decker","omnibus","autobus","charabanc","jitney","motorbus","motorcoach"]}
+{"pd":"mal","gr":"n","en":["holding","property","possession","belongings"]}
+{"pd":"gubu","gr":"n","en":["river horse","hippo","hippopotamus"]}
+{"pd":"riv, river","gr":"n","en":["river","stream"]}
+{"pd":"paten","gr":"n","en":["patient"]}
+{"pd":"lip","gr":"n","en":["fat","grease"]}
+{"pd":"mitre","gr":"n","en":["m","meter","metre","100 cm"]}
+{"pd":"lun","gr":"n","en":["moon","Moon"]}
+{"pd":"adres","gr":"n","en":["address","speech"]}
+{"pd":"mace","gr":"n","en":["match","competition","contest"]}
+{"pd":"par","gr":"n","en":["match","equal","peer","compeer"]}
+{"pd":"impreser","gr":"n","en":["press","squeeze","printer"]}
+{"pd":"fut","gr":"n","en":["foot","human foot","pes"]}
+{"pd":"tip","gr":"n","en":["type","model"]}
+{"pd":"sama","gr":"n","en":["heaven","sky"]}
+{"pd":"genocide","gr":"n","en":["race murder","genocide","racial extermination"]}
+{"pd":"rakun","gr":"n","en":["race","breed","raccoon","racoon"]}
+{"pd":"rase","gr":"n","en":["race","raccoon"]}
+{"pd":"riske","gr":"n","en":["risk","danger","peril"]}
+{"pd":"agion, agtion","gr":"n","en":["action"]}
+{"pd":"fei","gr":"n","en":["price","cost","toll"]}
+{"pd":"dum","gr":"n","en":["smoke","fume"]}
+{"pd":"arker, lider","gr":"n","en":["director","leader"]}
+{"pd":"menajer","gr":"n","en":["director","manager","managing director"]}
+{"pd":"gardan","gr":"n","en":["guard","protector"]}
+{"pd":"poto fender","gr":"n","en":["guard","wing","fender"]}
+{"pd":"dusmener","gr":"n","en":["enemy"]}
+{"pd":"jihad","gr":"n","en":["battle","struggle","jihad","strife","jehad"]}
+{"pd":"omosexamiste","gr":"n","en":["gay","homosexual","homo","homophile"]}
+{"pd":"den","gr":"n","en":["duty","faith","responsibility","religion","obligation"]}
+{"pd":"veste","gr":"n","en":["west","due west","westward"]}
+{"pd":"hero","gr":"n","en":["hero"]}
+{"pd":"bandul, fas","gr":"n","en":["bunch","bundle","sheaf"]}
+{"pd":"koko","gr":"n","en":["chicken"]}
+{"pd":"benzin","gr":"n","en":["gas","petrol","gasoline","gasolene"]}
+{"pd":"gas","gr":"n","en":["gas","gaseous state"]}
+{"pd":"energia","gr":"n","en":["energy","free energy"]}
+{"pd":"sure","gr":"n","en":["form","shape","cast","appearance","visual aspect"]}
+{"pd":"gola","gr":"n","en":["throat","windpipe","gullet","pharynx"]}
+{"pd":"rel","gr":"n","en":["track","runway","rail","rails"]}
+{"pd":"moter","gr":"n","en":["engine","motor"]}
+{"pd":"aeroprese","gr":"n","en":["air pressure","pressure","atmospheric pressure"]}
+{"pd":"gung","gr":"n","en":["weapon","bow"]}
+{"pd":"medikia, medolojia","gr":"n","en":["field of study","medicine","study of medicine","medical specialty"]}
+{"pd":"jen jamia","gr":"n","en":["crowd"]}
+{"pd":"volumen","gr":"n","en":["roll","scroll"]}
+{"pd":"hatre","gr":"n","en":["danger","peril"]}
+{"pd":"mem, memur","gr":"n","en":["memory","recollection"]}
+{"pd":"naze","gr":"n","en":["nose","olfactory organ"]}
+{"pd":"hamam kamre","gr":"n","en":["bathroom","bath"]}
+{"pd":"eko","gr":"n","en":["nature","environment"]}
+{"pd":"natur, tabia","gr":"n","en":["nature","innate characteristics"]}
+{"pd":"pop muzik","gr":"n","en":["pop","pop music"]}
+{"pd":"bomba","gr":"n","en":["bomb"]}
+{"pd":"botel","gr":"n","en":["bottle"]}
+{"pd":"kampe","gr":"n","en":["camp"]}
+{"pd":"paxi","gr":"n","en":["bird"]}
+{"pd":"meita sala","gr":"n","en":["beauty shop","beauty salon","salon","beauty parlor","beauty parlour"]}
+{"pd":"din","gr":"n","en":["faith","religion","organized religion"]}
+{"pd":"pop","gr":"n","en":["common people","folks","population","folk"]}
+{"pd":"dokumen","gr":"n","en":["papers","document","written document"]}
+{"pd":"adilita","gr":"n","en":["justice","justness"]}
+{"pd":"sala","gr":"n","en":["hall"]}
+{"pd":"narke","gr":"n","en":["drug","dope","intoxicating substance","narcotic"]}
+{"pd":"can dau","gr":"n","en":["table knife"]}
+{"pd":"dau","gr":"n","en":["knife","sword","blade"]}
+{"pd":"dible","gr":"n","en":["devil","demon","fiend","daimon","daemon"]}
+{"pd":"satan","gr":"n","en":["devil","Devil","Satan","Lucifer","Beelzebub","the Tempter"]}
+{"pd":"gon","gr":"n","en":["corner","angle","nook"]}
+{"pd":"kod","gr":"n","en":["code","cipher"]}
+{"pd":"basa, linguaje","gr":"n","en":["language","system of communication","linguistic communication"]}
+{"pd":"icara basa","gr":"n","en":["sign language","signing"]}
+{"pd":"pijin","gr":"n","en":["contact language","pidgin"]}
+{"pd":"sahib","gr":"n","en":["fellow","familiar","comrade","associate","companion"]}
+{"pd":"dong","gr":"n","en":["due east","east","orient","eastward"]}
+{"pd":"bubu","gr":"n","en":["ghost","bogeyman"]}
+{"pd":"tasa","gr":"n","en":["cup","dish","bowl"]}
+{"pd":"salita","gr":"n","en":["health","wellness"]}
+{"pd":"kratia","gr":"n","en":["rule","dominion"]}
+{"pd":"norme","gr":"n","en":["rule","norm","regulation"]}
+{"pd":"regul","gr":"n","en":["rule","regulation"]}
+{"pd":"milke","gr":"n","en":["milk"]}
+{"pd":"banke cef, banker","gr":"n","en":["bank manager","banker"]}
+{"pd":"vote","gr":"n","en":["vote","voting","ballot","balloting"]}
+{"pd":"menister, vazir","gr":"n","en":["government minister","minister","high-ranking official","vizier"]}
+{"pd":"kopi","gr":"n","en":["copy","duplicate","replica"]}
+{"pd":"huria","gr":"n","en":["freedom","liberty"]}
+{"pd":"bazar","gr":"n","en":["market","market place","marketplace","mart","bazaar"]}
+{"pd":"nama","gr":"n","en":["meat"]}
+{"pd":"seng","gr":"n","en":["student","scholar","apprentice","learner","prentice","practitioner"]}
+{"pd":"studen","gr":"n","en":["student","pupil","educatee"]}
+{"pd":"quata","gr":"n","en":["strength"]}
+{"pd":"daita","gr":"n","en":["size"]}
+{"pd":"rang","gr":"n","en":["color","colour","coloring","colouring"]}
+{"pd":"gio","gr":"n","en":["bridge","span"]}
+{"pd":"centre","gr":"n","en":["center","centre","midpoint"]}
+{"pd":"misal","gr":"n","en":["example","instance","representative","illustration"]}
+{"pd":"zina","gr":"n","en":["criminal conversation","adultery","infidelity","fornication"]}
+{"pd":"sucide","gr":"n","en":["suicide","self-annihilation","self-destruction"]}
+{"pd":"arketipe, idia","gr":"n","en":["original","original model","pilot","archetype"]}
+{"pd":"yatim","gr":"n","en":["original","orphan","authentic"]}
+{"pd":"kursi","gr":"n","en":["chair"]}
+{"pd":"ita (-ta)","gr":"n","en":["condition","property","quality","status","description","feature","attribute","-ity","-ness","charasteristic"]}
+{"pd":"san","gr":"n","en":["mountain","hill","mount"]}
+{"pd":"kriz","gr":"n","en":["turning point","crisis"]}
+{"pd":"socia","gr":"n","en":["society","association"]}
+{"pd":"serte","gr":"n","en":["shirt"]}
+{"pd":"sema","gr":"n","en":["meaning","significance","import","signification"]}
+{"pd":"hostet","gr":"n","en":["guest","invitee"]}
+{"pd":"programa","gr":"n","en":["computer program","program","computer programme","programme","set out rules for structures and functions"]}
+{"pd":"terme","gr":"n","en":["heat","heat energy","temperature"]}
+{"pd":"baze","gr":"n","en":["base","foundation","basis","cornerstone","groundwork","fundament"]}
+{"pd":"prova","gr":"n","en":["proof","cogent evidence"]}
+{"pd":"ais krem","gr":"n","en":["ice cream","icecream"]}
+{"pd":"krem","gr":"n","en":["cream"]}
+{"pd":"suma","gr":"n","en":["total","amount","sum"]}
+{"pd":"Francia","gr":"n","en":["France"]}
+{"pd":"nate lok","gr":"n","en":["place of birth","birthplace"]}
+{"pd":"nation","gr":"n","en":["birth"]}
+{"pd":"fokus, koncentration","gr":"n","en":["focus","direction","focusing","focal point","centering","focussing"]}
+{"pd":"dang","gr":"n","en":["dan","grade","rank"]}
+{"pd":"hapita","gr":"n","en":["joy","happiness"]}
+{"pd":"proces","gr":"n","en":["process","procedure"]}
+{"pd":"gem","gr":"n","en":["sword","steel","brand","blade"]}
+{"pd":"duce","gr":"n","en":["shower"]}
+{"pd":"basin","gr":"n","en":["pool","sink","basin","lavatory","washbasin","washbowl","washstand"]}
+{"pd":"sifa","gr":"n","en":["property","quality","description","feature","attribute","-ity","-ness","charasteristic"]}
+{"pd":"sabat","gr":"n","en":["Saturday","Sabbath"]}
+{"pd":"ban","gr":"n","en":["staff of life","bread","breadstuff"]}
+{"pd":"kulombe","gr":"n","en":["unit","coulomb"]}
+{"pd":"mol","gr":"n","en":["unit","mole","gram molecule","mol"]}
+{"pd":"unaje","gr":"n","en":["unit","measurement"]}
+{"pd":"filer","gr":"n","en":["fan","lover","buff","devotee","-phile"]}
+{"pd":"penis","gr":"n","en":["member","penis","phallus"]}
+{"pd":"garde, gardin","gr":"n","en":["garden"]}
+{"pd":"goro","gr":"n","en":["pig","hog","squealer","grunter"]}
+{"pd":"diji","gr":"n","en":["finger","digit","dactyl"]}
+{"pd":"dava","gr":"n","en":["medicine","medication","medicinal drug","medicament"]}
+{"pd":"bolte","gr":"n","en":["screw","bolt"]}
+{"pd":"pata","gr":"n","en":["path"]}
+{"pd":"stil","gr":"n","en":["style","expressive style"]}
+{"pd":"lag","gr":"n","en":["lake"]}
+{"pd":"cati","gr":"n","en":["roof"]}
+{"pd":"pente","gr":"n","en":["paint","pigment"]}
+{"pd":"monta","gr":"n","en":["amount"]}
+{"pd":"amerikan futbol","gr":"n","en":["American football","football"]}
+{"pd":"futbol","gr":"n","en":["football","football game","soccer"]}
+{"pd":"hakikia","gr":"n","en":["reality"]}
+{"pd":"hipotes","gr":"n","en":["theory","possibility","hypothesis"]}
+{"pd":"teoria","gr":"n","en":["theory"]}
+{"pd":"kot","gr":"n","en":["coat"]}
+{"pd":"kiz","gr":"n","en":["cheese"]}
+{"pd":"page","gr":"n","en":["page"]}
+{"pd":"burge","gr":"n","en":["castle","fort","fortress","stronghold"]}
+{"pd":"tafun","gr":"n","en":["storm","violent storm","hurricane","typhoon","cyclone","tempest"]}
+{"pd":"artiste","gr":"n","en":["artist","creative person"]}
+{"pd":"halal","gr":"n","en":["permission","license","licence"]}
+{"pd":"darustan, jangle","gr":"n","en":["forest","woods","wood","jungle","wood(s)"]}
+{"pd":"lover","gr":"n","en":["lover","romantic or sexual partner"]}
+{"pd":"ban dau","gr":"n","en":["bread knife"]}
+{"pd":"kira","gr":"n","en":["rent"]}
+{"pd":"ser","gr":"n","en":["connection","ring in a chain","link","connexion"]}
+{"pd":"jeb","gr":"n","en":["pocket"]}
+{"pd":"jeb dau","gr":"n","en":["pocket knife","pocketknife"]}
+{"pd":"cargon","gr":"n","en":["square","foursquare"]}
+{"pd":"corer","gr":"n","en":["thief","stealer"]}
+{"pd":"fateria","gr":"n","en":["plant","factory","mill","manufacturing plant","manufactory"]}
+{"pd":"fito","gr":"n","en":["plant","plant life","flora"]}
+{"pd":"lumbalgia","gr":"n","en":["lower back pain","lumbar pain","lumbago"]}
+{"pd":"argente","gr":"n","en":["silver"]}
+{"pd":"defende","gr":"n","en":["defense","defence","defensive measure"]}
+{"pd":"caman","gr":"n","en":["priest-doctor","shaman"]}
+{"pd":"mantia","gr":"n","en":["fortune telling","divination","foretelling","soothsaying"]}
+{"pd":"soldat","gr":"n","en":["soldier of fortune","mercenary"]}
+{"pd":"aeroporte","gr":"n","en":["airport","aerodrome","aeroport","airdrome","drome"]}
+{"pd":"dramater","gr":"n","en":["player","role player","actor","actress","thespian","histrion"]}
+{"pd":"muziker","gr":"n","en":["player","musician","instrumentalist"]}
+{"pd":"argu","gr":"n","en":["statement","argument","grounds","rationale"]}
+{"pd":"Jung gogia","gr":"n","en":["China","mainland China","Cathay","People's Republic of China","PRC"]}
+{"pd":"Taivan","gr":"n","en":["China","Taiwan"]}
+{"pd":"detal","gr":"n","en":["particular","detail","item"]}
+{"pd":"hamam","gr":"n","en":["bath","bathing","washup"]}
+{"pd":"funtion","gr":"n","en":["map","function","mathematical function","single-valued function","mapping","relation between inputs and outputs"]}
+{"pd":"harte","gr":"n","en":["map","chart","geographic map"]}
+{"pd":"can","gr":"n","en":["meal","repast"]}
+{"pd":"pujakan","gr":"n","en":["temple","place of worship","shrine"]}
+{"pd":"jakit","gr":"n","en":["jacket"]}
+{"pd":"gabre","gr":"n","en":["grave","tomb"]}
+{"pd":"piza","gr":"n","en":["pizza","pizza pie"]}
+{"pd":"grafe","gr":"n","en":["image","drawing","graph"]}
+{"pd":"prototip","gr":"n","en":["image","prototype","paradigm","epitome"]}
+{"pd":"plate tasa","gr":"n","en":["plate"]}
+{"pd":"cokolat","gr":"n","en":["chocolate"]}
+{"pd":"eucide","gr":"n","en":["mercy killing","euthanasia"]}
+{"pd":"toxe","gr":"n","en":["poison","poisonous substance","venom","toxicant"]}
+{"pd":"cigarit","gr":"n","en":["butt","cigarette","coffin nail","fag","cigaret"]}
+{"pd":"supa","gr":"n","en":["soup","stew"]}
+{"pd":"fragtion","gr":"n","en":["crack","cracking","fracture"]}
+{"pd":"asle kod","gr":"n","en":["source code"]}
+{"pd":"auter","gr":"n","en":["source","independent actor","author","generator","auteur"]}
+{"pd":"mes tri","gr":"n","en":["March","Mar"]}
+{"pd":"mid noce","gr":"n","en":["midnight"]}
+{"pd":"Bartia, Hindia","gr":"n","en":["India","Bharat"]}
+{"pd":"poste","gr":"n","en":["mail"]}
+{"pd":"mok","gr":"n","en":["wood","timber"]}
+{"pd":"xilos","gr":"n","en":["wood sugar","xylose"]}
+{"pd":"piano","gr":"n","en":["piano","forte-piano","pianoforte"]}
+{"pd":"halaldokumen","gr":"n","en":["license","permit","licence"]}
+{"pd":"unia","gr":"n","en":["union","unification"]}
+{"pd":"mirer","gr":"n","en":["mirror"]}
+{"pd":"ferum","gr":"n","en":["iron"]}
+{"pd":"kama","gr":"n","en":["sexual desire","physical attraction","eros","concupiscence"]}
+{"pd":"mirakul","gr":"n","en":["miracle"]}
+{"pd":"mede","gr":"n","en":["treatment","intervention"]}
+{"pd":"or","gr":"n","en":["ear"]}
+{"pd":"metal","gr":"n","en":["metal","metallic element"]}
+{"pd":"sablustan","gr":"n","en":["desert"]}
+{"pd":"oste","gr":"n","en":["bone","os"]}
+{"pd":"karga","gr":"n","en":["load","cargo","shipment","loading","freight","consignment","payload","lading"]}
+{"pd":"core","gr":"n","en":["stealing","theft","thieving","larceny","thievery"]}
+{"pd":"ansi","gr":"n","en":["tip","clue","hint","implication"]}
+{"pd":"dostia","gr":"n","en":["friendship","friendly relationship"]}
+{"pd":"hua","gr":"n","en":["flower","bloom","blossom"]}
+{"pd":"tem (-em)","gr":"n","en":["theme","motif"]}
+{"pd":"drak","gr":"n","en":["dragon","firedrake"]}
+{"pd":"ov","gr":"n","en":["egg"]}
+{"pd":"Doice","gr":"n","en":["Germany","Deutschland","FRG"]}
+{"pd":"haki","gr":"n","en":["dust"]}
+{"pd":"ain sui","gr":"n","en":["tear","tear drop","teardrop"]}
+{"pd":"internet","gr":"n","en":["internet","net","cyberspace"]}
+{"pd":"tehnetium","gr":"n","en":["technology","study of techniques","technetium"]}
+{"pd":"teknolojia","gr":"n","en":["technology","engineering","technetium"]}
+{"pd":"mes for","gr":"n","en":["April","Apr"]}
+{"pd":"kim","gr":"n","en":["physical material from which something is made","chemical","chemical substance","substance"]}
+{"pd":"trape","gr":"n","en":["steps","stairs","ladder"]}
+{"pd":"amu","gr":"n","en":["cow","moo-cow"]}
+{"pd":"Nipon","gr":"n","en":["Japan","Nippon","Nihon"]}
+{"pd":"seria","gr":"n","en":["series","sequence","succession"]}
+{"pd":"bab","gr":"n","en":["section","chapter"]}
+{"pd":"remede","gr":"n","en":["cure","remedy","therapeutic","curative"]}
+{"pd":"jus","gr":"n","en":["juice"]}
+{"pd":"bum","gr":"n","en":["explosion","blast","eruption","detonation","blowup"]}
+{"pd":"aranje","gr":"n","en":["fruit","orange","orange tree"]}
+{"pd":"frut","gr":"n","en":["fruit"]}
+{"pd":"ganja","gr":"n","en":["pot","weed","marijuana","cannabis","ganja","marihuana"]}
+{"pd":"pot","gr":"n","en":["pot","bin","jar","vase"]}
+{"pd":"alian","gr":"n","en":["alien","foreigner","noncitizen","outlander"]}
+{"pd":"barud mahazin","gr":"n","en":["magazine","powder magazine","powder store"]}
+{"pd":"imperer","gr":"n","en":["emperor"]}
+{"pd":"serpe","gr":"n","en":["snake","serpent","ophidian"]}
+{"pd":"Mehiko","gr":"n","en":["Mexico"]}
+{"pd":"agen","gr":"n","en":["actor","worker","doer"]}
+{"pd":"saya","gr":"n","en":["shadow","shade"]}
+{"pd":"gardantia","gr":"n","en":["warrant","guarantee","assurance","warranty","warrantee"]}
+{"pd":"parda","gr":"n","en":["screen","curtain","mantle","drape","pall","drapery"]}
+{"pd":"serser","gr":"n","en":["chain","concatenation"]}
+{"pd":"Yesa su pation","gr":"n","en":["Passion"]}
+{"pd":"imperia","gr":"n","en":["empire"]}
+{"pd":"politia","gr":"n","en":["politics"]}
+{"pd":"alkol","gr":"n","en":["alcohol","alcoholic drink","alcoholic beverage","inebriant","intoxicant"]}
+{"pd":"vali","gr":"n","en":["valley","vale"]}
+{"pd":"debita","gr":"n","en":["debt"]}
+{"pd":"kitab kan","gr":"n","en":["library"]}
+{"pd":"tanke","gr":"n","en":["army tank","tank","armored combat vehicle","armored vehicle","armoured combat vehicle"]}
+{"pd":"dare","gr":"n","en":["current","flow","stream","flowing"]}
+{"pd":"agentia","gr":"n","en":["agency"]}
+{"pd":"aple","gr":"n","en":["apple"]}
+{"pd":"bedingan","gr":"n","en":["mad apple","eggplant","aubergine","brinjal"]}
+{"pd":"jambu","gr":"n","en":["rose apple","jambul","jamul"]}
+{"pd":"kenar","gr":"n","en":["border","boundary line","borderline","mete","delimitation"]}
+{"pd":"bata","gr":"n","en":["duck"]}
+{"pd":"salmon","gr":"n","en":["salt","salmon"]}
+{"pd":"yem","gr":"n","en":["common salt","salt","table salt","salmon","trout"]}
+{"pd":"sablu","gr":"n","en":["sand"]}
+{"pd":"antinim","gr":"n","en":["opposite word","antonym"]}
+{"pd":"pote","gr":"n","en":["ability"]}
+{"pd":"bagre","gr":"n","en":["tiger"]}
+{"pd":"pup","gr":"n","en":["doll","dolly","figurine"]}
+{"pd":"aya","gr":"n","en":["maid","nanny","ayah"]}
+{"pd":"arka","gr":"n","en":["bow","arch","arc"]}
+{"pd":"dusastre","gr":"n","en":["disaster","catastrophe"]}
+{"pd":"revolution","gr":"n","en":["revolution"]}
+{"pd":"gitar","gr":"n","en":["guitar"]}
+{"pd":"komisia","gr":"n","en":["committee","commission"]}
+{"pd":"Bangi","gr":"n","en":["capital of Central Africa","Bangui"]}
+{"pd":"kanal","gr":"n","en":["channel","ditch","canal","trench","dyke"]}
+{"pd":"had","gr":"n","en":["bound","limit","boundary"]}
+{"pd":"sofa","gr":"n","en":["couch","sofa","lounge"]}
+{"pd":"almari","gr":"n","en":["closet","cabinet","wardrobe","cupboard"]}
+{"pd":"febre","gr":"n","en":["fever","febricity","febrility","feverishness","pyrexia"]}
+{"pd":"dolar","gr":"n","en":["dollar"]}
+{"pd":"ton","gr":"n","en":["tone","firmness","tonicity","tonus"]}
+{"pd":"gram","gr":"n","en":["g","gram","gm","gramme"]}
+{"pd":"sanvice","gr":"n","en":["sandwich"]}
+{"pd":"pakaje, pake, paket","gr":"n","en":["package","packet","bundle","parcel"]}
+{"pd":"mes luk","gr":"n","en":["June"]}
+{"pd":"bazbol","gr":"n","en":["baseball","baseball game"]}
+{"pd":"singa","gr":"n","en":["lion","king of beasts"]}
+{"pd":"jamia","gr":"n","en":["collection","assembly","congregation","accumulation","aggregation","assemblage"]}
+{"pd":"sadakia","gr":"n","en":["charity"]}
+{"pd":"bander","gr":"n","en":["flag","banner"]}
+{"pd":"Italia","gr":"n","en":["Italy","Italia"]}
+{"pd":"simmetria","gr":"n","en":["balance","correspondence","symmetry","symmetricalness"]}
+{"pd":"net","gr":"n","en":["network","net","web","mesh","meshing","meshwork"]}
+{"pd":"version","gr":"n","en":["version","edition","variation","variant"]}
+{"pd":"balet","gr":"n","en":["concert dance","ballet"]}
+{"pd":"alman","gr":"n","en":["diamond","adamant"]}
+{"pd":"lim","gr":"n","en":["orange","lemon","citrus","citrus fruit","citrous fruit"]}
+{"pd":"safran safre","gr":"n","en":["orange yellow","saffron"]}
+{"pd":"plastik","gr":"n","en":["plastic"]}
+{"pd":"komisioner","gr":"n","en":["commissioner"]}
+{"pd":"gua","gr":"n","en":["cave"]}
+{"pd":"Urdun","gr":"n","en":["Jordan"]}
+{"pd":"huli","gr":"n","en":["fox"]}
+{"pd":"bute","gr":"n","en":["butter"]}
+{"pd":"kaposte","gr":"n","en":["skull"]}
+{"pd":"gras","gr":"n","en":["grass"]}
+{"pd":"server","gr":"n","en":["servant","retainer"]}
+{"pd":"botel tap","gr":"n","en":["bottle cap","cap"]}
+{"pd":"tap","gr":"n","en":["cap","tap","plug","peg","stopper","spigot","stopple"]}
+{"pd":"meme","gr":"n","en":["sheep"]}
+{"pd":"loteria","gr":"n","en":["drawing","lottery"]}
+{"pd":"tuzi","gr":"n","en":["rabbit","hare","coney","cony"]}
+{"pd":"trena","gr":"n","en":["exercise","physical exercise","workout","exercising","physical exertion"]}
+{"pd":"yahud","gr":"n","en":["Jewish","Jew","Hebrew","Israelite"]}
+{"pd":"kuarze","gr":"n","en":["crystal","quartz","quartz glass","lechatelierite","vitreous silica"]}
+{"pd":"Rusia","gr":"n","en":["Russia"]}
+{"pd":"Sovet Unia","gr":"n","en":["Russia","USSR"]}
+{"pd":"elektre","gr":"n","en":["electricity"]}
+{"pd":"strutur","gr":"n","en":["construction","structure"]}
+{"pd":"lon","gr":"n","en":["argument","debate","argumentation"]}
+{"pd":"tes","gr":"n","en":["argument","thesis"]}
+{"pd":"Turkia","gr":"n","en":["Turkey"]}
+{"pd":"vice","gr":"n","en":["vice","deputy","alternative","replacement","substitute"]}
+{"pd":"cutet","gr":"n","en":["end product","output"]}
+{"pd":"kreatur","gr":"n","en":["product","creation","artifact"]}
+{"pd":"morfe","gr":"n","en":["makeup","make-up","constitution","composition","physical composition"]}
+{"pd":"mikrobio","gr":"n","en":["bug","germ","micro-organism","microbe","microorganism"]}
+{"pd":"neuro","gr":"n","en":["nerve","nervus"]}
+{"pd":"Espania","gr":"n","en":["Spain","Espana"]}
+{"pd":"sporte","gr":"n","en":["sport","athletics"]}
+{"pd":"nag","gr":"n","en":["nail","fingernail"]}
+{"pd":"dua","gr":"n","en":["prayer"]}
+{"pd":"rasme","gr":"n","en":["tradition","custom"]}
+{"pd":"tube","gr":"n","en":["pipe","tube","tubing"]}
+{"pd":"salad","gr":"n","en":["salad"]}
+{"pd":"mus","gr":"n","en":["mouse","mouse or rat"]}
+{"pd":"elfe","gr":"n","en":["fairy","elf","brownie","pixie","imp","gremlin","pixy","hob"]}
+{"pd":"pari","gr":"n","en":["fairy","fay","sprite","faerie","faery"]}
+{"pd":"ada","gr":"n","en":["habit","custom","wont"]}
+{"pd":"tatu","gr":"n","en":["tattoo"]}
+{"pd":"barer","gr":"n","en":["fence","barrier"]}
+{"pd":"hura","gr":"n","en":["yay","hooray","hurrah"]}
+{"pd":"karer, oper","gr":"n","en":["worker"]}
+{"pd":"nim kitab","gr":"n","en":["signature"]}
+{"pd":"monitor","gr":"n","en":["monitor"]}
+{"pd":"fantazia","gr":"n","en":["fantasy","fantastical fiction"]}
+{"pd":"pasaporte","gr":"n","en":["passport"]}
+{"pd":"homocide","gr":"n","en":["homicide"]}
+{"pd":"dusnim","gr":"n","en":["offense","insult","affront"]}
+{"pd":"gogiayen","gr":"n","en":["citizen"]}
+{"pd":"oxe","gr":"n","en":["oxygen"]}
+{"pd":"roket","gr":"n","en":["rocket","projectile"]}
+{"pd":"mes bat","gr":"n","en":["August","Aug"]}
+{"pd":"arbul","gr":"n","en":["bush","shrub"]}
+{"pd":"engener","gr":"n","en":["engineer","applied scientist","technologist"]}
+{"pd":"popul","gr":"n","en":["population"]}
+{"pd":"holokauste","gr":"n","en":["complete destruction","holocaust"]}
+{"pd":"yep kol","gr":"n","en":["cole","kale","borecole","colewort","kail"]}
+{"pd":"gan","gr":"n","en":["liver"]}
+{"pd":"mes set","gr":"n","en":["July"]}
+{"pd":"barud","gr":"n","en":["powder","gunpowder"]}
+{"pd":"fun","gr":"n","en":["powder","pulverisation","pulverization"]}
+{"pd":"gik","gr":"n","en":["pole","polar point"]}
+{"pd":"rebeler","gr":"n","en":["freedom fighter","rebel","insurgent","insurrectionist"]}
+{"pd":"autonomia","gr":"n","en":["liberty","autonomy"]}
+{"pd":"nia","gr":"n","en":["intention"]}
+{"pd":"gaja","gr":"n","en":["elephant"]}
+{"pd":"buzi","gr":"n","en":["goat","caprine animal"]}
+{"pd":"viski","gr":"n","en":["whiskey","whisky"]}
+{"pd":"resistentia","gr":"n","en":["electric resistance","resistance","electrical resistance","impedance","ohmic resistance","resistivity"]}
+{"pd":"resistion","gr":"n","en":["resistance","opposition","resisting"]}
+{"pd":"resistor","gr":"n","en":["resistance","resistor"]}
+{"pd":"tong tap","gr":"n","en":["tap","spigot"]}
+{"pd":"valve","gr":"n","en":["tap","valve","faucet"]}
+{"pd":"sabun","gr":"n","en":["soap"]}
+{"pd":"evolution","gr":"n","en":["development","evolution"]}
+{"pd":"mais","gr":"n","en":["corn","maize"]}
+{"pd":"hema","gr":"n","en":["tent","collapsible shelter"]}
+{"pd":"mit","gr":"n","en":["tale","myth","fiction","fabrication","fable"]}
+{"pd":"limon","gr":"n","en":["lemon"]}
+{"pd":"halelu, hamed","gr":"n","en":["praise"]}
+{"pd":"saka","gr":"n","en":["branch"]}
+{"pd":"muskul","gr":"n","en":["muscle","musculus"]}
+{"pd":"nomia","gr":"n","en":["management","regulation","regulating","-nomy"]}
+{"pd":"Kanada","gr":"n","en":["Canada"]}
+{"pd":"komodia","gr":"n","en":["comedy"]}
+{"pd":"dante","gr":"n","en":["tooth"]}
+{"pd":"dante dokter","gr":"n","en":["tooth doctor","dentist","dental practitioner"]}
+{"pd":"mes nau","gr":"n","en":["September","Sept","Sep"]}
+{"pd":"baskit bol","gr":"n","en":["basketball","basketball game","hoops"]}
+{"pd":"fen","gr":"n","en":["appearance","visual aspect"]}
+{"pd":"batri","gr":"n","en":["battery","electric battery"]}
+{"pd":"teg","gr":"n","en":["brick"]}
+{"pd":"broce","gr":"n","en":["brush"]}
+{"pd":"pil","gr":"n","en":["pill"]}
+{"pd":"pilul","gr":"n","en":["pill","tab","tablet","lozenge"]}
+{"pd":"koncepe","gr":"n","en":["concept","construct","conception"]}
+{"pd":"Han gogia","gr":"n","en":["Korea","Dae-Han-Min-Gook","Han-Gook"]}
+{"pd":"baker","gr":"n","en":["baker"]}
+{"pd":"balde","gr":"n","en":["bucket","pail"]}
+{"pd":"T-serte","gr":"n","en":["jersey","T-shirt","tee shirt"]}
+{"pd":"sofia","gr":"n","en":["wisdom"]}
+{"pd":"agrer","gr":"n","en":["farmer","granger","husbandman","sodbuster"]}
+{"pd":"elektrik poste (e-poste)","gr":"n","en":["e-mail"]}
+{"pd":"kreation","gr":"n","en":["creative activity","creation"]}
+{"pd":"pompe","gr":"n","en":["pump"]}
+{"pd":"monit","gr":"n","en":["coin"]}
+{"pd":"hamak","gr":"n","en":["sack","hammock"]}
+{"pd":"nido","gr":"n","en":["nest","den","hive"]}
+{"pd":"rebelion","gr":"n","en":["rising","rebellion","revolt","uprising","insurrection"]}
+{"pd":"sor energia","gr":"n","en":["solar energy","solar power"]}
+{"pd":"sor sistem","gr":"n","en":["solar system"]}
+{"pd":"gauta","gr":"n","en":["height","altitude","tallness"]}
+{"pd":"blog","gr":"n","en":["web log","blog"]}
+{"pd":"editer","gr":"n","en":["editor","editor in chief","publisher"]}
+{"pd":"mes des","gr":"n","en":["October","Oct"]}
+{"pd":"tenis","gr":"n","en":["tennis","lawn tennis"]}
+{"pd":"nambenben","gr":"n","en":["grandson"]}
+{"pd":"europan","gr":"n","en":["European"]}
+{"pd":"el","gr":"n","en":["tool"]}
+{"pd":"tual","gr":"n","en":["towel"]}
+{"pd":"aran","gr":"n","en":["spider"]}
+{"pd":"Australia","gr":"n","en":["Australia"]}
+{"pd":"yep","gr":"n","en":["sheet","leaf","foliage","leafage"]}
+{"pd":"batata","gr":"n","en":["sweet potato","batata"]}
+{"pd":"papata","gr":"n","en":["potato","white potato","murphy","spud","tater"]}
+{"pd":"komplot","gr":"n","en":["conspiracy","confederacy"]}
+{"pd":"vapur","gr":"n","en":["steam","vapor"]}
+{"pd":"lulu","gr":"n","en":["pearl"]}
+{"pd":"mes des un","gr":"n","en":["November","Nov"]}
+{"pd":"botin","gr":"n","en":["boot"]}
+{"pd":"ceri","gr":"n","en":["cherry"]}
+{"pd":"yang","gr":"n","en":["yang"]}
+{"pd":"sesam","gr":"n","en":["benny","sesame","benne","benni"]}
+{"pd":"galaxia","gr":"n","en":["galaxy","extragalactic nebula"]}
+{"pd":"bagaje","gr":"n","en":["luggage","baggage"]}
+{"pd":"naufrage","gr":"n","en":["wreck","shipwreck"]}
+{"pd":"baske, baskit","gr":"n","en":["basket","handbasket"]}
+{"pd":"guba","gr":"n","en":["bump","hump","swelling","bulge","prominence","jut","excrescence","extrusion","gibbosity","gibbousness","protrusion","protuberance"]}
+{"pd":"Viet","gr":"n","en":["Vietnam","Annam"]}
+{"pd":"goton","gr":"n","en":["cotton","cotton plant"]}
+{"pd":"lampa","gr":"n","en":["lamp"]}
+{"pd":"gom","gr":"n","en":["natural rubber","rubber","latex","gum elastic","eraser","caoutchouc"]}
+{"pd":"bana, dikater","gr":"n","en":["arrow","indicator","pointer"]}
+{"pd":"labi","gr":"n","en":["lip"]}
+{"pd":"mes ten du","gr":"n","en":["December","Dec"]}
+{"pd":"mam","gr":"n","en":["breast","boob","tit","bosom","titty","knocker"]}
+{"pd":"Kem, Misre","gr":"n","en":["Egypt"]}
+{"pd":"miskinia","gr":"n","en":["misery","miserableness","wretchedness"]}
+{"pd":"sil","gr":"n","en":["silk"]}
+{"pd":"gabristan, nekropol","gr":"n","en":["cemetery","memorial park","burial ground","burial site","graveyard","burying ground","necropolis"]}
+{"pd":"banana","gr":"n","en":["banana"]}
+{"pd":"glu","gr":"n","en":["gum","glue","adhesive","mucilage"]}
+{"pd":"benke","gr":"n","en":["bench"]}
+{"pd":"kinografia","gr":"n","en":["filming","motion-picture photography","cinematography"]}
+{"pd":"piman","gr":"n","en":["pepper","peppercorn"]}
+{"pd":"pipal","gr":"n","en":["black pepper","common pepper","pepper","white pepper","capsicum"]}
+{"pd":"tanur","gr":"n","en":["oven","furnace"]}
+{"pd":"stanium","gr":"n","en":["tin"]}
+{"pd":"krokro","gr":"n","en":["frog","toad","toad frog","anuran","batrachian","salientian"]}
+{"pd":"perfum","gr":"n","en":["perfume","essence"]}
+{"pd":"mes un","gr":"n","en":["January","Jan"]}
+{"pd":"Israel","gr":"n","en":["Israel","Zion","Sion","Yisrael"]}
+{"pd":"ginge","gr":"n","en":["ginger"]}
+{"pd":"Iraq","gr":"n","en":["Al-Iraq","Iraq","Irak"]}
+{"pd":"kuen","gr":"n","en":["fist","clenched fist"]}
+{"pd":"valen","gr":"n","en":["whale"]}
+{"pd":"vudao","gr":"n","en":["martial art","budo"]}
+{"pd":"vusut","gr":"n","en":["martial art","kung fu","budo"]}
+{"pd":"karbe","gr":"n","en":["coal","carbon"]}
+{"pd":"herze","gr":"n","en":["cycle","cycle per second","cps","hertz","cycles/second","Hz"]}
+{"pd":"gansa","gr":"n","en":["goose"]}
+{"pd":"puja","gr":"n","en":["worship","adoration","veneration","reveration"]}
+{"pd":"demokratia","gr":"n","en":["democracy"]}
+{"pd":"Brazil","gr":"n","en":["Brazil","Brasil"]}
+{"pd":"krononomia","gr":"n","en":["arrangement in time","chronology"]}
+{"pd":"menisteria","gr":"n","en":["ministry"]}
+{"pd":"organ","gr":"n","en":["organ"]}
+{"pd":"volta","gr":"n","en":["V","volt"]}
+{"pd":"bolon","gr":"n","en":["balloon"]}
+{"pd":"veg","gr":"n","en":["vegetables","vegetable","veggie","veg"]}
+{"pd":"sosis","gr":"n","en":["sausage"]}
+{"pd":"nefre","gr":"n","en":["kidney"]}
+{"pd":"filosofia","gr":"n","en":["philosophy"]}
+{"pd":"fizolojia","gr":"n","en":["natural philosophy","physics"]}
+{"pd":"kuen sut","gr":"n","en":["boxing","fisticuffs","pugilism"]}
+{"pd":"ais hoki","gr":"n","en":["hockey","hockey game","ice hockey"]}
+{"pd":"hoki","gr":"n","en":["field hockey","hockey"]}
+{"pd":"sem","gr":"n","en":["seed","semen"]}
+{"pd":"mol kan","gr":"n","en":["mill","grinder","milling machinery"]}
+{"pd":"krot","gr":"n","en":["mole","burrowing animal"]}
+{"pd":"kupre","gr":"n","en":["copper"]}
+{"pd":"longita","gr":"n","en":["length"]}
+{"pd":"baceler","gr":"n","en":["bachelor","baccalaureate","bachelor's degree","bachelor’s degree"]}
+{"pd":"Kartulia","gr":"n","en":["Georgia","Sakartvelo"]}
+{"pd":"civilia","gr":"n","en":["civilization","civilisation"]}
+{"pd":"islamiste, muslam","gr":"n","en":["muslim","Muslim","moslem","Moslem"]}
+{"pd":"mes du","gr":"n","en":["February","Feb"]}
+{"pd":"verme","gr":"n","en":["worm"]}
+{"pd":"alergia","gr":"n","en":["allergic reaction","allergy"]}
+{"pd":"Afganistan","gr":"n","en":["Afghanistan"]}
+{"pd":"exception","gr":"n","en":["exception","exclusion","elision"]}
+{"pd":"buda","gr":"n","en":["Buddha","Siddhartha","Gautama"]}
+{"pd":"gunger","gr":"n","en":["archer","bowman"]}
+{"pd":"Cad","gr":"n","en":["chad"]}
+{"pd":"feitaref, recepe, taref","gr":"n","en":["receipt"]}
+{"pd":"jara","gr":"n","en":["jar","vase","pitcher","jug","amphora","carafe"]}
+{"pd":"fakiria","gr":"n","en":["poverty","impoverishment","poorness"]}
+{"pd":"arkia","gr":"n","en":["leadership"]}
+{"pd":"karbe kalam","gr":"n","en":["pencil"]}
+{"pd":"ration","gr":"n","en":["logical thinking","rational thinking","reasoning","abstract thought"]}
+{"pd":"asian","gr":"n","en":["Asian","Asiatic"]}
+{"pd":"lung","gr":"n","en":["Asian dragon"]}
+{"pd":"monimen","gr":"n","en":["memorial","monument"]}
+{"pd":"camca","gr":"n","en":["spoon"]}
+{"pd":"Asia","gr":"n","en":["Asia"]}
+{"pd":"fatkisa","gr":"n","en":["fiction"]}
+{"pd":"amater, hobiiste","gr":"n","en":["amateur","enthusiast","hobbyist"]}
+{"pd":"eritre","gr":"n","en":["flush","bloom","blush","rosiness"]}
+{"pd":"Kuba","gr":"n","en":["Cuba"]}
+{"pd":"retogonia","gr":"n","en":["grid","array","lattice"]}
+{"pd":"baluta","gr":"n","en":["oak","oak tree"]}
+{"pd":"zaitun","gr":"n","en":["olive"]}
+{"pd":"ruholojia","gr":"n","en":["psychological science","psychology"]}
+{"pd":"baraje","gr":"n","en":["dam","dyke","barrage","dike"]}
+{"pd":"Suise","gr":"n","en":["Switzerland","Schweiz","Suisse","Svizzera"]}
+{"pd":"biolojia","gr":"n","en":["biological science","study of organic life","biology"]}
+{"pd":"mum","gr":"n","en":["wax"]}
+{"pd":"makas","gr":"n","en":["pair of scissors","scissors","shears"]}
+{"pd":"heuristia","gr":"n","en":["art of invention","heuristics"]}
+{"pd":"data banke","gr":"n","en":["database","databank"]}
+{"pd":"mafia","gr":"n","en":["mafia","Mafia","Maffia"]}
+{"pd":"supa men","gr":"n","en":["soup noodles","ramen"]}
+{"pd":"tren dao","gr":"n","en":["railroad","railroad track","railway","rail"]}
+{"pd":"forka","gr":"n","en":["fork"]}
+{"pd":"yok","gr":"n","en":["jade","jadestone"]}
+{"pd":"vaineria","gr":"n","en":["wine maker","winery"]}
+{"pd":"poter","gr":"n","en":["potter","thrower","ceramicist","ceramist"]}
+{"pd":"cal","gr":"n","en":["scarf","shawl"]}
+{"pd":"alkoliste","gr":"n","en":["alcoholic","person addicted to alcohol","lush","boozer","alky","dipsomaniac","soaker","souse"]}
+{"pd":"suna","gr":"n","en":["custom","usage","usance"]}
+{"pd":"narkiste","gr":"n","en":["drug addict","junkie","junky"]}
+{"pd":"Polskia","gr":"n","en":["Poland","Polska"]}
+{"pd":"tabak","gr":"n","en":["tobacco","baccy"]}
+{"pd":"yoga","gr":"n","en":["yoga"]}
+{"pd":"gran","gr":"n","en":["grain","particle"]}
+{"pd":"ski","gr":"n","en":["ski"]}
+{"pd":"Eire","gr":"n","en":["Ireland","Eire"]}
+{"pd":"fembenben","gr":"n","en":["granddaughter"]}
+{"pd":"yatimkan","gr":"n","en":["orphanage","orphans' asylum"]}
+{"pd":"bolton","gr":"n","en":["bolt"]}
+{"pd":"angar","gr":"n","en":["anchor","ground tackle"]}
+{"pd":"tomat","gr":"n","en":["tomato"]}
+{"pd":"Helen","gr":"n","en":["Greece","Ellas"]}
+{"pd":"razer","gr":"n","en":["razor","shaving instrument"]}
+{"pd":"astre","gr":"n","en":["heavenly body","celestial body"]}
+{"pd":"malia, malonomia","gr":"n","en":["finance"]}
+{"pd":"puja meza","gr":"n","en":["altar"]}
+{"pd":"jel","gr":"n","en":["jelly","gel","colloidal gel"]}
+{"pd":"ziper","gr":"n","en":["zip","zipper","slide fastener","zip fastener"]}
+{"pd":"dokufilme","gr":"n","en":["documentary","documentary film","docudrama"]}
+{"pd":"homanoide","gr":"n","en":["mechanical man","android","humanoid"]}
+{"pd":"juba","gr":"n","en":["gown","robe","caftan","jubbah","kaftan"]}
+{"pd":"agristan","gr":"n","en":["countryside"]}
+{"pd":"pirosan","gr":"n","en":["volcano"]}
+{"pd":"metrer","gr":"n","en":["meter","measuring device"]}
+{"pd":"politiste","gr":"n","en":["politician","administrator","statesman"]}
+{"pd":"extendia","gr":"n","en":["extent"]}
+{"pd":"gandum","gr":"n","en":["wheat"]}
+{"pd":"matras","gr":"n","en":["mattress"]}
+{"pd":"Nederlande","gr":"n","en":["Holland","Netherlands","Nederland"]}
+{"pd":"Svenia","gr":"n","en":["Sweden","Sverige"]}
+{"pd":"astronauter, kosmonauter","gr":"n","en":["astronaut","spaceman","cosmonaut"]}
+{"pd":"lasun","gr":"n","en":["garlic"]}
+{"pd":"susi","gr":"n","en":["sushi"]}
+{"pd":"hoste sala","gr":"n","en":["salon"]}
+{"pd":"briko","gr":"n","en":["peach","plum","plum tree","apricot"]}
+{"pd":"Pakistan","gr":"n","en":["Pakistan"]}
+{"pd":"minte","gr":"n","en":["mint"]}
+{"pd":"belca","gr":"n","en":["shovel"]}
+{"pd":"debe","gr":"n","en":["obligation"]}
+{"pd":"hero mit","gr":"n","en":["heroic tale","saga"]}
+{"pd":"astronau, kosmonau","gr":"n","en":["spaceship","starship"]}
+{"pd":"ihamar","gr":"n","en":["mule"]}
+{"pd":"fenomen","gr":"n","en":["phenomenon"]}
+{"pd":"gamel","gr":"n","en":["camel"]}
+{"pd":"karate","gr":"n","en":["karate"]}
+{"pd":"papagai","gr":"n","en":["parrot","parakeet"]}
+{"pd":"dinasaur","gr":"n","en":["dinosaur"]}
+{"pd":"kontener","gr":"n","en":["container"]}
+{"pd":"saur","gr":"n","en":["lizard"]}
+{"pd":"node","gr":"n","en":["knot","node"]}
+{"pd":"Konakri Ginia","gr":"n","en":["Guinea"]}
+{"pd":"letus","gr":"n","en":["mustard","lettuce"]}
+{"pd":"lense","gr":"n","en":["lens","lens system","lense"]}
+{"pd":"moli","gr":"n","en":["jasmine"]}
+{"pd":"astrobiolojia","gr":"n","en":["space biology","astrobiology","exobiology"]}
+{"pd":"trigon","gr":"n","en":["triangle","trigon","trilateral"]}
+{"pd":"dianos","gr":"n","en":["diagnosis","diagnosing"]}
+{"pd":"kontribution","gr":"n","en":["donation","contribution"]}
+{"pd":"dinastia","gr":"n","en":["dynasty"]}
+{"pd":"Iran","gr":"n","en":["Iran","Persia"]}
+{"pd":"sporter","gr":"n","en":["athlete","jock","sportsman"]}
+{"pd":"luter","gr":"n","en":["robber","spoiler","raider","despoiler","freebooter","looter","pillager","plunderer"]}
+{"pd":"piram","gr":"n","en":["pyramid"]}
+{"pd":"Tai","gr":"n","en":["Thailand","Siam"]}
+{"pd":"teleskope","gr":"n","en":["telescope","scope"]}
+{"pd":"ruholojer","gr":"n","en":["psychologist"]}
+{"pd":"pinguin","gr":"n","en":["penguin"]}
+{"pd":"nikel","gr":"n","en":["nickel"]}
+{"pd":"pena","gr":"n","en":["foam","froth","spume"]}
+{"pd":"ketil","gr":"n","en":["kettle","boiler"]}
+{"pd":"valuta","gr":"n","en":["currency"]}
+{"pd":"gik dikator","gr":"n","en":["compass"]}
+{"pd":"sirke grafor","gr":"n","en":["compass","pair of compasses"]}
+{"pd":"hidrargente","gr":"n","en":["mercury","quicksilver","hydrargyrum"]}
+{"pd":"traktor","gr":"n","en":["tractor"]}
+{"pd":"kurva","gr":"n","en":["curve","curved shape"]}
+{"pd":"panda","gr":"n","en":["giant panda","panda","panda bear","coon bear"]}
+{"pd":"deomantia","gr":"n","en":["prophecy","divination"]}
+{"pd":"karot","gr":"n","en":["carrot"]}
+{"pd":"slamisme","gr":"n","en":["Islam","Muslimism"]}
+{"pd":"bakeria","gr":"n","en":["bakery","bakehouse","bakeshop"]}
+{"pd":"kol, rul kol","gr":"n","en":["cabbage","chou"]}
+{"pd":"masagid","gr":"n","en":["mosque"]}
+{"pd":"nostalgia","gr":"n","en":["longing","nostalgia"]}
+{"pd":"sinonim","gr":"n","en":["equivalent word","synonym"]}
+{"pd":"Amazon","gr":"n","en":["Amazon","Amazon river"]}
+{"pd":"sponje","gr":"n","en":["sponge"]}
+{"pd":"unita","gr":"n","en":["unity","oneness"]}
+{"pd":"tai gik kuen","gr":"n","en":["tai chi","taichi","tai chi chuan","t'ai chi","t'ai chi chuan","taichichuan"]}
+{"pd":"Norge","gr":"n","en":["Norway","Noreg","Norge"]}
+{"pd":"hidre","gr":"n","en":["hydrogen"]}
+{"pd":"Dania","gr":"n","en":["Denmark","Danmark"]}
+{"pd":"kuku","gr":"n","en":["cuckoo"]}
+{"pd":"yogurte","gr":"n","en":["yogurt","yoghurt","yoghourt"]}
+{"pd":"beri","gr":"n","en":["berry"]}
+{"pd":"diske","gr":"n","en":["disk","disc","saucer"]}
+{"pd":"Singapol","gr":"n","en":["capital of Singapore","Singapore"]}
+{"pd":"generolojia","gr":"n","en":["gender studies","genderology"]}
+{"pd":"atom","gr":"n","en":["atom"]}
+{"pd":"Argentin","gr":"n","en":["Argentina"]}
+{"pd":"filter","gr":"n","en":["filter"]}
+{"pd":"moralita","gr":"n","en":["morality"]}
+{"pd":"magnet","gr":"n","en":["magnet"]}
+{"pd":"Babil","gr":"n","en":["Babylon","Babel"]}
+{"pd":"flor bukit","gr":"n","en":["bouquet","corsage","nosegay","posy"]}
+{"pd":"filosofer","gr":"n","en":["philosopher"]}
+{"pd":"Ostria","gr":"n","en":["Austria","Oesterreich"]}
+{"pd":"dolfin","gr":"n","en":["dolphin","porpoise"]}
+{"pd":"kristisme","gr":"n","en":["Christianity"]}
+{"pd":"vodu","gr":"n","en":["voodoo","hoodooism","vodoun","voodooism"]}
+{"pd":"iste","gr":"n","en":["advocate","-ist","adherent","advocator","exponent","proponent"]}
+{"pd":"men","gr":"n","en":["noodle"]}
+{"pd":"kalcium","gr":"n","en":["Ca","calcium"]}
+{"pd":"lexe buk","gr":"n","en":["dictionary","lexicon"]}
+{"pd":"mineral","gr":"n","en":["mineral"]}
+{"pd":"bambu","gr":"n","en":["bamboo"]}
+{"pd":"akrab","gr":"n","en":["scorpion","Scorpio"]}
+{"pd":"kube","gr":"n","en":["cube","regular hexahedron"]}
+{"pd":"pronos","gr":"n","en":["prospect","forecast","medical prognosis","prognosis"]}
+{"pd":"evanjil","gr":"n","en":["gospel","evangel"]}
+{"pd":"fungu frut","gr":"n","en":["mushroom"]}
+{"pd":"socialiste","gr":"n","en":["socialist"]}
+{"pd":"receper","gr":"n","en":["receiver","recipient"]}
+{"pd":"Belgia","gr":"n","en":["Belgium","Belgique"]}
+{"pd":"bandaje","gr":"n","en":["bandage"]}
+{"pd":"kilogram","gr":"n","en":["kilo","kg","kilogram"]}
+{"pd":"entrat","gr":"n","en":["input"]}
+{"pd":"ananas","gr":"n","en":["pineapple"]}
+{"pd":"yim","gr":"n","en":["yin"]}
+{"pd":"daoiste","gr":"n","en":["Tao","Taoist"]}
+{"pd":"karton","gr":"n","en":["composition board","cardboard"]}
+{"pd":"konstru basa","gr":"n","en":["constructed language","conlang"]}
+{"pd":"Suria","gr":"n","en":["Syria"]}
+{"pd":"safarer","gr":"n","en":["traveler","traveller"]}
+{"pd":"kronline","gr":"n","en":["timeline","chronology"]}
+{"pd":"mayur","gr":"n","en":["peacock","bird of Juno","peafowl"]}
+{"pd":"uranium","gr":"n","en":["uranium"]}
+{"pd":"konu","gr":"n","en":["cone"]}
+{"pd":"parita","gr":"n","en":["equality"]}
+{"pd":"pedal","gr":"n","en":["foot pedal","pedal","foot lever","treadle"]}
+{"pd":"Peru","gr":"n","en":["Peru"]}
+{"pd":"budiste","gr":"n","en":["Buddhist"]}
+{"pd":"demik malia","gr":"n","en":["public domain"]}
+{"pd":"vitamin","gr":"n","en":["vitamin"]}
+{"pd":"euro","gr":"n","en":["euro","€"]}
+{"pd":"bulbul","gr":"n","en":["nightingale"]}
+{"pd":"Portogal","gr":"n","en":["Portugal"]}
+{"pd":"taktur","gr":"n","en":["texture"]}
+{"pd":"gorizme","gr":"n","en":["algorithm"]}
+{"pd":"Cile","gr":"n","en":["Chile"]}
+{"pd":"minur","gr":"n","en":["minority"]}
+{"pd":"Jamaika","gr":"n","en":["Jamaica"]}
+{"pd":"Islande","gr":"n","en":["Iceland"]}
+{"pd":"dura","gr":"n","en":["duration","time interval","continuance"]}
+{"pd":"dusfunte","gr":"n","en":["malfunction","dysfunction"]}
+{"pd":"sintes","gr":"n","en":["synthetic thinking","synthesis"]}
+{"pd":"yama","gr":"n","en":["linen","flax"]}
+{"pd":"Panama","gr":"n","en":["Panama"]}
+{"pd":"antena","gr":"n","en":["aerial","antenna","transmitting aerial"]}
+{"pd":"rotation","gr":"n","en":["rotation","rotary motion"]}
+{"pd":"mango","gr":"n","en":["mango","mango tree"]}
+{"pd":"hik","gr":"n","en":["hiccup","hiccough","singultus"]}
+{"pd":"Magyar","gr":"n","en":["Hungary","Magyarorszag"]}
+{"pd":"Magribia","gr":"n","en":["Morocco","Al-Magrib","Maroc","Marruecos"]}
+{"pd":"platin","gr":"n","en":["platinum"]}
+{"pd":"Filipin nesia","gr":"n","en":["Philippines"]}
+{"pd":"roman kamadeo","gr":"n","en":["Cupid","Amor"]}
+{"pd":"arbuz","gr":"n","en":["watermelon"]}
+{"pd":"Kolombia","gr":"n","en":["Colombia"]}
+{"pd":"fufu","gr":"n","en":["pulp","mash","mush","pap"]}
+{"pd":"fragmen","gr":"n","en":["fragment","shard","sherd"]}
+{"pd":"zebra","gr":"n","en":["zebra"]}
+{"pd":"natre","gr":"n","en":["sodium"]}
+{"pd":"organizme","gr":"n","en":["organism"]}
+{"pd":"Suomia","gr":"n","en":["Finland","Suomi"]}
+{"pd":"matrita","gr":"n","en":["maternity","motherhood"]}
+{"pd":"mamalia","gr":"n","en":["mammals","class Mammalia","Mammalia"]}
+{"pd":"benben","gr":"n","en":["grandchild"]}
+{"pd":"Ukraina","gr":"n","en":["Ukraine","Ukrayina"]}
+{"pd":"fungu","gr":"n","en":["fungus"]}
+{"pd":"kanu","gr":"n","en":["canoe"]}
+{"pd":"mikroskope","gr":"n","en":["microscope"]}
+{"pd":"alumin","gr":"n","en":["aluminum","aluminium"]}
+{"pd":"heuriste","gr":"n","en":["inventor","artificer","discoverer"]}
+{"pd":"emmigran","gr":"n","en":["immigrant"]}
+{"pd":"grasistan","gr":"n","en":["prairie","grassland"]}
+{"pd":"mitologia","gr":"n","en":["mythology","myths of a people"]}
+{"pd":"mitolojia","gr":"n","en":["mythology","study of myths"]}
+{"pd":"nitre","gr":"n","en":["nitrogen"]}
+{"pd":"fizolojer","gr":"n","en":["physicist"]}
+{"pd":"Kenya","gr":"n","en":["Kenya"]}
+{"pd":"paskal","gr":"n","en":["pascal"]}
+{"pd":"tegul","gr":"n","en":["tile"]}
+{"pd":"kangaru","gr":"n","en":["kangaroo"]}
+{"pd":"pera","gr":"n","en":["pear"]}
+{"pd":"spanak","gr":"n","en":["spinach","spinach plant","prickly-seeded spinach"]}
+{"pd":"hedoniste","gr":"n","en":["pagan","pleasure seeker","hedonist"]}
+{"pd":"zirafa","gr":"n","en":["giraffe","camelopard"]}
+{"pd":"basa grama","gr":"n","en":["grammar"]}
+{"pd":"duo","gr":"n","en":["duo","twosome"]}
+{"pd":"cita","gr":"n","en":["cheetah"]}
+{"pd":"brokol","gr":"n","en":["broccoli"]}
+{"pd":"axe","gr":"n","en":["axis","axis of rotation"]}
+{"pd":"Brazavil Kongo","gr":"n","en":["Congo"]}
+{"pd":"Kinsasa Kongo","gr":"n","en":["Congo","Zaire"]}
+{"pd":"miner","gr":"n","en":["miner"]}
+{"pd":"lexia","gr":"n","en":["vocabulary","lexicon"]}
+{"pd":"holografe","gr":"n","en":["hologram","holograph"]}
+{"pd":"taikuendao","gr":"n","en":["tae kwon do","taekwondo"]}
+{"pd":"neon","gr":"n","en":["neon"]}
+{"pd":"feministe","gr":"n","en":["feminist"]}
+{"pd":"Indonesia","gr":"n","en":["Indonesia"]}
+{"pd":"socialisme","gr":"n","en":["socialism"]}
+{"pd":"kopihak","gr":"n","en":["right of first publication","copyright"]}
+{"pd":"densata","gr":"n","en":["density","denseness"]}
+{"pd":"Romania","gr":"n","en":["Romania","Roumania","Rumania"]}
+{"pd":"gem sut","gr":"n","en":["fencing","art of duelling with swords"]}
+{"pd":"Jayer","gr":"n","en":["Algeria","Algerie"]}
+{"pd":"Bahama","gr":"n","en":["Bahamas"]}
+{"pd":"helium","gr":"n","en":["helium"]}
+{"pd":"kalium","gr":"n","en":["potassium"]}
+{"pd":"cini","gr":"n","en":["porcelain","chinaware"]}
+{"pd":"badam","gr":"n","en":["almond"]}
+{"pd":"kastana","gr":"n","en":["chestnut","chestnut tree"]}
+{"pd":"silike","gr":"n","en":["silicon"]}
+{"pd":"astronomia","gr":"n","en":["astronomy","uranology"]}
+{"pd":"Venesuela","gr":"n","en":["Venezuela"]}
+{"pd":"arsenium","gr":"n","en":["arsenic"]}
+{"pd":"balerin","gr":"n","en":["ballerina","danseuse"]}
+{"pd":"yak","gr":"n","en":["yak"]}
+{"pd":"turbulentia","gr":"n","en":["turbulence","turbulency"]}
+{"pd":"ain kesa","gr":"n","en":["lash","eyelash","cilium"]}
+{"pd":"oposum","gr":"n","en":["possum","opossum"]}
+{"pd":"tomografia","gr":"n","en":["imaging","tomography"]}
+{"pd":"anus","gr":"n","en":["anus"]}
+{"pd":"Malaisia","gr":"n","en":["Malaysia","Malaya"]}
+{"pd":"betula","gr":"n","en":["birch","birch tree"]}
+{"pd":"amper","gr":"n","en":["amp","ampere"]}
+{"pd":"nadeiste","gr":"n","en":["atheist"]}
+{"pd":"alga","gr":"n","en":["algae","alga"]}
+{"pd":"Haiti","gr":"n","en":["Haiti"]}
+{"pd":"biotoxe","gr":"n","en":["toxin"]}
+{"pd":"lagon","gr":"n","en":["lagoon","laguna","lagune"]}
+{"pd":"termometrer","gr":"n","en":["thermometer"]}
+{"pd":"plutonium","gr":"n","en":["plutonium"]}
+{"pd":"asparge","gr":"n","en":["asparagus","edible asparagus"]}
+{"pd":"babuce","gr":"n","en":["carpet slipper","slipper","pantofle"]}
+{"pd":"Sudan","gr":"n","en":["Sudan","Soudan"]}
+{"pd":"jiudao","gr":"n","en":["judo"]}
+{"pd":"masta","gr":"n","en":["mast"]}
+{"pd":"titanium","gr":"n","en":["titanium"]}
+{"pd":"patrita","gr":"n","en":["paternity"]}
+{"pd":"dama","gr":"n","en":["checkers","draughts"]}
+{"pd":"Serbia","gr":"n","en":["Serbia","Srbija"]}
+{"pd":"patolojia","gr":"n","en":["pathology"]}
+{"pd":"jun sib","gr":"n","en":["younger sibling"]}
+{"pd":"sen sib","gr":"n","en":["elder sibling"]}
+{"pd":"Mianma","gr":"n","en":["Burma","Myanmar"]}
+{"pd":"lumen","gr":"n","en":["lm","lumen"]}
+{"pd":"Kambodia","gr":"n","en":["Cambodia","Kampuchea"]}
+{"pd":"jihadisme","gr":"n","en":["international jihad","jihad","jehad","jihadism"]}
+{"pd":"elektron","gr":"n","en":["electron"]}
+{"pd":"Bolivia","gr":"n","en":["Bolivia"]}
+{"pd":"mamal","gr":"n","en":["mammal","mammalian"]}
+{"pd":"Libanen","gr":"n","en":["Lebanon"]}
+{"pd":"sulfe","gr":"n","en":["sulfur","sulphur","brimstone"]}
+{"pd":"sadak","gr":"n","en":["alms"]}
+{"pd":"Guatemala","gr":"n","en":["Guatemala"]}
+{"pd":"Etiopia","gr":"n","en":["Ethiopia","Abyssinia","Yaltopya"]}
+{"pd":"premonition","gr":"n","en":["premonition","foreboding","boding","presentiment"]}
+{"pd":"Kipris","gr":"n","en":["Cyprus"]}
+{"pd":"bison","gr":"n","en":["bison"]}
+{"pd":"burokratia","gr":"n","en":["bureaucracy"]}
+{"pd":"giau","gr":"n","en":["dumpling","ravioli","cappelletti","pelmeni"]}
+{"pd":"Madagasia","gr":"n","en":["Madagascar"]}
+{"pd":"Monako","gr":"n","en":["Monaco"]}
+{"pd":"Libia","gr":"n","en":["Libya"]}
+{"pd":"caurita","gr":"n","en":["width","breadth"]}
+{"pd":"budisme","gr":"n","en":["Buddhism"]}
+{"pd":"unolog","gr":"n","en":["monologue","monolog"]}
+{"pd":"hamir","gr":"n","en":["yeast","barm"]}
+{"pd":"avokado","gr":"n","en":["avocado"]}
+{"pd":"ganitis","gr":"n","en":["hepatitis"]}
+{"pd":"Bulgaria","gr":"n","en":["Bulgaria"]}
+{"pd":"astronomer","gr":"n","en":["astronomer","stargazer","uranologist"]}
+{"pd":"ekuater","gr":"n","en":["equator"]}
+{"pd":"algometria","gr":"n","en":["measurement of pain","algometry"]}
+{"pd":"panjab basa","gr":"n","en":["Punjabi","Panjabi"]}
+{"pd":"pincer","gr":"n","en":["pair of pliers","pliers","plyers"]}
+{"pd":"krus gung","gr":"n","en":["crossbow","ballista"]}
+{"pd":"riformer","gr":"n","en":["crusader","reformer","social reformer","meliorist","reformist"]}
+{"pd":"klor","gr":"n","en":["chlorine"]}
+{"pd":"exkursion","gr":"n","en":["excursion"]}
+{"pd":"sor hua","gr":"n","en":["sunflower","helianthus"]}
+{"pd":"Nepal","gr":"n","en":["Nepal"]}
+{"pd":"Nijer Federa Jamhuria","gr":"n","en":["Nigeria"]}
+{"pd":"Kuvait","gr":"n","en":["Kuwait","Koweit"]}
+{"pd":"mikrorganizme","gr":"n","en":["micro-organism","microbe","microorganism"]}
+{"pd":"ca pote","gr":"n","en":["teapot"]}
+{"pd":"cimpanzi","gr":"n","en":["chimpanzee"]}
+{"pd":"astrologia","gr":"n","en":["astrology","star divination"]}
+{"pd":"glukoriza, glukoriza kandi","gr":"n","en":["licorice","liquorice"]}
+{"pd":"arkelojia","gr":"n","en":["archaeology","archeology"]}
+{"pd":"Mongolia","gr":"n","en":["Mongolia"]}
+{"pd":"kriton","gr":"n","en":["krypton"]}
+{"pd":"hamam juba","gr":"n","en":["bathrobe"]}
+{"pd":"masala safran","gr":"n","en":["saffron","saffron crocus"]}
+{"pd":"safran masala","gr":"n","en":["saffron"]}
+{"pd":"gung dao","gr":"n","en":["Oriental form of archery","kyudo"]}
+{"pd":"gung sut","gr":"n","en":["archery"]}
+{"pd":"fobia","gr":"n","en":["phobia","phobic disorder","phobic neurosis"]}
+{"pd":"Nikaragua","gr":"n","en":["Nicaragua"]}
+{"pd":"fakir","gr":"n","en":["pauper"]}
+{"pd":"oxid","gr":"n","en":["oxide"]}
+{"pd":"hua kol","gr":"n","en":["cauliflower"]}
+{"pd":"Fiji","gr":"n","en":["Fiji"]}
+{"pd":"Yemen","gr":"n","en":["Yemen"]}
+{"pd":"deolojia","gr":"n","en":["theology"]}
+{"pd":"tapon","gr":"n","en":["tampon"]}
+{"pd":"Mali","gr":"n","en":["Mali"]}
+{"pd":"lobak","gr":"n","en":["radish","daikon"]}
+{"pd":"Ciperia","gr":"n","en":["Albania"]}
+{"pd":"biofizolojia","gr":"n","en":["physiology"]}
+{"pd":"litium","gr":"n","en":["lithium"]}
+{"pd":"Kosovo","gr":"n","en":["Kosovo"]}
+{"pd":"helenik kamadeo","gr":"n","en":["Eros"]}
+{"pd":"Ganda","gr":"n","en":["Uganda"]}
+{"pd":"antikriste","gr":"n","en":["antichrist"]}
+{"pd":"alkolisme","gr":"n","en":["alcoholism"]}
+{"pd":"salgam","gr":"n","en":["turnip","white turnip"]}
+{"pd":"Kazakistan","gr":"n","en":["Kazakhstan","Kazak","Kazakh","Kazakstan"]}
+{"pd":"Horvatia","gr":"n","en":["Croatia","Hrvatska"]}
+{"pd":"magnesium","gr":"n","en":["magnesium"]}
+{"pd":"nakreder","gr":"n","en":["infidel","disbeliever","nonbeliever","unbeliever"]}
+{"pd":"iode","gr":"n","en":["iodine","iodin"]}
+{"pd":"Tunisia","gr":"n","en":["Tunisia"]}
+{"pd":"Equador","gr":"n","en":["Ecuador"]}
+{"pd":"euforia","gr":"n","en":["euphoria"]}
+{"pd":"hanuka","gr":"n","en":["Hanukkah","Channukah","Channukkah","Chanukah","Chanukkah","Hannukah","Hanukah"]}
+{"pd":"Cernagora","gr":"n","en":["Montenegro"]}
+{"pd":"yahudisme","gr":"n","en":["Judaism","Hebraism"]}
+{"pd":"Palau","gr":"n","en":["TT","Palau"]}
+{"pd":"Bangla","gr":"n","en":["Bangladesh","People's Republic of Bangladesh"]}
+{"pd":"jensen","gr":"n","en":["ginseng"]}
+{"pd":"Luxemburge","gr":"n","en":["Luxembourg","Luxemburg"]}
+{"pd":"Malta","gr":"n","en":["Malta"]}
+{"pd":"yep alga","gr":"n","en":["kelp"]}
+{"pd":"paciste","gr":"n","en":["pacifist","disarmer","pacificist"]}
+{"pd":"turbin","gr":"n","en":["turbine"]}
+{"pd":"Somalia","gr":"n","en":["Somalia"]}
+{"pd":"ponco","gr":"n","en":["poncho"]}
+{"pd":"esistentisme","gr":"n","en":["existential philosophy","existentialism","existentialist philosophy"]}
+{"pd":"imperialisme, imperisme","gr":"n","en":["imperialism"]}
+{"pd":"slam","gr":"n","en":["handover"]}
+{"pd":"domino","gr":"n","en":["dominoes"]}
+{"pd":"nil","gr":"n","en":["indigo","indigo plant"]}
+{"pd":"zinke","gr":"n","en":["zinc"]}
+{"pd":"bolsiviste","gr":"n","en":["Bolshevik","Bolshevist"]}
+{"pd":"Barbados","gr":"n","en":["Barbados"]}
+{"pd":"piston","gr":"n","en":["plunger","piston"]}
+{"pd":"Angola","gr":"n","en":["Angola"]}
+{"pd":"lumbe","gr":"n","en":["loin","lumbus"]}
+{"pd":"laka","gr":"n","en":["varnish","lacquer"]}
+{"pd":"kobalte","gr":"n","en":["cobalt"]}
+{"pd":"unogamia","gr":"n","en":["monogamy","monogamousness"]}
+{"pd":"Belize","gr":"n","en":["Belize"]}
+{"pd":"nudiste","gr":"n","en":["nudist","naturist"]}
+{"pd":"tundra","gr":"n","en":["tundra"]}
+{"pd":"Lietuva","gr":"n","en":["Lithuania","Lietuva"]}
+{"pd":"Paraguai","gr":"n","en":["Paraguay"]}
+{"pd":"Uruguai","gr":"n","en":["Uruguay"]}
+{"pd":"feminisme","gr":"n","en":["feminism"]}
+{"pd":"pilet","gr":"n","en":["pellet"]}
+{"pd":"Lao","gr":"n","en":["Laos"]}
+{"pd":"Estia","gr":"n","en":["Estonia","Esthonia"]}
+{"pd":"reformation","gr":"n","en":["reformation","reclamation"]}
+{"pd":"riformation","gr":"n","en":["reformation"]}
+{"pd":"Zimbabue","gr":"n","en":["Zimbabwe","Rhodesia"]}
+{"pd":"Ruanda","gr":"n","en":["Rwanda","Ruanda"]}
+{"pd":"idialisme","gr":"n","en":["idealism"]}
+{"pd":"turfa","gr":"n","en":["peat"]}
+{"pd":"patogener","gr":"n","en":["pathogen"]}
+{"pd":"fosfe","gr":"n","en":["phosphorus"]}
+{"pd":"Honduras","gr":"n","en":["Honduras"]}
+{"pd":"radium","gr":"n","en":["radium"]}
+{"pd":"tendon","gr":"n","en":["tendon","sinew"]}
+{"pd":"imparita","gr":"n","en":["inequality"]}
+{"pd":"larva","gr":"n","en":["larva"]}
+{"pd":"polimer","gr":"n","en":["polymer"]}
+{"pd":"pandeia","gr":"n","en":["pantheon"]}
+{"pd":"etanol","gr":"n","en":["ethanol"]}
+{"pd":"aeropresometrer","gr":"n","en":["barometer"]}
+{"pd":"geo plate","gr":"n","en":["tectonic plate"]}
+{"pd":"parametre","gr":"n","en":["parameter"]}
+{"pd":"Tanzania","gr":"n","en":["Tanzania"]}
+{"pd":"pandemik pate","gr":"n","en":["pandemic"]}
+{"pd":"tasure","gr":"n","en":["depiction","portrayal","depicting","portraying","delineation"]}
+{"pd":"agreser","gr":"n","en":["aggressor"]}
+{"pd":"polistiren pena","gr":"n","en":["styrofoam","Styrofoam"]}
+{"pd":"iglu","gr":"n","en":["igloo","iglu"]}
+{"pd":"izotope","gr":"n","en":["isotope"]}
+{"pd":"holisme","gr":"n","en":["holistic theory","holism"]}
+{"pd":"bamia","gr":"n","en":["okra","okro"]}
+{"pd":"Mozambia","gr":"n","en":["Mozambique","Mocambique"]}
+{"pd":"giemdao","gr":"n","en":["kendo"]}
+{"pd":"kosmogenia, kosmolojia","gr":"n","en":["cosmology","cosmogeny","cosmogony"]}
+{"pd":"volfram","gr":"n","en":["wolfram","tungsten"]}
+{"pd":"paladium","gr":"n","en":["palladium"]}
+{"pd":"Slovakia","gr":"n","en":["Slovakia"]}
+{"pd":"Maldive nesia","gr":"n","en":["Maldives"]}
+{"pd":"poligamia","gr":"n","en":["polygamy"]}
+{"pd":"Mauris","gr":"n","en":["Mauritius"]}
+{"pd":"zira","gr":"n","en":["cumin","jeera"]}
+{"pd":"Gana","gr":"n","en":["Ghana"]}
+{"pd":"Senegal","gr":"n","en":["Senegal"]}
+{"pd":"retogon","gr":"n","en":["rectangle"]}
+{"pd":"lexasle","gr":"n","en":["provenance of word","etymology"]}
+{"pd":"eugenisme","gr":"n","en":["eugenics"]}
+{"pd":"Togo","gr":"n","en":["Togo"]}
+{"pd":"Tonga","gr":"n","en":["Tonga"]}
+{"pd":"luteriste","gr":"n","en":["Lutheran"]}
+{"pd":"iridium","gr":"n","en":["iridium"]}
+{"pd":"Tsuana","gr":"n","en":["Botswana"]}
+{"pd":"anou","gr":"n","en":["acknowledgement","acknowledgment"]}
+{"pd":"Hayistan","gr":"n","en":["Armenia","Hayastan"]}
+{"pd":"kaju","gr":"n","en":["cashew","cashew tree"]}
+{"pd":"Latvia","gr":"n","en":["Latvia"]}
+{"pd":"Slovenia","gr":"n","en":["Slovenia","Slovenija"]}
+{"pd":"pente broce","gr":"n","en":["paintbrush"]}
+{"pd":"yurta","gr":"n","en":["ger","yurt"]}
+{"pd":"kondensation","gr":"n","en":["condensation"]}
+{"pd":"reflexer","gr":"n","en":["reflector"]}
+{"pd":"jiusut","gr":"n","en":["jujitsu","jiujitsu","jujutsu"]}
+{"pd":"Liberia","gr":"n","en":["Liberia"]}
+{"pd":"altrisme","gr":"n","en":["altruism"]}
+{"pd":"Belarusia","gr":"n","en":["Belarus","Belorussia","Byelarus","Byelorussia"]}
+{"pd":"Nijer Jamhuria","gr":"n","en":["Niger"]}
+{"pd":"radon","gr":"n","en":["radon"]}
+{"pd":"Oman","gr":"n","en":["Oman"]}
+{"pd":"argon","gr":"n","en":["argon"]}
+{"pd":"xenon","gr":"n","en":["xenon"]}
+{"pd":"Uzbekistan","gr":"n","en":["Uzbekistan","Uzbek"]}
+{"pd":"Kamerun","gr":"n","en":["Cameroon","Cameroun"]}
+{"pd":"Zambia","gr":"n","en":["Zambia"]}
+{"pd":"kotumbar","gr":"n","en":["coriander"]}
+{"pd":"genus","gr":"n","en":["genus"]}
+{"pd":"durian","gr":"n","en":["durian"]}
+{"pd":"barium","gr":"n","en":["barium"]}
+{"pd":"Samoa","gr":"n","en":["Samoa"]}
+{"pd":"basalojia","gr":"n","en":["linguistics"]}
+{"pd":"polibasaste","gr":"n","en":["linguist","polyglot"]}
+{"pd":"Lungia","gr":"n","en":["Bhutan"]}
+{"pd":"Moldova","gr":"n","en":["Moldova","Moldavia"]}
+{"pd":"mosulin","gr":"n","en":["muslin"]}
+{"pd":"Bahrain","gr":"n","en":["Bahrain","Bahrein"]}
+{"pd":"Brunai","gr":"n","en":["Brunei"]}
+{"pd":"Benin","gr":"n","en":["Benin","Dahomey"]}
+{"pd":"livermorium","gr":"n","en":["Uuh","element 116","livermorium","ununhexium"]}
+{"pd":"Grenada","gr":"n","en":["Grenada"]}
+{"pd":"Namibia","gr":"n","en":["Namibia"]}
+{"pd":"polskium","gr":"n","en":["polonium"]}
+{"pd":"tipi","gr":"n","en":["teepee","tepee","tipi"]}
+{"pd":"talium","gr":"n","en":["thallium"]}
+{"pd":"cesium","gr":"n","en":["cesium","caesium"]}
+{"pd":"more","gr":"n","en":["mores"]}
+{"pd":"kromium","gr":"n","en":["chromium"]}
+{"pd":"butan","gr":"n","en":["butane"]}
+{"pd":"Malavi","gr":"n","en":["Malawi","Nyasaland"]}
+{"pd":"kondensator","gr":"n","en":["condenser"]}
+{"pd":"hindisme","gr":"n","en":["Hinduism","Hindooism"]}
+{"pd":"Lihtenstain","gr":"n","en":["Liechtenstein"]}
+{"pd":"mangan","gr":"n","en":["manganese"]}
+{"pd":"Qatar","gr":"n","en":["Qatar","Katar"]}
+{"pd":"darvinisme","gr":"n","en":["Darwinism"]}
+{"pd":"Mosul","gr":"n","en":["Mosul"]}
+{"pd":"Secel nesia","gr":"n","en":["Seychelles"]}
+{"pd":"acinium","gr":"n","en":["actinium"]}
+{"pd":"agrobiolojia","gr":"n","en":["agrobiology"]}
+{"pd":"agronomer","gr":"n","en":["agronomist"]}
+{"pd":"agronomia","gr":"n","en":["agronomy"]}
+{"pd":"ainstainium","gr":"n","en":["einsteinium"]}
+{"pd":"algalojia","gr":"n","en":["algology"]}
+{"pd":"alken","gr":"n","en":["alkene"]}
+{"pd":"alkil","gr":"n","en":["alkyl"]}
+{"pd":"alkin","gr":"n","en":["alkyne"]}
+{"pd":"alofone","gr":"n","en":["allophone"]}
+{"pd":"alopatria","gr":"n","en":["allopatry"]}
+{"pd":"amerikium","gr":"n","en":["americium"]}
+{"pd":"amid","gr":"n","en":["amide"]}
+{"pd":"amin","gr":"n","en":["amine"]}
+{"pd":"amiria","gr":"n","en":["emirate"]}
+{"pd":"analgesia","gr":"n","en":["analgesia"]}
+{"pd":"Andora","gr":"n","en":["Andorra"]}
+{"pd":"antifasisme","gr":"n","en":["antifascism"]}
+{"pd":"antites","gr":"n","en":["antithesis"]}
+{"pd":"aranofobia","gr":"n","en":["arachnophobia"]}
+{"pd":"astatin","gr":"n","en":["astatine"]}
+{"pd":"Azeria","gr":"n","en":["Azerbaijan","Azerbajdzhan"]}
+{"pd":"Babilia","gr":"n","en":["Babylonia","Chaldaea","Chaldea"]}
+{"pd":"bahaisme","gr":"n","en":["Baha'ism","Bahaism"]}
+{"pd":"basakonstruter","gr":"n","en":["conlanger"]}
+{"pd":"berilium","gr":"n","en":["beryllium","glucinium"]}
+{"pd":"berkelium","gr":"n","en":["berkelium"]}
+{"pd":"biomorfolojia, lexomorfolojia","gr":"n","en":["morphology"]}
+{"pd":"biotomia","gr":"n","en":["vivisection"]}
+{"pd":"Bisau Ginia","gr":"n","en":["Guine-Bissau","Guinea-Bissau"]}
+{"pd":"bismute","gr":"n","en":["bismuth"]}
+{"pd":"bolsivisme","gr":"n","en":["Bolshevism"]}
+{"pd":"borium","gr":"n","en":["bohrium","element 107"]}
+{"pd":"boron","gr":"n","en":["boron"]}
+{"pd":"brom","gr":"n","en":["bromine"]}
+{"pd":"butil","gr":"n","en":["butyl"]}
+{"pd":"buyu","gr":"n","en":["baobab"]}
+{"pd":"cerium","gr":"n","en":["cerium"]}
+{"pd":"citolojia","gr":"n","en":["cytology"]}
+{"pd":"daoisme","gr":"n","en":["Daoism","Taoism"]}
+{"pd":"darmestadium","gr":"n","en":["darmstadtium","element 110"]}
+{"pd":"debuger","gr":"n","en":["debugger"]}
+{"pd":"deisme","gr":"n","en":["theism"]}
+{"pd":"deiste","gr":"n","en":["theist"]}
+{"pd":"demografia","gr":"n","en":["demography"]}
+{"pd":"deokratia","gr":"n","en":["theocracy"]}
+{"pd":"deosofia","gr":"n","en":["theosophy"]}
+{"pd":"desibel","gr":"n","en":["decibel"]}
+{"pd":"diaspora","gr":"n","en":["diaspora"]}
+{"pd":"dinaste","gr":"n","en":["dynast"]}
+{"pd":"diskit","gr":"n","en":["diskette"]}
+{"pd":"disprosium","gr":"n","en":["dysprosium"]}
+{"pd":"Dominika","gr":"n","en":["Dominica"]}
+{"pd":"dualisme","gr":"n","en":["dualism"]}
+{"pd":"dubnium","gr":"n","en":["dubnium","element 105","hahnium"]}
+{"pd":"dunia bination","gr":"n","en":["worldbuilding"]}
+{"pd":"dustopia","gr":"n","en":["dystopia"]}
+{"pd":"dutomia","gr":"n","en":["dichotomy"]}
+{"pd":"emigran","gr":"n","en":["emigrant"]}
+{"pd":"erbium","gr":"n","en":["erbium"]}
+{"pd":"Eritria","gr":"n","en":["Eritrea"]}
+{"pd":"esperante","gr":"n","en":["Esperanto"]}
+{"pd":"etan","gr":"n","en":["ethane"]}
+{"pd":"etil","gr":"n","en":["ethyl"]}
+{"pd":"europium","gr":"n","en":["europium"]}
+{"pd":"fenol","gr":"n","en":["phenol"]}
+{"pd":"fenotip","gr":"n","en":["phenotype"]}
+{"pd":"fermium","gr":"n","en":["fermium"]}
+{"pd":"flerovium","gr":"n","en":["element 114","flerovium","ununquadium","Uuq"]}
+{"pd":"flur","gr":"n","en":["fluorine"]}
+{"pd":"fonem","gr":"n","en":["phoneme"]}
+{"pd":"fonolojia","gr":"n","en":["phonology"]}
+{"pd":"francium","gr":"n","en":["francium"]}
+{"pd":"Gabon","gr":"n","en":["Gabon","Gabun"]}
+{"pd":"gadolinium","gr":"n","en":["gadolinium"]}
+{"pd":"galium","gr":"n","en":["gallium"]}
+{"pd":"geomantia","gr":"n","en":["geomancy"]}
+{"pd":"geomorfolojia","gr":"n","en":["geomorphology","morphology"]}
+{"pd":"geoplatolojia","gr":"n","en":["plate tectonics"]}
+{"pd":"germanium","gr":"n","en":["germanium"]}
+{"pd":"granul","gr":"n","en":["granule"]}
+{"pd":"Guyana","gr":"n","en":["Co-operative Republic of Guyana","Guyana"]}
+{"pd":"hafnium","gr":"n","en":["hafnium"]}
+{"pd":"hartografia","gr":"n","en":["cartography","mapmaking"]}
+{"pd":"hedonisme","gr":"n","en":["hedonism"]}
+{"pd":"hesium","gr":"n","en":["element 108","hassium"]}
+{"pd":"hindium","gr":"n","en":["indium"]}
+{"pd":"holmium","gr":"n","en":["holmium"]}
+{"pd":"holografia","gr":"n","en":["holography"]}
+{"pd":"homanisme","gr":"n","en":["humanism","secular humanism"]}
+{"pd":"homid","gr":"n","en":["hominid"]}
+{"pd":"izomer","gr":"n","en":["isomer"]}
+{"pd":"izomorfia","gr":"n","en":["isomorphism","isomorphy"]}
+{"pd":"Jibuti","gr":"n","en":["Djibouti"]}
+{"pd":"jihadiste","gr":"n","en":["jihadist","Jihadist"]}
+{"pd":"kadmium","gr":"n","en":["cadmium"]}
+{"pd":"kalifornium","gr":"n","en":["californium"]}
+{"pd":"Kirgizia","gr":"n","en":["Kirghiz","Kirghizia","Kirghizstan","Kirgiz","Kirgizia","Kirgizstan","Kyrgyzstan"]}
+{"pd":"Kiribati","gr":"n","en":["Kiribati"]}
+{"pd":"Komoro nesia","gr":"n","en":["Comoros"]}
+{"pd":"kopernium","gr":"n","en":["copernicium","element 112","ununbium","Uub"]}
+{"pd":"kurium","gr":"n","en":["curium"]}
+{"pd":"lantan","gr":"n","en":["lanthanum"]}
+{"pd":"laurencium","gr":"n","en":["lawrencium"]}
+{"pd":"lazurit","gr":"n","en":["lapis lazuli","lazuli"]}
+{"pd":"lexaslia","gr":"n","en":["etymology"]}
+{"pd":"lexem","gr":"n","en":["lexeme"]}
+{"pd":"lipid","gr":"n","en":["lipid","lipide","lipoid"]}
+{"pd":"litita","gr":"n","en":["littleness","smallness"]}
+{"pd":"lutecium","gr":"n","en":["lutecium","lutetium"]}
+{"pd":"Luterisme","gr":"n","en":["Lutheranism"]}
+{"pd":"manioka","gr":"n","en":["casava","cassava","manioc"]}
+{"pd":"matrarkia","gr":"n","en":["matriarchate","matriarchy"]}
+{"pd":"meitnerium","gr":"n","en":["element 109","meitnerium"]}
+{"pd":"mendelevium","gr":"n","en":["mendelevium"]}
+{"pd":"metalergia","gr":"n","en":["metallurgy"]}
+{"pd":"mikrobiolojia","gr":"n","en":["microbiology"]}
+{"pd":"moliden","gr":"n","en":["molybdenum"]}
+{"pd":"monisme","gr":"n","en":["monism"]}
+{"pd":"moskovium","gr":"n","en":["element 115","moscovium","ununpentium","Uup"]}
+{"pd":"Muritania","gr":"n","en":["Mauritania","Mauritanie","Muritaniya"]}
+{"pd":"nahinsa, pacisme","gr":"n","en":["pacificism","pacifism","passivism"]}
+{"pd":"narkos","gr":"n","en":["narcosis"]}
+{"pd":"Nauru","gr":"n","en":["Nauru"]}
+{"pd":"negationisme","gr":"n","en":["denialism"]}
+{"pd":"nekromantia","gr":"n","en":["necromancy"]}
+{"pd":"neodimium","gr":"n","en":["neodymium"]}
+{"pd":"neptunium","gr":"n","en":["neptunium"]}
+{"pd":"Ninva","gr":"n","en":["Nineveh"]}
+{"pd":"niobium","gr":"n","en":["niobium"]}
+{"pd":"niponium","gr":"n","en":["element 113","nihonium","ununtrium","Uut"]}
+{"pd":"nobelium","gr":"n","en":["nobelium"]}
+{"pd":"nudisme","gr":"n","en":["naturism","nudism"]}
+{"pd":"oganeson","gr":"n","en":["oganesson"]}
+{"pd":"omofon","gr":"n","en":["homophone"]}
+{"pd":"omofonia","gr":"n","en":["homophony"]}
+{"pd":"omogenia","gr":"n","en":["homogeneity","homogeny"]}
+{"pd":"omonim","gr":"n","en":["homonym"]}
+{"pd":"omonimia","gr":"n","en":["homonymy"]}
+{"pd":"osmium","gr":"n","en":["osmium"]}
+{"pd":"pandeisme","gr":"n","en":["pantheism"]}
+{"pd":"pangeia","gr":"n","en":["Pangaea","Pangea"]}
+{"pd":"pansexamiste","gr":"n","en":["pansexual"]}
+{"pd":"patrarkia","gr":"n","en":["patriarchate","patriarchy"]}
+{"pd":"patrikisme","gr":"n","en":["paternalism"]}
+{"pd":"patronim","gr":"n","en":["patronym","patronymic"]}
+{"pd":"piste","gr":"n","en":["pestle"]}
+{"pd":"poligon","gr":"n","en":["polygon","polygonal shape"]}
+{"pd":"polihedre","gr":"n","en":["polyhedron"]}
+{"pd":"polistiren","gr":"n","en":["polystyrene"]}
+{"pd":"populisme","gr":"n","en":["populism"]}
+{"pd":"prazedimium","gr":"n","en":["praseodymium"]}
+{"pd":"prometium","gr":"n","en":["promethium"]}
+{"pd":"protatinium","gr":"n","en":["protactinium","protoactinium"]}
+{"pd":"renium","gr":"n","en":["rhenium"]}
+{"pd":"rentgenium","gr":"n","en":["element 111","roentgenium"]}
+{"pd":"rodium","gr":"n","en":["rhodium"]}
+{"pd":"rubium","gr":"n","en":["rubidium"]}
+{"pd":"Rundi","gr":"n","en":["Burundi"]}
+{"pd":"rusium","gr":"n","en":["ruthenium"]}
+{"pd":"ruterfordium","gr":"n","en":["element 104","rutherfordium","unnilquadium","Unq"]}
+{"pd":"safran","gr":"n","en":["crocus"]}
+{"pd":"sagu fun","gr":"n","en":["sago"]}
+{"pd":"samarium","gr":"n","en":["samarium"]}
+{"pd":"selenium","gr":"n","en":["selenium"]}
+{"pd":"semafer","gr":"n","en":["semaphore"]}
+{"pd":"sepia","gr":"n","en":["sepia"]}
+{"pd":"siborgium","gr":"n","en":["element 106","seaborgium"]}
+{"pd":"simpatria","gr":"n","en":["sympatry"]}
+{"pd":"singon line","gr":"n","en":["loxodrome","rhumb line"]}
+{"pd":"skandium","gr":"n","en":["scandium"]}
+{"pd":"slamistik suna","gr":"n","en":["hadith","Sunna","Sunnah"]}
+{"pd":"slamofobia","gr":"n","en":["Islamophobia"]}
+{"pd":"Soto","gr":"n","en":["Basutoland","Lesotho"]}
+{"pd":"spagul","gr":"n","en":["fleawort","ispaghula","psyllium"]}
+{"pd":"stibium","gr":"n","en":["antimony"]}
+{"pd":"strontium","gr":"n","en":["strontium"]}
+{"pd":"sulfid","gr":"n","en":["sulfide","sulphide"]}
+{"pd":"Surinam","gr":"n","en":["Surinam","Suriname"]}
+{"pd":"Tajikistan","gr":"n","en":["Tadjik","Tadzhik","Tadzhikistan","Tajik","Tajikistan"]}
+{"pd":"tantalium","gr":"n","en":["tantalum"]}
+{"pd":"telurium","gr":"n","en":["tellurium"]}
+{"pd":"tenesium","gr":"n","en":["tennessine"]}
+{"pd":"terbium","gr":"n","en":["terbium"]}
+{"pd":"tipolojia","gr":"n","en":["typology"]}
+{"pd":"tomografe","gr":"n","en":["tomograph"]}
+{"pd":"torium","gr":"n","en":["thorium"]}
+{"pd":"tukan","gr":"n","en":["toucan"]}
+{"pd":"tulium","gr":"n","en":["thulium"]}
+{"pd":"Turkmenistan","gr":"n","en":["Turkmen","Turkmenia","Turkmenistan","Turkomen"]}
+{"pd":"Tuvalu","gr":"n","en":["Tuvalu"]}
+{"pd":"uneformita","gr":"n","en":["uniformity","uniformness"]}
+{"pd":"unitalisme","gr":"n","en":["Unitarianism"]}
+{"pd":"vanadium","gr":"n","en":["vanadium"]}
+{"pd":"Vanuatu","gr":"n","en":["Vanuatu"]}
+{"pd":"yang gik","gr":"n","en":["anode"]}
+{"pd":"yang ion","gr":"n","en":["cation"]}
+{"pd":"yim gik","gr":"n","en":["cathode"]}
+{"pd":"yim ion","gr":"n","en":["anion"]}
+{"pd":"yuterbium","gr":"n","en":["ytterbium"]}
+{"pd":"yutrium","gr":"n","en":["yttrium"]}
+{"pd":"zirkonium","gr":"n","en":["zirconium"]}
+{"pd":"zugot","gr":"n","en":["fertilized ovum","zygote"]}

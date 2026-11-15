@@ -70,3 +70,14 @@ src/
   console.ts                 → installs window.lex
   tests → tests/             → vitest smoke tests of the ported behaviours
 ```
+
+
+## Pandunia support 
+
+`scripts/build-pd-en.js`
+
+This script creates the topics for Pandunia from Panlexia repo. 
+
+Run it with `npm run build:pd-en`
+
+To use a different output directory, pass it after --: `npm run build:pd-en -- some/dir`

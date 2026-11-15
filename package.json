@@ -9,7 +9,8 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "test": "vitest run",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "build:pd-en": "node scripts/build-pd-en.js src/data/datasets/pd"
   },
   "dependencies": {
     "dexie": "^4.4.7"

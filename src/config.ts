@@ -59,6 +59,23 @@ export const LANGUAGES: Record<string, LanguageConfig> = {
       'Adverbs': 'data/datasets/mi/mi-en-dic-adverbs.jsonl',
     },
   },
+    pd: {
+    code: 'pd',
+    name: 'Pandunia',
+    source: 'en',
+    topics: {
+      'Nouns': 'data/datasets/pd/pd-en-nouns.jsonl',
+      'Verbs': 'data/datasets/pd/pd-en-verbs.jsonl',
+      'Adjectives': 'data/datasets/pd/pd-en-adjectives.jsonl',
+      'Adverbs': 'data/datasets/pd/pd-en-adverbs.jsonl',
+      'Prepositions': 'data/datasets/pd/pd-en-prepositions.jsonl',
+      'Pronouns': 'data/datasets/pd/pd-en-pronouns.jsonl',
+      'Particles': 'data/datasets/pd/pd-en-particles.jsonl',
+      'Conjunctions': 'data/datasets/pd/pd-en-conjunctions.jsonl',
+      'Interjections': 'data/datasets/pd/pd-en-interjections.jsonl',
+      'Phrases': 'data/datasets/pd/pd-en-phrases.jsonl',
+    },
+  }
 };
 
 /** Looks up a language by ISO 639-1 code, or null when unsupported. */
